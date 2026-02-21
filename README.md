@@ -1,1 +1,1 @@
-# MedTap
+# MedTap: A clinical reference assistant for low-income clinics.
