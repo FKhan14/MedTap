@@ -4,7 +4,7 @@ import os
 
 BASE_URL = "https://api.fda.gov/drug/label.json"
 FIELDS_TO_KEEP = ["indications_and_usage","warnings","dosage_and_administration","active_ingredient","purpose","do_not_use","ask_doctor"]
-
+DRUG_LIST = ["ibuprofen","acetaminophen","naproxen","amoxicillin","azithromycin","ciprofloxacin","lisinopril","amlodipine","metoprolol","metformin","glipizide","sertraline","fluoxetine","cetirizine","albuterol","omeprazole","pantoprazole","simvastatin","atorvastatin","rosuvastatin"]
 def fetch_drug_label(drug_name, limit =10):
     params = {"search": f"openfda.brand_name:{drug_name}", "limit": limit}
     try:
@@ -26,9 +26,17 @@ def save_to_json(name,data):
         json.dump(data, f, indent=2)
         
         
+def collect_all_drugs():
+    for drug in DRUG_LIST:
+        print(f"Collecting data for {drug}...")
+        result = fetch_drug_label(drug)
+        if result and "results" in result:
+            single_drug = result["results"][0]
+            cleaned = extract_fields(single_drug)
+            save_to_json(drug, cleaned)
+            print(f"Data for {drug} saved successfully.")
+        else:
+            print(f"No data found for {drug}.")
+
 if __name__ == "__main__":
-    result = fetch_drug_label("ibuprofen")
-    single_drug = result["results"][0]
-    cleaned = extract_fields(single_drug)
-    save_to_json("ibuprofen", cleaned)
-    print(json.dumps(cleaned, indent=2))
+    collect_all_drugs()

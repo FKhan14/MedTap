@@ -15,3 +15,12 @@ well as created the initial file structure and downloaded dependencies.
 **What's next:**
 - Verify Python, PostgreSQL, pip
 - Start Phase 1: Data Collection
+
+
+## 2/22/2026 - Day 2
+
+**What I did today:**
+Today we set up the database connection and verified it
+
+**What's next:**
+- Start Phase 1: Data Collection
