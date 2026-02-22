@@ -17,8 +17,18 @@ def fetch_drug_label(drug_name, limit =10):
 def extract_fields(drug_result):
     return {field: drug_result.get(field) for field in FIELDS_TO_KEEP}
 
+def save_to_json(name,data):
+    folder = f"data/raw/openfda"
+    os.makedirs(folder, exist_ok=True)
+    
+    file_path = f"{folder}/{name}.json"
+    with open(file_path, "w") as f:
+        json.dump(data, f, indent=2)
+        
+        
 if __name__ == "__main__":
     result = fetch_drug_label("ibuprofen")
     single_drug = result["results"][0]
     cleaned = extract_fields(single_drug)
+    save_to_json("ibuprofen", cleaned)
     print(json.dumps(cleaned, indent=2))
