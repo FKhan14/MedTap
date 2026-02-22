@@ -1,0 +1,614 @@
+1. J Neurol. 2026 Feb 22;273(2):159. doi: 10.1007/s00415-026-13693-5.
+
+Evaluation of a multidisciplinary neurological rehabilitation program for the 
+post-COVID-19 condition.
+
+Egger M(1), Strobl R(2)(3), Vogelgesang L(1), Reitelbach J(1), Grill E(2)(3), 
+Jahn K(4)(5).
+
+Author information:
+(1)Department of Neurology, Schoen Clinic Bad Aibling, Research Group, 
+Kolbermoorer Str. 72, 8303, Bad Aibling, Germany.
+(2)German Center for Vertigo and Balance Disorders, LMU University Hospital, LMU 
+Munich, Munich, Germany.
+(3)Institute for Medical Information Processing, Biometry and Epidemiology, LMU 
+Munich, Munich, Germany.
+(4)German Center for Vertigo and Balance Disorders, LMU University Hospital, LMU 
+Munich, Munich, Germany. Klaus.jahn@med.uni-muenchen.de.
+(5)Department of Neurology, Schoen Clinic Bad Aibling, Research Group, 
+Kolbermoorer Str. 72, 8303, Bad Aibling, Germany. 
+Klaus.jahn@med.uni-muenchen.de.
+
+OBJECTIVE: To evaluate a multidisciplinary therapy program with a neurological 
+focus for individuals with post-COVID-19 condition, aiming to reduce symptom 
+burden and improve functioning.
+DESIGN: Non-experimental prospective before-after study.
+SUBJECTS/PATIENTS: Individuals diagnosed with post-COVID-19 condition, defined 
+as experiencing persistent signs and symptoms for more than 12 weeks after 
+initial SARS-CoV-2 infection.
+METHODS: We conducted a 2 week multidisciplinary rehabilitation program at the 
+Schoen Clinic Bad Aibling, Germany. The intervention included multi-professional 
+therapies. Assessments were conducted at six time points: baseline at the start 
+of the 2-week control period, pre- and post-intervention, and at 2, 8, and 
+24 weeks post-intervention. Mixed-effects regression models were used to analyze 
+changes over time. Outcome measures included health-related quality of life 
+(HRQoL; EQ-5D-5L), fatigue, anxiety, depression, symptom severity, breathing 
+difficulties, cognitive function, functional disability, and performance 
+measures.
+RESULTS: A total of 47 participants (60% female; mean age 49 years; range 21-80) 
+were enrolled, with a median of 220 days (Q1: 156-Q3: 376) since initial 
+infection. No significant improvement in HRQoL, grip strength, cognitive 
+function, walking capacity, or balance was observed during the intervention 
+compared to the control period. Fatigue, anxiety, depression, symptom severity, 
+functional disability, and dyspnea improved significantly.
+CONCLUSION: This study indicates beneficial effects of a 2 week 
+multidisciplinary therapy program on symptom burden and functional outcomes of 
+the post-COVID-19 condition. Further research including randomized controlled 
+trials is warranted.
+TRIAL REGISTRATION: German Clinical Trials Register, DRKS00029415. Registered 04 
+July, 2022. Retrospectively registered. 
+https://drks.de/search/en/trial/DRKS00029415.
+
+© 2026. The Author(s).
+
+DOI: 10.1007/s00415-026-13693-5
+PMID: 41723756 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Conflicts of interest: All the 
+authors have no relevant financial or non-financial interests to disclose. 
+Ethical approval: This study was performed in line with the principles of the 
+Declaration of Helsinki. The study was approved by the medical ethics committee 
+of the Ludwig Maximilian University Munich (project no. 22–0310). Consent to 
+participate: Informed consent was obtained from all individual participants 
+included in the study.
+
+
+2. Inquiry. 2026 Jan-Dec;63:469580261422596. doi: 10.1177/00469580261422596. Epub
+ 2026 Feb 21.
+
+Cancer-Related Fatigue, Psychological Symptoms, and Sleep Quality and 
+Influencing Factors in Cancer Patients Receiving Chemotherapy.
+
+Said NB(1), Alsayed A(1).
+
+Author information:
+(1)Faculty of Nursing, An Najah National University, Nablus, Palestine.
+
+Cancer-Related Fatigue, Psychological Symptoms (Anxiety and depression), and 
+poor sleep quality are prevalent among patients with cancer undergoing 
+chemotherapy. These psychological symptoms can significantly impair the overall 
+well-being and treatment adherence of patients. To examine cancer-related 
+fatigue, anxiety, depression, and sleep quality among patients receiving 
+chemotherapy, and to determine how these symptoms vary according to selected 
+demographic and clinical characteristics. A quantitative, cross-sectional study 
+was conducted at An Najah National University Hospital. A convenience sample of 
+150 cancer patients receiving chemotherapy was recruited. Among 150 cancer 
+patients receiving chemotherapy, fatigue was the most prevalent symptom 
+(24.93 ± 13.05), with higher levels reported by males compared to females, 
+t(147) = 2.49, P = .014, and by married patients (P < .001). Anxiety and 
+depression affected 69.3% and 67.1% of patients, respectively, with 25.2% 
+experiencing moderate to severe anxiety and 28.1% experiencing moderate to 
+severe depression. 52.7% of patients reported poor sleep quality. Fatigue was 
+strongly correlated with sleep quality (r = .644, P < .001) and moderately 
+correlated with anxiety (r = .390, P < .01) and depression (r = .372, P < .01). 
+Symptom severity varied significantly according to cancer stage (P < .01), type 
+(P < .05), duration (P < .01), income, and education (P < .05). The findings 
+underscore the critical need for comprehensive cancer care that addresses not 
+only the physical aspects of fatigue and sleep disturbances but also the 
+psychological impacts of anxiety and depression.
+
+DOI: 10.1177/00469580261422596
+PMID: 41723104 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Conflicting InterestsThe authors 
+declared no potential conflicts of interest with respect to the research, 
+authorship, and/or publication of this article.
+
+
+3. Complement Ther Med. 2026 Feb 19:103328. doi: 10.1016/j.ctim.2026.103328.
+Online  ahead of print.
+
+The anxiolytic effects of exercise: a systematic review and meta-analysis of 
+randomized controlled trials.
+
+Su H(1), Liang Y(2), Zhou R(2), Lv Y(3), He L(4), Yu L(5).
+
+Author information:
+(1)Beijing Key Laboratory of Sports Performance and Skill Assessment, Beijing 
+Sport University, Beijing, China; Department of Strength and Conditioning 
+Assessment and Monitoring, Beijing Sport University, Beijing, China.
+(2)Department of Strength and Conditioning Assessment and Monitoring, Beijing 
+Sport University, Beijing, China.
+(3)Beijing Key Laboratory of Sports Performance and Skill Assessment, Beijing 
+Sport University, Beijing, China; China Institute of Sport and Health Science, 
+Beijing Sport University, Beijing, China.
+(4)School of Sport Sciences, Beijing Sport University, Beijing, China. 
+Electronic address: lhe@bsu.edu.cn.
+(5)Beijing Key Laboratory of Sports Performance and Skill Assessment, Beijing 
+Sport University, Beijing, China; Department of Strength and Conditioning 
+Assessment and Monitoring, Beijing Sport University, Beijing, China. Electronic 
+address: yulaikang@126.com.
+
+OBJECTIVE: This study aimed to evaluate the anxiolytic effects of exercise in 
+individuals with high anxiety or diagnosed anxiety disorders and to identify 
+optimal exercise prescription parameters. A key methodological innovation of 
+this work is the application of a three-level meta-analytic model, which 
+accounts for effect-size dependency arising from multiple outcomes within 
+studies, thereby improving the robustness and precision of the pooled estimates.
+METHODS: A comprehensive literature search was conducted across five databases: 
+Embase, PubMed, Cochrane Library, Web of Science, and Scopus.
+INCLUSION CRITERIA: (1) randomized controlled trial (RCT) design; (2) outcomes 
+assessed using validated scales; (3) participants diagnosed with an anxiety 
+disorder or identified as high-anxiety through validated scales; and (4) 
+inclusion of both an intervention group and a control group, with the sole 
+distinction between them being the addition of exercise in the intervention 
+group. Analyses were performed using a three-level restricted maximum likelihood 
+random-effects model.
+RESULTS: Twenty-seven randomized controlled trials involving 1447 participants 
+were included. Exercise demonstrated a significant anxiolytic effect (Cohen's d 
+= -0.42, p < 0.01). Subgroup analysis indicated that comorbid chronic conditions 
+attenuated treatment efficacy (Cohen's d = -0.29, p < 0.01). Optimal outcomes 
+were observed with exercise programs lasting < 12 weeks, sessions lasting 
+45-60minutes, frequencies of > 3 times per week, and total weekly exercise 
+durations of ≥ 180minutes. In contrast, individuals without chronic conditions 
+showed more favorable results. The most beneficial exercise regimens for this 
+group included programs lasting < 12 weeks, sessions lasting > 60minutes, 
+frequencies of 3 times per week, and total weekly durations of > 180minutes.
+CONCLUSION: Exercise appears to be an effective non-pharmacological intervention 
+for alleviating anxiety symptoms. While chronic conditions may diminish the 
+magnitude of these benefits, tailored exercise prescriptions remain promising. 
+Nevertheless, given the heterogeneity of interventions and limited long-term 
+follow-up across included studies, further high-quality research is needed to 
+confirm the sustainability and generalizability of these findings.
+TRIAL REGISTRATION: The protocol was registered in PROSPERO with the 
+registration number CRD420251014897.
+
+Copyright © 2026. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.ctim.2026.103328
+PMID: 41722711
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare no conflicts of interest. Conflicts of interest The authors declare no 
+conflicts of interest.
+
+
+4. J Psychiatr Res. 2026 Feb 17;196:314-327. doi:
+10.1016/j.jpsychires.2026.02.015.  Online ahead of print.
+
+The role of IDO1-mediated Tryptophan/Kynurenine metabolism and its association 
+with estrogen level in PTSD within SPS mouse model.
+
+Zhang L(1), Wang FH(2), Wang XM(2), Zhang X(2), Yu XF(3), Bao YX(4).
+
+Author information:
+(1)Department of Pharmacy, Taizhou Central Hospital (Taizhou University 
+Hospital), Taizhou, 318000, China. Electronic address: zhangl7972@tzzxyy.com.
+(2)Department of Pharmacy, Taizhou Central Hospital (Taizhou University 
+Hospital), Taizhou, 318000, China.
+(3)Department of Pharmacy, Zhejiang Pharmaceutical University, Ningbo, 315000, 
+China. Electronic address: yuxf_2016@163.com.
+(4)Department of Pharmacy, Taizhou Central Hospital (Taizhou University 
+Hospital), Taizhou, 318000, China. Electronic address: baoyx9853@tzzxyy.com.
+
+Post-Traumatic Stress Disorder (PTSD) is a prevalent mental disorder emerging 
+after traumatic events, and it shows a higher incidence rate in women. Prior 
+research indicated that the overexpression of inflammatory factors can disrupt 
+the IDO1-mediated Tryptophan/Kynurenine (Try/Kyn) metabolism, leading to the 
+manifestation of psychiatric symptoms. This study aimed to verify the hypothesis 
+that IDO1-mediated Try/Kyn metabolism contributes to the behavior abnormalities 
+observed in PTSD using the Single Prolonged Stress (SPS) mice model. Results 
+showed that SPS induced anxiety-like behavior and fear extinction impairment in 
+mice, alongside increased hippocampal IDO1 levels, elevated Kyn/Try ratio, and 
+reduced serotonin (5-HT)/Try ratio; an IDO1 inhibitor reversed these 
+abnormalities, confirming hippocampal IDO1-mediated Try/Kyn pathway as the 
+mechanism for SPS-induced behavioral deficits. In female mice, ovariectomy 
+(OVX), which lowers estradiol (E2), exacerbated SPS-triggered symptoms and 
+hippocampal IDO1 upregulation, effects alleviated by exogenous E2. E2's benefits 
+were blocked by an ERβ antagonist, while an ERβ agonist relieved SPS-induced 
+behavioral deficits and IDO1 overexpression, indicating E2 regulates SPS-related 
+deficits by modulating IDO1 via ERβ. Further exploration revealed the E2-ERβ 
+axis may mitigate deficits in SPS-exposed females by inhibiting the 
+overexpression of NF-κB-mediated inflammatory factors (e.g., TNF-α, IL-6). In 
+male mice, E2 similarly alleviated SPS-induced behavioral deficits, hippocampal 
+IDO1 overexpression, and upregulated NF-κB/downstream inflammatory factors; E2's 
+function was reversed by an ERβ antagonist, confirming the E2-ERβ axis's 
+protective role against SPS in males too. In conclusion, IDO1 and ERβ play 
+crucial roles in the development of PTSD. Therapeutic agents targeting IDO1 
+and/or ERβ hold promise as potential candidates for the treatment of PTSD.
+
+Copyright © 2026. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.jpsychires.2026.02.015
+PMID: 41722427
+
+Conflict of interest statement: Declaration of competing interest All the 
+authors declare that they have no conflict of interest.
+
+
+5. Eur J Surg Oncol. 2026 Feb 18;52(4):111481. doi: 10.1016/j.ejso.2026.111481. 
+Online ahead of print.
+
+Patient reported outcomes after treatment for colon cancer - A nationwide study.
+
+Slørdahl KS(1), Balto A(2), Guren MG(3), Wibe A(4), Kørner H(5), Norderval S(6), 
+Gjelsvik YM(2), Myklebust TÅ(7), Larsen IK(8).
+
+Author information:
+(1)Department of Registration, Cancer Registry of Norway, Norwegian Institute of 
+Public Health, Norway; Department of Oncology, Oslo University Hospital, Oslo, 
+Norway.
+(2)Department of Registration, Cancer Registry of Norway, Norwegian Institute of 
+Public Health, Norway.
+(3)Department of Oncology, Oslo University Hospital, Oslo, Norway; Institute of 
+Clinical Medicine, Faculty of Medicine, University of Oslo, Oslo, Norway.
+(4)Institute of Clinical and Molecular Medicine, Norwegian University of Science 
+and Technology, Trondheim, Norway.
+(5)Department of Gastrointestinal Surgery, Stavanger University Hospital 
+Stavanger, Norway; Department of Clinical Medicine, University of Bergen, 
+Bergen, Norway.
+(6)Department of Gastrointestinal Surgery, University Hospital of North Norway, 
+Tromsø, Norway; Department of Clinical Medicine, Faculty of Health Science, UiT, 
+The Arctic University of Norway, Tromsø, Norway.
+(7)Department of Registration, Cancer Registry of Norway, Norwegian Institute of 
+Public Health, Norway; Department of Research and Innovation, Møre and Romsdal 
+Hospital Trust, Ålesund, Norway.
+(8)Department of Registration, Cancer Registry of Norway, Norwegian Institute of 
+Public Health, Norway. Electronic address: Inger.Kristin.Larsen@fhi.no.
+
+PURPOSE: Treatment of colon cancer (CC) may induce late side effects that impact 
+patients' quality of life. The aim of this study was to evaluate self-reported 
+health-related quality of life (HRQoL) one year after diagnosis of CC stage 
+I-III for patients treated with curative intent.
+METHODS: The study population included patients registered with a CC diagnosis 
+in the Cancer Registry of Norway in 2019-2020, ≥18 years, and who underwent 
+segmental colon resection, and a control group without colorectal cancer. They 
+participated in the study by completing a survey using validated questionnaires 
+(EORTC QLQ-C30/CR29/CIPN20 and Chronic pain scale).
+RESULTS: There were 1490 patients and 1693 controls eligible for analysis. 
+Patients had significantly lower functional scores than controls, but only 
+anxiety differed at a clinically relevant level (difference -10.2, 95% CI -12.0 
+to -8.4, p < 0.01). Oxaliplatin-based adjuvant chemotherapy was associated with 
+higher neuropathy scores and worse in patients receiving chemotherapy >3 months. 
+Adjuvant chemotherapy with 5-fluorouracil and oxaliplatin >3 months was 
+associated with lower scores for social function, body image, and anxiety. No 
+significant association was observed between adjuvant chemotherapy and fatigue. 
+Major chronic pain was reported by 177 (11.9%) patients, which impaired their 
+HRQoL across several domains.
+CONCLUSIONS: Overall, patients had lower functional scores than controls, with 
+anxiety being a significant burden. Oxaliplatin-based therapy induced 
+neuropathy, particularly in those treated for over three months, who also 
+reported increased anxiety, reduced body image and social functioning. One out 
+of ten patients had major chronic pain, associated with impaired HRQoL.
+
+Copyright © 2026 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.ejso.2026.111481
+PMID: 41722357
+
+Conflict of interest statement: Declaration of interest statement The authors 
+have no relevant financial or non-financial interests that could have appeared 
+to influence the work reported in this paper.
+
+
+6. Ann Am Thorac Soc. 2026 Feb 21:aaoag015. doi: 10.1093/annalsats/aaoag015.
+Online  ahead of print.
+
+Tele-delivered psychotherapeutic intervention for family members of patients in 
+intensive care-a non-randomized pilot study.
+
+Von Heymann A(1), Nissen ER(1)(2)(3), Ågård AS(4)(5), Egerod I(6), Kokla M(1), 
+Farver-Vestergaard I(7)(8), Prigerson HG(9), Lichtenthal WG(10)(11), Johansen 
+C(1), Zachariae R(2)(3), O'Toole MS(2).
+
+Author information:
+(1)Department of Oncology, Center for Cancer and Organ Diseases, Copenhagen 
+University Hospital, Copenhagen, Denmark.
+(2)Department of Psychology and Behavioral Sciences, Aarhus University, Aarhus, 
+Denmark.
+(3)Department of Oncology, Arhus university Hospital, Aarhus, Denmark.
+(4)Department of Intensive Care, Aarhus University Hospital, Aarhus, Denmark.
+(5)Department of Science in Nursing, Aarhus University, Denmark.
+(6)Department of Intensive Care, Center for Cancer and Organ Diseases, 
+Copenhagen University Hospital, Copenhagen, Denmark.
+(7)Department of Medicine, Lillebaelt Hospital, Vejle, Denmark.
+(8)Department of Regional Health Research, University of Southern Denmark, 
+Odense, Denmark.
+(9)Department of Radiology & Cornell Center for Research on End-of-Life Care, 
+Weill Cornell Medicine, New York, NY, United States.
+(10)University of Miami Miller School of Medicine, Miami, FL, United States.
+(11)Memorial Sloan Kettering Cancer Center, New York, NY, United States.
+
+RATIONALE: Family members of patients in intensive care units (ICU) experience 
+psychological distress both during and after the ICU stay. Yet, past 
+interventions are few and largely ineffective.
+OBJECTIVE: We developed a flexible, tele-delivered psychotherapeutic 
+intervention based on contemporary cognitive therapeutic methods and tested its 
+feasibility in a one-arm pilot study. Although evaluated in family members of 
+patients with COVID-19, the intervention was developed to be broadly applicable 
+to mental health problems in ICU family caregivers.
+METHODS: Adult family members of patients with COVID-19 in five ICUs across 
+Denmark received weekly sessions with clinical psychologists during the ICU stay 
+and on a needs basis for eight weeks post-discharge. The intervention manual 
+specified a catalog of treatment principles and methods from contemporary 
+cognitive therapies. Questionnaires evaluating peritraumatic distress, anxiety, 
+depression, stress, rumination, worry, and tolerance of uncertainty were 
+administered at pre-intervention, post-intervention, six-, and twelve-month 
+follow-up. Mixed-effects models estimated the change in mental health symptoms 
+over time. A subset of family members and psychologists completed in-depth 
+interviews post-intervention analyzed with thematic analysis.
+RESULTS: Of 43 eligible family members, 40 (93%) participated. Two withdrew 
+consent during the intervention. On average, family members received 6 sessions 
+(range: 0-15) over 9 to 118 days. Both the tele-delivery format and the 
+intervention methods were found feasible and acceptable by family members as 
+well as psychologists, and family members found the intervention beneficial in 
+validating and addressing their evolving needs and helping them manage distress. 
+Preliminary effects at post-intervention were large reductions in mental health 
+symptoms for peritraumatic distress (Hedges' g = -0.86, 95% confidence interval 
+(CI) = [-1.2 to -0.25]), anxiety (g = -2.46, [-2.36 to -1.51]), and depression 
+(g = -1.77, [-2.5 to -0.88]), also seen at follow-up, together with medium 
+improvements for perceived stress.
+CONCLUSIONS: This tele-based psychotherapeutic intervention for family members 
+of patients in ICUs was feasible and acceptable, and tele-delivered contemporary 
+cognitive therapies present a promising approach for reducing peritraumatic 
+distress, anxiety, and depression.
+TRIAL REGISTRATION: Clinicaltrials.gov (NCT04409821).
+
+© The Author(s) 2026. Published by Oxford University Press on behalf of the 
+American Thoracic Society. All rights reserved. For commercial re-use, please 
+contact reprints@oup.com for reprints and translation rights for reprints. All 
+other permissions can be obtained through our RightsLink service via the 
+Permissions link on the article page on our site—for further information please 
+contact journals.permissions@oup.com.
+
+DOI: 10.1093/annalsats/aaoag015
+PMID: 41721750
+
+
+7. Diabet Med. 2026 Feb 20:e70271. doi: 10.1111/dme.70271. Online ahead of print.
+
+How effective are CBT and CBT-based interventions in Type 1 and Type 2 diabetes? 
+An umbrella review.
+
+Press HS(1), Nicklas L(1).
+
+Author information:
+(1)School of Medicine, University of Dundee, Dundee, UK.
+
+AIMS: Significant evidence base supports cognitive behavioural therapy (CBT) for 
+diabetes. Large variations in practice make it difficult to assess the impact of 
+different types of delivery. This umbrella review aimed to synthesise evidence 
+on the effectiveness of CBT and CBT-based interventions for diabetes-related 
+distress, comorbid depressive symptoms, anxiety symptoms and HbA1c levels. A 
+secondary aim investigated whether effectiveness differs in CBT delivered by a 
+CBT therapist compared to CBT-based interventions that are delivered by 
+multidisciplinary staff.
+METHODS: Databases like CINAHL, MEDLINE, PsychINFO, PsychArticles and Cochrane 
+Library were searched for systematic reviews and meta-analyses between 2014 and 
+2023. Review quality was assessed using the Scottish Intercollegiate Guidelines 
+Network checklist. For the secondary aim, findings of randomised controlled 
+trials were distinguished within reviews.
+RESULTS: Eleven systematic reviews and meta-analyses were included. Four of the 
+reviews were rated as 'high'-quality reviews, five as 'acceptable' and two as 
+'low'-quality reviews. CBT-based interventions delivered by multidisciplinary 
+staff significantly reduced depressive symptoms, diabetes-related distress and 
+HbA1c levels. CBT therapy delivered by CBT therapists was associated with 
+significant reductions in diabetes-related distress, anxiety symptoms, 
+depressive symptoms and HbA1c levels.
+CONCLUSIONS: CBT and CBT-based interventions were similarly effective for 
+depressive symptoms and HbA1c levels. Anxiety symptoms only improved following 
+CBT delivered by CBT therapists, while diabetes-related distress reduced more 
+than for CBT-based interventions. Significant heterogeneity and variation in 
+quality in reviews mean that further research is required.
+
+© 2026 The Author(s). Diabetic Medicine published by John Wiley & Sons Ltd on 
+behalf of Diabetes UK.
+
+DOI: 10.1111/dme.70271
+PMID: 41721493
+
+
+8. Neuropsychopharmacology. 2026 Feb 20. doi: 10.1038/s41386-026-02365-7. Online 
+ahead of print.
+
+Task-guided accelerated cTBS simultaneously treats depression and social 
+dysfunction in patients with major depressive disorder: a randomized clinical 
+trial.
+
+Jin J(#)(1)(2), Wang Y(#)(1)(2), Wang P(1)(2), Qin Q(1)(2), Wang Z(1)(2), Jin 
+Y(3)(4), Chen X(1)(2), Feng Y(1)(2), Fitzgerald PB(5), Zeidman P(6), Zhou 
+Y(7)(8)(9), Wang G(10)(11).
+
+Author information:
+(1)National Clinical Research Center for Mental Disorders & National Center for 
+Mental Disorders, Beijing Anding Hospital, Capital Medical University, Beijing, 
+China.
+(2)Advanced Innovation Center for Human Brain Protection, Capital Medical 
+University, Beijing, China.
+(3)State Key Laboratory of Cognitive Science and Mental Health, Institute of 
+Psychology, Chinese Academy of Sciences, Beijing, China.
+(4)Department of Psychology, University of Chinese Academy of Sciences, Beijing, 
+China.
+(5)School of Medicine and Psychology, College of Science and Medicine, The 
+Australian National University, Canberra, Australia.
+(6)Wellcome Centre for Human Neuroimaging, University College London, London, 
+UK.
+(7)National Clinical Research Center for Mental Disorders & National Center for 
+Mental Disorders, Beijing Anding Hospital, Capital Medical University, Beijing, 
+China. zhouyuan@psych.ac.cn.
+(8)State Key Laboratory of Cognitive Science and Mental Health, Institute of 
+Psychology, Chinese Academy of Sciences, Beijing, China. zhouyuan@psych.ac.cn.
+(9)Department of Psychology, University of Chinese Academy of Sciences, Beijing, 
+China. zhouyuan@psych.ac.cn.
+(10)National Clinical Research Center for Mental Disorders & National Center for 
+Mental Disorders, Beijing Anding Hospital, Capital Medical University, Beijing, 
+China. gangwangdoc@ccmu.edu.cn.
+(11)Advanced Innovation Center for Human Brain Protection, Capital Medical 
+University, Beijing, China. gangwangdoc@ccmu.edu.cn.
+(#)Contributed equally
+
+Current antidepressant therapies predominately target symptom remission in major 
+depressive disorder (MDD) but often overlook social dysfunction, which is a 
+critical determinant of functional recovery. Individualized, accelerated 
+continuous theta burst stimulation (cTBS) targeting the right dorsolateral 
+prefrontal cortex (R.DLPFC) may offer a potential therapeutic approach for 
+concurrently improving clinical and psychosocial outcomes in MDD. In this 
+randomized, double-blind, sham-controlled trial, 70 patients with MDD were 
+randomly assigned to receive either active (n = 37) or sham (n = 33) accelerated 
+cTBS for 2 weeks. The treatments targeted individualized R.DLPFC sites, which 
+were identified by task-evoked brain activation during a social interactive task 
+(Ultimatum Game, UG). Depressive and anxiety symptoms, general social 
+functioning, UG-derived behavioral and computational modeling indices (e.g., 
+learning rates), and effective connectivity in social processing networks were 
+assessed pre- and post-treatment. Active accelerated cTBS significantly 
+outperformed sham stimulation in reducing depressive and anxiety symptoms and 
+improving general social functioning (all ps < 0.001). The active group also 
+demonstrated enhanced cooperation behavior (p = 0.002) and increased learning 
+rates (89% HDI: [0.01, 0.21]). And the active group exhibited increased 
+effective connectivity from the right insula to the R.DLPFC and stable effective 
+connectivity from the anterior cingulate cortex (ACC) to the left insula after 
+treatment, which was different from the sham group (Pp > 0.95). No severe 
+adverse events occurred. Individualized, accelerated cTBS targeting task-evoked 
+activation in the R.DLPFC safely and effectively improves clinical symptoms and 
+social dysfunction in MDD. Altered effective connectivity among the DLPFC, 
+insula and ACC may provide mechanistic insights into its therapeutic effects. 
+Trial Registration: chictr.org.cn; ChiCTR2300068273.
+
+© 2026. The Author(s).
+
+DOI: 10.1038/s41386-026-02365-7
+PMID: 41721017
+
+Conflict of interest statement: Competing interests: In the last 3 years, PBF 
+has received equipment for research from Neurosoft and Nexstim. He has served on 
+a scientific advisory board for Magstim and received speaker fees from Otsuka. 
+He has also acted as a founder and board member for TMS Clinics Australia and 
+Resonance Therapeutics. Other authors declare that they have no known competing 
+financial interests or personal relationships that could have appeared to 
+influence the work reported in this paper. This manuscript is original, and none 
+of the materials in this paper has been previously published or are under 
+consideration for publication elsewhere. All the listed authors have reviewed 
+and approved the content.
+
+
+9. J Natl Med Assoc. 2026 Feb 19:S0027-9684(26)00023-4. doi: 
+10.1016/j.jnma.2026.01.013. Online ahead of print.
+
+Prevalence of psychiatric disorders in foster care adolescent populations.
+
+Koroma N(1), Tyson T(1), Karodeh N(1), Peddireddy S(1), Elkomi R(2), Deverapalli 
+M(3), Ahmed K(3), Bisrat M(3), Zinabu S(3), Michael M(4).
+
+Author information:
+(1)Howard University College of Medicine, Washington, DC USA.
+(2)Department of Internal Medicine, Howard University, Washington, DC, USA. 
+Electronic address: Rawan.elkomi@gmail.com.
+(3)Department of Internal Medicine, Howard University, Washington, DC, USA.
+(4)Department of Internal Medicine, Howard University, Washington, DC, USA; 
+Department of Internal Medicine, University of Maryland School of Medicine, 
+Baltimore, USA.
+
+BACKGROUND: Children in foster care and institutional settings experience 
+disproportionately high rates of mental health disorders, yet large-scale data 
+on psychiatric comorbidities in this population remain limited.
+OBJECTIVE: To examine the prevalence and patterns of psychiatric diagnoses 
+within one year of placement in foster care or institutional care, with 
+attention to demographic disparities and comorbidity burden.
+METHODS: This retrospective cohort study used de-identified electronic health 
+record data from the TriNetX network, identifying U.S. children placed in foster 
+or institutional care between 2003 and 2023 via ICD-10-CM codes. The final 
+sample included 95,764 children after exclusions. Demographic characteristics 
+and psychiatric diagnoses were analyzed descriptively, and comorbidity patterns 
+were assessed by co-occurrence of two or more disorders.
+RESULTS: The mean age at placement was 6.62 years; 47,911 (50.02%) were male, 
+46,484 (48.57%) female, and 1369 (1.41%) of unknown gender. Black or African 
+American children comprised 28,876 (30.16%) of the cohort, exceeding their 
+proportion in the general U.S. child population. Within one year of placement, 
+53,627 (56%) had at least one psychiatric diagnosis, and 28,729 (30%) had two or 
+more. Behavioral and emotional disorders were most prevalent (31,602; 33%), with 
+attention-deficit/hyperactivity disorder affecting 20,110 (21%) and conduct 
+disorder 7661 (8%). Anxiety disorders occurred in 23,941 (25%), including 
+post-traumatic stress disorder in 11,492 (12%) and generalized anxiety disorder 
+in 5746 (6%). Mood disorders affected 14,365 (15%), developmental disorders 
+13,407 (14%), and substance use disorders 5746 (6%), primarily nicotine 
+dependence (2873; 3%) and cannabis use disorder (1915; 2%). Common 
+co-occurrences included ADHD with anxiety disorders in 11,492 (12%) and PTSD 
+with mood disorders in 7661 (8%).
+CONCLUSIONS: Psychiatric morbidity is common and complex among children entering 
+foster or institutional care, underscoring the need for early, trauma-informed, 
+and culturally responsive mental health interventions. High co-occurrences rates 
+and persistent racial disparities highlight the urgency of coordinated, 
+equity-focused approaches to assessment and treatment in child welfare systems.
+
+Copyright © 2026 National Medical Association. Published by Elsevier Inc. All 
+rights reserved.
+
+DOI: 10.1016/j.jnma.2026.01.013
+PMID: 41720711
+
+
+10. J Psychosom Res. 2026 Feb 16;204:112588. doi:
+10.1016/j.jpsychores.2026.112588.  Online ahead of print.
+
+Cancer as loss of control: The extent of perceived control and its relevance for 
+mental distress in cancer patients - A cross-sectional comparative study.
+
+Hirschmiller J(1), Schwinn T(2), Wiltink J(3), Zwerenz PDR(2), Franke GH(4), 
+Beutel ME(2), Brähler E(5), Ernst M(6).
+
+Author information:
+(1)Department of Psychosomatic Medicine and Psychotherapy, University Medical 
+Center of the Johannes Gutenberg-University Mainz, Mainz, Germany. Electronic 
+address: Judith.hirschmiller@unimedizin-mainz.de.
+(2)Department of Psychosomatic Medicine and Psychotherapy, University Medical 
+Center of the Johannes Gutenberg-University Mainz, Mainz, Germany.
+(3)Department of Psychosomatic Medicine and Psychotherapy, University Medical 
+Center of the Johannes Gutenberg-University Mainz, Mainz, Germany; University 
+Cancer Center Mainz (UCT), University Medical Center of the Johannes 
+Gutenberg-University Mainz, Mainz, Germany.
+(4)Psychology of Rehabilitation, University of Applied Sciences Magdeburg and 
+Stendal, Magdeburg, Germany.
+(5)Department of Psychosomatic Medicine and Psychotherapy, University Medical 
+Center of the Johannes Gutenberg-University Mainz, Mainz, Germany; Clinic and 
+Polyclinic for Psychosomatic Medicine and Psychotherapy, Rostock University 
+Medical Center, Rostock, Germany.
+(6)Department of Psychosomatic Medicine and Psychotherapy, University Medical 
+Center of the Johannes Gutenberg-University Mainz, Mainz, Germany; Department of 
+Clinical Psychology, Psychotherapy and Psychoanalysis, Institute of Psychology, 
+University of Klagenfurt, Klagenfurt am Wörthersee, Austria.
+
+OBJECTIVE: Cancer is often described as a loss of control. The somatic symptoms 
+and the strict treatment may limit an individual's ability to adapt 
+environmental factors (e.g., career goals, social life) to their own needs 
+(i.e., limited primary control). Facilitating one's individual values and needs 
+to the cancer-related circumstances (i.e., secondary control) thus may be 
+central in maintaining mental health. The current work aims to investigate the 
+roles of primary and secondary controls for mental health in individuals with 
+cancer and compare it to the general population.
+METHODS: The study included 618 cancer patients and 2513 individuals 
+representing the German population. Sociodemographic and disease-related 
+variables, primary and secondary control (PCSS-6), anxiety (GAD-2) and 
+depressive symptoms (PHQ-2), and suicidal ideation (single items of PHQ9/SCL-90) 
+were assessed. (Logistic) regression analyses were conducted to examine the 
+independent and interactive role of primary and secondary control on mental 
+health outcomes for the combined and the separate samples.
+RESULTS: Cancer patients reported elevated psychological burden and increased 
+secondary control. Primary and secondary control were independently associated 
+with all mental health outcomes in cancer patients and the general population. 
+Within cancer patients, primary controls' protective role was weaker for 
+suicidal ideation compared to the general population. Additionally, secondary 
+control reinforced the link between primary control and depressive symptoms, but 
+only in cancer patients.
+CONCLUSION: While both primary and secondary control serve as independent 
+protective factors for mental health, both control strategies may function 
+differently in the context of cancer regarding depressive symptoms and suicidal 
+ideation.
+
+Copyright © 2026 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jpsychores.2026.112588
+PMID: 41719713
+
+Conflict of interest statement: Declaration of competing interest The authors 
+have no competing interest to report. The work is part of the first author's 
+dissertation.

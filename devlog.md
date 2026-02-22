@@ -20,7 +20,11 @@ well as created the initial file structure and downloaded dependencies.
 ## 2/22/2026 - Day 2
 
 **What I did today:**
-Today we set up the database connection and verified it
+Completed part of Phase 1:
+- makde openFDA fetcher -20 drugs saved
+- pubmed search working
+- pubmed abstract fetching working
 
 **What's next:**
-- Start Phase 1: Data Collection
+- save pubmed data locally
+- bulk pubmed collection by condition

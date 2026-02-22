@@ -1,0 +1,521 @@
+1. J Pediatr Gastroenterol Nutr. 2026 Feb 21. doi: 10.1002/jpn3.70368. Online
+ahead  of print.
+
+The pharmacokinetics and safety of vonoprazan in adolescents and children with 
+gastroesophageal reflux disease.
+
+Mulford DJ(1), Gremse DA(2), Chang YM(1), Leifke E(1), Wagner T(3), Facius A(3), 
+Witt G(1).
+
+Author information:
+(1)Phathom Pharmaceuticals, Florham Park, New Jersey, USA.
+(2)Department of Pediatrics, University of South Alabama, Mobile, Alabama, USA.
+(3)thinkQ2 AG, Baar, Switzerland.
+
+OBJECTIVES: Vonoprazan, a potassium-competitive acid blocker, provides more 
+rapid, potent, and durable elevations in gastric pH than proton pump inhibitors 
+in adults and may be a treatment option for adolescents and children with 
+gastroesophageal reflux disease (GERD). The pharmacokinetics and safety of 
+vonoprazan in pediatric subjects (6-17 years) with symptomatic GERD were 
+evaluated in two clinical studies.
+METHODS: Forty-two subjects were randomized to vonoprazan 10 or 20 mg once daily 
+for 14 days. Plasma vonoprazan concentrations were analyzed employing a 
+two-compartment population pharmacokinetic model developed using adult data. 
+Individual estimates of maximum concentration at steady state (Cmax,SS) and area 
+under the drug concentration-time curve during the dosing interval τ at steady 
+state (AUCτ,SS) were calculated. Individual apparent oral clearance (CL/F) and 
+central volume of distribution (Vc/F) were calculated from the model-based 
+estimates. The effect on GERD symptoms and their severity was qualitatively 
+assessed.
+RESULTS: Model-based analyses showed that exposures (AUCτ,ss) of vonoprazan in 
+pediatric subjects (6-17 years) were nearly identical to adult exposures. 
+Model-based exposure estimates from pediatric subjects were also nearly 
+identical to noncompartmental exposure estimates from adults in other studies 
+for both vonoprazan doses. Subjects reported improvement in GERD symptoms, 
+regardless of vonoprazan dosage. There were six treatment-emergent adverse 
+events, one of which was related to the study drug; none were serious, nor 
+resulted in treatment discontinuation.
+CONCLUSIONS: Exposures of vonoprazan in adolescents and children were nearly 
+identical to exposures observed in adults, confirming the appropriateness of 
+vonoprazan 10 and 20 mg doses in a pediatric population.
+
+© 2026 Phathom Pharmaceuticals, Inc. Journal of Pediatric Gastroenterology and 
+Nutrition published by Wiley Periodicals LLC on behalf of European Society for 
+Pediatric Gastroenterology, Hepatology, and Nutrition and North American Society 
+for Pediatric Gastroenterology, Hepatology, and Nutrition.
+
+DOI: 10.1002/jpn3.70368
+PMID: 41721637
+
+
+2. Obes Surg. 2026 Feb 18. doi: 10.1007/s11695-026-08526-3. Online ahead of
+print.
+
+Combining Transoral Incisionless Fundoplication and Endoscopic Sleeve 
+Gastroplasty (F-ESG): An Endoscopic Approach to Treat Pathologic 
+Gastroesophageal Reflux in Obesity.
+
+Alkhatry M(1), Samaan J(2), Abu Dayyeh B(3).
+
+Author information:
+(1)Department of Gastroenterology, Obaidullah Hospital, Emirates Health 
+Services, Ministry of Health, Ras Al Khaimah, United Arab Emirates.
+(2)Karsh Division of Gastroenterology and Hepatology, Cedars-Sinai Medical 
+Center, Los Angeles, United States.
+(3)Karsh Division of Gastroenterology and Hepatology, Cedars-Sinai Medical 
+Center, Los Angeles, United States. Barham.AbuDayyeh@cshs.org.
+
+BACKGROUND AND AIMS: Obesity-related Gastroesophageal Reflux Disease (GERD) 
+presents a significant clinical challenge, limited by the effectiveness of 
+current treatments. Excess weight impairs the repair of the anti-reflux barrier, 
+and conventional obesity treatments may adversely affect anti-reflux physiology. 
+This study systematically evaluates a modular endoscopic technique that combines 
+Transoral Incisionless Fundoplication (TIF) with Endoscopic Sleeve Gastroplasty 
+(ESG) simultaneously (F-ESG), offering a synergistic solution to both GERD and 
+obesity.
+METHODS: This single-center pilot study enrolled adults with objectively 
+confirmed pathologic GERD and incomplete symptomatic response to proton pump 
+inhibitor therapy. Participants underwent the combined F-ESG procedure with 
+standardized dietary and behavioral counseling. Outcomes were assessed at 
+baseline, 6 months, and 12 months, including percent total weight loss (%TWL), 
+GERD Health-Related Quality of Life (HRQL), Reflux Symptom Index (RSI), and 
+DeMeester score (DMS) obtained from 48-hour pH monitoring.
+RESULTS: Eight participants (mean age 39 ± 6.4 years; 75% female; mean BMI 
+34.5 ± 3.7 kg/m²) were included. Mean %TWL was 13.1% at 6 months and 15.2% at 12 
+months. GERD HRQL improved from 26.4 at baseline to 8.3 at 6 months and 8.5 at 
+12 months (p < 0.01). RSI and DMS also demonstrated significant reductions. By 
+12 months, all participants had discontinued PPI therapy, and 7 of 8 achieved a 
+normalized DeMeester score.
+CONCLUSIONS: In this single-center pilot study, same-session F-ESG was feasible 
+and safe, with improvements in subjective and objective GERD metrics and weight 
+loss through 12 months. Larger multicenter comparative studies are warranted to 
+evaluate efficacy and durability.
+
+Publisher: • F-ESG was feasible and safe in patients with obesity and medically 
+refractory GERD.• F-ESG improved subjective and objective GERD and achieved 
+meaningful weight loss.• These pilot findings support further multicenter 
+studies of durability and efficacy.
+
+© 2026. The Author(s).
+
+DOI: 10.1007/s11695-026-08526-3
+PMID: 41708972
+
+Conflict of interest statement: Declarations. Ethical Approval: All procedures 
+performed in studies involving human participants were in accordance with the 
+ethical standards of the institutional and/or national research committee and 
+with the 1964 Helsinki declaration and its later amendments or comparable 
+ethical standards. Informed Consent: Informed consent was obtained from all 
+individual participants included in the study. Competing interests: Maryam Al 
+Khatry declares that they have no conflict of interest. Jamil S. Samaan declares 
+that they have no conflict of interest. Barham Abu Dayyeh reports the following 
+potential conflicts of interest: Consultant for Boston Scientific, Medtronic, 
+and Olympus. Research support from Merit Medical.
+
+
+3. J Laparoendosc Adv Surg Tech A. 2026 Feb;36(2):96-99. doi: 
+10.1177/10926429251411134. Epub 2026 Jan 13.
+
+Cardiopexy Using the Round Ligament (Rampal Technique): An Alternative to the 
+Gastric Bypass for Severe Reflux after Sleeve Gastrectomy.
+
+Coisy M(1), Sebbag H(2), Nedelcu M(3)(4).
+
+Author information:
+(1)Hôpital National D'instruction Des Armées Sainte Anne, Toulon, France.
+(2)Hôpital Privé de Provence, Aix en Provence, France.
+(3)ELSAN, Clinique Bouchard, Marseille, France.
+(4)ELSAN, Clinique Cap d'Or, Toulon, France.
+
+BACKGROUND: Severe gastroesophageal reflux disease (GERD) following sleeve 
+gastrectomy (SG) remains a major therapeutic challenge in bariatric surgery. The 
+gold-standard surgical approach is represented by the conversion to Roux-en-Y 
+gastric bypass (RYGB), which carries a significant risk of long-term 
+complication rate. The present study evaluates the efficacy and safety of an 
+alternative procedure-the Round Ligament Cardiopexy (Rampal Technique, RLC)-in 
+patients with severe, invalidating reflux following SG.
+METHODS: This is a single-center, retrospective study reviewing all patients who 
+underwent Rampal cardiopexy for severe reflux after SG between June 2020 and 
+October 2024. Demographic data, clinical characteristics, pre- and postoperative 
+findings, and quality-of-life outcomes (Reflux-Qual® Simplified, RQS®) were 
+collected. The primary endpoint was improvement in reflux and regurgitation 
+symptoms; secondary endpoints included morbidity and mortality.
+RESULTS: Six female patients (mean age: 40.8 ± 15.7 years) were included, with a 
+mean interval of 6 ± 3 years between SG and CR. All procedures were completed 
+laparoscopically. A significant improvement in reflux symptoms was observed 
+postoperatively (P = .02), with complete resolution of regurgitations and marked 
+reduction of acid reflux. RQS® scores improved from 21 ± 4.6 to 15.7 ± 7.5 (P = 
+.52). No mortality occurred. Early morbidity was 33% (two transient dysphagias), 
+and late morbidity was 17% (one stricture requiring dilation).
+CONCLUSION: The Rampal cardiopexy could represent a safe, effective, and 
+minimally morbid alternative to conversion to RYGB for refractory reflux 
+following SG. Additional further evaluation in larger, prospective studies is 
+needed to confirm its long-term benefits. This technique should be better known 
+among bariatric surgeons to expand the therapeutic options for managing 
+post-sleeve GERD.
+
+DOI: 10.1177/10926429251411134
+PMID: 41705692 [Indexed for MEDLINE]
+
+Conflict of interest statement: Author Disclosure StatementNo competing 
+financial interests exist.
+
+
+4. J Laparoendosc Adv Surg Tech A. 2026 Feb;36(2):105-108. doi: 
+10.1177/10926429251413027. Epub 2026 Jan 9.
+
+Metabolic Reverse Sleeve: Preliminary Results from the First 10 Cases.
+
+Adala M(1), Abujamra S(2), Sanou A(3), Radhia BB(1), Adala A(1), Dahmen H(1)(4), 
+Dhouib W(5), Nedelcu M(6)(7).
+
+Author information:
+(1)Clinique El Manar, Tunis, Tunisia.
+(2)Almergib University, Alkhoms, Libya.
+(3)Service de chirurgie générale, Centre Hospitalier Universitaire de 
+Tengandogo, Ouagadougou, Burkina Faso.
+(4)Centre de santé de base, Groupement Tunis Sud, Tunis, Tunisia.
+(5)Service de médecine préventive et épidémiologie, CHU Fattouma Bourguiba, 
+Monastir, Tunisia.
+(6)ELSAN, Clinique Bouchard, Marseille, France.
+(7)ELSAN, Clinique Cap d'Or, Toulon, France.
+
+BACKGROUND: Laparoscopic sleeve gastrectomy and Roux-en-Y gastric bypass (RYGB) 
+are effective bariatric procedures but are associated with long-term 
+complications, including gastroesophageal reflux and marginal ulcers. The 
+metabolic reversible sleeve (MRS) is a novel, reversible procedure designed to 
+preserve gastric anatomy while providing metabolic benefits. The aim of the 
+current article is to report the safety outcomes of the first 10 consecutive 
+patients undergoing MRS.
+METHODS: Preoperative evaluation included nutritional, psychiatric, and 
+radiological assessments. The operative technique involved laparoscopic gastric 
+bipartition and jejunal bypass, preserving the stomach. Perioperative management 
+followed a standardized protocol. Safety outcomes, including intraoperative 
+complications, postoperative morbidity, and early readmissions, were recorded.
+RESULTS: Ten patients (5 females, 5 males; mean BMI: 50.74 kg/m2) underwent MRS. 
+All procedures were completed laparoscopically without conversion. Operative 
+time averaged 159 ± 31 minutes. There were no intraoperative complications. 
+Postoperative recovery was uneventful in all patients: no anastomotic leaks, 
+bleeding, or need for reoperation occurred. All patients were discharged between 
+postoperative day 2 and 3. Early postoperative laboratory values (hemoglobin and 
+C Reactive protein (CRP)) were within expected ranges (mean of hemoglobin = 13.3 
+± 1.0 g/dL, mean of CRP = 90.4 ± 36.9 mg/L). Mild, transient nausea occurred in 
+2 patients and resolved spontaneously.
+CONCLUSION: In this initial series, MRS appears to be a safe and feasible 
+bariatric procedure, with no major perioperative complications. Larger studies 
+with long-term follow-up are required to confirm safety and efficacy.
+
+DOI: 10.1177/10926429251413027
+PMID: 41705689 [Indexed for MEDLINE]
+
+
+5. Dis Esophagus. 2026 Jan 9;39(1):doag011. doi: 10.1093/dote/doag011.
+
+Improvement of nighttime gastroesophageal reflux symptoms with sleep positional 
+therapy using a smartwatch app.
+
+Wessels EM(1)(2), Masclee GMC(1)(2), Bredenoord AJ(1)(2).
+
+Author information:
+(1)Department of Gastroenterology & Hepatology, Amsterdam Gastroenterology and 
+Metabolism, University Medical Centers Amsterdam, Amsterdam, The Netherlands.
+(2)Amsterdam Gastroenterology, Endocrinology & Metabolism, Amsterdam, The 
+Netherlands.
+
+Nighttime gastroesophageal reflux symptoms affect sleep quality and daytime 
+functioning. The aim of this study is to investigate if sleep positional 
+therapy, using a smartwatch app, can reduce nighttime gastroesophageal reflux 
+symptoms by training patients to avoid sleeping in right lateral decubitus 
+position. Patients with nighttime gastroesophageal reflux symptoms were 
+included. During a two-week treatment period a smartwatch app was used that was 
+designed to vibrate when the subject is lying in right lateral decubitus 
+position, prompting patients to change their sleeping position. Symptoms and 
+sleep position were measured at baseline, during and after the treatment period. 
+Primary outcome was a change in total nighttime gastroesophageal reflux symptoms 
+measured by the Nocturnal Gastroesophageal Reflux Disease Symptom Severity and 
+Impact Questionnaire (N-GSSIQ). In total 18 patients with nighttime 
+gastroesophageal reflux symptoms were included (mean age 51 years; 66,7% 
+female). Sleep positional therapy reduced gastroesophageal reflux symptoms 
+(N-GSSIQ score) significantly (39.3 to 24.1; P = 0.003). After sleep positional 
+therapy patients were sleeping less in right lateral decubitus position (31.8% 
+vs. 8.1%; P = 0.002) and more in left lateral decubitus position compared to 
+baseline (39.9% vs. 61.3%; P = 0.002). Patients reported more reflux-free nights 
+and less nights with poor sleep quality after sleep positional therapy (5.0 vs. 
+10.2; P < 0.001 and 6.0 vs. 2.0; P < 0.001). Sleep positional therapy by a 
+smartwatch app stimulates patients to avoid sleeping in right lateral decubitus 
+position, thereby alleviating nighttime gastroesophageal reflux symptoms 
+improving the number of reflux-free nights.
+
+© The Author(s) 2026. Published by Oxford University Press on behalf of the 
+International Society for Diseases of the Esophagus.
+
+DOI: 10.1093/dote/doag011
+PMID: 41697877 [Indexed for MEDLINE]
+
+
+6. World J Gastrointest Surg. 2026 Jan 27;18(1):114164. doi: 
+10.4240/wjgs.v18.i1.114164.
+
+Analysis of quality of life and reflux oesophagitis following Billroth II and 
+Roux-en-Y gastrointestinal reconstruction for gastric cancer.
+
+Duan XX(1), Yu X(1), Gan J(2).
+
+Author information:
+(1)General Surgery Center, Jiujiang City Key Laboratory of Cell Therapy, 
+Jiujiang No. 1 People's Hospital, Jiujiang 332000, Jiangxi Province, China.
+(2)General Surgery Center, Jiujiang City Key Laboratory of Cell Therapy, 
+Jiujiang No. 1 People's Hospital, Jiujiang 332000, Jiangxi Province, China. 
+gj19863419@163.com.
+
+BACKGROUND: The choice between Billroth II and Roux-en-Y reconstruction after 
+radical gastrectomy for gastric cancer (GC) affects the occurrence of reflux and 
+the quality of life (QoL) in patients.
+AIM: To investigate the QoL and reflux oesophagitis incidence in patients who 
+underwent Billroth II or Roux-en-Y gastrointestinal reconstruction after radical 
+gastrectomy for GC.
+METHODS: One hundred patients with GC who underwent radical resection at our 
+hospital between January 2023 and December 2024 were enrolled. The patients were 
+divided into two groups based on the postoperative gastrointestinal 
+reconstruction technique: The Billroth II group and the Roux-en-Y group, 
+comprising 50 patients each. The incidence of gastroesophageal reflux within two 
+weeks postoperatively was compared between the groups, including 24-hour reflux 
+episodes, frequency of reflux episodes lasting > 5 minutes, and maximum reflux 
+duration. The reflux symptom scores were measured. Nutritional indicators, 
+including serum albumin (ALB), prealbumin (PA), and haemoglobin (Hb), were 
+assessed 4 and 8 weeks postoperatively. The QoL was evaluated using the QLQ-C30 
+questionnaire. The incidence of reflux oesophagitis was monitored at 3 months of 
+follow-up.
+RESULTS: No significant differences were observed between the groups in terms of 
+baseline clinical characteristics (P > 0.05). At 2 weeks postoperatively, the 
+Roux-en-Y group exhibited significantly lower 24-hour reflux episodes, episodes 
+lasting > 5 minutes, and maximum reflux duration than the Billroth II group (P < 
+0.05). The Roux-en-Y group exhibited significantly lower reflux symptom scores, 
+including epigastric burning, acid regurgitation, upper abdominal distension, 
+and upper abdominal pain, than the Billroth II group (P < 0.05). No significant 
+differences were observed in the peripheral blood ALB, PA, or Hb levels at 4 and 
+8 weeks postoperatively between the two groups (P > 0.05). The QLQ-C30 scores at 
+4 and 8 weeks postoperatively were significantly higher in the Roux-en-Y group 
+than in the Billroth II group (P < 0.05). At the 3-month postoperative 
+follow-up, the incidence of reflux oesophagitis was 4.0% in the Roux-en-Y group, 
+significantly lower than the 16.0% observed in the Billroth II group (P < 0.05).
+CONCLUSION: Among patients with GC undergoing gastrointestinal reconstruction, 
+Roux-en-Y procedures resulted in fewer cases of gastroesophageal reflux and 
+milder symptoms than Billroth II procedures. Nutritional status was comparable 
+postoperatively between the two reconstruction techniques. However, the former 
+significantly affects the patients' QoL less favourably and exhibits a lower 
+incidence of reflux oesophagitis, demonstrating considerable clinical 
+significance.
+
+©The Author(s) 2026. Published by Baishideng Publishing Group Inc. All rights 
+reserved.
+
+DOI: 10.4240/wjgs.v18.i1.114164
+PMCID: PMC12898275
+PMID: 41695870
+
+Conflict of interest statement: Conflict-of-interest statement: The authors 
+declare no conflicts of interest.
+
+
+7. World J Gastroenterol. 2026 Feb 14;32(6):114600. doi:
+10.3748/wjg.v32.i6.114600.
+
+Effects of bariatric surgery on obesity associated gastroesophageal reflux 
+disease: Insights from a systematic review and network meta-analysis.
+
+Xing Y(1), Yan WM(1), Bai RX(2).
+
+Author information:
+(1)Department of General Surgery, Beijing Tiantan Hospital, Capital Medical 
+University, Beijing 100070, China.
+(2)Department of General Surgery, Beijing Tiantan Hospital, Capital Medical 
+University, Beijing 100070, China. brx5168@163.com.
+
+BACKGROUND: Obesity is a global epidemic frequently associated with 
+gastroesophageal reflux disease (GERD). Metabolic and bariatric surgery (MBS) is 
+the most effective treatment for weight reduction in patients with obesity, with 
+the most commonly performed procedures being sleeve gastrectomy (SG), Roux-en-Y 
+gastric bypass (RYGB), and one-anastomosis gastric bypass (OAGB). Many recent 
+studies focused on determining the best procedure for patients with obesity and 
+GERD; however, results from these studies vary, and the optimal procedure 
+remains uncertain.
+AIM: To compare the effects of MBSs - SG, RYGB, and OAGB - and their 
+combinations with antireflux procedures on weight loss and GERD outcomes.
+METHODS: A systematic search was performed to identify randomized controlled 
+trials evaluating MBS in patients with obesity and GERD. A network meta-analysis 
+was conducted to estimate the relative effectiveness of different procedures on 
+body mass index reduction, percent excess weight loss, GERD remission, GERD 
+onset, postoperative proton pump inhibitor use, esophagitis, and complication 
+rates.
+RESULTS: Sixteen randomized controlled trials including SG, RYGB, OAGB and their 
+combined procedures (i.e., SGantiflux and OAGBantiflux), were analyzed. 
+OAGBantiflux showed the highest body mass index reduction, and OAGB and RYGB had 
+similar efficacies. In terms of percent excess weight loss, OAGB and RYGB ranked 
+higher than other MBSs, whereas SGantiflux was the least effective. RYGB had the 
+highest probability of GERD remission, followed by SG, SGantiflux, OAGB, and 
+OAGBantiflux. SGantiflux showed the highest probability of the postoperative 
+GERD onset, while SG was most likely to require postoperative proton pump 
+inhibitor use and cause esophagitis. SGantiflux also demonstrated the highest 
+complication rate, whereas OAGBantiflux was associated with the lowest, with 
+OAGB, RYGB, and SG yielding intermediate rates in a descending order.
+CONCLUSION: RYGB and OAGB were more effective than SG in patients with obesity 
+and GERD, and addition of antireflux procedures to MBS did not improve GERD 
+outcome.
+
+©The Author(s) 2026. Published by Baishideng Publishing Group Inc. All rights 
+reserved.
+
+DOI: 10.3748/wjg.v32.i6.114600
+PMCID: PMC12898654
+PMID: 41695279 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict-of-interest statement: All authors 
+declare no conflict of interest in publishing the manuscript.
+
+
+8. World J Gastroenterol. 2026 Feb 21;32(7):116425. doi:
+10.3748/wjg.v32.i7.116425.
+
+Beyond monotherapy by acid suppression: Reshaping the management of refractory 
+gastroesophageal reflux disease.
+
+Zuo XY(1), Chen QQ(2).
+
+Author information:
+(1)Department of Gastroenterology, The First Medical Center of Chinese PLA 
+General Hospital, Beijing 100853, China.
+(2)Department of Gastroenterology and Hepatology, The First Medical Center of 
+Chinese PLA General Hospital, Beijing 100853, China. qian_qian_chen@163.com.
+
+Gastroesophageal reflux disease (GERD) is highly prevalent worldwide. Although 
+standard proton pump inhibitor (PPI) or potassium-competitive acid blocker 
+therapy is effective in most patients, some patients develop refractory GERD 
+(rGERD). Previous studies exploring the characteristics and risk factors for 
+rGERD had substantial limitations. A recent multicenter cross-sectional study 
+conducted across 18 medical centers in Shanghai directly compared GERD and 
+rGERD, and identified prolonged disease duration and anxiety as independent 
+high-risk factors for rGERD. Moderate-intensity physical activity for at least 
+90 minutes/week was found to be a protective factor. The 8-week 
+PPI/potassium-competitive acid blocker therapy is the standard regimen for GERD, 
+whereas adjustments are needed for rGERD, such as switching or increasing the 
+dose of PPIs or using vonoprazan instead. Additionally, endoscopic interventions 
+and surgeries are supplementary options for patients with rGERD. Anti-anxiety 
+interventions, standardized exercise prescriptions, and lifestyle factors such 
+as sleep and weight management should be explored as a "multidimensional 
+risk-targeted intervention" for the management and treatment of rGERD. This 
+multicenter cross-sectional study offers forward-looking findings for rGERD 
+prevention, but has limitations: A single-region sample lacks 
+representativeness, and its cross-sectional design requires long-term randomized 
+controlled trial for causal evidence.
+
+©The Author(s) 2026. Published by Baishideng Publishing Group Inc. All rights 
+reserved.
+
+DOI: 10.3748/wjg.v32.i7.116425
+PMCID: PMC12897910
+PMID: 41694490 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict-of-interest statement: All the authors 
+report no relevant conflicts of interest for this article.
+
+
+9. J Voice. 2026 Feb 14:S0892-1997(26)00038-X. doi: 10.1016/j.jvoice.2026.01.036.
+ Online ahead of print.
+
+Differential and Additional Diagnoses of Laryngopharyngeal Reflux Disease: A 
+Case Series.
+
+Lechien JR(1).
+
+Author information:
+(1)Department of Otolaryngology - Head & Neck Surgery, Foch Hospital, School of 
+Medicine, UFR Simone Veil, Université Versailles Saint-Quentin-en-Yvelines 
+(Paris Saclay University), Paris, France; Department of Otolaryngology, 
+Polyclinic of Poitiers, Elsan Hospital, Poitiers, France; Department of Human 
+Anatomy and Experimental Oncology, Faculty of Medicine, UMONS Research Institute 
+for Health Sciences and Technology, University of Mons (UMons), Mons, Belgium; 
+Department of Otolaryngology-Head & Neck Surgery, CHU Saint-Pierre (CHU de 
+Bruxelles), Brussels, Belgium. Electronic address: Jerome.Lechien@umons.ac.be.
+
+OBJECTIVE: To investigate conditions that may mimic or aggravate 
+laryngopharyngeal reflux disease (LPRD) symptoms in patients with confirmed LPRD 
+who experience recalcitrant symptoms despite adequate treatment.
+STUDY DESIGN: Retrospective case series with prospective data.
+SETTING: University medical center.
+METHODS: Patients with LPRD undergoing 24-hour hypopharyngeal-esophageal 
+multichannel intraluminal impedance-pH monitoring were prospectively followed at 
+the European Reflux Clinic and Elsan Hospital from 2017 to 2024. Symptoms and 
+findings were assessed from pre to post treatment with the reflux symptom score 
+(RSS) and reflux sign assessment. Differential/additional diagnoses were 
+screened in patients with recalcitrant symptoms despite receiving adequate 
+treatment. The data of symptom evolution after management of the potential 
+differential diagnoses were reviewed.
+RESULTS: A total of 143 patients with recalcitrant laryngopharyngeal symptoms 
+were included. The mean age was 52.4 ± 15.6 years. One hundred and thirty 
+differential diagnoses were documented in 107 patients. No additional diagnosis 
+was found in 36 cases (25.2%). Inhaled steroid laryngitis (N = 18, 12.6%), 
+allergy (N = 17, 11.9%), lactose intolerance (N = 15, 10.5%), and chronic 
+rhinosinusitis (N = 11, 7.7%) were the most prevalent additional diagnoses to 
+LPRD. The RSS significantly decreased when the differential diagnoses of LPR 
+symptoms were treated. The proportion of therapeutic responses to LPRD 
+treatment, initially at 47.9%, significantly increased to 80.6% following the 
+initiation of treatment for the differential diagnoses (P = 0.001) CONCLUSION: 
+The use of a standardized protocol documenting the digestive and 
+otolaryngological conditions mimicking or aggravating LPRD symptoms may help to 
+identify 74.8% of the differential diagnoses. Further studies are needed to 
+establish the causality or association relationships between these conditions 
+and the LPRD.
+
+Copyright © 2026 The Voice Foundation. Published by Elsevier Inc. All rights 
+reserved.
+
+DOI: 10.1016/j.jvoice.2026.01.036
+PMID: 41690822
+
+Conflict of interest statement: Declaration of Competing Interest The author has 
+no financial interest in the subject under discussion.
+
+
+10. Curr Gastroenterol Rep. 2026 Feb 14;28(1):9. doi: 10.1007/s11894-026-01035-4.
+
+Management of Recurrent Dysphagia after POEM and Heller Myotomy: Current 
+Strategies and Future Directions.
+
+Turner RC(1), Nguyen AD(2), Tielleman T(3).
+
+Author information:
+(1)Department of Internal Medicine, University of Texas Southwestern Medical 
+Center, Dallas, TX, USA.
+(2)Division of Gastroenterology, Center for Esophageal Diseases, Center for 
+Esophageal Research, Baylor University Medical Center, Baylor Scott and White 
+Research Institute, Dallas, TX, USA.
+(3)Department of Internal Medicine, Division of Digestive & Liver Diseases, 
+University of Texas Southwestern Medical Center, Dallas, TX, USA. 
+Thomas.Tielleman@utsouthwestern.edu.
+
+PURPOSE OF REVIEW: Dysphagia recurrence after myotomy for achalasia presents a 
+complex clinical challenge. This review highlights causes of recurrent 
+dysphagia, diagnostic strategies, and management options following laparoscopic 
+Heller myotomy (LHM) or per-oral endoscopic myotomy (POEM).
+RECENT FINDINGS: Both POEM and LHM demonstrate durable efficacy, but recurrence 
+arises from incomplete myotomy, blown-out myotomy (BOM), fundoplication-related 
+obstruction, anatomic esophageal body abnormalities, esophageal dysmotility, or 
+gastroesophageal reflux disease (GERD). In the diagnostic evaluation, functional 
+lumen imaging probe (FLIP) and high-resolution manometry (HRM) provide 
+complementary assessments of esophageal and esophagogastric junction dynamics, 
+while timed barium esophagram (TBE) and endoscopy detect structural issues. Redo 
+myotomy (POEM or LHM), pneumatic dilation (PD), and emerging techniques, such as 
+per-oral plication of the esophagus (POPE), offer targeted therapy with 
+favorable safety and symptom improvement.
+SUMMARY: Recurrent dysphagia is multifactorial, requiring comprehensive 
+esophageal evaluation. Advanced diagnostics and minimally invasive interventions 
+expand therapeutic options, particularly in end-stage disease.
+
+DOI: 10.1007/s11894-026-01035-4
+PMCID: PMC12906571
+PMID: 41689615
+
+Conflict of interest statement: Declarations. Disclosures: RT has no 
+disclosures. TT has no disclosures. AN has no disclosures. Competing interests: 
+The authors declare no competing interests.

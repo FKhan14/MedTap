@@ -1,0 +1,692 @@
+1. Transl Behav Med. 2026 Jan 7;16(1):ibaf094. doi: 10.1093/tbm/ibaf094.
+
+Applying behavior change theory to intervention design: promoting clinic-level 
+implementation of self-measured blood pressure monitoring in safety net primary 
+care settings.
+
+Tieu L(1), Khoong EC(2)(3), Shah ND(2)(3), Gosdin MM(1), Wang SJ(4), Sharma 
+A(3)(5), Abtahi N(6), Stern RJ(7), Zhou C(8), Sarkar U(2)(3)(9), Lyles 
+CR(1)(2)(3)(9); CHARMED Consortium.
+
+Collaborators: Blyer CA, Cho TL, Chung K, Corbin K, Farthinejad M, Felton C, 
+Fontil V, Gonzales N, Guzman-Estrada S, Janas ME, Jensen G, Kim HC, Lewis Z, 
+McKenna P, McNamara A, Orozco J, Park S, Pineda M, Pramanik R, Richey-Lucero S, 
+Rithner C, Tai D, Xu DS, Bigornia V, Brock T, Ceja J, Graham Y, Gonzalez E, 
+Minjares M, Ochoa M, Venegas G.
+
+Author information:
+(1)Center for Healthcare Policy and Research, University of California, Davis, 
+Sacramento, CA, United States.
+(2)Department of Medicine, Division of General Internal Medicine, University of 
+California, San Francisco, CA, United States.
+(3)UCSF Action Research Center for Health, Zuckerberg San Francisco General 
+Hospital, University of California, San Francisco, CA, United States.
+(4)School of Medicine, University of California, San Francisco, CA, United 
+States.
+(5)Department of Family and Community Medicine, University of California, San 
+Francisco, CA, United States.
+(6)Contra Costa Health, Martinez, CA, United States.
+(7)Ventura County Health Care Agency, Ventura, CA, United States.
+(8)Department of Clinical Pharmacy, University of California, San Francisco, CA, 
+United States.
+(9)Department of Epidemiology and Biostatistics, University of California, San 
+Francisco, CA, United States.
+
+BACKGROUND: Self-measured blood pressure (SMBP) monitoring is an evidence-based 
+practice effective for improving the diagnosis and control of hypertension. 
+Healthcare settings face challenges integrating it into clinical care.
+PURPOSE: This study applied behavior change theory to design a clinic-based 
+intervention to integrate SMBP within safety net primary care settings.
+METHODS: We conducted multi-phase, mixed methods research to adapt a 
+clinic-level intervention across 25 safety net primary care clinics within three 
+California public healthcare systems as part of the Championing Hypertension 
+Remote Monitoring for Equity and Dissemination (CHARMED) Study. From February to 
+August 2024, clinic champions participated in surveys and focus groups to 
+assess: (i) current practices in hypertension management, (ii) implementation 
+barriers, and (iii) strategies for optimizing the use of SMBP within clinics. 
+Using the Behavior Change Wheel, we designed and tailored the intervention to 
+improve clinical practices for SMBP.
+RESULTS: Over 50 clinicians/staff participated. Surveys revealed varying SMBP 
+use due to knowledge gaps, lack of standardized processes, and insufficient 
+financial and human resources. Focus groups highlighted the importance of 
+increasing SMBP knowledge among patients and care teams (capability); promoting 
+structured workflows/templates for documenting and acting on SMBP data 
+(opportunity); and building care team buy-in for SMBP (motivation). These 
+insights guided the final intervention activities.
+CONCLUSIONS: Using behavior change theory and stakeholder-engaged methods, we 
+developed a multi-component clinic-focused intervention to promote tailored SMBP 
+implementation within safety net primary care clinics. This evidence-based, 
+adaptable approach may inform future efforts to implement SMBP at multiple 
+levels of care.
+CLINICAL TRIAL INFORMATION: The Clinical Trials Registration #NCT06113458.
+
+Plain Language Summary: High blood pressure (also called hypertension) is a 
+common health problem that can lead to serious conditions like heart disease and 
+stroke. A proven way to help manage high blood pressure is for patients to 
+regularly check their blood pressure at home. This is called self-measured blood 
+pressure (SMBP) monitoring. However, safety net primary care clinics that often 
+serve low-income communities and patients with public (e.g. Medicaid and 
+County-run programs) or no health insurance face challenges in using SMBP as 
+part of routine care. This study aimed to create a practical approach to help 
+clinics better use SMBP. We worked with 25 safety net primary care clinics 
+across California and gathered input from over 50 clinic staff and providers. 
+Through surveys and group discussions, we learned about current practices, 
+challenges, and what support clinics need. We found that clinics often lacked 
+training, tools, and resources for using SMBP effectively. Using behavior change 
+theory and feedback from clinic staff, we developed a multi-part program to 
+support SMBP use. This includes training, workflow tools, and strategies to 
+build team support. The final approach is flexible and designed to fit the needs 
+of busy, resource-limited clinics. It may also be useful for others trying to 
+improve blood pressure care in similar settings.
+
+© The Author(s) 2026. Published by Oxford University Press on behalf of the 
+Society of Behavioral Medicine.
+
+DOI: 10.1093/tbm/ibaf094
+PMID: 41723583 [Indexed for MEDLINE]
+
+
+2. Am J Case Rep. 2026 Feb 22;27:e949860. doi: 10.12659/AJCR.949860.
+
+Pulmonary Embolism and Right Heart Failure Associated With Lipomatous Atrial 
+Septal Hypertrophy: A Case Report.
+
+Pathak P(1), Patel S(2), Reddy A(3), Mathew J(3), Basu A(4), Thiriveedi M(2), 
+Baddam S(5).
+
+Author information:
+(1)Graduate Medical Education, North Alabama Medical Center, Florence, AL, USA.
+(2)Department of Medicine, Decatur Morgan Hospital, Decatur, AL, USA.
+(3)Department of Medicine, Alabama College of Osteopathic Medicine, Dothan, AL, 
+USA.
+(4)Department of Cardiology, Heart Center, Decatur Morgan Hospital, Decatur, AL, 
+USA.
+(5)Department of Internal Medicine, Huntsville Hospital, Huntsville, AL, USA.
+
+BACKGROUND Lipomatous atrial septal hypertrophy (LASH) is a benign but uncommon 
+condition characterized by excessive adipose tissue accumulation within the 
+interatrial septum. Although most cases remain asymptomatic, large lesions may 
+produce superior vena cava (SVC) obstruction. Acute pulmonary embolism as an 
+initial presentation is rare. CASE REPORT A 75-year-old woman with a history of 
+chronic obstructive pulmonary disease and hypertension experienced 7 days of 
+progressively worsening exertional dyspnea, orthopnea, and lower-extremity 
+edema, without chest pain, cough, or fever. Physical examination findings 
+included tachypnea, hypertension, bilateral lower-extremity edema, elevated 
+jugular venous pressure, and bibasilar crackles. Computed tomography pulmonary 
+angiography - prompted by elevated D-dimer - demonstrated bilateral pulmonary 
+emboli and a large LASH causing SVC obstruction with near-complete obliteration 
+of the right atrium. Transthoracic echocardiography confirmed the presence of 
+LASH. The absence of personal or family history of inherited thrombophilia, 
+along with negative deep venous thrombosis findings on lower-extremity Doppler 
+ultrasonography, suggested that pulmonary embolism and right heart failure were 
+related to sluggish right atrial flow secondary to LASH-induced mechanical SVC 
+obstruction. Clinical improvement was achieved with anticoagulation and diuretic 
+therapy, followed by partial surgical resection of the interatrial septum in 
+conjunction with coronary artery bypass grafting. Histopathologic examination 
+confirmed LASH without evidence of inflammation or malignancy. CONCLUSIONS 
+Symptomatic LASH causing SVC obstruction is extremely uncommon and rarely 
+associated with pulmonary embolism. This case underscores the importance of 
+recognizing LASH as a potential contributor to right heart failure and 
+thromboembolism; it highlights echocardiography as an essential diagnostic 
+modality when pulmonary embolism is suspected.
+
+DOI: 10.12659/AJCR.949860
+PMID: 41723578 [Indexed for MEDLINE]
+
+
+3. Eur J Med Res. 2026 Feb 21. doi: 10.1186/s40001-026-04013-8. Online ahead of 
+print.
+
+Bioinformatics-based identification and experimental validation of biomarkers in 
+pulmonary arterial hypertension.
+
+Jia R(#)(1), Wang K(#)(1), Liu Y(#)(1), Ma Y(#)(1), Li Y(#)(1), Fan M(1), Li 
+P(1), Wang Y(1), Jiang T(1), Dai L(1), Cheng Z(2).
+
+Author information:
+(1)Department of Pulmonary and Critical Care Medicine, The First Affiliated 
+Hospital of Zhengzhou University, Zhengzhou, 450052, Henan, China.
+(2)Department of Pulmonary and Critical Care Medicine, The First Affiliated 
+Hospital of Zhengzhou University, Zhengzhou, 450052, Henan, China. 
+fccchengzhe@zzu.edu.cn.
+(#)Contributed equally
+
+Current pulmonary arterial hypertension (PAH) diagnostic approaches rely on 
+right heart catheterization to measure the mean pulmonary artery pressure 
+(≥ 20 mmHg), but limit early screening. Imaging techniques lack sensitivity for 
+detecting early pulmonary pressure changes and are subject to variability, often 
+resulting in diagnosis at an irreversible stage. The PAH pathogenesis remains 
+incompletely understood, and improved diagnosis and treatment are urgently 
+needed. In the present study, the Gene Expression Omnibus GSE113439 dataset 
+underwent differential expression analysis of mRNA and Gene Ontology (GO), and 
+Kyoto Encyclopedia of Genes and Genomes (KEGG) enrichment analyses. Hub genes 
+were identified using weighted gene co-expression network and protein-protein 
+interaction network analyses. Immune infiltration and correlation analyses were 
+subsequently performed. We established a PAH rat model, validated the expression 
+of hub genes in human pulmonary arterial smooth muscle cells (hPASMCs) and lung 
+tissues of PAH rats using qRT-PCR, and conducted sequencing on the lung tissues 
+of PAH rat models. PAH involved 547 differentially expressed genes. GO and KEGG 
+enrichment analyses revealed that the focal adhesion, vascular smooth muscle 
+contraction, RNA degradation, ferroptosis, and 2-oxocarboxylic acid metabolism 
+pathways were closely associated with PAH development (P < 0.05). PAH patients 
+had significantly upregulated NOP58, DDX21, ABCE1, CDC5L, and HSP90AA1 
+expression. Memory B cells, CD8 T cells, follicular helper T cells, activated 
+natural killer cells, monocytes, activated mast cells, and neutrophils were 
+significantly different between PAH patients and controls. Neutrophils, 
+macrophages, and NOP58 expression were closely associated. NOP58, DDX21, ABCE1, 
+CDC5L, and HSP90AA1 may be novel PAH diagnostic biomarkers and therapeutic 
+targets. Their clinical applicability should be validated in larger-sample 
+studies to explore gene-guided personalized therapies.
+
+© 2026. The Author(s).
+
+DOI: 10.1186/s40001-026-04013-8
+PMID: 41723517
+
+Conflict of interest statement: Declarations>. Ethics approval and consent to 
+participate: This study was approved by the Academic Advisory Board of the First 
+Affiliated Hospital of Zhengzhou University (approval no. 2024-KY-0468). All 
+participants provided their written informed consent. Consent for publication: 
+Not applicable. Competing interests: The authors declare no competing interests.
+
+
+4. Semergen. 2026 Feb 20;52(3):102690. doi: 10.1016/j.semerg.2026.102690. Online 
+ahead of print.
+
+[SEMERGEN position paper on chronic kidney disease].
+
+[Article in Spanish]
+
+Pérez-León N(1), Polo-García J(2), Alonso-Álvarez MP(3), 
+Martínez-Berganza-Asensio L(4).
+
+Author information:
+(1)Centro de Atención Primaria Dr. Robert, Servicio Catalán de Salud, Badalona, 
+Barcelona, España; Grupo de Trabajo de Nefrourología de SEMERGEN. Electronic 
+address: noemi612@gmail.com.
+(2)Centro de salud Casar de Cáceres, Servicio Extremeño de Salud, Cáceres, 
+España; Junta Directiva de SEMERGEN.
+(3)Grupo de Trabajo de Nefrourología de SEMERGEN; Centro de salud A Ponte 
+Ourense, Servicio Gallego de Salud, Ourense, España.
+(4)Grupo de Trabajo de Nefrourología de SEMERGEN; Junta Directiva de SEMERGEN; 
+Centro de salud Ensanche de Vallecas, Servicio Madrileño de Salud, Madrid, 
+España.
+
+In Spain, it is estimated that the prevalence of chronic kidney disease (CKD) is 
+7-30%. CKD is associated with a significant risk of kidney disease progression, 
+as well as cardiovascular complications and death. CKD is currently 
+underdiagnosed, which implies the need for greater screening in the population 
+at risk (arterial hypertension, diabetes), through the determination of 
+estimated glomerular filtration rate and albuminuria. On the other hand, 
+evidence from clinical trials has demonstrated the benefits of four 
+pharmacological groups in patients with diabetic CKD, including 
+renin-angiotensin system inhibitors, SGLT2 inhibitors, nonsteroidal 
+mineralocorticoid receptor antagonists (currently finerenone) and GLP1 receptor 
+agonists, in particular subcutaneous semaglutide. Consequently, comprehensive 
+treatment should be promoted through the early use of the combination of these 
+pharmacological groups. In patients with non-diabetic CKD, renin-angiotensin 
+system inhibitors and SGLT2 inhibitors would be indicated as the treatment of 
+choice. Primary care is the optimal setting for screening, initial diagnosis and 
+follow-up of patients with CKD, as well as the initiation and optimization of 
+medical treatment for these patients. However, there is considerable room for 
+improvement between what the guidelines indicate and clinical practice. The 
+objective of this SEMERGEN position paper is to facilitate and improve care for 
+patients with CKD in primary care.
+
+Copyright © 2026 Sociedad Española de Médicos de Atención Primaria (SEMERGEN). 
+Publicado por Elsevier España, S.L.U. All rights reserved.
+
+DOI: 10.1016/j.semerg.2026.102690
+PMID: 41722153
+
+
+5. Clin Exp Hypertens. 2026 Dec 31;48(1):2631606. doi: 
+10.1080/10641963.2026.2631606. Epub 2026 Feb 21.
+
+Mechanisms linking hypertension to cardiovascular and cerebrovascular diseases 
+and their clinical implications: A comprehensive review.
+
+Li G(1), Zhang JJ(2), Mou X(2), Zhuo X(2), Li W(3), Zhang S(4), Qi S(5), Li 
+X(2)(3).
+
+Author information:
+(1)Faculty of Health Sciences, University of Macau, Macau, People's Republic of 
+China.
+(2)Department of Neurology, the 2nd Affiliated Hospital of Shandong First 
+Medical University, Taian, People's Republic of China.
+(3)Department of Neurology, Shanghai Blue Cross Brain Hospital, Shanghai, 
+People's Republic of China.
+(4)Department of Clinical Medicine, Shandong First Medical University, Taian, 
+People's Republic of China.
+(5)Department of Cardiology, the 2nd Affiliated Hospital of Shandong First 
+Medical University, Taian, People's Republic of China.
+
+Hypertension, one of the most prevalent chronic conditions worldwide, stands as 
+a principal risk factor for cardiovascular and cerebrovascular diseases, 
+including coronary heart disease and stroke. Recent advances have clarified a 
+graded, dose-response relationship in which higher blood pressure is 
+consistently associated with increased vascular event risk, with relative risks 
+commonly ranging from modest elevations (~1.2) at the lower end of above-optimal 
+blood pressure to substantially higher levels (>3.0) in more severe hypertension 
+categories. This review synthesizes current evidence on how hypertension 
+influences the incidence and progression of cardiovascular and cerebrovascular 
+diseases, emphasizing its interplay with comorbid conditions such as obesity, 
+metabolic syndrome, pregnancy-induced hypertension, and sleep apnea. 
+Additionally, it explores the impact of blood pressure management targets on the 
+prevention of adverse vascular events and evaluates the safety and efficacy of 
+pharmacological treatments in diverse patient populations. Environmental 
+contributors and their role in modulating disease risk are also addressed. By 
+integrating epidemiological data with clinical research findings, this article 
+aims to provide a comprehensive theoretical framework and practical guidance for 
+the prevention and management of cardiovascular and cerebrovascular 
+complications in hypertensive patients.
+
+DOI: 10.1080/10641963.2026.2631606
+PMID: 41721701 [Indexed for MEDLINE]
+
+
+6. Lung India. 2026 Mar 1;43(2):152-157. doi: 10.4103/lungindia.lungindia_394_25.
+ Epub 2026 Feb 21.
+
+Non-invasive ventilation in obstructive sleep apnoea/obesity hypoventilation 
+syndrome: Experience from an Indian tertiary care respiratory centre.
+
+Marwah V(1), Choudhary R(2), Kumar P(3), Srishti(4), Shrinath V(5), Sharma A(6).
+
+Author information:
+(1)Department of Pulmonary Medicine, Army Hospital R and R, Delhi, India.
+(2)Department of Pulmonary Medicine, Base Hospital Delhi Cantt, Delhi, India.
+(3)Department of PSM, MH Mathura, Uttar Pradesh, India.
+(4)Department of Pulmonary Medicine, AICTS, Pune, Maharashtra, India.
+(5)Department of Pulmonary Medicine, INHS Ashvini, Mumbai, Maharashtra, India.
+(6)Department of Medicine, Base Hospital, Delhi Cantt, Delhi, India.
+
+BACKGROUND AND OBJECTIVE: Obesity hypoventilation syndrome (OHS) includes morbid 
+obesity (Body mass index>30 kilograms/m2), daytime hypercapnia (arterial carbon 
+dioxide level >45 mm Hg) with features of sleep disordered breathing. Data are 
+scarce in the management of acute-on-chronic hypercapnic failure with NIV, 
+especially from developing countries like India. We set out to evaluate the 
+demography of OHS patients presenting with acute on chronic hypercapnic failure 
+and evaluate the effect of NIV in improvement of symptoms and correction of 
+blood gas parameters.
+MATERIALS AND METHODS: This ambidirectional observational study included 30 
+patients who were confirmed cases of OHS and were admitted with hypercapnic 
+respiratory failure and managed with NIV and discharged later on domiciliary 
+NIV. The patients were evaluated for the complications of OHS and were followed 
+up for improvement with domiciliary NIV.
+RESULTS: Out of the 30 patients of OHS,16 (53%) were males while 14 (47%) were 
+females. 17 patients (56.7%) had type II diabetes mellitus, while 25 (83%) 
+patients were known cases of primary hypertension. The mean age was 61 years 
+(SD-11.15), and the mean Body Mass Index (BMI) was 36.2 kilograms/meter2 
+(SD-6.19). On admission, the mean pH was 7.35 (SD-0.10), mean pCO2 was 55.33 
+mmHg (SD-17.56), and mean HCO3 was 31.31 (SD-5.23), suggestive of acute on 
+chronic hypoventilation. 10 out of 30 patients were hypoxic at presentation, out 
+of which 5 required (Non-Rebreathing Mask (NRBM on admission. All these patients 
+were managed with NIV, and they showed significant clinical improvement in the 
+form of improved sensorium, decreased oxygen requirement, and improved exercise 
+tolerance. The mean improvement in pH after one week was 7.41, and the mean 
+level of pCO2 was 48.10 mmHg after 1 week of NIV. Significant improvements were 
+observed in arterial blood gases (pCO2 reduced from 55.33 ± 6.1 mmHg to 48.22; 
+P<0.001) and Epworth Sleepiness Scale (ESS) scores. The decrease in pCO2 was 
+statistically significant. These patients were discharged on domiciliary NIV and 
+were followed up on an OPD basis.
+CONCLUSION: All patients with OHS who presented with acute on chronic 
+hypercapnic failure responded well to NIV therapy with significant improvement 
+in exercise tolerance, weight loss, decreased symptom burden, and blood gase 
+parameters. These findings reinforce the role of structured NIV therapy in OHS 
+management.
+
+Copyright © 2026 Indian Chest Society.
+
+DOI: 10.4103/lungindia.lungindia_394_25
+PMID: 41721665
+
+
+7. BMC Med. 2026 Feb 20. doi: 10.1186/s12916-026-04714-1. Online ahead of print.
+
+ADHD and adherence to antihypertensive medication treatment: a multinational 
+cohort study.
+
+Yao H(#)(1), Zhou Y(#)(2), Li L(#)(1), Gillies MB(3), Brikell I(1)(4)(5), Gao 
+L(6)(7)(8), Wimberley T(9)(10), Xie T(11)(12), Zhang-James Y(13), Astrup 
+A(9)(10), Dalsgaard S(9)(14)(15), Semark BD(9)(10), Engeland A(4)(16), Faraone 
+SV(13), Klungsøyr K(4)(17), Larsson H(1)(18), Man KKC(8)(19)(20)(21), Snieder 
+H(2), Wong ICK(8)(22)(23), Yuen ASC(19)(20), Zoega H(#)(24), Hartman C(#)(12), 
+Chang Z(#)(25).
+
+Author information:
+(1)Department of Medical Epidemiology and Biostatistics, Karolinska Institute, 
+Nobels Väg 12A, 171 65, Stockholm, Sweden.
+(2)Department of Epidemiology, University of Groningen, University Medical 
+Center Groningen, Groningen, Netherlands.
+(3)School of Population Health, Faculty of Medicine and Health, University of 
+New South Wales, Sydney, NSW, Australia.
+(4)Department of Global Public Health and Primary Care, University of Bergen, 
+Bergen, Norway.
+(5)Department of Biomedicine, Aarhus University, Aarhus, Denmark.
+(6)Department of Pharmacy Administration, School of Pharmacy, Xi'an Jiaotong 
+University, Shaanxi, China.
+(7)Center for Drug Safety and Policy Research, Xi'an Jiaotong University, 
+Shaanxi, China.
+(8)Centre for Safe Medication Practice and Research, Department of Pharmacology 
+and Pharmacy, Li Ka Shing Faculty of Medicine, Centre for Safe Medication 
+Practice and Research, The University of Hong Kong, Hong Kong Special 
+Administrative Region, Hong Kong, China.
+(9)National Centre for Register-Based Research, Aarhus University, Aarhus, 
+Denmark.
+(10)Centre for Integrated Register-Based Research, Aarhus University, Aarhus, 
+Denmark.
+(11)Guangzhou National Laboratory, Guangzhou International Bio Island, No. 9 
+XingDaoHuanBei Road, Guangzhou, 510005, Guangdong Province, China.
+(12)Department of Psychiatry, Interdisciplinary Center of Psychopathology and 
+Emotion Regulation, University of Groningen, University Medical Center 
+Groningen, Groningen, Netherlands.
+(13)Department of Psychiatry and Behavioral Sciences, Norton College of Medicine 
+at SUNY Upstate Medical University, Syracuse, NY, USA.
+(14)Center for Child and Adolescent Psychiatry, Copenhagen University Hospital - 
+Mental Health Services of the Capital Region, Copenhagen, Denmark.
+(15)Department of Clinical Medicine, University of Copenhagen, Copenhagen, 
+Denmark.
+(16)Department of Chronic Diseases, Norwegian Institute of Public Health, 
+Bergen, Norway.
+(17)Department of Health Promotion, Norwegian Institute of Public Health, 
+Bergen, Norway.
+(18)School of Medical Sciences, Örebro University, Örebro, Sweden.
+(19)Research Department of Practice and Policy, School of Pharmacy, University 
+College London, London, UK.
+(20)Centre for Medicines Optimisation Research and Education, University College 
+London Hospitals NHS Foundation Trust, London, UK.
+(21)Laboratory of Data Discovery for Health, Hong Kong Special Administrative 
+Region, Hong Kong, China.
+(22)School of Pharmacy, Medical Sciences Division, Macau University of Science 
+and Technology, Macao Special Administrative Region, Macau, China.
+(23)Aston Pharmacy School, Aston University, Birmingham, UK.
+(24)Centre of Public Health Sciences, Faculty of Medicine, University of 
+Iceland, Reykjavik, Iceland.
+(25)Department of Medical Epidemiology and Biostatistics, Karolinska Institute, 
+Nobels Väg 12A, 171 65, Stockholm, Sweden. zheng.chang@ki.se.
+(#)Contributed equally
+
+BACKGROUND: Adherence to antihypertensive medication, alongside lifestyle 
+modifications, is fundamental to managing hypertension and reducing the risk of 
+cardiovascular disease. Attention-deficit/hyperactivity disorder (ADHD) is a 
+common neurodevelopmental disorder associated with a range of cardiovascular 
+diseases, including hypertension. ADHD medication has also been associated with 
+hypertension. However, the influence of ADHD and ADHD medication on 
+discontinuation and adherence to antihypertensive treatments is unknown.
+METHODS: We conducted a multinational cohort study using electronic health 
+databases from seven countries, which included adults who initiated 
+antihypertensive medication between 2010 and 2020. ADHD was identified by a 
+diagnosis of ADHD or dispensation of ADHD medications. The outcomes were (1) 
+time to the first discontinuation of antihypertensive medication and (2) poor 
+adherence, defined as the proportion of days covered (PDC) below 80% during 1-, 
+2-, and 5-year follow-up periods. We used Cox proportional hazards models and 
+logistic regression to estimate associations, adjusting for age, sex, and 
+calendar year of antihypertensive medication initiation. We pooled results from 
+different countries via random-effects meta-analysis.
+RESULTS: We identified 12,174,321 adults who initiated antihypertensive 
+medication during the study period, including 320,691 (2.6%) with ADHD. In the 
+pooled analysis across all countries, ADHD was associated with an increased rate 
+of discontinuation in 5-year follow-up of antihypertensive medication (hazard 
+ratio [HR] 1.14; 95% CI, 1.02-1.27). In age-stratified analyses, ADHD was 
+associated with a higher rate of antihypertensive medication discontinuation in 
+middle-aged (HR, 1.11; 95% CI, 1.01-1.23) and older adults (HR, 1.14; 95% CI, 
+1.01-1.29), but not in young adults. Individuals with ADHD also had higher odds 
+of poor adherence across 1 year after treatment initiation (odds ratio [OR] 
+1.45, 95% CI 1.26-1.67) to 5 years (OR 1.64, 95% CI 1.34-2.00). Among those with 
+ADHD, use of ADHD medications was associated with lower odds of poor adherence 
+(1 year OR 0.66, 95% CI 0.60-0.73; 5 years OR 0.58, 95% CI 0.46-0.72).
+CONCLUSIONS: Adults with ADHD are more likely to discontinue antihypertensive 
+treatment and exhibit poor medication adherence. However, ADHD medication use 
+appears to be associated with better adherence among individuals with ADHD.
+
+© 2026. The Author(s).
+
+DOI: 10.1186/s12916-026-04714-1
+PMID: 41721349
+
+Conflict of interest statement: Declarations. Ethics approval approval and 
+consent to participate: Ethical approval was obtained from the relevant 
+authorities in each participating country: Australia (AIHW HREC EO2021/1/1233; 
+NSW PHSREC 2020/ETH02273), Denmark (Danish Data Protection Agency; Act no. 1338 
+of 1 September 2020), the Netherlands (Statistics Netherlands project agreement 
+9205), Norway (Regional Ethics Committee in Western Norway 2020/75421), Sweden 
+(Swedish Ethical Review Authority 2020-06540), the United Kingdom (THIN 
+Scientific Review Committee 17THIN102), and the United States (SUNY Upstate 
+Medical University IRB 1933232-2). Informed consent was waived in all countries 
+due to the use of de-identified or pseudonymized registry data. Not applicable, 
+as the study used de-identified registry data and did not involve direct patient 
+contact. Consent for publication: Not applicable. Competing interests: HL 
+reports receiving grants from TAKEDA and Shire Pharmaceuticals; personal fees 
+from and serving as a speaker for Medice, Shire/Takeda Pharmaceuticals and 
+Evolan Pharma AB; all outside the submitted work. HL is editor-in-chief of JCPP 
+Advances. SVF reports personal fees and travel expenses from Mentavi/ADHD 
+Online, Axsome, Ironshore/Collegium, KemPharm/Corium, Noven, Supernus, Sandoz, 
+Tris and Medice; has a US patent (via his institution) for the use of 
+sodium-hydrogen exchange inhibitors in the treatment of ADHD (US20130217707 A1); 
+receives royalties from books published by Guilford Press (Straight Talk about 
+Your Child's Mental Health), Oxford University Press (Schizophrenia: The Facts), 
+and Elsevier (ADHD: Non-Pharmacologic Interventions); and is program director of 
+www.ADHDEvidence.org and www.ADHDinAdults.com. KKCM reports grants from the C W 
+Maplethorpe Fellowship, the National Institute for Health and Care Research, 
+Innovation and Technology Commission of the Hong Kong Special Administration 
+Region Government, and Hong Kong Research Grant Council; and personal fees from 
+IQVIA, all outside the submitted work. ICKW reports research funding from Amgen 
+and GSK, the Hong Kong Research Grants Council, the Hong Kong Health and Medical 
+Research Fund, the National Institute for Health Research in England, the 
+European Commission, and the National Health and Medical Research Council in 
+Australia, consulting fees from IQVIA and World Health Organisation, outside of 
+the submitted work. He is a non-executive director of Jacobson Medical, Advance 
+Data Analytics for Medical Science (ADAMS) Limited in Hong Kong and OCUS 
+Innovation Limited (HK, Ireland and UK); a former director of Therakind in 
+England and Asia Medicine Regulatory Affairs (AMERA) Services Limited in Hong 
+Kong. ZC received speaker fees from Takeda Pharmaceuticals, outside the 
+submitted work. All other authors declare no competing interests. ASCY reports 
+grant from the University College London Hospitals NIHR Biomedical Research 
+Centre, College of Mental Health Pharmacy, and UK Turing Scheme.
+
+
+8. AJNR Am J Neuroradiol. 2026 Feb 20:ajnr.A9250. doi: 10.3174/ajnr.A9250. Online
+ ahead of print.
+
+Endovascular venous sinus stenting versus cerebrospinal fluid shunting for 
+idiopathic intracranial hypertension: nationwide real-world outcomes.
+
+Chen H(1), Colasurdo M(1), Khunte M(1), Gunawardane S(1), Malhotra A(1), Gandhi 
+D(1).
+
+Author information:
+(1)From the Department of Neurology, MedStar Georgetown University Hospital, 
+Washington DC, USA (H.C.), Department of Interventional Radiology, Oregon Health 
+and Science University, Portland OR, USA (M.C.), Warren Alpert Medical School, 
+Brown University, Providence RI, USA (M.K.), Department of Radiology, Yale New 
+Haven Hospital, New Haven CT, USA (M.K. and A.M.), The Edward Via College of 
+Osteopathic Medicine, Blacksburg VA, USA (S.G.), Departments of Radiology, 
+Neurosurgery and Neurology, University of Maryland Medical Center, Baltimore MD, 
+USA (D.G.).
+
+BACKGROUND AND PURPOSE: Endovascular venous sinus stenting (VSS) is a promising 
+new treatment for select patients with idiopathic intracranial hypertension 
+(IIH) refractory to medical management. This study aims to investigate the 
+safety and efficacy of VSS compared to neurosurgical CSF shunting in real-world 
+clinical practice.
+MATERIALS AND METHODS: This was a retrospective cohort study of the 2016-22 
+Nationwide Readmissions Database in the United States. Adult patients who 
+underwent elective IIH treatment with VSS or CSF shunting were identified. 
+Propensity score matching (PSM) was performed to balance treatment groups. The 
+primary outcome was IIH treatment failure, defined as hospital readmission for 
+IIH-related symptoms, hardware complications, repeat surgery, or death within 
+300 days. Safety outcomes include morbidity and mortality, both 
+peri-procedurally and during follow-up. Rates of perioperative ischemic strokes, 
+intracranial hemorrhage (ICH), and death were also assessed.
+RESULTS: 7,795 patients were identified; 1,511 (19.3%) underwent VSS. After PSM, 
+1,370 VSS and 2,786 CSF shunting patients remained. VSS was associated with a 
+lower rate of treatment failure (HR 0.59 [95%CI 0.43-0.80], p<0.001). The risk 
+of morbidity/mortality was lower in the VSS group, both peri-procedurally (2.2% 
+vs. 5.5%, p<0.001) and throughout study follow-up (HR 0.38 [95%CI 0.25-0.58], 
+p<0.001). Rates of periprocedural ischemic stroke, ICH, and death were low for 
+both cohorts (<1% for all).
+CONCLUSIONS: In this nationally representative study of real-world 
+hospitalization data in the United States, endovascular VSS is associated with 
+lower rates of treatment failure compared to conventional CSF shunting, as well 
+as lower risk of morbidity and mortality. These findings provide real-world 
+evidence that VSS is a safe and effective alternative to neurosurgical CSF 
+shunting in select IIH patients.
+ABBREVIATIONS: VSS = venous sinus stenting; IIH = idiopathic intracranial 
+hypertension; CSF = cerebrospinal fluid; PSM = propensity score matching; ICH = 
+intracranial hemorrhage.
+
+© 2026 by American Journal of Neuroradiology.
+
+DOI: 10.3174/ajnr.A9250
+PMID: 41720516
+
+
+9. Port J Card Thorac Vasc Surg. 2026 Feb 17;32(4):33-39. doi:
+10.48729/pjctvs.604.
+
+Management of Tricuspid Regurgitation in Patients with Rheumatic Mitral Disease.
+
+Kalasipudi R(1), Gupta S(2), Meghdadi A(3), Abu-Omar Y(4), Al-Akhtar A(5), 
+Al-Halees Z(6), El-Diasty M(7).
+
+Author information:
+(1)Faculty of Medicine, St. George's University, Grenada.
+(2)Faculty of Health Sciences, Queen's University, Kingston, Ontario, Canada; 
+Faculty of Medicine, University of Ottawa, Ottawa, Ontario, Canada.
+(3)Faculty of Health Sciences, Queen's University, Kingston, Ontario, Canada.
+(4)Department of Surgery, College of Medicine, Qassim University, Saudi Arabia.
+(5)Department of Cardiothoracic Surgery, Cleveland Clinic Abu Dhabi, Abu Dhabi, 
+United Arab Emirates.
+(6)Cardiac Surgery Section, King Faisal Heart Centre, King Faisal Specialist 
+Hospital & Research Centre, Riyadh, Saudi Arabia.
+(7)Cardiac Surgery Division, University Hospitals Cleveland Medical Centre, 
+Cleveland, Ohio, USA; Department of Biochemical and Molecular Sciences, Queen's 
+University, Kingston, ON, Canada.
+
+BACKGROUND: Rheumatic heart disease (RHD) remains a major cause of 
+cardiovascular morbidity and mortality in low and middle-income countries, with 
+tricuspid regurgitation (TR) frequently complicating rheumatic mitral pathology. 
+While mild TR often stabilizes after mitral correction, management of moderate 
+and severe TR in this context remains controversial due to limited evidence and 
+applicability of guidelines largely derived from degenerative etiologies. This 
+review synthesizes current data on diagnostic strategies, surgical 
+decision-making, and outcomes in rheumatic TR.
+METHODS: A comprehensive literature search was performed across PubMed, Google 
+Scholar, and OMNI databases (2010-2024) using the keywords "rheumatic mitral 
+disease," "tricuspid regurgitation," and "management." Eligible studies included 
+clinical trials, case series, reviews, and meta-analyses focusing on TR 
+associated with rheumatic mitral disease. Data was extracted and critically 
+appraised for study design, population, and outcome relevance.
+RESULTS: Evidence for managing TR in rheumatic mitral disease primarily stems 
+from retrospective cohorts and small prospective studies, with few randomized 
+trials. Predictors of TR progression include annular dilation (>21 mm/m²), right 
+ventricular dysfunction, pulmonary hypertension, and atrial fibrillation. Mild 
+TR generally regresses following mitral surgery and is managed conservatively. 
+For moderate TR, concomitant repair may prevent late progression and improve 
+hemodynamics, though risks of postoperative arrhythmia and pacemaker 
+implantation persist. Severe TR warrants surgical correction, preferably rigid 
+ring annuloplasty, while valve replacement is reserved for advanced calcific 
+disease. Emerging transcatheter therapies show promise for high-risk patients 
+but lack robust rheumatic-specific data.
+CONCLUSION: Optimal management of TR in rheumatic mitral disease requires 
+individualized, Heart Team-based decision-making due to limited high-quality 
+evidence. Future research should prioritize multicenter trials comparing repair, 
+replacement, and transcatheter approaches, integrating advanced imaging for risk 
+stratification and addressing access disparities in resource-limited settings.
+
+DOI: 10.48729/pjctvs.604
+PMID: 41719569 [Indexed for MEDLINE]
+
+
+10. J Clin Oncol. 2026 Feb 20:JCO2501808. doi: 10.1200/JCO-25-01808. Online ahead
+of  print.
+
+Axitinib and Long-Acting Octreotide in Advanced Extrapancreatic Neuroendocrine 
+Tumors: A Randomized, Double-Blind, Placebo-Controlled, Phase III Clinical Trial 
+(AXINET, GETNE 1107).
+
+Garcia-Carbonero R(1)(2)(3), Benavent M(4), Jimenez-Fonseca P(5), Alonso-Gordoa 
+T(6), Teulé A(7), Custodio A(8), Tafuto S(9), La Casta A(10), Spada F(11), López 
+C(12), Ibrahim T(13), Iranzo V(14), García-Alfonso P(15), González-Flores E(16), 
+Villanueva Silva MJ(17), Grande E(18), Panzuto F(19), Crespo G(20), Navarro 
+M(21), Castellano D(1)(2)(3), Hernando J(22), Morales-Herrero R(4), Iglesias 
+Álvarez G(5), Soldevilla B(2), Capdevila J(22).
+
+Author information:
+(1)Medical Oncology Department, Hospital Universitario 12 de Octubre, Madrid, 
+Spain.
+(2)Centro de Oncología Experimental (COE), Grupo de Investigación en Tumores 
+Gastrointestinales y Neuroendocrinos, Instituto de Investigación Sanitaria 
+Hospital 12 de Octubre (imas12), Madrid, Spain.
+(3)Facultad de Medicina, Departamento de Medicina, Universidad Complutense de 
+Madrid (UCM), Madrid, Spain.
+(4)Medical Oncology Department, University Hospital Virgen del Rocío, Instituto 
+de Biomedicina de Sevilla (IBIS), Seville, Spain.
+(5)Medical Oncology Department, Hospital Universitario Central de Asturias, 
+ISPA, Oviedo, Spain.
+(6)Medical Oncology Department, Hospital Universitario Ramón y Cajal, Madrid, 
+Spain.
+(7)Medical Oncology Department, Institut Català d'Oncologia (ICO) - IDIBELL, 
+L'Hospitalet de Llobregat, Barcelona, Spain.
+(8)Medical Oncology Department, Hospital Universitario La Paz, IdiPAZ, Madrid, 
+Spain.
+(9)Department for Sarcomas and Rare Tumors, Istituto tumouri Napoli Fondazione 
+G. Pascale, Napoli, Italy.
+(10)Medical Oncology Department, Hospital Universitario Donostia, San Sebastián, 
+Spain.
+(11)Division of Gastrointestinal Medical Oncology and Neuroendocrine tumour, 
+Istituto Europeo di Oncologia (IEO), IRCCS, Milan, Italy.
+(12)Medical Oncology Department, Hospital Universitario Marqués de Valdecilla, 
+IDIVAL, UNICAN, Santander, Spain.
+(13)Osteoncology and Rare Tumors Center, IRCCS Istituto Romagnolo per lo Studio 
+dei Tumori (IRST) "Dino Amadori," Meldola, Italy.
+(14)Medical Oncology Department, Hospital General Universitario de Valencia, 
+Valencia, Spain.
+(15)Medical Oncology Department, Hospital Universitario Gregorio Marañón, 
+Madrid, Spain.
+(16)Medical Oncology Department, Hospital Universitario Virgen de las Nieves, 
+Instituto de investigacion biosanitaria Ibs, Granada, Spain.
+(17)Medical Oncology Department, Hospital Álvaro Cunqueiro, Vigo, Spain.
+(18)Medical Oncology Department, MD Anderson Cancer Center Madrid, Madrid, 
+Spain.
+(19)Department of Medical-Surgical Sciences and Translational Medicine, Sapienza 
+University and Digestive Disease Unit, Sant'Andrea University Hospital, ENETS 
+Center of Excellence, Rome, Italy.
+(20)Medical Oncology Department, Hospital Universitario de Burgos, Burgos, 
+Spain.
+(21)Medical Oncology Department, Hospital Universitario de Salamanca, Salamanca, 
+Spain.
+(22)Medical Oncology Department, Hospital Universitario Vall d'Hebron, Vall 
+Hebron Institute of Oncology (VHIO), Barcelona, Spain.
+
+PURPOSE: Angiogenesis plays an essential role in neuroendocrine tumors (NETs). 
+This study evaluates efficacy and safety of axitinib in extrapancreatic 
+(ep)-NETs.
+PATIENTS AND METHODS: AXINET was an international, randomized, double-blind, 
+placebo-controlled, phase II/III trial including patients age 18 years and 
+older, with unresectable/metastatic G1-2 epNETs and up to two previous treatment 
+lines. Patients were randomly assigned (1:1) to axitinib 5 mg or placebo, both 
+orally twice a day, in combination with intramuscular octreotide long-acting 
+release 30 mg once every 28 days until disease progression or unacceptable 
+toxicity. Randomization was stratified by primary tumor site, Ki-67 index (≤5% 
+or >5%), and time from diagnosis (> or ≤12 months). The primary end point was 
+investigator-assessed progression-free survival (PFS). Efficacy was also 
+assessed by a blinded independent central review (BICR).
+RESULTS: From October 2011 to May 2019, 256 patients were assigned to axitinib 
+(n = 126) or placebo (n = 130). Investigator-assessed median PFS was 17.2 months 
+(95% CI, 13.6 to 24.7) versus 13.1 months (95% CI, 10.9 to 18.6) in the axitinib 
+and placebo groups, respectively (hazard ratio [HR], 0.86 [95% CI, 0.65 to 
+1.15]). The median BICR PFS was 16.6 months (95% CI, 13.5 to 24.2) versus 9.9 
+months (95% CI, 8.2 to 13.9) in the axitinib and placebo groups, respectively 
+(HR, 0.71 [95% CI, 0.54 to 0.94], P = .017). Objective response rate (ORR) was 
+significantly greater for axitinib per investigator assessment (17.5% v 4.6%; P 
+= .001) and BICR (12.8% v 3.2%; P = .005). Most common grade ≥3 toxicities were 
+hypertension (24.0% v 9.2%) and diarrhea (13.6% v 1.5%).
+CONCLUSION: Axitinib significantly increased PFS per BICR assessment and ORR 
+both per investigator and BICR assessment compared with placebo, although the 
+primary study end point was not met. Toxicity profile was manageable with no new 
+safety concerns.
+
+DOI: 10.1200/JCO-25-01808
+PMID: 41719493

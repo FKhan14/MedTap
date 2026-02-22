@@ -1,0 +1,664 @@
+1. J Neurol. 2026 Feb 22;273(2):159. doi: 10.1007/s00415-026-13693-5.
+
+Evaluation of a multidisciplinary neurological rehabilitation program for the 
+post-COVID-19 condition.
+
+Egger M(1), Strobl R(2)(3), Vogelgesang L(1), Reitelbach J(1), Grill E(2)(3), 
+Jahn K(4)(5).
+
+Author information:
+(1)Department of Neurology, Schoen Clinic Bad Aibling, Research Group, 
+Kolbermoorer Str. 72, 8303, Bad Aibling, Germany.
+(2)German Center for Vertigo and Balance Disorders, LMU University Hospital, LMU 
+Munich, Munich, Germany.
+(3)Institute for Medical Information Processing, Biometry and Epidemiology, LMU 
+Munich, Munich, Germany.
+(4)German Center for Vertigo and Balance Disorders, LMU University Hospital, LMU 
+Munich, Munich, Germany. Klaus.jahn@med.uni-muenchen.de.
+(5)Department of Neurology, Schoen Clinic Bad Aibling, Research Group, 
+Kolbermoorer Str. 72, 8303, Bad Aibling, Germany. 
+Klaus.jahn@med.uni-muenchen.de.
+
+OBJECTIVE: To evaluate a multidisciplinary therapy program with a neurological 
+focus for individuals with post-COVID-19 condition, aiming to reduce symptom 
+burden and improve functioning.
+DESIGN: Non-experimental prospective before-after study.
+SUBJECTS/PATIENTS: Individuals diagnosed with post-COVID-19 condition, defined 
+as experiencing persistent signs and symptoms for more than 12 weeks after 
+initial SARS-CoV-2 infection.
+METHODS: We conducted a 2 week multidisciplinary rehabilitation program at the 
+Schoen Clinic Bad Aibling, Germany. The intervention included multi-professional 
+therapies. Assessments were conducted at six time points: baseline at the start 
+of the 2-week control period, pre- and post-intervention, and at 2, 8, and 
+24 weeks post-intervention. Mixed-effects regression models were used to analyze 
+changes over time. Outcome measures included health-related quality of life 
+(HRQoL; EQ-5D-5L), fatigue, anxiety, depression, symptom severity, breathing 
+difficulties, cognitive function, functional disability, and performance 
+measures.
+RESULTS: A total of 47 participants (60% female; mean age 49 years; range 21-80) 
+were enrolled, with a median of 220 days (Q1: 156-Q3: 376) since initial 
+infection. No significant improvement in HRQoL, grip strength, cognitive 
+function, walking capacity, or balance was observed during the intervention 
+compared to the control period. Fatigue, anxiety, depression, symptom severity, 
+functional disability, and dyspnea improved significantly.
+CONCLUSION: This study indicates beneficial effects of a 2 week 
+multidisciplinary therapy program on symptom burden and functional outcomes of 
+the post-COVID-19 condition. Further research including randomized controlled 
+trials is warranted.
+TRIAL REGISTRATION: German Clinical Trials Register, DRKS00029415. Registered 04 
+July, 2022. Retrospectively registered. 
+https://drks.de/search/en/trial/DRKS00029415.
+
+© 2026. The Author(s).
+
+DOI: 10.1007/s00415-026-13693-5
+PMID: 41723756 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Conflicts of interest: All the 
+authors have no relevant financial or non-financial interests to disclose. 
+Ethical approval: This study was performed in line with the principles of the 
+Declaration of Helsinki. The study was approved by the medical ethics committee 
+of the Ludwig Maximilian University Munich (project no. 22–0310). Consent to 
+participate: Informed consent was obtained from all individual participants 
+included in the study.
+
+
+2. Eur J Pediatr. 2026 Feb 21;185(3):144. doi: 10.1007/s00431-026-06802-z.
+
+Prevalence, risk factors, and early prediction of refractory pneumonia caused by 
+Mycoplasma pneumoniae in children: a systematic review and meta-analysis.
+
+Huang X(#)(1), Huang D(#)(1), Wang W(1), Huang Y(1), Huang C(1), Wang G(2).
+
+Author information:
+(1)Zhongshan Women and Children's Hospital, Zhongshan Bo'ai Hospital Pediatrics, 
+No. 6 Chenggui Road, Zhongshan, 528400, Guangdong, China.
+(2)Zhongshan Women and Children's Hospital, Zhongshan Bo'ai Hospital Pediatrics, 
+No. 6 Chenggui Road, Zhongshan, 528400, Guangdong, China. er202150120@163.com.
+(#)Contributed equally
+
+Refractory Mycoplasma pneumoniae pneumonia (rMPP) poses significant challenges 
+in pediatric care due to delayed recognition and limited systematic evidence. 
+This meta-analysis evaluates the prevalence, risk factors, and predictive 
+accuracy of models for rMPP. We systematically searched PubMed, Cochrane 
+Library, and Web of Science until November 2024 for observational studies 
+involving children aged 0-18 years with rMPP. Study quality was assessed using 
+Newcastle-Ottawa and JBI scales. Data were analyzed via R4.4.2. Fifty-three 
+studies (n = 35,275) revealed an overall rMPP prevalence of 37.8% (95% CI 
+30.5-45.5%), with significant temporal variation: 33.1% pre-COVID-19, 42.0% 
+during, and 86.5% post-pandemic. Independent risk factors included elevated 
+lactate dehydrogenase (OR = 1.018), C-reactive protein (OR = 1.106), 
+procalcitonin (OR = 1.825), interleukin-6 (OR = 2.440), neutrophil count 
+(OR = 2.955), pleural effusion (OR = 4.469), mucus plugs (OR = 5.456), and older 
+age (OR = 1.188). Eleven prediction models demonstrated high accuracy, with 
+ROC-AUCs of 0.913 (training) and 0.895 (validation).
+CONCLUSION:  The prevalence of rMPP in children is significant and has increased 
+markedly since the COVID-19 pandemic. Key biomarkers and clinical features 
+facilitate early risk stratification, and validated predictive models improve 
+clinical decision-making. These findings highlight the urgent need for targeted 
+surveillance and customized interventions for high-risk populations.
+WHAT IS KNOWN: • Pneumonia caused by Mycoplasma pneumoniae in children can be 
+effectively controlled by first-line macrolide therapy. • However, there is 
+still a proportion of children who do not respond well to this treatment regimen 
+and develop refractory Mycoplasma pneumoniae due to macrolide resistance.
+WHAT IS NEW: • This review and meta-analysis show the incidence of refractory 
+Mycoplasma pneumonia and its potential risk factors. • Finding the feasibility 
+of constructing a predictive model that facilitates early prediction, to provide 
+evidence-based evidence for further in-depth clinical understanding of this 
+disease.
+
+© 2026. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, 
+part of Springer Nature.
+
+DOI: 10.1007/s00431-026-06802-z
+PMID: 41723336 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Ethics approval: Not applicable. 
+Consent to participate: Not applicable. Consent for publication: Not applicable. 
+Competing interests: The authors declare no competing interests.
+
+
+3. Sci Rep. 2026 Feb 21. doi: 10.1038/s41598-026-40518-2. Online ahead of print.
+
+Improved long-term prognosis of eosinophilic granulomatosis with polyangiitis: 
+retrospective analysis of 87 patients after biologic therapy introduction in 
+Japan.
+
+Yamashita Y(1)(2), Masumoto N(1), Takaoka S(1), Nakashima T(1), Matsunaga K(1), 
+Kodama Y(1), Terada K(1), Masumitsu H(1), Miyasaka A(1), Muraoka T(1), Kaneko 
+T(2), Tsurikisawa N(3)(4).
+
+Author information:
+(1)Department of Respirology, National Hospital Organization Yokohama Medical 
+Center, 3-60-2 Harajuku, Totsuka-ku, Yokohama, 245-8575, Japan.
+(2)Department of Pulmonology, Yokohama City University Graduate School of 
+Medicine, 3-9 Fukuura, Kanazawa-ku, Yokohama, 236-0004, Kanagawa, Japan.
+(3)Department of Respirology, National Hospital Organization Yokohama Medical 
+Center, 3-60-2 Harajuku, Totsuka-ku, Yokohama, 245-8575, Japan. 
+User831328@aol.com.
+(4)Department of Pulmonology, Yokohama City University Graduate School of 
+Medicine, 3-9 Fukuura, Kanazawa-ku, Yokohama, 236-0004, Kanagawa, Japan. 
+User831328@aol.com.
+
+Five-year survival in eosinophilic granulomatosis with polyangiitis (EGPA) 
+exceeds 90%, but long-term prognosis is poor. We examined prognosis in 87 
+Japanese EGPA patients, seen between April 2018 and December 2024, after 
+mepolizumab introduction. Primary outcomes were survival rate, relapse rate, and 
+associated clinical factors. The 5-, 10-, and 20-year survival rates were 95.0%, 
+91.4%, and 85.2%, respectively. Nine patients died (mean age at death, 
+74.8 ± 6.6 years), with six deaths due to aspiration or bacterial pneumonia; 
+none was due to active vasculitis. Older age at onset (p = 0.003) and BVAS at 
+diagnosis (p = 0.011) were associated with poorer survival, but myocardial 
+involvement (p = 0.43) and FFS2009 (p = 0.41) were not. Mepolizumab was 
+administered to 69% of patients, many with cardiac involvement and frequent 
+relapses (defined as disease occurrence at least once every 2 years after 
+initial remission). Frequent relapses were associated with myocardial 
+involvement (p = 0.021) and mepolizumab administration (p = 0.032). Long-term 
+prognosis appeared favorable, with no deaths attributed to active vasculitis. 
+Survival was comparable between the mepolizumab-treated and untreated groups, 
+which included patients with severe and less severe disease, respectively; 
+therefore, an independent effect of mepolizumab on prognosis could not be 
+confirmed.
+
+© 2026. The Author(s).
+
+DOI: 10.1038/s41598-026-40518-2
+PMID: 41723230
+
+Conflict of interest statement: Declarations. Competing interests: The authors 
+declare no competing interests. Ethics approval and consent to participate: The 
+Ethics Committee of our hospital approved the study, and written informed 
+consent was obtained from all patients or their legal representatives. Human 
+Subject Protection Committee approvals at Hiratsuka City Hospital (30 − 013) and 
+the National Hospital Organization Yokohama Medical Center (2022-06) were 
+obtained for the retrospective review of existing medical records. Consent for 
+publication: Written informed consent was obtained from all patients or their 
+legal representatives.
+
+
+4. Bull Math Biol. 2026 Feb 21;88(3):42. doi: 10.1007/s11538-026-01593-8.
+
+Modeling and Simulation of the Role of Mass Testing in Controlling COVID-19.
+
+Maranhão A(1), Ridenti MA(2), Chaves AJ(1).
+
+Author information:
+(1)Department of Physics, Aeronautics Institute of Technology, Praça Marechal 
+Eduardo Gomes, 50, 12228-900, São José dos Campos, SP, Brazil.
+(2)Department of Physics, Aeronautics Institute of Technology, Praça Marechal 
+Eduardo Gomes, 50, 12228-900, São José dos Campos, SP, Brazil. aridenti@ita.br.
+
+This study explores the role of mass testing in controlling the COVID-19 
+pandemic using an age-stratified compartmental model. The model evaluates the 
+impact of different testing strategies on the pandemic's reproduction number, R0 
+, while also considering social distancing measures and demographic 
+characteristics. The analysis highlights the importance of combining mass 
+testing with isolation strategies to reduce the spread of the virus. The 
+simulations demonstrate that in countries characterized by high levels of 
+elderly cohabitation with younger individuals, vertical isolation is 
+insufficient; horizontal isolation with work restrictions, alongside testing and 
+susceptibility reduction measures, is crucial. For aged developed countries, 
+where cohabitation of the elderly with younger individuals is less prevalent, 
+and for least developed countries, where the population has a predominantly 
+youthful age structure, pandemic control is more feasible with fewer tests. The 
+study also emphasizes the critical role of identifying asymptomatic cases to 
+achieve optimal epidemic control. Lastly, the cost-effectiveness of various 
+testing strategies is examined, providing insights for public health policy 
+decision-making.
+
+© 2026. The Author(s).
+
+DOI: 10.1007/s11538-026-01593-8
+PMID: 41721946 [Indexed for MEDLINE]
+
+
+5. Nat Commun. 2026 Feb 20. doi: 10.1038/s41467-026-69539-1. Online ahead of
+print.
+
+Phosphoglycerate dehydrogenase-mediated serine reprogramming aggravates 
+macrophage hyperinflammation in murine Pseudomonas aeruginosa pneumonia.
+
+Chen R(#)(1)(2)(3), Zeng R(#)(1)(2)(3), Shi M(1)(2)(3), Zhang G(1)(2)(3), Wang 
+F(1)(2)(3), Yang Q(1)(2)(3), Jiang Y(1)(2)(3), Zhang Y(1)(2)(3), Li Y(4)(5)(6), 
+Qu J(7)(8)(9).
+
+Author information:
+(1)Department of Pulmonary and Critical Care Medicine, Ruijin Hospital, Shanghai 
+Jiao Tong University School of Medicine, Shanghai, China.
+(2)Institute of Respiratory Diseases, Shanghai Jiao Tong University School of 
+Medicine, Shanghai, China.
+(3)Shanghai Key Laboratory of Emergency Prevention, Diagnosis and Treatment of 
+Respiratory Infectious Diseases, Shanghai, China.
+(4)Department of Pulmonary and Critical Care Medicine, Ruijin Hospital, Shanghai 
+Jiao Tong University School of Medicine, Shanghai, China. liyn1005@163.com.
+(5)Institute of Respiratory Diseases, Shanghai Jiao Tong University School of 
+Medicine, Shanghai, China. liyn1005@163.com.
+(6)Shanghai Key Laboratory of Emergency Prevention, Diagnosis and Treatment of 
+Respiratory Infectious Diseases, Shanghai, China. liyn1005@163.com.
+(7)Department of Pulmonary and Critical Care Medicine, Ruijin Hospital, Shanghai 
+Jiao Tong University School of Medicine, Shanghai, China. jmqu0906@163.com.
+(8)Institute of Respiratory Diseases, Shanghai Jiao Tong University School of 
+Medicine, Shanghai, China. jmqu0906@163.com.
+(9)Shanghai Key Laboratory of Emergency Prevention, Diagnosis and Treatment of 
+Respiratory Infectious Diseases, Shanghai, China. jmqu0906@163.com.
+(#)Contributed equally
+
+Metabolic reprogramming in immune cells can determine the outcome of pathogen 
+infection. For Pseudomonas aeruginosa, a clinically challenging pathogen, it 
+remains unclear whether the host can exploit this strategy to combat bacterial 
+invasion. Here, we identify phosphoglycerate dehydrogenase as a key mediator of 
+macrophage inflammation during Pseudomonas aeruginosa infection. Pharmacological 
+and genetic inhibition of phosphoglycerate dehydrogenase suppress macrophage 
+hyperactivation and the production of pro-inflammatory cytokines. In a murine 
+model of Pseudomonas aeruginosa pneumonia, myeloid-specific deletion of 
+phosphoglycerate dehydrogenase improves survival, alleviates lung injury, and 
+reduces bacterial load. Similarly, dietary restriction of L-serine improves 
+prognosis in infected mice. Mechanistically, phosphoglycerate dehydrogenase 
+fuels L-serine synthesis to augment one-carbon metabolism, which strengthens the 
+direct interaction between histone H3 lysine 27 trimethylation and 
+dual-specificity phosphatase 4. This cascade ultimately promotes extracellular 
+signal-regulated kinase 1/2 phosphorylation. Our study uncovers a 
+metabolism-epigenetics crosstalk that amplifies macrophage inflammation, 
+proposing metabolic modulation as a therapeutic strategy for bacterial 
+pneumonia.
+
+© 2026. The Author(s).
+
+DOI: 10.1038/s41467-026-69539-1
+PMID: 41720766
+
+Conflict of interest statement: Competing interests: The authors declare no 
+competing interests.
+
+
+6. Lancet Psychiatry. 2026 Mar;13(3):233-247. doi: 10.1016/S2215-0366(25)00397-9.
+
+A digital imagery-competing task intervention for stopping intrusive memories in 
+trauma-exposed health-care staff during the COVID-19 pandemic in the UK: a 
+Bayesian adaptive randomised clinical trial.
+
+Beckenstrom AC(1), Bonsall MB(2), Markham A(1), Slade O(1), Ramineni V(1), 
+Iyadurai L(1), Islam Z(1), Highfield J(3), Jaki T(4), Goodwin GM(5), Dias R(1), 
+Daniels R(1), Malik A(1), Summers C(6), Kingslake J(1), Holmes EA(7).
+
+Author information:
+(1)P1vital Products, Wallingford, UK.
+(2)Mathematical Ecology Research Group, Department of Biology, University of 
+Oxford, Oxford, UK; St Peter's College, University of Oxford, Oxford, UK.
+(3)Intensive Care Society, London, UK.
+(4)University of Regensburg, Regensburg, Bavaria, Germany; MRC Biostatistics 
+Unit, University of Cambridge, Cambridge, UK.
+(5)Department of Psychiatry, University of Oxford, Oxford, UK.
+(6)Victor Phillip Dahdaleh Heart & Lung Research Institute, University of 
+Cambridge, Cambridge, UK.
+(7)Department of Women's and Children's Health, Uppsala University, Uppsala, 
+Uppsala County, Sweden; School of Psychology, Faculty of Environmental and Life 
+Sciences, University of Southampton, Southampton, UK. Electronic address: 
+emily.holmes@uu.se.
+
+BACKGROUND: Psychological trauma, such as witnessing an untimely or gruesome 
+death, commonly provokes intrusive memories that might persist for days to years 
+with adverse effects on individual mental and physical health and functioning. 
+Despite the global prevalence of trauma, scalable evidence-based interventions 
+are absent. Reducing the impact of intrusive memories is crucial for people 
+frequently exposed to trauma, such as health-care workers. This study aimed to 
+determine whether a brief digital imagery-competing task intervention (ICTI) 
+reduced intrusive memory frequency after 4 weeks. Harms were also assessed.
+METHODS: The GAINS-02 decentralised digital, parallel-group Bayesian adaptive 
+randomised controlled trial tested a brief ICTI against an active control and 
+treatment as usual to determine the effect on reducing intrusive memory 
+frequency. Health-care workers in facilities that admitted patients with 
+COVID-19 during the pandemic, who had experienced one or more traumatic events 
+and reported at least three intrusive memories in the week before screening were 
+randomised 2:2:1 (ICTI to active control to treatment as usual) via block 
+randomisation (web-based). ICTI and active control participants were masked to 
+treatment allocation, and both had one guided session then optional self-use. 
+ICTI involved image-based memory retrieval then Tetris computer gameplay with 
+mental rotation. The active control involved a music-listening task. Study 
+statisticians were masked to ICTI and active control group. The primary outcome 
+was the number of intrusive memories in week 4 (controlling for baseline), which 
+was evaluated on an intention-to-treat basis. Treatment effects for the 
+intervention group versus the comparator groups were assessed using Bayes 
+regression analyses. Harms were assessed through adverse event reporting and 
+interim analyses on primary outcome. People with lived experience were involved 
+from study conception and throughout the research and writing process. The trial 
+was pre-registered at clinicaltrials.gov (NCT05616676) and is completed.
+FINDINGS: Between Dec 8, 2022, and Sept 15, 2023, 176 participants were screened 
+and 99 included (ICTI n=40, active control n=39, treatment as usual n=20) with 
+mean age 41·2 years (SD 10·2; range 21-62). Of these 99 participants, 85 (86%) 
+self-identified as women and 89 (90%) as White. Bayesian analyses gave robust 
+evidence that ICTI reduced intrusive memories at week 4: ICTI participants 
+reported fewer intrusive memories (median 0·5 [IQR 0·0-5·0]) compared with the 
+active control (active control 5·0 [3·0-11·5]; Bayes factor [BF]active 
+control>ICTI vs active control=ICTI 114·1; βactive control>ICTI 1·29 [95% CrI 
+0·64-2·00]) and treatment as usual (median 5·0 [IQR 2·5-8·0]; BFtreatment as 
+usual>ICTI vs treatment as usual=ICTI=15·8; βtreatment as usual>ICTI 1·21 [95% 
+CrI 0·49-1·98]) groups. No harms were detected for ICTI relative to the active 
+control and treatment as usual. The most reported adverse event (n=7) was 
+COVID-19. Two adverse events involved burden of diary recording. Serious adverse 
+events were hospitalisations unrelated to study procedures (n=6).
+INTERPRETATION: This study shows that ICTI reduces intrusive memory frequency 
+and post-traumatic stress disorder symptoms among health-care workers exposed to 
+trauma. As a brief, scalable digital intervention, ICTI shows promise for 
+mitigating consequences of trauma on mental health, an important and unmet need 
+for health-care personnel and systems worldwide.
+FUNDING: Wellcome Trust, Swedish Research Council, UK Medical Research Council, 
+and National Institute for Health and Care Research.
+
+Copyright © 2026 The Author(s). Published by Elsevier Ltd. This is an Open 
+Access article under the CC BY 4.0 license. Published by Elsevier Ltd.. All 
+rights reserved.
+
+DOI: 10.1016/S2215-0366(25)00397-9
+PMCID: PMC12916470
+PMID: 41720573 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests JK is a shareholder and 
+director of P1vital Products, which is the study sponsor and manufacturer of 
+i-spero and P1vital ePRO systems. ACB, AMar, OS, RDi, AMal, and RDa are employed 
+by P1vital Products, and VR, LI, and ZI are previous employees of this company. 
+RDi is a director and holds share options in P1vital Products. ACB and AMal hold 
+share options in P1vital Products. JH is Co-Chair of Psychologists in Intensive 
+Care UK and Chief Psychological Professions Officer at Gloucestershire Hospitals 
+NHS Foundation Trust. CS's salary is partly funded by the National Institute for 
+Health Research (NIHR133788) and Medical Research Council (MR/S035753/1 and 
+MR/X005070/1). CS is Chair of the Experimental Medicine Panel (UK Research and 
+Innovation–Medical Research Council) and gave evidence as an expert witness to 
+the UK's national COVID inquiry. Her evidence included a summary of the 
+published work on the impact of COVID 19 on the wellbeing of staff working in 
+intensive care units during the pandemic. CS is a Trustee and non-executive 
+member of the Board of Directors of the Science Media Centre UK (unpaid). TJ is 
+supported by a grant from UK Medical Research Council (MC_UU_00002/14). EAH has 
+received funding from the Wellcome Trust (223016/Z/21/Z), the Swedish Research 
+Council (2020–00873), the Oak Foundation (OCAY-18–442), and Wellcome Leap. EAH 
+is on the Board of Trustees of the MQ Foundation (unpaid). EAH developed the 
+imagery-competing task intervention for intrusive memories and founded 
+Afterimagery AB, a company registered in Sweden (holding ANEMONE™). EAH receives 
+book royalties from Guildford Press and Oxford University Press and receives 
+occasional honoraria for conference keynotes and clinical workshops. GMG is 
+Chief Medical Officer at Compass pathways; holds shares and share options in 
+Compass pathways PLC; and has served as consultant, advisor, or CME speaker in 
+the past 5 years for Beckley Psytech, Boeringer Ingelheim, Clerkenwell Health, 
+Compass pathways, Eli Lily, Evapharma, Janssen, Medscape, Novartis, Ocean 
+Neuroscience, Servier, Signant Health, Sun pharma, and Takeda. All other authors 
+declare no competing interests. The views expressed are those of the authors and 
+not necessarily those of the National Health Service, the National Institute for 
+Health and Care Research, or the Department of Health and Social Care.
+
+
+7. J Infect. 2026 Feb 18:106709. doi: 10.1016/j.jinf.2026.106709. Online ahead of
+ print.
+
+The nationwide genomic characteristics and phylogenetic evolution of ST23-K1 
+hypervirulent Klebsiella pneumoniae in relation to virulence and antimicrobial 
+resistance acquisition.
+
+Shi Q(1), Huang W(1), Hu D(1), Zhang P(1), Chen X(1), Hu H(2), Wang Y(1), Zhou 
+J(1), Weng R(1), Quan J(1), Zhao D(1), Du X(1), Yu Y(3), Jiang Y(4).
+
+Author information:
+(1)Department of Infectious Diseases, Sir Run Run Shaw Hospital, Zhejiang 
+University School of Medicine, Hangzhou, China; Key Laboratory of Microbial 
+Technology and Bioinformatics of Zhejiang Province, Hangzhou, China; Regional 
+Medical Center for National Institute of Respiratory Diseases, Sir Run Run Shaw 
+Hospital, Zhejiang University School of Medicine, Hangzhou, China.
+(2)Center for General Practice Medicine, Department of Infectious Diseases, 
+Zhejiang Provincial People's Hospital, Hangzhou Medical College Affiliated 
+People's Hospital, Hangzhou, China.
+(3)Department of Infectious Diseases, Sir Run Run Shaw Hospital, Zhejiang 
+University School of Medicine, Hangzhou, China; Key Laboratory of Microbial 
+Technology and Bioinformatics of Zhejiang Province, Hangzhou, China; Regional 
+Medical Center for National Institute of Respiratory Diseases, Sir Run Run Shaw 
+Hospital, Zhejiang University School of Medicine, Hangzhou, China. Electronic 
+address: yvys119@zju.edu.cn.
+(4)Department of Infectious Diseases, Sir Run Run Shaw Hospital, Zhejiang 
+University School of Medicine, Hangzhou, China; Key Laboratory of Microbial 
+Technology and Bioinformatics of Zhejiang Province, Hangzhou, China; Regional 
+Medical Center for National Institute of Respiratory Diseases, Sir Run Run Shaw 
+Hospital, Zhejiang University School of Medicine, Hangzhou, China; Zhejiang Key 
+Laboratory of Precise Diagnosis and Treatment of Abdominal Infection, Hangzhou, 
+China. Electronic address: jiangy@zju.edu.cn.
+
+OBJECTIVES: Hypervirulent Klebsiella pneumoniae (hvKp) ST23-K1 poses a global 
+health threat due to its high virulence and increasing antimicrobial resistance. 
+This study aimed to characterize the genomic feature and phylogenetic evolution 
+of ST23-K1 in China.
+METHODS: K1 isolates from a nationwide epidemiological surveillance project 
+underwent whole-genome sequencing. Virulence was assessed using 
+hypermucoviscosity phenotyping and a murine infection model. For ST23-K1 
+carrying acquired antimicrobial resistance genes (ARGs), the CRISPR/Cas system, 
+protospacers, anti-CRISPR (Acr) genes, and plasmidome were characterized. 
+Time-resolved phylogenetic analysis was performed using integrated locally 
+generated and publicly available data.
+RESULTS: Among 400 K1 isolates, ST23 was the most prevalent sequence type, and 
+its effective population size increased following CG23-I divergence. The CG23-I 
+sub-lineage was widely distributed nationwide with limited evidence of clonal 
+transmission. Isolates with an incomplete cps locus exhibited significantly 
+reduced virulence compared with those carrying an intact locus. The prevalence 
+of extended-spectrum β-lactamase-positive ST23-K1 isolates increased over time, 
+whereas carbapenemase-producing isolates remained stable. Among acquired 
+ARGs-positive ST23-K1 isolates, a conserved protospacer corresponding to a 
+prevalent spacer was identified. This protospacer, together with AcrIE genes, 
+were frequently co-located on IncFII-type plasmids.
+CONCLUSION: ST23-K1 remains a hypervirulent lineage undergoing ongoing 
+evolutionary expansion. The presence of acquired ARGs in ST23-K1 may be 
+associated with AcrIE-harboring IncFII plasmids, and functional validation is 
+required to clarify the underlying mechanisms. Continuous genomic surveillance 
+is essential to monitor the evolution and antimicrobial resistance trends of 
+ST23-K1.
+
+Copyright © 2026. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.jinf.2026.106709
+PMID: 41720308
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+8. PLoS One. 2026 Feb 20;21(2):e0343207. doi: 10.1371/journal.pone.0343207. 
+eCollection 2026.
+
+Trends and associations of pulmonary nodule detection rates in China, 2019-2023: 
+A multicenter cross-sectional study based on Real-World Data.
+
+Li J(1), Xie Z(2), Chen Y(3), Jin G(4), Lin H(5), Xu Q(6), Meng Z(7), Liang 
+L(8), Chen H(9), Guo S(10), Li X(11), Li H(12), Liu M(13), Li Y(14), Liao Y(15), 
+Ming M(16), Zhou S(17), Wu Y(18), Huang X(19), Deng W(20), Hou Y(21), Zhang 
+J(22), Li C(1).
+
+Author information:
+(1)Department of Emergency Medicine/Department of Respiratory Medicine, The 
+First Affiliated Hospital of Guangxi Medical University, Nanning, China.
+(2)Department of Tuberculosis, The Fourth People's Hospital of Nanning, Nanning, 
+China.
+(3)Department of General Practice, Guangxi Zhuang Autonomous Region Ethnic 
+Hospital, Nanning, China.
+(4)Department of Emergency and Interventional Medicine, The First Affiliated 
+Hospital of Hainan Medical University, Haikou, China.
+(5)Department of Critical Care Medicine, The First Affiliated Hospital of 
+Guangxi University of Chinese Medicine, Nanning, China.
+(6)Department of General Practice, Guilin People's Hospital, Guilin, China.
+(7)Department of Radiology, The People's Hospital of Longzhou, Chongzuo, China.
+(8)Department of Emergency Medicine, Rongxian County People's Hospital, Yulin, 
+China.
+(9)Department of Respiratory Medicine, Zhuzhou Central Hospital, Zhuzhou, China.
+(10)Department of Respiratory Medicine, The University of Hong Kong-Shenzhen 
+Hospital, Shenzhen, China.
+(11)Department of Emergency Medicine, Wuzhou Maternal and Child Health-Care 
+Hospital, Wuzhou, China.
+(12)Department of Emergency Medicine, The Second Affiliated Hospital of Shandong 
+First Medical University, Tai'an, China.
+(13)Department of Respiratory Medicine, The First People's Hospital of Zhaoqing, 
+Zhaoqing, China.
+(14)Department of Emergency Medicine, Xingye County People's Hospital, Yulin, 
+China.
+(15)Department of Radiology, Qintang District People's Hospital, Guigang, China.
+(16)Department of Respiratory Medicine, Liuzhou Worker's Hospital, Liuzhou, 
+China.
+(17)Department of Respiratory Medicine, Changsha Central Hospital, Changsha, 
+China.
+(18)Department of Respiratory Medicine, The Affiliated Hospital of Southwest 
+Medical University, Luzhou, China.
+(19)Department of Respiratory Medicine, Beihai People's Hospital, Beihai, China.
+(20)Department of Emergency Medicine, The People's Hospital of Longhua, 
+Shenzhen, Shenzhen, China.
+(21)Department of Critical Care Medicine, The First Affiliated Hospital of 
+Xiamen University, Xiamen, China.
+(22)Department of Emergency Medicine, Wuming Hospital of Guangxi Medical 
+University, Nanning, China.
+
+The post-coronavirus disease 2019 (COVID-19) pulmonary sequelae have garnered 
+public concern. We conducted a multicenter cross-sectional study in outpatient 
+and health exam populations from 23 clinical centers (including 
+university-affiliated/provincial general hospitals, municipal general hospitals, 
+county hospitals, and specialized hospitals) in China (2019-2023), to assess 
+temporal trends and potential influencing factors in the detection of 
+CT-diagnosed pulmonary nodules, pleural effusion, pneumonia, and suspected lung 
+tumors, cancer and viral pneumonia, clarifying pandemic impacts on lung health. 
+Dynamic comparisons across key phases including initial outbreak, vaccine 
+rollout, population-wide vaccination, and major adjustment of pandemic control 
+policies, were performed. This study analyzed 1,616,750 clinical samples 
+(1,102,605 outpatient, 514,145 health examination; 885,945 males, 730,805 
+females). Pulmonary nodule detection rose progressively, with surges in 
+2020-2021 and 2023, plateauing in 2021-2022. Outpatients and males showed 
+steeper increases. University-affiliated/provincial hospitals had sharpest 
+increases vs. municipal and county tiers. Specialized hospitals matched general 
+hospital rates. AI boosted detection rates. CT-suspected lung tumors/cancer 
+remained low and stable, unrelated to nodule trends. These results underscore 
+2019-2023 pulmonary nodule detection surges linked to SARS-CoV-2 infections and 
+AI adoption. COVID-19 vaccination did not accelerate detection but may have 
+slowed it short-term. Long-term studies on infection, vaccine impacts and 
+pandemic-detected nodules' outcomes are urgently needed.
+
+Copyright: © 2026 Li et al. This is an open access article distributed under the 
+terms of the Creative Commons Attribution License, which permits unrestricted 
+use, distribution, and reproduction in any medium, provided the original author 
+and source are credited.
+
+DOI: 10.1371/journal.pone.0343207
+PMCID: PMC12923060
+PMID: 41719243 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.
+
+
+9. J Vet Diagn Invest. 2026 Feb 20:10406387261421554. doi: 
+10.1177/10406387261421554. Online ahead of print.
+
+Histologic patterns of chronic interstitial lung diseases in dogs, cats, and 
+humans: a review.
+
+Donovan TA(1), Daverio H(1).
+
+Author information:
+(1)Schwarzman Animal Medical Center, New York, NY, USA.
+
+Interstitial lung diseases (ILDs) are diverse conditions affecting the lung 
+parenchyma, with variable patterns and amounts of inflammation and fibrosis 
+within the interstitium, resulting in impaired gas exchange. Classification of 
+this disparate group of diseases in humans is achieved by collaboration among 
+specialists, including clinicians, radiologists, and pathologists. In contrast, 
+such collaborative frameworks are implemented less often in veterinary medicine. 
+This discrepancy has been addressed in a published classification scheme derived 
+from human medicine to facilitate future characterization, with 3 primary 
+categories: 1) idiopathic, 2) ILDs with known causes, and 3) miscellaneous and 
+other conditions. Differentiating between clinically defined entities and 
+histologic patterns is essential because they often share similar terminology. 
+Interpretation of lung samples from dogs and cats with ILDs requires 
+pathologists to recognize and describe histologic patterns, which can be 
+correlated retrospectively with clinical and imaging data to broaden our 
+knowledge base. Here, we review chronic ILDs in dogs and cats, with comparisons 
+to human counterparts, highlighting their definitions, current classification 
+systems, histologic patterns, and established or proposed etiologies. We discuss 
+the potential role of molecular and genetic approaches in advancing our 
+understanding and diagnosis of ILDs. Chronic disorders encompassing the 
+idiopathic and known entities are addressed, excluding miscellaneous ILDs or 
+alveolar-filling disorders. Our goal is to better define ILD entities in 
+domestic small-animal patient populations, which may aid antemortem 
+identification and elucidation of treatment options for improved patient care.
+
+DOI: 10.1177/10406387261421554
+PMCID: PMC12923374
+PMID: 41719056
+
+Conflict of interest statement: The authors declared no potential conflicts of 
+interest with respect to the research, authorship, and/or publication of this 
+article.
+
+
+10. Microbiol Spectr. 2026 Feb 20:e0330825. doi: 10.1128/spectrum.03308-25.
+Online  ahead of print.
+
+Suboptimal ceftazidime-avibactam exposure drives sequential bla(KPC) mutations 
+and intra-host coexistence of Klebsiella pneumoniae harboring distinct variants 
+leading to persistent infection.
+
+Yang F(#)(1)(2)(3), Yang W(#)(1)(3)(4), Zhang J(#)(2), Tang C(1)(3)(4), Ding 
+L(1)(3)(4), Shen S(1)(3)(4), Zhou Y(1)(3)(4), Zhao H(5), Zhou J(5), Hu 
+F(1)(3)(4).
+
+Author information:
+(1)Institute of Antibiotics, Huashan Hospital, Fudan University, Shanghai, 
+China.
+(2)Department of Laboratory Medicine, Huadong Hospital, Fudan University, 
+Shanghai, China.
+(3)Joint Laboratory of Hospital & Enterprise for Pathogen Diagnosis of 
+Drug-resistant Bacterial Infections and Innovative Drug R&D, Shanghai, China.
+(4)Key Laboratory of Clinical Pharmacology of Antibiotics, Ministry of Health, 
+Shanghai, China.
+(5)Department of Respiratory and Critical Care Medicine, Huadong Hospital, Fudan 
+University, Shanghai, China.
+(#)Contributed equally
+
+KPC-producing Klebsiella pneumoniae infections are a rising global health 
+threat. The factors driving blaKPC mutations during treatment and their 
+contribution to infection persistence remain unclear. This study characterized 
+blaKPC evolution under reduced-dose ceftazidime-avibactam therapy for renal 
+impairment, using 10 sequential K. pneumoniae isolates (showing resistance 
+shifts) collected from a single patient during a persistent infection. 
+Antimicrobial susceptibility was determined by broth microdilution. Whole-genome 
+sequencing was used to investigate blaKPC evolution. Time-kill assays assessed 
+bactericidal and selective effects. Plasmid transformation and cloning assays 
+validated blaKPC phenotypes. Four blaKPC subtypes (blaKPC-2, blaKPC-33, 
+blaKPC-71, and blaKPC-145) were identified. Functional validation confirmed that 
+blaKPC-2 conferred carbapenem resistance, while the three variants mediated 
+ceftazidime-avibactam resistance. Tracing their evolutionary trajectory revealed 
+seven sequential mutation events during dose-adjusted ceftazidime-avibactam and 
+carbapenem therapy, ultimately yielding the four observed subtypes. These 
+mutations appeared to accumulate stepwise from blaKPC-2 to blaKPC-33 (D179Y) and 
+blaKPC-145 (D179Y, T264A), which progressively increased ceftazidime-avibactam 
+MICs. Molecular docking predicted variant-specific alterations in avibactam 
+binding. Time-kill assays showed that 1×MIC/sub-MIC ceftazidime-avibactam 
+suppressed but failed to eradicate the blaKPC-2-harboring isolate, potentially 
+facilitating blaKPC-2 evolution. Multiple blaKPC variants coexisted within the 
+same specimen, indicating intra-host heterogeneity. These reversible blaKPC 
+mutations disappeared after 8 days of combined imipenem and 
+ceftazidime-avibactam therapy. Meropenem-vaborbactam, imipenem-relebactam, and 
+aztreonam-avibactam showed in vitro activity against both KPC- and KPC 
+variant-producing isolates. In conclusion, suboptimal ceftazidime-avibactam 
+exposure may promote sequential blaKPC-2 mutations and intra-host variants 
+coexistence, driving persistent infection. These findings highlight the urgent 
+need for improved therapeutic strategies against KPC/KPC variant-producing 
+strains.
+IMPORTANCE: Klebsiella pneumoniae, especially those producing KPC or KPC variant 
+enzymes, represent a growing threat to global health due to limited treatment 
+options and frequent therapeutic failure. The emergence of blaKPC mutations 
+during treatment further complicates therapy, as these mutations can lead to 
+shifts in resistance profiles. Understanding the patterns and driving factors 
+behind blaKPC mutations is crucial for developing more effective treatment 
+strategies. This study shows that dose reduction of ceftazidime-avibactam during 
+treatment for renal impairment can promote potential stepwise mutations in 
+blaKPC, leading to the emergence of multiple variants with corresponding 
+resistance shifts. Moreover, insufficient ceftazidime-avibactam and carbapenems 
+fail to eradicate the bacteria, allowing the coexistence of K. pneumoniae 
+subpopulations carrying distinct blaKPC variants within a single patient. The 
+findings highlight the need for individualized treatment regimens and optimized 
+dosing and combination strategies to limit the emergence and persistence of KPC 
+variant-producing K. pneumoniae during therapy.
+
+DOI: 10.1128/spectrum.03308-25
+PMID: 41718480

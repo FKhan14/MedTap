@@ -1,0 +1,479 @@
+1. Int J Biol Macromol. 2026 Feb 19:151029. doi: 10.1016/j.ijbiomac.2026.151029. 
+Online ahead of print.
+
+Antiulcer and laxative potential of polysaccharides from the ripe seed pulp of 
+Delonix regia: A preliminary study.
+
+Ghorpade VS(1), Mali KK(2), Dias RJ(3), Salunkhe NH(4), Mali SS(5), Havaldar 
+VD(5), Mahajan NS(4).
+
+Author information:
+(1)Department of Pharmaceutics, Krishna Institute of Pharmacy, Krishna Vishwa 
+Vidyapeeth (Deemed to be University), Karad, 415539, Maharashtra, India.
+(2)Department of Pharmaceutics, Adarsh College of Pharmacy, Near MIDC, Khambale 
+(Bha.), Vita, Tal-Khanapur 415311 Dist-Sangli, Maharashtra, India. Electronic 
+address: malikailas@gmail.com.
+(3)Department of Pharmacy, Government College of Pharmacy, Karad 415124 
+Dist-Satara, Maharashtra, India.
+(4)Department of Pharmaceutics, Adarsh College of Pharmacy, Near MIDC, Khambale 
+(Bha.), Vita, Tal-Khanapur 415311 Dist-Sangli, Maharashtra, India.
+(5)Department of Pharmacy, Adarsh Institute of Pharmacy, Vita-Kundal Road, 
+Bhavaninagar, Tal-Khanapur 415311 Dist-Sangli, Maharashtra, India.
+
+Ulcers are a major global health problem, affecting nearly 10-15% of the 
+population. Peptic ulcers, particularly gastric and duodenal ulcers, may 
+progress to severe complications, including malignancy, if left untreated. 
+Polysaccharides derived from natural sources are increasingly recognized for 
+their gastroprotective and laxative effects. This study investigated the 
+antiulcer and laxative activities of polysaccharides extracted from the ripe 
+seed pulp of Delonix regia (DRSP) using experimental animal models. DRSP was 
+extracted via ethanol precipitation and characterized using phytochemical 
+screening, ATR-FTIR, TGA, and XRD analyses. Antioxidant activity was determined 
+using free radical scavenging assays. Acute oral toxicity was assessed according 
+to OECD Guideline 423. Antiulcer activity was evaluated in ethanol- and 
+ibuprofen-induced rat models by measuring the gastric content, acidity, ulcer 
+index, and histopathology. Laxative activity was studied in a loperamide-induced 
+constipation model and validated using a charcoal meal gastrointestinal transit 
+test. DRSP was confirmed to be a neutral, swallowable polysaccharide exhibiting 
+characteristic functional groups and a semi-crystalline structure. It exhibited 
+notable antioxidant activity (IC50: 639.47 μg/mL) and was safe at 2000 mg/kg in 
+acute toxicity studies. In ulcer models, DRSP (300-600 mg/kg) significantly 
+reduced gastric volume, free acidity, ulcer score, and ulcer index, while 
+increasing gastric pH, protection percentage, and mucosal healing. In 
+constipated animals, DRSP improved laxation by enhancing moist fecal weight and 
+gastrointestinal transit ratio, with efficacy comparable to that of bisacodyl. 
+These findings demonstrate that DRSP possesses dual antiulcer and laxative 
+effects, likely mediated through antioxidant and cytoprotective mechanisms, 
+supporting its potential as a natural therapeutic agent.
+
+Copyright © 2026. Published by Elsevier B.V.
+
+DOI: 10.1016/j.ijbiomac.2026.151029
+PMID: 41722794
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper. The author is an Editorial Board Member/Editor-in-Chief/Associate 
+Editor/Guest Editor for [International Journal of Biological Macromolecules] and 
+was not involved in the editorial review or the decision to publish this 
+article.
+
+
+2. BMC Musculoskelet Disord. 2026 Feb 20. doi: 10.1186/s12891-026-09621-3. Online
+ ahead of print.
+
+Efficacy of an intravenous acetaminophen/ibuprofen fixed-dose combination after 
+total knee arthroplasty.
+
+Lim S(#)(1), Kim TH(#)(1), Park DY(1), Sunwoo J(1), Chung JY(2).
+
+Author information:
+(1)Department of Orthopedic Surgery, School of Medicine, Ajou University, 164 
+Worldcup-ro, Yongtong-gu, Suwon, Republic of Korea.
+(2)Department of Orthopedic Surgery, School of Medicine, Ajou University, 164 
+Worldcup-ro, Yongtong-gu, Suwon, Republic of Korea. junyoungchung@gmail.com.
+(#)Contributed equally
+
+DOI: 10.1186/s12891-026-09621-3
+PMID: 41721338
+
+Conflict of interest statement: Declarations. Ethics approval and consent to 
+participate: This study was conducted in accordance with the Declaration of 
+Helsinki and was approved by the Institutional Review Board of Ajou University 
+Hospital (AJOUIRB-CT-2023-605), which waived the requirement for informed 
+consent due to the retrospective nature of the study. Consent for publication: 
+Not applicable. Competing interests: The authors declare no competing interests.
+
+
+3. Eur J Pharm Sci. 2026 Feb 18:107474. doi: 10.1016/j.ejps.2026.107474. Online 
+ahead of print.
+
+Optimizing Ibuprofen Dosing: Insights from In vivo and Virtual Pharmacokinetic 
+Trials.
+
+Smrčka D(1), Ramesh S(1), Dumicic A(1), Beránek J(2).
+
+Author information:
+(1)Zentiva, k.s., U Kabelovny 130, 10237 Prague, Czech Republic.
+(2)Zentiva, k.s., U Kabelovny 130, 10237 Prague, Czech Republic. Electronic 
+address: Josef.beranek@zentiva.com.
+
+Ibuprofen, a common non-steroidal anti-inflammatory drug (NSAID), is widely used 
+in over-the-counter (OTC) settings for pain and fever management, with a maximum 
+daily dose of 1200 mg recommended for non-prescription use. The clinical 
+efficacy of ibuprofen is influenced by formulation-specific differences in drug 
+release profiles. This study systematically compared four ibuprofen 
+formulations: immediate-release (IR) 400 mg tablets, IR 200 mg tablets, lysinate 
+salt equivalent to 400 mg ibuprofen, and a novel bi-layer tablet integrating 
+immediate- and sustained-release (IR/SR) components. Both, in vivo 
+pharmacokinetic (PK) data and physiologically based PK modeling were employed to 
+evaluate absorption kinetics, plasma concentration-time profiles, and 
+therapeutic duration. Plasma concentration thresholds of 6.8 µg/mL and 10.1 
+µg/mL were used to assess onset and duration of action. The IR/SR 400 mg 
+bi-layer tablet maintained plasma concentrations above these thresholds for 
+eight hours, extending therapeutic coverage by 2-3.5 hours compared to other IR 
+formulations. Virtual PK simulations indicated that only IR 200 mg (six 
+doses/day) and IR/SR 400 mg (three doses/day) regimens sustained therapeutic 
+levels over 24 hours without surpassing OTC limits. The reduced dosing frequency 
+and prolonged efficacy of the IR/SR formulation support its suitability for 
+providing continuous pain and fever relief.
+
+Copyright © 2026 The Author(s). Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.ejps.2026.107474
+PMID: 41720357
+
+Conflict of interest statement: Declaration of competing interest All authors of 
+this article are employed by Zentiva k.s., which financed this research. The 
+authors declare no personal conflicts of interest.
+
+
+4. In Silico Pharmacol. 2026 Feb 17;14(1):62. doi: 10.1007/s40203-026-00569-9. 
+eCollection 2026.
+
+Evaluation of drug-excipient compatibility of ibuprofen with eggshell-derived 
+calcium citrate using FTIR, DSC, and molecular docking studies.
+
+Umeh ONC(1), Umeh BU(2), Ezeako EC(3)(4), Joshua PE(3).
+
+Author information:
+(1)Department of Pharmaceutical Technology and Industrial Pharmacy, University 
+of Nigeria Nsukka, Nsukka, Nigeria.
+(2)Department of Genetics and Biotechnology, University of Nigeria Nsukka, 
+Nsukka, Nigeria.
+(3)Department of Biochemistry, University of Nigeria Nsukka, Nsukka, Nigeria.
+(4)Department of Pharmacology, Faculty of Basic Medicine, University of Calabar, 
+Calabar, Nigeria.
+
+Eggshells hold long-lasting nutritional and medicinal relevance in African 
+folklore, often administered traditionally in its crushed or powdered form to 
+ameliorate bone issues, treat calcium deficiency, and promote well-being. 
+However, not much has been achieved in translating this folklore practice into 
+pharmaceutical exploration and formulation science. Drug-excipient 
+incompatibilities are critical considerations in the development of stable and 
+effective pharmaceutical formulations. This study investigated the compatibility 
+of ibuprofen with eggshell-derived calcium citrate using Fourier-transform 
+infrared spectroscopy (FTIR), differential scanning calorimetry (DSC), and 
+molecular docking approaches. Calcium citrate was prepared from chicken 
+eggshells via reaction with citric acid and characterised. Binary mixtures of 
+ibuprofen and calcium citrate were evaluated for potential interactions using 
+FTIR and DSC. In silico molecular docking studies were conducted using AutoDock 
+Vina, and docking methodology was validated using re-docking of a known 
+ibuprofen-calcium interaction. FTIR spectra of the binary mixtures showed minor 
+peak shifts, particularly at 1710 cm-1 (C=O) and 3300 cm-1 (O-H), suggesting 
+weak physical interactions. DSC thermograms demonstrated slight broadening and 
+depression of the ibuprofen melting endotherm, indicating no significant 
+incompatibility. Molecular docking revealed a binding affinity of - 4.7 
+kcal/mol, primarily mediated by ionic interactions between ibuprofen's carboxyl 
+group and calcium ions. Ibuprofen exhibits acceptable compatibility with 
+eggshell-derived calcium citrate. These findings suggest its potential as a 
+sustainable and cost-effective pharmaceutical filler in oral drug formulations.
+
+© The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, part 
+of Springer Nature 2026. Springer Nature or its licensor (e.g. a society or 
+other partner) holds exclusive rights to this article under a publishing 
+agreement with the author(s) or other rightsholder(s); author self-archiving of 
+the accepted manuscript version of this article is solely governed by the terms 
+of such publishing agreement and applicable law.
+
+DOI: 10.1007/s40203-026-00569-9
+PMCID: PMC12913838
+PMID: 41717430
+
+Conflict of interest statement: Conflict of interestThe authors declare no 
+competing interests.
+
+
+5. Hosp Pediatr. 2026 Feb 20:e2025008751. doi: 10.1542/hpeds.2025-008751. Online 
+ahead of print.
+
+Opportunities for Pharmacogenetic Testing Among Hospitalized Children With 
+Medical Complexity.
+
+McIntire C(1), Donaher A(1), Skinn D(1), Pavia K(2)(3), Musial A(1)(4), Callahan 
+S(4)(5), Ramsey L(3)(4), Tang Girdwood S(1)(3)(4).
+
+Author information:
+(1)Division of Hospital Medicine, Cincinnati Children's Hospital Medical Center, 
+Cincinnati, Ohio.
+(2)Division of Critical Care Medicine, Cincinnati Children's Hospital Medical 
+Center, Cincinnati, Ohio.
+(3)Division of Translational and Clinical Pharmacology, Cincinnati Children's 
+Hospital Medical Center, Cincinnati, Ohio.
+(4)Department of Pediatrics, University of Cincinnati College of Medicine, 
+Cincinnati, Ohio.
+(5)Division of General Pediatrics, Cincinnati Children's Hospital Medical 
+Center, Cincinnati, Ohio.
+
+OBJECTIVE: Children with medical complexity (CMC), in whom drug efficacy and 
+adverse drug events are difficult to assess, could benefit from pharmacogenetic 
+(PGx) testing. We sought to determine the prevalence of prescribed medications 
+with a high level of evidence for PGx-guided dosing and to identify their 
+associated genes for testing among CMC.
+PATIENTS AND METHODS: This cross-sectional study included patients discharged 
+from a complex care inpatient team from June 2019 to June 2020. We identified 
+medications with level A evidence for PGx-guided dosing per the Clinical 
+Pharmacogenetics Implementation Consortium (CPIC) in January 2023 (N = 73) from 
+medication lists. We determined frequency of CPIC level A scheduled and 
+as-needed (PRN) prescriptions. We compared these findings with a secondary 
+dataset of patients who attend a complex care clinic.
+RESULTS: For CPIC level A medications prescribed to the inpatients, 60.2% were 
+on at least 1 scheduled medication and 60.2% were on at least 1 PRN medication. 
+The most commonly scheduled medications were lansoprazole (25.0%) and omeprazole 
+(16.4%); the most common PRN medications were ibuprofen (50%), ondansetron 
+(18.8%), and tramadol (3.9%). The outpatient cohort similarly had a large 
+proportion on at least 1 scheduled or 1 PRN medication (44.4% and 47.6%, 
+respectively), with proton pump inhibitors (PPIs) being commonly prescribed. The 
+genes most highly associated with the medications prescribed to both populations 
+were CYP2C19, CYP2C9, and CYP2D6.
+CONCLUSIONS: PPIs were the most common CPIC level A medications and are 
+metabolized by CYP2C19, making it the most highly implicated gene. PPI-CYP2C19 
+should be a PGx testing priority.
+
+Copyright © 2026 by the American Academy of Pediatrics.
+
+DOI: 10.1542/hpeds.2025-008751
+PMID: 41713489
+
+
+6. J Hazard Mater. 2026 Feb 16;505:141489. doi: 10.1016/j.jhazmat.2026.141489. 
+Online ahead of print.
+
+Tailoring Mn d-band center and valence cycling for high-efficiency catalytic 
+ozonation of ibuprofen in pharmaceutical wastewater treatment.
+
+Jia Y(1), Yue D(1), Cheng Y(2), Wang Z(1), Liu Y(1), Li C(1), Li F(1), Qi F(3), 
+Ikhlaq A(4), Kumirska J(5), Siedlecka EM(5), Ismailova O(6), Kadirova Z(7).
+
+Author information:
+(1)Hebei Key Laboratory for Emerging Contaminants Control and Risk Management, 
+College of Environmental Science and Engineering, Beijing Forestry University, 
+Beijing 100083, China; Beijing Key Lab for Source Control Technology of Water 
+Pollution, College of Environmental Science and Engineering, Beijing Forestry 
+University, Beijing 100083, China.
+(2)Department of Environmental Science and Engineering, Fuzhou University, 
+Fuzhou 350108, China.
+(3)Hebei Key Laboratory for Emerging Contaminants Control and Risk Management, 
+College of Environmental Science and Engineering, Beijing Forestry University, 
+Beijing 100083, China; Beijing Key Lab for Source Control Technology of Water 
+Pollution, College of Environmental Science and Engineering, Beijing Forestry 
+University, Beijing 100083, China. Electronic address: qifei_hit@163.com.
+(4)Institute of Environment Engineering and Research, University of Engineering 
+and Technology, GT Road, Lahore, Punjab 54890, Pakistan.
+(5)Department of Environmental Analysis, Faculty of Chemistry, University of 
+Gdansk, Wita Stwosza 63, 80-308, Poland.
+(6)Uzbekistan-Japan Innovation Center of Youth, Tashkent State Technical 
+University, Tashkent 100095, Uzbekistan; Turin Polytechnic University Tashkent, 
+Tashkent 100095, Uzbekistan.
+(7)Uzbekistan-Japan Innovation Center of Youth, Tashkent State Technical 
+University, Tashkent 100095, Uzbekistan.
+
+Residual drugs, as emerging contaminants, pose particular challenges to treating 
+pharmaceutical wastewater, requiring advanced oxidation technologies. Catalytic 
+ozonation (CO) is a promising process for degrading emerging contaminants by 
+generating various reactive oxygen species (ROS). However, catalyst design still 
+largely relies on a trial-and-error approach. This approach lacks mechanistic 
+support, particularly at the atomic and orbital levels, which hinders the 
+development of efficient catalysts. This study proposes a universal strategy for 
+raising the d-band center of manganese oxides (MnOx), which enhances their 
+ability for ozone adsorption and activation. Three modulation strategies, 
+including redox-inert metal doping, redox-active metal lattice doping, and 
+redox-active metal heterojunction doping, are studied and compared to reveal 
+their ability to change the orbital hybridization and electron structure of 
+MnOx. Redox-active metal lattice doping is identified as a reliable approach to 
+improve the catalytic activity of MnOx, due to its superior ability to 
+accelerate electronic transport and Mn valence cycling. Micro-interface analysis 
+and DFT calculations revealed that orbital hybridization between Mn and doped 
+metal raises the d-band center of Mn. This electronic structure optimization 
+promotes the formation of strong acid sites, which serve as the key active site 
+for O3 adsorption and decomposition. Moreover, the electron derived from MnOx 
+activates the adsorbed ozone to yield •OH, which is the key ROS for degrading 
+ibuprofen (IBP), a typical residual pharmaceutical. This work provides a 
+universal electronic-structure engineering strategy to design highly active MnOx 
+used in CO for more sustainable water purification applications.
+
+Copyright © 2026 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jhazmat.2026.141489
+PMID: 41713274
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+7. J Environ Health Sci Eng. 2026 Feb 17;24(1):6. doi:
+10.1007/s40201-026-00972-6.  eCollection 2026 Jun.
+
+Pharmaceuticals in leachate from worldwide municipal waste landfills: a review.
+
+Krysztopik A(1), Tałałaj IA(1), Kapelewska J(2), Sawczuk R(2).
+
+Author information:
+(1)Faculty of Civil Engineering and Environmental Sciences, Bialystok University 
+of Technology, Wiejska 45E Street, Wiejska, 15-351 Poland.
+(2)Faculty of Chemistry, University of Bialystok, Ciolkowskiego 1K Street, 
+Bialystok, 15-245 Poland.
+
+Pharmaceuticals are emerging contaminants that are commonly found in the 
+environment. They can also be found in leachate from landfills, which enters due 
+to improper handling of pharmaceutical waste (throwing it into the trash). This 
+paper aims to review pharmaceutical's occurrence in leachates from municipal 
+landfills with a particular focus on pharmaceuticals planned for monitoring in 
+surface waters in EU countries, as well as to prioritize the environmental risks 
+associated with individual compounds. The data on the occurrence of individual 
+pharmaceuticals in leachates were grouped into anti-inflammatory and analgesic 
+drugs, hormonal drugs, anticonvulsants and antidepressants, and others. A total 
+of 268 study results were identified, containing determinations of 110 
+pharmaceuticals, drug components and their metabolites. The largest number of 
+studies concerned diclofenac, carbamazepine, ibuprofen and gemfibrozil, where 
+diclofenac and ibuprofen had the highest concentrations in their group. Three of 
+them (diclofenac, carbamazepine and ibuprofen) will be added to the list of 
+priority substances in surface water, according to a proposed amendment to 
+Directive 2008/105/EC on environmental quality standards for water policy. Risk 
+assessment based on a prioritization index revealed that ten pharmaceutical 
+compounds present in landfill leachates pose a very high environmental risk. 
+These include ibuprofen, 17-beta-estradiol, estrone, and diclofenac. Even 
+treated landfill leachates can be a source of pharmaceuticals in surface waters. 
+Therefore, the need to define standards or guidelines regarding limit values 
+​​for selected pharmaceuticals contained in treated leachates should be 
+considered, with emphasis on substances presenting the highest ecological risk.
+
+© The Author(s), under exclusive licence to Tehran University of Medical 
+Sciences 2026. Springer Nature or its licensor (e.g. a society or other partner) 
+holds exclusive rights to this article under a publishing agreement with the 
+author(s) or other rightsholder(s); author self-archiving of the accepted 
+manuscript version of this article is solely governed by the terms of such 
+publishing agreement and applicable law.
+
+DOI: 10.1007/s40201-026-00972-6
+PMCID: PMC12909718
+PMID: 41709879
+
+Conflict of interest statement: Competing Interests The authors have no relevant 
+financial or non-financial interests to disclose. On behalf of all authors, the 
+corresponding author states that there is no conflict of interest.
+
+
+8. Int J Cancer. 2026 Feb 19. doi: 10.1002/ijc.70392. Online ahead of print.
+
+Comment on "Association of aspirin and ibuprofen use with endometrial cancer 
+risk in the PLCO dataset".
+
+Lai SW(1), Liao KF(2).
+
+Author information:
+(1)School of Medicine, China Medical University, Taichung, Taiwan; Department of 
+Family Medicine, China Medical University Hospital, Taichung, Taiwan.
+(2)Division of Hepatogastroenterology, Department of Internal Medicine, Taichung 
+Tzu Chi Hospital, Taichung, Taiwan.
+
+DOI: 10.1002/ijc.70392
+PMID: 41709736
+
+
+9. Nat Commun. 2026 Feb 18. doi: 10.1038/s41467-026-69274-7. Online ahead of
+print.
+
+Electrocatalytic C(sp(3))-H bond functionalization using biomass-derived 
+electrodes.
+
+Lu L(#)(1)(2), Li Y(#)(1), Li H(#)(1), Jiang X(1), Pei X(1), Yang D(1), Chang 
+YC(3), Chen JL(3), Liao F(4), Lei A(5).
+
+Author information:
+(1)Institute for Advanced Studies (IAS), College of Chemistry and Molecular 
+Sciences, Wuhan University, Wuhan, P. R. China.
+(2)School of Pharmacy, Jiangxi Medical College, Nanchang University, Nanchang, 
+P. R. China.
+(3)National Synchrotron Radiation Research Center, Hsinchu, Taiwan.
+(4)School of Pharmacy, Jiangxi Medical College, Nanchang University, Nanchang, 
+P. R. China. liaofan@ncu.edu.cn.
+(5)Institute for Advanced Studies (IAS), College of Chemistry and Molecular 
+Sciences, Wuhan University, Wuhan, P. R. China. aiwenlei@whu.edu.cn.
+(#)Contributed equally
+
+Organic electrosynthesis is a versatile and evergreen tool for constructing 
+chemical compounds. However, the study of highly active electrodes has not 
+received enough attention, which limits the further development of organic 
+electrosynthesis. This work introduces a bottom-up route to prepare 
+chitin-derived composite carbon aerogel electrodes (CCAEs), which can be 
+directly used as electrodes in organic electrosynthesis systems. Various metal 
+nanoparticles, such as Pt, Pd, RuO2, Cu and Ni, are well confined in these 
+free-standing and porous CCAEs (M-CCAEs). The linear sweep voltammetry and 
+in-situ Raman tests under electrochemical conditions show that RuO2-CCAEs 
+possess good electrochemical oxidation ability for chlorine anions and good 
+stabilizing effect on the generated chlorine radicals, which can serve as a 
+mediator for the electrochemical C(sp3)-H activation. The combination of M-CCAEs 
+with mediators achieves a series of electrochemical oxidative C(sp3)-H 
+chlorination, bromination, nitration and etherification. Moreover, M-CCAEs 
+promote the electrochemical hydrogen isotope exchange reaction of some important 
+drug molecule structures, such as Ibuprofen, Diclofenac and Zolpidem.
+
+© 2026. The Author(s).
+
+DOI: 10.1038/s41467-026-69274-7
+PMID: 41708611
+
+Conflict of interest statement: Competing interests: The authors declare no 
+competing interests.
+
+
+10. J Cardiothorac Vasc Anesth. 2026 Jan 21:S1053-0770(26)00059-5. doi: 
+10.1053/j.jvca.2026.01.024. Online ahead of print.
+
+Effect of Combined Deep and Superficial Serratus Anterior Plane Block Versus 
+Deep Serratus Anterior Plane Block on Postoperative Pain After Video-Assisted 
+Thoracoscopic Surgery: A Prospective Randomized Trial.
+
+Simsek N(1), Ahiskalioglu EO(2), Yayik AM(2), Aydin ME(2), Celik EC(3), Yaman 
+T(4), Ulas AB(5), Ahiskalioglu A(2).
+
+Author information:
+(1)Department of Anesthesiology and Reanimation, Bayburt State Hospital, 
+Bayburt, Türkiye.
+(2)Department of Anesthesiology and Reanimation, Faculty of Medicine, Ataturk 
+University, Erzurum, Türkiye.
+(3)Department of Anesthesiology and Reanimation, Faculty of Medicine, Ataturk 
+University, Erzurum, Türkiye. Electronic address: drerkancem@yahoo.com.
+(4)Department of Anesthesiology and Reanimation, Hilvan State Hospital, 
+Sanliurfa, Türkiye.
+(5)Department of Thoracic Surgery, Faculty of Medicine, Ataturk University, 
+Erzurum, Türkiye.
+
+OBJECTIVES: This study aimed to compare the analgesic efficacy of a combined 
+deep and superficial serratus anterior plane block (SAPB) with deep SAPB alone 
+in patients undergoing video-assisted thoracoscopic surgery (VATS).
+DESIGN: A prospective, randomized clinical trial.
+SETTING: Single-center, academic hospital.
+PARTICIPANTS: Sixty patients undergoing elective VATS.
+INTERVENTIONS: One group received a combined deep and superficial SAPB (each 15 
+mL of 0.375% bupivacaine with epinephrine 5 µg/mL injected both deep to and 
+above the serratus anterior muscle) (group DS), while the other group received 
+30 mL of the same solution deep into the serratus anterior muscle only (group 
+D). Additionally, 5 mL of 0.25% bupivacaine was infiltrated at the chest tube 
+insertion site in all patients. Standardized multimodal analgesia included 
+intravenous morphine (0.1 mg/kg), paracetamol (1,000 mg), and ibuprofen (800 
+mg), administered 30 minutes before the end of surgery. Postoperative analgesia 
+was maintained with intravenous patient-controlled fentanyl.
+MEASUREMENTS AND MAIN RESULTS: Demographic and operative characteristics were 
+comparable between the groups. Total postoperative opioid consumption within 24 
+hours, expressed in morphine milligram equivalents, was 27.12 ± 16.67 mg in 
+group D and 32.84 ± 19.86 mg in group DS, with no significant difference between 
+groups (p = 0.137). The total amount of rescue analgesia was 11.67 ± 11.47 mg in 
+group D and 16.33 ± 12.45 mg in group DS, with no statistically significant 
+difference between the groups (p = 0.141). Postoperative pain scores and the 
+incidence of opioid-related adverse effects were similar between groups (p > 
+0.05 for all).
+CONCLUSIONS: This study demonstrates that a single deep SAPB provides equivalent 
+postoperative analgesia to combined single and deep SAPB. Both techniques 
+offered comparable postoperative analgesia and safety profiles.
+
+Copyright © 2026. Published by Elsevier Inc.
+
+DOI: 10.1053/j.jvca.2026.01.024
+PMID: 41708366
+
+Conflict of interest statement: Declaration of competing interest None.

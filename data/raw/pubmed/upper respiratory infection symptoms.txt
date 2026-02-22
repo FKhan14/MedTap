@@ -1,0 +1,596 @@
+1. J Neurol. 2026 Feb 22;273(2):159. doi: 10.1007/s00415-026-13693-5.
+
+Evaluation of a multidisciplinary neurological rehabilitation program for the 
+post-COVID-19 condition.
+
+Egger M(1), Strobl R(2)(3), Vogelgesang L(1), Reitelbach J(1), Grill E(2)(3), 
+Jahn K(4)(5).
+
+Author information:
+(1)Department of Neurology, Schoen Clinic Bad Aibling, Research Group, 
+Kolbermoorer Str. 72, 8303, Bad Aibling, Germany.
+(2)German Center for Vertigo and Balance Disorders, LMU University Hospital, LMU 
+Munich, Munich, Germany.
+(3)Institute for Medical Information Processing, Biometry and Epidemiology, LMU 
+Munich, Munich, Germany.
+(4)German Center for Vertigo and Balance Disorders, LMU University Hospital, LMU 
+Munich, Munich, Germany. Klaus.jahn@med.uni-muenchen.de.
+(5)Department of Neurology, Schoen Clinic Bad Aibling, Research Group, 
+Kolbermoorer Str. 72, 8303, Bad Aibling, Germany. 
+Klaus.jahn@med.uni-muenchen.de.
+
+OBJECTIVE: To evaluate a multidisciplinary therapy program with a neurological 
+focus for individuals with post-COVID-19 condition, aiming to reduce symptom 
+burden and improve functioning.
+DESIGN: Non-experimental prospective before-after study.
+SUBJECTS/PATIENTS: Individuals diagnosed with post-COVID-19 condition, defined 
+as experiencing persistent signs and symptoms for more than 12 weeks after 
+initial SARS-CoV-2 infection.
+METHODS: We conducted a 2 week multidisciplinary rehabilitation program at the 
+Schoen Clinic Bad Aibling, Germany. The intervention included multi-professional 
+therapies. Assessments were conducted at six time points: baseline at the start 
+of the 2-week control period, pre- and post-intervention, and at 2, 8, and 
+24 weeks post-intervention. Mixed-effects regression models were used to analyze 
+changes over time. Outcome measures included health-related quality of life 
+(HRQoL; EQ-5D-5L), fatigue, anxiety, depression, symptom severity, breathing 
+difficulties, cognitive function, functional disability, and performance 
+measures.
+RESULTS: A total of 47 participants (60% female; mean age 49 years; range 21-80) 
+were enrolled, with a median of 220 days (Q1: 156-Q3: 376) since initial 
+infection. No significant improvement in HRQoL, grip strength, cognitive 
+function, walking capacity, or balance was observed during the intervention 
+compared to the control period. Fatigue, anxiety, depression, symptom severity, 
+functional disability, and dyspnea improved significantly.
+CONCLUSION: This study indicates beneficial effects of a 2 week 
+multidisciplinary therapy program on symptom burden and functional outcomes of 
+the post-COVID-19 condition. Further research including randomized controlled 
+trials is warranted.
+TRIAL REGISTRATION: German Clinical Trials Register, DRKS00029415. Registered 04 
+July, 2022. Retrospectively registered. 
+https://drks.de/search/en/trial/DRKS00029415.
+
+© 2026. The Author(s).
+
+DOI: 10.1007/s00415-026-13693-5
+PMID: 41723756 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Conflicts of interest: All the 
+authors have no relevant financial or non-financial interests to disclose. 
+Ethical approval: This study was performed in line with the principles of the 
+Declaration of Helsinki. The study was approved by the medical ethics committee 
+of the Ludwig Maximilian University Munich (project no. 22–0310). Consent to 
+participate: Informed consent was obtained from all individual participants 
+included in the study.
+
+
+2. Eur J Pediatr. 2026 Feb 21;185(3):144. doi: 10.1007/s00431-026-06802-z.
+
+Prevalence, risk factors, and early prediction of refractory pneumonia caused by 
+Mycoplasma pneumoniae in children: a systematic review and meta-analysis.
+
+Huang X(#)(1), Huang D(#)(1), Wang W(1), Huang Y(1), Huang C(1), Wang G(2).
+
+Author information:
+(1)Zhongshan Women and Children's Hospital, Zhongshan Bo'ai Hospital Pediatrics, 
+No. 6 Chenggui Road, Zhongshan, 528400, Guangdong, China.
+(2)Zhongshan Women and Children's Hospital, Zhongshan Bo'ai Hospital Pediatrics, 
+No. 6 Chenggui Road, Zhongshan, 528400, Guangdong, China. er202150120@163.com.
+(#)Contributed equally
+
+Refractory Mycoplasma pneumoniae pneumonia (rMPP) poses significant challenges 
+in pediatric care due to delayed recognition and limited systematic evidence. 
+This meta-analysis evaluates the prevalence, risk factors, and predictive 
+accuracy of models for rMPP. We systematically searched PubMed, Cochrane 
+Library, and Web of Science until November 2024 for observational studies 
+involving children aged 0-18 years with rMPP. Study quality was assessed using 
+Newcastle-Ottawa and JBI scales. Data were analyzed via R4.4.2. Fifty-three 
+studies (n = 35,275) revealed an overall rMPP prevalence of 37.8% (95% CI 
+30.5-45.5%), with significant temporal variation: 33.1% pre-COVID-19, 42.0% 
+during, and 86.5% post-pandemic. Independent risk factors included elevated 
+lactate dehydrogenase (OR = 1.018), C-reactive protein (OR = 1.106), 
+procalcitonin (OR = 1.825), interleukin-6 (OR = 2.440), neutrophil count 
+(OR = 2.955), pleural effusion (OR = 4.469), mucus plugs (OR = 5.456), and older 
+age (OR = 1.188). Eleven prediction models demonstrated high accuracy, with 
+ROC-AUCs of 0.913 (training) and 0.895 (validation).
+CONCLUSION:  The prevalence of rMPP in children is significant and has increased 
+markedly since the COVID-19 pandemic. Key biomarkers and clinical features 
+facilitate early risk stratification, and validated predictive models improve 
+clinical decision-making. These findings highlight the urgent need for targeted 
+surveillance and customized interventions for high-risk populations.
+WHAT IS KNOWN: • Pneumonia caused by Mycoplasma pneumoniae in children can be 
+effectively controlled by first-line macrolide therapy. • However, there is 
+still a proportion of children who do not respond well to this treatment regimen 
+and develop refractory Mycoplasma pneumoniae due to macrolide resistance.
+WHAT IS NEW: • This review and meta-analysis show the incidence of refractory 
+Mycoplasma pneumonia and its potential risk factors. • Finding the feasibility 
+of constructing a predictive model that facilitates early prediction, to provide 
+evidence-based evidence for further in-depth clinical understanding of this 
+disease.
+
+© 2026. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, 
+part of Springer Nature.
+
+DOI: 10.1007/s00431-026-06802-z
+PMID: 41723336 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Ethics approval: Not applicable. 
+Consent to participate: Not applicable. Consent for publication: Not applicable. 
+Competing interests: The authors declare no competing interests.
+
+
+3. Vaccine. 2026 Feb 20;77:128384. doi: 10.1016/j.vaccine.2026.128384. Online
+ahead  of print.
+
+Attitudes toward vaccines and antivirals for viral respiratory infections in a 
+survey of US adults with chronic health conditions.
+
+Tal-Singer R(1), McCreary G(2), Luttmann M(2), Williams S(2), Willard K(2), Wise 
+R(3), Ortiz JR(4).
+
+Author information:
+(1)Global Allergy & Airways Patient Platform, Hendersonville, TN, USA; ENA 
+Respiratory, Melbourne, Australia. Electronic address: rtalsinger@gaapp.org.
+(2)Global Allergy & Airways Patient Platform, Hendersonville, TN, USA.
+(3)Johns Hopkins University School of Medicine, Baltimore, MD, USA.
+(4)Department of Medicine, University of Maryland School of Medicine, Baltimore, 
+MD, USA.
+
+BACKGROUND: Individuals with chronic respiratory disease, heart disease, or 
+diabetes are highly susceptible to complications from viral respiratory 
+infections (VRI). This survey aimed to gain insight into the attitudes toward 
+vaccines and antivirals for VRI among adults in the US with these conditions.
+METHODS: This cross-sectional anonymous online survey was conducted from March 
+31-April 18, 2025. Individuals ≥18 years living in the US with a self-reported 
+diagnosis of chronic respiratory disease, heart disease, or diabetes were 
+eligible to participate.
+RESULTS: Of the 3024 survey participants, most (60%) participants felt their 
+chronic health condition put them at increased risk of VRI or their 
+complications. Approximately half (48%) of participants had ever taken a 
+prescription antiviral to prevent getting sick and 60% reported that they would 
+be likely or very likely to take a prescription antiviral if their healthcare 
+provider offered it. The majority (68%) of participants received a yearly 
+influenza vaccination and 64% received a COVID-19 vaccine/booster. Opinions 
+about vaccines were overall favorable. Participants who frequently had serious 
+complications (i.e., hospitalization) with VRI were more likely to have taken 
+prescription antivirals than those with less frequent hospitalizations. 
+Participants who felt that their chronic health condition put them at increased 
+risk of VRI or their complications were more likely to have received recommended 
+vaccinations.
+CONCLUSIONS: Attitudes toward VRI prevention were overall favorable in this 
+survey population. Improving patient understanding of VRI-related risk may 
+increase acceptance of prophylactic interventions among individuals with chronic 
+health conditions.
+
+Copyright © 2026 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.vaccine.2026.128384
+PMID: 41722534
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+4. Bull Math Biol. 2026 Feb 21;88(3):42. doi: 10.1007/s11538-026-01593-8.
+
+Modeling and Simulation of the Role of Mass Testing in Controlling COVID-19.
+
+Maranhão A(1), Ridenti MA(2), Chaves AJ(1).
+
+Author information:
+(1)Department of Physics, Aeronautics Institute of Technology, Praça Marechal 
+Eduardo Gomes, 50, 12228-900, São José dos Campos, SP, Brazil.
+(2)Department of Physics, Aeronautics Institute of Technology, Praça Marechal 
+Eduardo Gomes, 50, 12228-900, São José dos Campos, SP, Brazil. aridenti@ita.br.
+
+This study explores the role of mass testing in controlling the COVID-19 
+pandemic using an age-stratified compartmental model. The model evaluates the 
+impact of different testing strategies on the pandemic's reproduction number, R0 
+, while also considering social distancing measures and demographic 
+characteristics. The analysis highlights the importance of combining mass 
+testing with isolation strategies to reduce the spread of the virus. The 
+simulations demonstrate that in countries characterized by high levels of 
+elderly cohabitation with younger individuals, vertical isolation is 
+insufficient; horizontal isolation with work restrictions, alongside testing and 
+susceptibility reduction measures, is crucial. For aged developed countries, 
+where cohabitation of the elderly with younger individuals is less prevalent, 
+and for least developed countries, where the population has a predominantly 
+youthful age structure, pandemic control is more feasible with fewer tests. The 
+study also emphasizes the critical role of identifying asymptomatic cases to 
+achieve optimal epidemic control. Lastly, the cost-effectiveness of various 
+testing strategies is examined, providing insights for public health policy 
+decision-making.
+
+© 2026. The Author(s).
+
+DOI: 10.1007/s11538-026-01593-8
+PMID: 41721946 [Indexed for MEDLINE]
+
+
+5. Lancet Psychiatry. 2026 Mar;13(3):233-247. doi: 10.1016/S2215-0366(25)00397-9.
+
+A digital imagery-competing task intervention for stopping intrusive memories in 
+trauma-exposed health-care staff during the COVID-19 pandemic in the UK: a 
+Bayesian adaptive randomised clinical trial.
+
+Beckenstrom AC(1), Bonsall MB(2), Markham A(1), Slade O(1), Ramineni V(1), 
+Iyadurai L(1), Islam Z(1), Highfield J(3), Jaki T(4), Goodwin GM(5), Dias R(1), 
+Daniels R(1), Malik A(1), Summers C(6), Kingslake J(1), Holmes EA(7).
+
+Author information:
+(1)P1vital Products, Wallingford, UK.
+(2)Mathematical Ecology Research Group, Department of Biology, University of 
+Oxford, Oxford, UK; St Peter's College, University of Oxford, Oxford, UK.
+(3)Intensive Care Society, London, UK.
+(4)University of Regensburg, Regensburg, Bavaria, Germany; MRC Biostatistics 
+Unit, University of Cambridge, Cambridge, UK.
+(5)Department of Psychiatry, University of Oxford, Oxford, UK.
+(6)Victor Phillip Dahdaleh Heart & Lung Research Institute, University of 
+Cambridge, Cambridge, UK.
+(7)Department of Women's and Children's Health, Uppsala University, Uppsala, 
+Uppsala County, Sweden; School of Psychology, Faculty of Environmental and Life 
+Sciences, University of Southampton, Southampton, UK. Electronic address: 
+emily.holmes@uu.se.
+
+BACKGROUND: Psychological trauma, such as witnessing an untimely or gruesome 
+death, commonly provokes intrusive memories that might persist for days to years 
+with adverse effects on individual mental and physical health and functioning. 
+Despite the global prevalence of trauma, scalable evidence-based interventions 
+are absent. Reducing the impact of intrusive memories is crucial for people 
+frequently exposed to trauma, such as health-care workers. This study aimed to 
+determine whether a brief digital imagery-competing task intervention (ICTI) 
+reduced intrusive memory frequency after 4 weeks. Harms were also assessed.
+METHODS: The GAINS-02 decentralised digital, parallel-group Bayesian adaptive 
+randomised controlled trial tested a brief ICTI against an active control and 
+treatment as usual to determine the effect on reducing intrusive memory 
+frequency. Health-care workers in facilities that admitted patients with 
+COVID-19 during the pandemic, who had experienced one or more traumatic events 
+and reported at least three intrusive memories in the week before screening were 
+randomised 2:2:1 (ICTI to active control to treatment as usual) via block 
+randomisation (web-based). ICTI and active control participants were masked to 
+treatment allocation, and both had one guided session then optional self-use. 
+ICTI involved image-based memory retrieval then Tetris computer gameplay with 
+mental rotation. The active control involved a music-listening task. Study 
+statisticians were masked to ICTI and active control group. The primary outcome 
+was the number of intrusive memories in week 4 (controlling for baseline), which 
+was evaluated on an intention-to-treat basis. Treatment effects for the 
+intervention group versus the comparator groups were assessed using Bayes 
+regression analyses. Harms were assessed through adverse event reporting and 
+interim analyses on primary outcome. People with lived experience were involved 
+from study conception and throughout the research and writing process. The trial 
+was pre-registered at clinicaltrials.gov (NCT05616676) and is completed.
+FINDINGS: Between Dec 8, 2022, and Sept 15, 2023, 176 participants were screened 
+and 99 included (ICTI n=40, active control n=39, treatment as usual n=20) with 
+mean age 41·2 years (SD 10·2; range 21-62). Of these 99 participants, 85 (86%) 
+self-identified as women and 89 (90%) as White. Bayesian analyses gave robust 
+evidence that ICTI reduced intrusive memories at week 4: ICTI participants 
+reported fewer intrusive memories (median 0·5 [IQR 0·0-5·0]) compared with the 
+active control (active control 5·0 [3·0-11·5]; Bayes factor [BF]active 
+control>ICTI vs active control=ICTI 114·1; βactive control>ICTI 1·29 [95% CrI 
+0·64-2·00]) and treatment as usual (median 5·0 [IQR 2·5-8·0]; BFtreatment as 
+usual>ICTI vs treatment as usual=ICTI=15·8; βtreatment as usual>ICTI 1·21 [95% 
+CrI 0·49-1·98]) groups. No harms were detected for ICTI relative to the active 
+control and treatment as usual. The most reported adverse event (n=7) was 
+COVID-19. Two adverse events involved burden of diary recording. Serious adverse 
+events were hospitalisations unrelated to study procedures (n=6).
+INTERPRETATION: This study shows that ICTI reduces intrusive memory frequency 
+and post-traumatic stress disorder symptoms among health-care workers exposed to 
+trauma. As a brief, scalable digital intervention, ICTI shows promise for 
+mitigating consequences of trauma on mental health, an important and unmet need 
+for health-care personnel and systems worldwide.
+FUNDING: Wellcome Trust, Swedish Research Council, UK Medical Research Council, 
+and National Institute for Health and Care Research.
+
+Copyright © 2026 The Author(s). Published by Elsevier Ltd. This is an Open 
+Access article under the CC BY 4.0 license. Published by Elsevier Ltd.. All 
+rights reserved.
+
+DOI: 10.1016/S2215-0366(25)00397-9
+PMCID: PMC12916470
+PMID: 41720573 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests JK is a shareholder and 
+director of P1vital Products, which is the study sponsor and manufacturer of 
+i-spero and P1vital ePRO systems. ACB, AMar, OS, RDi, AMal, and RDa are employed 
+by P1vital Products, and VR, LI, and ZI are previous employees of this company. 
+RDi is a director and holds share options in P1vital Products. ACB and AMal hold 
+share options in P1vital Products. JH is Co-Chair of Psychologists in Intensive 
+Care UK and Chief Psychological Professions Officer at Gloucestershire Hospitals 
+NHS Foundation Trust. CS's salary is partly funded by the National Institute for 
+Health Research (NIHR133788) and Medical Research Council (MR/S035753/1 and 
+MR/X005070/1). CS is Chair of the Experimental Medicine Panel (UK Research and 
+Innovation–Medical Research Council) and gave evidence as an expert witness to 
+the UK's national COVID inquiry. Her evidence included a summary of the 
+published work on the impact of COVID 19 on the wellbeing of staff working in 
+intensive care units during the pandemic. CS is a Trustee and non-executive 
+member of the Board of Directors of the Science Media Centre UK (unpaid). TJ is 
+supported by a grant from UK Medical Research Council (MC_UU_00002/14). EAH has 
+received funding from the Wellcome Trust (223016/Z/21/Z), the Swedish Research 
+Council (2020–00873), the Oak Foundation (OCAY-18–442), and Wellcome Leap. EAH 
+is on the Board of Trustees of the MQ Foundation (unpaid). EAH developed the 
+imagery-competing task intervention for intrusive memories and founded 
+Afterimagery AB, a company registered in Sweden (holding ANEMONE™). EAH receives 
+book royalties from Guildford Press and Oxford University Press and receives 
+occasional honoraria for conference keynotes and clinical workshops. GMG is 
+Chief Medical Officer at Compass pathways; holds shares and share options in 
+Compass pathways PLC; and has served as consultant, advisor, or CME speaker in 
+the past 5 years for Beckley Psytech, Boeringer Ingelheim, Clerkenwell Health, 
+Compass pathways, Eli Lily, Evapharma, Janssen, Medscape, Novartis, Ocean 
+Neuroscience, Servier, Signant Health, Sun pharma, and Takeda. All other authors 
+declare no competing interests. The views expressed are those of the authors and 
+not necessarily those of the National Health Service, the National Institute for 
+Health and Care Research, or the Department of Health and Social Care.
+
+
+6. Infect Genet Evol. 2026 Feb 18:105906. doi: 10.1016/j.meegid.2026.105906.
+Online  ahead of print.
+
+A household cluster of RSV infection causing severe pneumonia in a 
+four-month-old infant.
+
+Wang C(1), Shen L(1), Wei X(2), Kang L(3), Hu G(3), Bai Z(1), Zhu C(4), Huang 
+F(5).
+
+Author information:
+(1)School of Public Health, Capital Medical University, Beijing 100069, China; 
+Beijing Key Laboratory of Surveillance, Early Warning and Pathogen Research on 
+Emerging Infectious Diseases, Beijing Center for Disease Prevention and Control, 
+Beijing 100013, China.
+(2)School of Population Medicine and Public Health, Chinese Academy of Medical 
+Sciences & Peking Union Medical College, Beijing 100730, China.
+(3)School of Public Health, Capital Medical University, Beijing 100069, China.
+(4)Beijing Key Laboratory of Surveillance, Early Warning and Pathogen Research 
+on Emerging Infectious Diseases, Beijing Center for Disease Prevention and 
+Control, Beijing 100013, China; Respiratory Department, Capital Center for 
+Children's Health, Capital Medical University, Capital Institute of Pediatrics, 
+Beijing, PR China. Electronic address: zhuchunmei1971@126.com.
+(5)School of Public Health, Capital Medical University, Beijing 100069, China; 
+Beijing Key Laboratory of Surveillance, Early Warning and Pathogen Research on 
+Emerging Infectious Diseases, Beijing Center for Disease Prevention and Control, 
+Beijing 100013, China. Electronic address: hhffxdd@126.com.
+
+OBJECTIVES: Respiratory syncytial virus (RSV) is a leading cause of lower 
+respiratory tract infection in infants. We analyzed a household RSV cluster of 
+severe RSV infection to inform targeted interventions and outcome evaluation.
+METHODS: Clinical and epidemiological data were collected for characteristic 
+analysis. Species of RSV positivity was confirmed by RT-qPCR; G gene and 
+whole-genome sequencing were performed for phylogenetic and mutation analyses.
+RESULTS: A household cluster affected four family members. In order of symptoms, 
+the first case (Case A, 31-year-old postpartum woman) was diagnosed with 
+pneumonia, the second case (Case B, a four-month-old male infant of Case A) 
+developed severe bronchiolitis with hospitalization for 7 days, and receiving 
+nebulization for 30 days. Final cases (Cases C and D, father and babysitter of 
+Case B) developed mild upper respiratory tract infections. The period of 
+transmission from first to final cases spanned 17 days. During hospitalization, 
+Case B showed marked immune changes: CD3+, CD4+ naive, and CD4+ T lymphocytes 
+were decreased by approximately 3-fold and 3.3-fold, respectively, while CD8+, 
+CD8+ naive, CD8+ central memory (CM), and CD4+ CM T lymphocytes were reduced by 
+1.5-fold, 1.22-fold, 2.72-fold, and 1.8-fold. During the six-month follow-up, 
+respiratory infections recurred monthly in first three months. The RSV strain of 
+Case B was B.D.E.1 lineage, closely related to US strain (PQ117674.1, 99.76% 
+similarity) and separated from location B.D.E.1 in 2023-2024 and contemporaneous 
+seasons [with 59 nucleotides and 2 amino-acids (A10S, K219I) mutation in G 
+gene].
+DISCUSSION: For RSV infants with severe disease, household members are a 
+potential key infectious source, and genetic mutations could contribute to the 
+exacerbation of clinical symptoms.
+
+Copyright © 2026. Published by Elsevier B.V.
+
+DOI: 10.1016/j.meegid.2026.105906
+PMID: 41720280
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that the research was conducted in the absence of any commercial or 
+financial relationships that could be construed as a potential conflict of 
+interest. Funding sources were not involved in the study design, data 
+collection, analysis and interpretation, writing of the report, or decision to 
+submit the article for publication.
+
+
+7. Port J Card Thorac Vasc Surg. 2026 Feb 17;32(4):51-54. doi:
+10.48729/pjctvs.547.
+
+Unusual Multifocal Localizations of Hydatidosi.
+
+Ifounga J(1), Bhairis M(1), El Hammoumi M(1), Kabiri EH(2).
+
+Author information:
+(1)Department of Thoracic Surgery, Mohammed V Military Teaching Hospital.
+(2)Department of Thoracic Surgery, Mohammed V Military Teaching 
+Hospital; Faculté de Médecine et de Pharmacie, Université Mohammed V, Rabat, 
+Morocco.
+
+Hydatid disease is a major public health problem in Mediterranean countries, 
+North Africa (including Morocco), Asia, Australia, New Zealand, and certain 
+South American countries, where agricultural and pastoral practices remain 
+largely traditional. This parasitic disease results from infection with the 
+larval stage of Echinococcus granulosus. Diaphragmatic involvement is rare, even 
+in regions where the disease is endemic. We present the case of a 31-year-old 
+patient who had previously suffered from hepatic and renal hydatid infection and 
+who developed multifocal disease affecting the lung parenchyma, diaphragmatic 
+tissue, and pancreas two years after the initial diagnosis. The therapeutic 
+management of the thoracic lesions consisted of surgery followed by prolonged 
+administration of benzimidazole-based pharmacological treatment, specifically 
+albendazole.
+
+DOI: 10.48729/pjctvs.547
+PMID: 41719572 [Indexed for MEDLINE]
+
+
+8. PLoS One. 2026 Feb 20;21(2):e0343207. doi: 10.1371/journal.pone.0343207. 
+eCollection 2026.
+
+Trends and associations of pulmonary nodule detection rates in China, 2019-2023: 
+A multicenter cross-sectional study based on Real-World Data.
+
+Li J(1), Xie Z(2), Chen Y(3), Jin G(4), Lin H(5), Xu Q(6), Meng Z(7), Liang 
+L(8), Chen H(9), Guo S(10), Li X(11), Li H(12), Liu M(13), Li Y(14), Liao Y(15), 
+Ming M(16), Zhou S(17), Wu Y(18), Huang X(19), Deng W(20), Hou Y(21), Zhang 
+J(22), Li C(1).
+
+Author information:
+(1)Department of Emergency Medicine/Department of Respiratory Medicine, The 
+First Affiliated Hospital of Guangxi Medical University, Nanning, China.
+(2)Department of Tuberculosis, The Fourth People's Hospital of Nanning, Nanning, 
+China.
+(3)Department of General Practice, Guangxi Zhuang Autonomous Region Ethnic 
+Hospital, Nanning, China.
+(4)Department of Emergency and Interventional Medicine, The First Affiliated 
+Hospital of Hainan Medical University, Haikou, China.
+(5)Department of Critical Care Medicine, The First Affiliated Hospital of 
+Guangxi University of Chinese Medicine, Nanning, China.
+(6)Department of General Practice, Guilin People's Hospital, Guilin, China.
+(7)Department of Radiology, The People's Hospital of Longzhou, Chongzuo, China.
+(8)Department of Emergency Medicine, Rongxian County People's Hospital, Yulin, 
+China.
+(9)Department of Respiratory Medicine, Zhuzhou Central Hospital, Zhuzhou, China.
+(10)Department of Respiratory Medicine, The University of Hong Kong-Shenzhen 
+Hospital, Shenzhen, China.
+(11)Department of Emergency Medicine, Wuzhou Maternal and Child Health-Care 
+Hospital, Wuzhou, China.
+(12)Department of Emergency Medicine, The Second Affiliated Hospital of Shandong 
+First Medical University, Tai'an, China.
+(13)Department of Respiratory Medicine, The First People's Hospital of Zhaoqing, 
+Zhaoqing, China.
+(14)Department of Emergency Medicine, Xingye County People's Hospital, Yulin, 
+China.
+(15)Department of Radiology, Qintang District People's Hospital, Guigang, China.
+(16)Department of Respiratory Medicine, Liuzhou Worker's Hospital, Liuzhou, 
+China.
+(17)Department of Respiratory Medicine, Changsha Central Hospital, Changsha, 
+China.
+(18)Department of Respiratory Medicine, The Affiliated Hospital of Southwest 
+Medical University, Luzhou, China.
+(19)Department of Respiratory Medicine, Beihai People's Hospital, Beihai, China.
+(20)Department of Emergency Medicine, The People's Hospital of Longhua, 
+Shenzhen, Shenzhen, China.
+(21)Department of Critical Care Medicine, The First Affiliated Hospital of 
+Xiamen University, Xiamen, China.
+(22)Department of Emergency Medicine, Wuming Hospital of Guangxi Medical 
+University, Nanning, China.
+
+The post-coronavirus disease 2019 (COVID-19) pulmonary sequelae have garnered 
+public concern. We conducted a multicenter cross-sectional study in outpatient 
+and health exam populations from 23 clinical centers (including 
+university-affiliated/provincial general hospitals, municipal general hospitals, 
+county hospitals, and specialized hospitals) in China (2019-2023), to assess 
+temporal trends and potential influencing factors in the detection of 
+CT-diagnosed pulmonary nodules, pleural effusion, pneumonia, and suspected lung 
+tumors, cancer and viral pneumonia, clarifying pandemic impacts on lung health. 
+Dynamic comparisons across key phases including initial outbreak, vaccine 
+rollout, population-wide vaccination, and major adjustment of pandemic control 
+policies, were performed. This study analyzed 1,616,750 clinical samples 
+(1,102,605 outpatient, 514,145 health examination; 885,945 males, 730,805 
+females). Pulmonary nodule detection rose progressively, with surges in 
+2020-2021 and 2023, plateauing in 2021-2022. Outpatients and males showed 
+steeper increases. University-affiliated/provincial hospitals had sharpest 
+increases vs. municipal and county tiers. Specialized hospitals matched general 
+hospital rates. AI boosted detection rates. CT-suspected lung tumors/cancer 
+remained low and stable, unrelated to nodule trends. These results underscore 
+2019-2023 pulmonary nodule detection surges linked to SARS-CoV-2 infections and 
+AI adoption. COVID-19 vaccination did not accelerate detection but may have 
+slowed it short-term. Long-term studies on infection, vaccine impacts and 
+pandemic-detected nodules' outcomes are urgently needed.
+
+Copyright: © 2026 Li et al. This is an open access article distributed under the 
+terms of the Creative Commons Attribution License, which permits unrestricted 
+use, distribution, and reproduction in any medium, provided the original author 
+and source are credited.
+
+DOI: 10.1371/journal.pone.0343207
+PMCID: PMC12923060
+PMID: 41719243 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.
+
+
+9. Eur J Gen Pract. 2026 Dec;32(1):2628370. doi: 10.1080/13814788.2026.2628370. 
+Epub 2026 Feb 20.
+
+External validation of risk scores and multivariate models for the diagnosis of 
+community-acquired pneumonia in outpatients.
+
+Ebell M(1), Merenstein DJ(2), Barrett B(3), Verheij T(4), Little P(5).
+
+Author information:
+(1)Department of Family Medicine, Michigan State University, East Lansing, MI, 
+USA.
+(2)Department of Family Medicine, Georgetown University, Washington, DC, USA.
+(3)Department of Family Medicine and Community Health, University of Wisconsin, 
+Madison, WI, USA.
+(4)Julius Centre for Health Sciences and Primary Care, University Medical Center 
+Utrecht, Utrecht, Netherlands.
+(5)Primary Care and Population Sciences, University of Southampton, Southampton, 
+UK.
+
+BACKGROUND: While several risk scores for the diagnosis of community-acquired 
+pneumonia (CAP) have been developed, they require prospective external 
+validation.
+OBJECTIVES: To externally validate existing prediction models, risk scores, and 
+heuristics for the diagnosis of CAP in adults.
+METHODS: The Enhancing Antibiotic Stewardship in Primary Care (EAST-PC) study 
+recorded signs, symptoms, demographics, and vitals in 718 adults presenting to 
+primary or urgent care clinics with acute lower respiratory tract infection 
+between 2019 and 2023. C-reactive protein (CRP) was available for 575. The 
+diagnosis of CAP was based on the clinician diagnosis and/or chest radiograph. 
+Literature was searched for previous risk scores. Using the EAST-PC population, 
+the area under the receiver operating characteristic curve (AUROCC), calibration 
+curves, and percentage with CAP in each risk group were calculated for each risk 
+score.
+RESULTS: We identified 11 studies describing 4 risk scores, 9 multivariate 
+models, and 5 simple heuristics. The Genomics to Combat Resistance Against 
+Antibiotics in Community-acquired LRTI in Europe (GRACE) risk score using the 
+absence of a runny nose, the presence of breathlessness, crackles, diminished 
+vesicular breathing, heart rate > 100/min, temperature >37.8 °C, and CRP > 
+30 mg/L was the most accurate (AUROCC 0.81). It classified 280 patients as low 
+(0.7% CAP), 265 as moderate (5.7%) and 30 as high risk (33.3%) for CAP. The 
+GRACE score without CRP performed similarly. Other risk scores had poor 
+calibration or failed to accurately classify patients as low or high risk.
+CONCLUSIONS: The previously derived GRACE risk scores were successfully 
+externally validated in a contemporary US outpatient population.
+
+Plain Language Summary: Two risk scores using clinical exam findings (with and 
+without CRP) had acceptable accuracy for the diagnosis of community-acquired 
+pneumonia (CAP).Their use classifies about half of patients with lower 
+respiratory tract infections as very low risk for CAPFurther validation studies 
+would be desirable in primary care settings.
+
+DOI: 10.1080/13814788.2026.2628370
+PMID: 41719027 [Indexed for MEDLINE]
+
+
+10. Subcell Biochem. 2026;111:463-482. doi: 10.1007/978-3-032-16833-7_19.
+
+Golgi Fragmentation as a Potential Link Between SARS-CoV-2 Infection and 
+Alzheimer's Disease: Mechanisms and Implications for Neurodegeneration in Long 
+COVID.
+
+Wang Y(1), Gandy S(2)(3).
+
+Author information:
+(1)Institute of Neurological and Psychiatric Disorders, Shenzhen Bay Laboratory, 
+Shenzhen, Guangdong, China. yzwang@szbl.ac.cn.
+(2)Departments of Neurology and Psychiatry and the Mount Sinai Alzheimer's 
+Disease Research Center, Icahn School of Medicine at Mount Sinai, New York, NY, 
+USA. samuel.gandy@mssm.edu.
+(3)The James J Peters VA Medical Center, Bronx, NY, USA. samuel.gandy@mssm.edu.
+
+The COVID-19 pandemic has impacted millions of people worldwide, and recent 
+studies have shown that SARS-CoV-2 infection can lead to an Alzheimer's-like 
+neuropathological and biomarker phenotype, as well as clinical symptoms of 
+"brain fog". This raises an intriguing question: "How and where might the 
+molecular pathways underlying SARS-CoV-2 infection and Alzheimer's disease (AD) 
+converge?" One common feature of both SARS-CoV-2 infection and AD is the 
+alteration of the endomembrane system, particularly the fragmentation of the 
+Golgi apparatus. In this review article, we summarize the existing literature on 
+SARS-CoV-2 infection biology and speculate about the potential mechanisms 
+linking Golgi defects, SARS-CoV-2 infection, and neurodegeneration.
+
+© 2026. The Editor(s) (if applicable) and The Author(s), under exclusive license 
+to Springer Nature Switzerland AG.
+
+DOI: 10.1007/978-3-032-16833-7_19
+PMID: 41718988 [Indexed for MEDLINE]

@@ -1,0 +1,560 @@
+1. Med Clin (Barc). 2026 Feb 20;166(4):107364. doi: 10.1016/j.medcli.2026.107364.
+ Online ahead of print.
+
+Real-world effectiveness of oral semaglutide on body weight, composition, and 
+metabolic parameters in patients with obesity without diabetes.
+
+[Article in English, Spanish]
+
+Nicolau J(1), Dotres K(2), Blanco-Anesto J(3).
+
+Author information:
+(1)Vascular and Metabolic Diseases Research Group, Endocrinology Department, Son 
+Llàtzer University Hospital, Health Research Institute of the Balearic Islands 
+(IdISBa), Palma de Mallorca, Spain; Interdisciplinary Group in 
+Neurodegeneration, Vascular and Metabolic Diseases, University of Balearic 
+Islands (UIB), Health Research Institute of the Balearic Islands (IdISBa), Palma 
+de Mallorca, Spain; Clínica Rotger (Grupo Quirón), Vía Roma, 3, 07012 Palma de 
+Mallorca, Baleares, Spain. Electronic address: jnicolauramis@gmail.com.
+(2)Policlínica Juaneda Miramar, Camí de la Vileta, 30, 07011 Palma, Spain.
+(3)Nutriclinic, Clínica de Nutrición y Metabolismo, Spain.
+
+INTRODUCTION: Obesity is a chronic adiposity-based disease with limited 
+long-term response to lifestyle interventions. Oral semaglutide, currently 
+approved for type 2 diabetes, may represent a therapeutic option for obesity, 
+although real-world evidence is scarce.
+OBJECTIVE: To evaluate, in a real-world clinical setting, changes in body 
+weight, body composition, and muscle strength after treatment with oral 
+semaglutide in patients with obesity. Secondary objectives were to assess 
+changes in metabolic and inflammatory parameters and depressive symptoms.
+METHODS: We conducted a multicenter, prospective, observational study including 
+70 adults with obesity without diabetes who initiated oral semaglutide as part 
+of routine clinical care.
+RESULTS: After 4 months, mean body weight decreased by 5.4kg, mainly due to a 
+reduction in fat mass, accompanied by decreases in waist circumference, and 
+visceral fat. Lean mass showed a small reduction, while muscle strength remained 
+unchanged. Clinically meaningful weight loss was achieved by 44.3% of patients. 
+Improvements were also observed in metabolic parameters, inflammatory markers, 
+and depressive symptoms.
+CONCLUSIONS: In real-world clinical practice, treatment with oral semaglutide at 
+doses approved for type 2 diabetes was associated with short-term weight loss in 
+patients with obesity, primarily driven by fat mass reduction, with preservation 
+of muscle strength. These findings should be interpreted considering the 
+observational design and lack of a comparator group.
+
+Copyright © 2026 Elsevier España, S.L.U. All rights reserved.
+
+DOI: 10.1016/j.medcli.2026.107364
+PMID: 41722140
+
+
+2. Diabet Med. 2026 Feb 20:e70271. doi: 10.1111/dme.70271. Online ahead of print.
+
+How effective are CBT and CBT-based interventions in Type 1 and Type 2 diabetes? 
+An umbrella review.
+
+Press HS(1), Nicklas L(1).
+
+Author information:
+(1)School of Medicine, University of Dundee, Dundee, UK.
+
+AIMS: Significant evidence base supports cognitive behavioural therapy (CBT) for 
+diabetes. Large variations in practice make it difficult to assess the impact of 
+different types of delivery. This umbrella review aimed to synthesise evidence 
+on the effectiveness of CBT and CBT-based interventions for diabetes-related 
+distress, comorbid depressive symptoms, anxiety symptoms and HbA1c levels. A 
+secondary aim investigated whether effectiveness differs in CBT delivered by a 
+CBT therapist compared to CBT-based interventions that are delivered by 
+multidisciplinary staff.
+METHODS: Databases like CINAHL, MEDLINE, PsychINFO, PsychArticles and Cochrane 
+Library were searched for systematic reviews and meta-analyses between 2014 and 
+2023. Review quality was assessed using the Scottish Intercollegiate Guidelines 
+Network checklist. For the secondary aim, findings of randomised controlled 
+trials were distinguished within reviews.
+RESULTS: Eleven systematic reviews and meta-analyses were included. Four of the 
+reviews were rated as 'high'-quality reviews, five as 'acceptable' and two as 
+'low'-quality reviews. CBT-based interventions delivered by multidisciplinary 
+staff significantly reduced depressive symptoms, diabetes-related distress and 
+HbA1c levels. CBT therapy delivered by CBT therapists was associated with 
+significant reductions in diabetes-related distress, anxiety symptoms, 
+depressive symptoms and HbA1c levels.
+CONCLUSIONS: CBT and CBT-based interventions were similarly effective for 
+depressive symptoms and HbA1c levels. Anxiety symptoms only improved following 
+CBT delivered by CBT therapists, while diabetes-related distress reduced more 
+than for CBT-based interventions. Significant heterogeneity and variation in 
+quality in reviews mean that further research is required.
+
+© 2026 The Author(s). Diabetic Medicine published by John Wiley & Sons Ltd on 
+behalf of Diabetes UK.
+
+DOI: 10.1111/dme.70271
+PMID: 41721493
+
+
+3. Eur J Sport Sci. 2026 Mar;26(3):e70117. doi: 10.1002/ejsc.70117.
+
+The Effects of Nitrate on Brown Fat Fraction and Activation in Older Adults With 
+Type 2 Diabetes: A Randomised, Double-Blind and Placebo-Controlled Crossover 
+Trial.
+
+Neal RA(1), Corbett J(2), Costello JT(2), Saynor ZL(3), Eglin CM(2), Perissiou 
+M(4), Cummings M(5), Price H(6), Bailey SJ(7), Velan SS(8)(9), Sadananthan 
+SA(9), Totman J(10)(11), Rennell-Smyth J(12), Shepherd AI(2)(4)(5).
+
+Author information:
+(1)Department of Rehabilitation and Sport Sciences, Bournemouth University, 
+Poole, UK.
+(2)Extreme Environments Laboratory, School of Psychology, Sport & Health 
+Sciences, Faculty of Science and Health, University of Portsmouth, Portsmouth, 
+UK.
+(3)School of Health Sciences, Faculty of Environmental and Life Sciences, 
+Southampton University, Southampton, UK.
+(4)Clinical Health and Rehabilitation Team, School of Psychology, Sport & Health 
+Sciences, Faculty of Science and Health, University of Portsmouth, Portsmouth, 
+UK.
+(5)Diabetes and Endocrinology Department, Portsmouth Hospitals University NHS 
+Trust, Portsmouth, UK.
+(6)Research and Development Tom Rudd Unit, Moorgreen Hospital, Southern Health 
+NHS Foundation Trust, Southampton, UK.
+(7)National Centre for Sport and Exercise Medicine, School of Sport, Exercise 
+and Health Sciences, Loughborough University, Loughborough, UK.
+(8)Human Magnetic Resonance Centre, Institute of Applied Life Sciences, 
+University of Massachusetts Amherst, Amherst, Massachusetts, USA.
+(9)Institute for Human Development and Potential, Agency for Science, Technology 
+and Research (A*STAR), Singapore, Singapore.
+(10)Fatima College of Health Sciences, Abu Dhabi, UAE.
+(11)Department of Medical Science & Public Health, Faculty of Health & Social 
+Sciences, Institute of Medical Imaging & Visualisation (IMIV), Bournemouth 
+University, Poole, UK.
+(12)Pateint and Public Involvement Member, University of Portsmouth, Portsmouth, 
+UK.
+
+Type 2 diabetes mellitus (T2DM) is a metabolic disease characterised by chronic 
+hyperglycaemia, whereas obesity is a major risk factor which increases morbidity 
+and mortality. Treatments that alter white adipose tissue to express a 
+metabolically active brown adipose phenotype in rats may offer adjunct treatment 
+in people with T2DM. To investigate whether inorganic nitrate supplementation 
+from beetroot juice (BJ) alters brown adipose tissue (BAT) fat fraction and 
+activation in humans. Thirteen older adults with T2DM (glycated haemoglobin 
+[HbA1c]: 58 ± 13 mmol·mol-1 and body mass index: 29.1 ± 3.1 kg·m-2) completed a 
+double-blind, randomised, balanced and placebo-controlled crossover study. 
+Outcome measures (including BAT fat fraction; activation; plasma [nitrate] and 
+[nitrite]) were assessed before and after 14-day of 140 mL·day-1 BJ containing 
+inorganic nitrate (∼12.4 mmol·L1) or a placebo (∼0.1 mmol·L1). Magnetic 
+resonance imaging (MRI) and infrared thermography (IRT) were performed to image 
+supraclavicular BAT following a rested cooling protocol, consisting of 60-min 
+exposure via a cold water (8.1 ± 1.2°C) perfused jacket. Respiratory parameters, 
+including respiratory exchange ratio [RER] and mean skin temperature, were 
+measured during the cooling protocol to confirm participants were not shivering. 
+BJ significantly increased venous plasma [nitrate] and [nitrite] versus placebo 
+(p < 0.001) but did not affect BAT fat fraction (p = 0.650) or activation 
+(p = 0.152). Cooling significantly reduced mean skin temperature in BJ 
+(-0.8 ± 0.7°C) and placebo (-0.6 ± 0.6°C) (p < 0.001) and RER remained 
+representative of nonshivering thermogenesis throughout (0.88 ± 0.05 a.u.). 
+14-day of nitrate supplementation did not increase BAT fat fraction or 
+activation in older adults with T2DM.
+
+© 2026 The Author(s). European Journal of Sport Science published by Wiley‐VCH 
+GmbH on behalf of European College of Sport Science.
+
+DOI: 10.1002/ejsc.70117
+PMID: 41720488 [Indexed for MEDLINE]
+
+
+4. PLoS One. 2026 Feb 20;21(2):e0342056. doi: 10.1371/journal.pone.0342056. 
+eCollection 2026.
+
+Medication adherence trajectories and association with risk factors and clinical 
+outcomes in type 2 diabetes treatment.
+
+Mucherino S(1)(2), Orlando V(1)(2), Vervloet M(3), Weesie Y(3), van Dijk 
+L(3)(4), Menditto E(1)(2).
+
+Author information:
+(1)Department of Pharmacy, University of Naples Federico II, Naples, Italy.
+(2)Center of Drug Utilization and Pharmacoeconomics (CIRFF), University of 
+Naples Federico II, Naples, Italy.
+(3)Netherlands Institute for Health Services Research (Nivel), Utrecht, The 
+Netherlands.
+(4)Department of PharmacoTherapy, Epidemiology & Economics (PTEE), Faculty of 
+Science and Engineering, Groningen Research, Institute of Pharmacy, University 
+of Groningen, Groningen, The Netherlands.
+
+BACKGROUND: Monitoring medication adherence and main clinical outcomes changes 
+in type 2 diabetes (T2D) is essential for optimal patient management. This study 
+aimed to compute and evaluate medication adherence in its three process phases 
+among T2D patients treated with oral antidiabetic (OAD) medications assessing 
+association with main clinical outcomes.
+METHODS: This retrospective cohort study included newly diagnosed T2D patients 
+initiating OAD therapy within 2015-2019 identified from the Nivel Primary Care 
+Database (Nivel-PCD) in the Netherlands. Initiation was operationalised as ≥2 
+OAD prescriptions within follow-up. Implementation was quantified monthly using 
+the Continuous Multiple-interval Measure of Medication Availability (CMA9). 
+Group-based trajectory modelling (k-means via AdhereR) identified adherence 
+patterns over 12 months. Persistence was assessed with a permissible-gap rule on 
+the same 12-month series. Clinical measures (HbA1c, LDL cholesterol, blood 
+pressure, BMI) were evaluated at baseline and at 12 months, and HbA1c trends 
+were analysed over time.
+RESULTS: Among 3,404 T2D patients started an OAD treatment, four distinct 
+adherence clusters were identified: perfect adherence (70.1%), slow decline 
+(13.3%), low adherence (10.6%), and slow increase (6.0%). Overall initiation was 
+99%. One-year persistence ranged from 26% (low adherence group) to 98.8% 
+(perfect adherence group). Patients in the perfect-adherence group had higher 
+baseline HbA1c but showed lower HbA1c and LDL levels over time compared with 
+other groups. Blood pressure improved slightly in all groups. Changes in BMI 
+were minimal.
+CONCLUSIONS: Adherence trajectories provide a dynamic view of patients' 
+behaviour and are associated with better glycaemic and lipid control. High-risk 
+patients were often in the perfect-adherence group and appeared to gain the 
+highest clinical benefit. These results support routine adherence monitoring and 
+targeted, trajectory-informed interventions in T2D care.
+
+Copyright: © 2026 Mucherino et al. This is an open access article distributed 
+under the terms of the Creative Commons Attribution License, which permits 
+unrestricted use, distribution, and reproduction in any medium, provided the 
+original author and source are credited.
+
+DOI: 10.1371/journal.pone.0342056
+PMCID: PMC12923057
+PMID: 41719244 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest. The 
+funders had no role in the design and conduct of the study collection, 
+management, analysis, and interpretation of the data; preparation, review, or 
+approval of the manuscript; and decision to submit the manuscript for 
+publication.
+
+
+5. Cardiovasc J Afr. 2025 Nov 14;36(4):634-640. doi: 10.5830/CVJA-2025-086. Epub 
+2025 Nov 14.
+
+Evaluation of the effects of dapagliflozin on subclinical atherosclerosis with 
+two non-invasive methods: pulse wave velocity and carotid intima-media 
+thickness.
+
+Kocabaş M(1), Baloğlu İ(2), Can M(3), Demir ÖF(4), Karaköse M(5), Türkmen K(2).
+
+Author information:
+(1)Department of Endocrinology and Metabolism, Necmettin Erbakan University 
+School of Medicine, Konya, Turkey. Email: mhmmt03@gmail.com.
+(2)Department of Nephrology, Necmettin Erbakan University School of Medicine, 
+Konya, Turkey.
+(3)Department of Endocrinology and Metabolism, Afyonkarahisar State Hospital, 
+Afyonkarahisar, Turkey.
+(4)Department of Internal Medicine, Konya Numune State Hospital, Konya, Turkey.
+(5)Department of Endocrinology and Metabolism, Necmettin Erbakan University 
+School of Medicine, Konya, Turkey.
+
+OBJECTIVE: Recent cardiovascular outcome trials have shown that sodium-glucose 
+co-transporter 2 (SGLT2) inhibitors reduce cardiovascular events, but results 
+regarding their effects on subclinical atherosclerosis are conflicting. In this 
+study, we aimed to investigate the effect of dapagliflozin, a selective SGLT2 
+inhibitor, on subclinical atherosclerosis by monitoring pulse wave velocity 
+(PWV) and carotid intima-media thickness (cIMT) in patients with type 2 diabetes 
+mellitus (T2DM).
+MATERIALS AND METHODS: Forty-eight patients with T2DM and on dapagliflozin 
+treatment were included in the study. Demographic variables, anthropometric 
+indices and laboratory parameters were obtained from the patient files. Baseline 
+and 6th-month PWV and cIMT values were obtained. The percentage changes from 
+baseline in all continuous variables with six months of dapagliflozin were 
+calculated.
+RESULTS: Compared to baseline values, we found that cIMT decreased from 0.70 
+(0.50-1.10) mm to 0.60 (0.40-1.00) mm and PWV decreased from 9.52 ± 1.59 m/s to 
+9.16 ± 1.55 m/s in the 6th month of treatment (p < 0.001 and p < 0.001, 
+respectively). The percentage decrease in cIMT (ΔcIMT) was 14.65 ± 11.88% and in 
+PWV (ΔPWV) was 3.76 ± 4.08%. ΔcIMT was positively correlated with baseline cIMT, 
+BMI and fat mass values (p = 0.019, p = 0.023 and p = 0.030, respectively). 1PWV 
+was positively correlated with baseline systolic blood pressure (p = 0.020).
+CONCLUSIONS: According to the results of our study, dapagliflozin treatment 
+reduces PWV and cIMT, and the decrease in these markers was greater among 
+patients with higher baseline SBP, cIMT, BMI and fat mass. These results suggest 
+that, if supported by more comprehensive studies, the cardiovascular benefits of 
+dapagliflozin may be greater in patients with higher baseline cardiovascular 
+risk.
+
+DOI: 10.5830/CVJA-2025-086
+PMID: 41719012 [Indexed for MEDLINE]
+
+
+6. Health Sci Rep. 2026 Feb 17;9(2):e71848. doi: 10.1002/hsr2.71848. eCollection 
+2026 Feb.
+
+Medication Adherence Among Patients With Type 2 Diabetes at the Upper West 
+Regional Hospital, Ghana.
+
+Arhin IK(1), Amponsah LB(1), Fenny B(2), Egbenya DL(1).
+
+Author information:
+(1)Department of Physiology School of Medical Sciences University of Cape Coast 
+Cape Coast Central Region Ghana.
+(2)Accra College of Medicine Accra Greater Accra Region Ghana.
+
+BACKGROUND: The prevalence of type 2 diabetes mellitus (T2DM) has risen rapidly 
+in low- and middle-income countries, including Ghana, and poor adherence to 
+glucose-lowering medications undermines glycemic control and increases risk of 
+complications.
+AIM: To identify health-system, socio-demographic, and socio-economic factors 
+associated with glucose-lowering medication adherence among adults with type 2 
+diabetes attending outpatient follow-up at the Upper West Regional Hospital, 
+Ghana.
+METHODS: We conducted a hospital-based cross-sectional study at the Upper West 
+Regional Hospital, Ghana between 20 February and 8 March 2024. Consecutive 
+eligible adults (≥ 18 years) with a clinical diagnosis of T2DM and at least 3 
+months of self-reported medication use were recruited using convenience 
+sampling. The sample comprised N = 202 participants. Trained research assistants 
+administered an electronic questionnaire (Google Forms) that included the 8-item 
+Morisky Medication Adherence Scale (MMAS-8). Bivariate associations were tested 
+with Chi-square tests, and multivariable binary logistic regression (reporting 
+adjusted odds ratios, AOR, with 95% CIs) was used to identify factors associated 
+with adherence. Analyses were performed in SPSS v20 and two-sided p < 0.05 was 
+considered statistically significant.
+RESULTS: Overall, 51.5% of participants were classified as having poor 
+medication adherence. Several socio-economic and health factors were 
+significantly associated with adherence using the chi-square test of 
+associations. In unadjusted logistic regression analysis, participants on drug 
+treatment for < 6 months had higher odds of good adherence compared with those 
+on treatment ≥ 6 months (COR: 3.70 95% CI: (1.50-8.97; p = 0.004) as well as 
+those who spent more than 200 Ghana cedis monthly on drugs (COR: 36.30 95% CI: 
+10.88-121.1; p = 0.001) compared with those who spent less than 50 Ghana cedis 
+on a monthly basis and participants who were diagnosed between 1 and 3 years 
+(COR: 19.17 95% CI: 6.35-57.86; p = 0.001) and greater than 3 years (COR: 14.52 
+95% CI: 4.61-45.759; p = 0.001) had better odds of adherence compared to those 
+diagnosed in less than a year. In age, education and monthly income adjusted 
+multivariable models, none of these variables showed a significant association 
+with medication adherence.
+CONCLUSIONS: A substantial proportion of adults with T2DM attending outpatient 
+follow-up at the Upper West Regional Hospital demonstrated poor self-reported 
+adherence to glucose-lowering medications. Interventions that strengthen patient 
+education, address medication side-effects and affordability, and improve 
+clinician follow-up should be prioritized. The cross-sectional design of this 
+study and further reliance on self-reported medication adherence (MMAS-8) are 
+important limitations.
+
+© 2026 The Author(s). Health Science Reports published by Wiley Periodicals LLC.
+
+DOI: 10.1002/hsr2.71848
+PMCID: PMC12914129
+PMID: 41716426
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+
+7. Nat Commun. 2026 Feb 19;17(1):1935. doi: 10.1038/s41467-026-69738-w.
+
+Preclinical and clinical obesity: prevalence, associations to cardiometabolic 
+risk and response to lifestyle intervention in NHANES and the EPIC-Potsdam and 
+TULIP studies.
+
+Schiborn C(1)(2), Hu FB(3)(4)(5), Stefan N(#)(2)(6)(7), Schulze MB(#)(8)(9)(10).
+
+Author information:
+(1)Department of Molecular Epidemiology, German Institute of Human Nutrition 
+Potsdam-Rehbruecke, Nuthetal, Germany.
+(2)German Center for Diabetes Research (DZD), München-Neuherberg, Germany.
+(3)Department of Nutrition, Harvard T.H. Chan School of Public Health, Boston, 
+MA, USA.
+(4)Department of Epidemiology, Harvard T.H. Chan School of Public Health, 
+Boston, MA, USA.
+(5)Channing Division of Network Medicine, Department of Medicine, Brigham and 
+Women's Hospital and Harvard Medical School, Boston, MA, USA.
+(6)Department of Internal Medicine IV, University Hospital Tübingen, Tübingen, 
+Germany.
+(7)Institute of Diabetes Research and Metabolic Diseases (IDM) of the Helmholtz 
+Centre Munich, Tübingen, Germany.
+(8)Department of Molecular Epidemiology, German Institute of Human Nutrition 
+Potsdam-Rehbruecke, Nuthetal, Germany. mschulze@dife.de.
+(9)German Center for Diabetes Research (DZD), München-Neuherberg, Germany. 
+mschulze@dife.de.
+(10)Institute of Nutritional Science, University of Potsdam, Nuthetal, Germany. 
+mschulze@dife.de.
+(#)Contributed equally
+
+An expert commission (The Lancet Diabetes & Endocrinology Commission on Clinical 
+Obesity) proposed novel diagnostic criteria distinguishing between preclinical 
+and clinical obesity and suggesting treatment indications for the latter. 
+However, the proportional assignment to preclinical and clinical obesity in 
+adults with BMI-defined obesity, the associated disease risks, as well as the 
+response to lifestyle interventions are not well known. Here we show that among 
+those with BMI-based obesity, 100% are confirmed to have obesity by at least one 
+other anthropometric measure in NHANES 2017-2018 and the prospective 
+EPIC-Potsdam cohort. More than 80% of adults with confirmed obesity meet the 
+criteria for clinical obesity and have 2.8-fold increased risk of incident 
+cardiovascular disease and 7.9-fold increased risk for type 2 diabetes compared 
+to adults without obesity and not fulfilling clinical criteria. Adults with 
+preclinical obesity have no elevated cardiovascular disease risk, but type 2 
+diabetes risk is markedly increased. A 9-months lifestyle intervention (Tübingen 
+Lifestyle Intervention Programme) decreases the proportion of clinical obesity 
+from 71% to 57%, and that of prediabetes from 52% to 29%.
+
+© 2026. The Author(s).
+
+DOI: 10.1038/s41467-026-69738-w
+PMCID: PMC12923867
+PMID: 41714640 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: The authors declare no 
+competing interests.
+
+
+8. Diabetes Obes Metab. 2026 Feb 19. doi: 10.1111/dom.70574. Online ahead of
+print.
+
+Uptake and early outcomes of a meal replacement intervention in an ethnically 
+diverse adult population living with obesity and significant comorbidity.
+
+Shand J(1)(2), Brosnahan N(3)(4), Jiang Y(5), Murphy R(1)(2).
+
+Author information:
+(1)Department of Medicine, Faculty of Medical and Health Sciences, The 
+University of Auckland, Auckland, New Zealand.
+(2)Te Mana Ki Tua, Specialist Weight Management Service, Counties Manukau Health 
+New Zealand, Te Whatu Ora, Auckland, New Zealand.
+(3)School of Medicine, Dentistry and Nursing, University of Glasgow, Glasgow, 
+UK.
+(4)Counterweight Ltd., London, UK.
+(5)Department of Statistics, Faculty of Science, The University of Auckland, 
+Auckland, New Zealand.
+
+AIMS: Structured meal replacement low energy diets (MR-LED) are effective in 
+obesity management, but evidence for individuals of minority ethnic groups or 
+those with BMI >35 kg/m2 and significant comorbidities is limited.
+MATERIALS AND METHODS: We evaluated the early effectiveness of a weight 
+management program delivered by a multidisciplinary team within a specialist 
+weight management service. We enrolled three groups: those who had been declined 
+bariatric surgery, young adults with type 2 diabetes (T2D), and people awaiting 
+corneal transplant who had their procedure deferred due to their weight. 
+Individuals were primarily treated with a 12-week MR-LED. Adjunctive obesity 
+medications were available under pre-specified criteria. The present study 
+reports outcomes following the 12-week MR-LED, which was the first phase of a 
+12 month programme.
+RESULTS: Of the 1172 people screened, 482 met inclusion criteria and 128 
+commenced MR-LED. Most participants (111/128, 87%) had previously been declined 
+bariatric surgery; 11/128 (9%) were young adults with T2D and 6/128 (5%) were 
+awaiting corneal transplant surgery. Ninety-three individuals (73%) were from 
+Pacific or indigenous Māori ethnic groups. The cohort had mean (SD) baseline 
+weight of 145.0 (38.6) kg (BMI 49.9 (11.3) kg/m2); 94 (73%) had T2D on 
+treatment, with a mean HbA1c of 67.6 mmol/mol (11 young adults and 83 from the 
+bariatric surgery declined list). Psychological distress was common with 41% and 
+30% having moderate depressive and anxiety symptoms, respectively. Ninety-two 
+people (72%) completed the 12-week MR-LED, achieving a mean (SD) weight loss of 
+10.9 (7.8) kg. Young adults with T2D were less likely to complete the programme. 
+Among people with diabetes, 63/94 (67%) completed the 12-week intervention, with 
+21/63 (33%) achieving an HbA1c <50 mmol/mol on no diabetes medication. 
+Psychological and quality of life scores improved.
+CONCLUSIONS: A 12-week MR-LED intervention delivered in a specialist service 
+achieved clinically meaningful weight loss and improved metabolic and 
+psychological outcomes in a high-risk, multi-ethnic cohort living with higher 
+body weight.
+
+© 2026 The Author(s). Diabetes, Obesity and Metabolism published by John Wiley & 
+Sons Ltd.
+
+DOI: 10.1111/dom.70574
+PMID: 41713956
+
+
+9. J Antimicrob Chemother. 2026 Feb 2;81(3):dkag053. doi: 10.1093/jac/dkag053.
+
+Diabetes and risk of significant fibrosis in adults with HIV and metabolic 
+dysfunction-associated steatotic liver disease: a prospective cohort study.
+
+Han WM(1)(2)(3), Apornpong T(1), Chuaypen N(4), Aung TPP(5), Amornritvanich 
+P(1)(6), Hiranburana N(1), Lwin HMS(1), Hiransuthikul A(1)(7), Kerr S(1)(2)(8), 
+Tangkijvanich P(4), Avihingsanon A(1)(2).
+
+Author information:
+(1)HIV-NAT, Thai Red Cross AIDS and Infectious Diseases Research Centre, 
+Bangkok, Thailand.
+(2)Center of Excellence in Tuberculosis, Department of Medicine, Faculty of 
+Medicine, Chulalongkorn University, Bangkok, Thailand.
+(3)Kirby Institute, UNSW Sydney, Sydney, Australia.
+(4)Center of Excellence in Hepatitis and Liver Cancer, Department of 
+Biochemistry, Faculty of Medicine, Chulalongkorn University, Bangkok, Thailand.
+(5)Department of Medicine, Harlem Hospital Center, Columbia University Medical 
+Center, New York, NY, USA.
+(6)Cardiovascular Unit, Department of Internal Medicine, Police General 
+Hospital, Bangkok, Thailand.
+(7)Department of Preventive and Social Medicine, Faculty of Medicine, 
+Chulalongkorn University, Bangkok, Thailand.
+(8)Biostatistics Excellence Centre, Faculty of Medicine, Chulalongkorn 
+University, Bangkok, Thailand.
+
+BACKGROUND: Limited data exist on whether the presence of type-2 diabetes 
+mellitus (T2DM) increases the risk of significant liver fibrosis (LF) among 
+people with HIV (PWH) and metabolic dysfunction-associated steatotic liver 
+disease (MASLD). This study examined liver stiffness progression and significant 
+LF risk according to T2DM status in PWH with MALSD (PWH-MASLD) diagnosed via 
+vibration-controlled transient elastography (VCTE).
+METHODS: PWH who had MASLD and had ≥2 VCTE measurements during the follow-up 
+(median duration 4 years) were included. Change in liver stiffness measurement 
+(LSM) from baseline (ΔLSM) was evaluated using a linear mixed-effects model. 
+Multivariable Poisson regression was used to evaluate association between 
+baseline T2DM and significant LF incidence (LSM ≥7.5 kPa).
+RESULTS: Among 345 PWH with MASLD (35% female), 97 (28%) had T2DM at baseline. 
+In adjusted analysis, LSM declined modestly over time [mean -0.15 kPa/year (95% 
+CI -0.28, -0.01)]. The ΔLSM over time was not associated with baseline T2DM 
+(Pinteraction = 0.40). Among 253 PWH-MASLD without LF at baseline, the incidence 
+of LF was 3.89 [95% CI 2.79-5.41]/100 person-years. Participants with baseline 
+T2DM had a >3-fold higher risk of significant LF compared with those without 
+T2DM [adjusted incidence risk ratio (aIRR): 3.35, 95% CI: 1.67-6.75). 
+Time-updated BMI (per kg/m2 increase) was also associated with significant LF 
+(aIRR, 1.10, 95% CI 1.03-1.18).
+CONCLUSIONS: Despite stable LSM over 4 years of follow-up, PWH with MASLD and 
+T2DM have a significantly higher risk of LF. Prioritizing this population for 
+intensive monitoring and treatments interventions may help mitigate liver 
+disease progression.
+
+© The Author(s) 2026. Published by Oxford University Press on behalf of British 
+Society for Antimicrobial Chemotherapy.
+
+DOI: 10.1093/jac/dkag053
+PMID: 41710964 [Indexed for MEDLINE]
+
+
+10. Cureus. 2026 Jan 17;18(1):e101758. doi: 10.7759/cureus.101758. eCollection
+2026  Jan.
+
+Metformin-Associated Encephalopathy as a Rare but Serious Adverse Effect: A Case 
+Report.
+
+Aoki A(1), Mizu D(1), Higashi H(1), Yamashita J(1).
+
+Author information:
+(1)Department of Emergency Medicine, Japanese Red Cross Osaka Hospital, Osaka, 
+JPN.
+
+Metformin is widely prescribed as a first-line therapy for type 2 diabetes. 
+Metformin-associated encephalopathy is a rare but serious adverse effect that 
+can occur when the drug is inappropriately prescribed to patients with impaired 
+renal function. Here we present the case of a 44-year-old woman undergoing 
+maintenance hemodialysis for diabetic nephropathy who presented to the emergency 
+department with dysarthria and generalized weakness. Although no paralysis was 
+observed, she had difficulty maintaining posture and exhibited gait disturbance. 
+Laboratory tests revealed metabolic acidosis (pH 7.197, bicarbonate 11.7 mmol/L) 
+and hyperlactatemia (12.4 mmol/L). Brain magnetic resonance imaging (MRI) 
+revealed hyperintensity in the bilateral basal ganglia. The patient had been 
+taking metformin. Metformin was discontinued, and emergent hemodialysis was 
+initiated, followed by continued maintenance hemodialysis; the patient's 
+dysarthria, weakness, and abnormal findings on brain MRI subsequently rapidly 
+improved, which confirmed the diagnosis of metformin-associated encephalopathy. 
+Inappropriate prescription of metformin can lead to metformin-associated 
+encephalopathy, a rare but serious adverse effect. Emergency physicians must 
+carefully review of patients' medications and become familiar with the clinical 
+and imaging features of metformin-associated encephalopathy.
+
+Copyright © 2026, Aoki et al.
+
+DOI: 10.7759/cureus.101758
+PMCID: PMC12910184
+PMID: 41710849
+
+Conflict of interest statement: Human subjects: Informed consent for treatment 
+and open access publication was obtained or waived by all participants in this 
+study. Conflicts of interest: In compliance with the ICMJE uniform disclosure 
+form, all authors declare the following: Payment/services info: All authors have 
+declared that no financial support was received from any organization for the 
+submitted work. Financial relationships: All authors have declared that they 
+have no financial relationships at present or within the previous three years 
+with any organizations that might have an interest in the submitted work. Other 
+relationships: All authors have declared that there are no other relationships 
+or activities that could appear to have influenced the submitted work.

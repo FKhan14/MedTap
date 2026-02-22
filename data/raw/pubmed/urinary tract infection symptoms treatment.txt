@@ -1,0 +1,522 @@
+1. Spectrochim Acta A Mol Biomol Spectrosc. 2026 Feb 16;353:127598. doi: 
+10.1016/j.saa.2026.127598. Online ahead of print.
+
+Green in-situ photoreduction synthesis of SERS substrates based on violet 
+phosphorus arrays/silver nanoparticles for ultrasensitive detection and accurate 
+identification of UTI bacteria.
+
+Wen W(1), Fan W(1), Wang S(1), Dai Y(1), Jiang T(2), Zhao C(3).
+
+Author information:
+(1)School of Physical Science and Technology, School of Faculty of Maritime and 
+Transportation, Ningbo University, Ningbo 315211, Zhejiang, PR China.
+(2)School of Physical Science and Technology, School of Faculty of Maritime and 
+Transportation, Ningbo University, Ningbo 315211, Zhejiang, PR China. Electronic 
+address: jiangtao@nbu.edu.cn.
+(3)Center of Oncology, Renmin Hospital of Wuhan University, Wuhan 430060, Hubei, 
+PR China.. Electronic address: zhao_ci@126.com.
+
+Surface-enhanced Raman spectroscopy (SERS) holds significant promise for 
+identifying urinary tract infection (UTI) pathogens due to its exceptional 
+sensitivity and fingerprinting ability. However, traditional SERS substrates 
+suffer from poor stability, high synthesis cost, and reliance on toxic reagents, 
+which limit their applications in detecting low bacterial concentrations and 
+multiple pathogens in urine. In this study, we developed a green and 
+cost-effective in-situ photoreduction strategy to construct an 
+electromagnetic-chemical dual-enhanced SERS platform based on violet phosphorus 
+(VP) arrays and silver nanoparticles (Ag NPs). By uniformly growing dense Ag NPs 
+on tilted VP arrays, we achieved highly sensitive detection and precise 
+identification of UTI bacteria. The observed SERS enhancement factor (EF) of 
+1.16 × 108 originated from both the intense local electromagnetic (EM) fields at 
+the "hotspots" within the nanogaps of the Ag NPs and the photo-induced charge 
+transfer (PICT) facilitated by the VP matrix. This enabled limits of detection 
+(LODs) as low as 15.45 CFU/mL for Escherichia coli (E. coli) and 126.85 CFU/mL 
+for Enterococcus faecalis (E. faecalis), which further facilitated the specific 
+identification of UTI pathogens within real urine samples. Combined with 
+principal component analysis (PCA), the VP@Ag composite substrate accurately 
+differentiated the fingerprint spectra of single and mixed pathogen systems, 
+which is crucial for guiding antibiotic therapy. This study provides a reliable 
+solution for complex biofluid detection, which is expected to enable integration 
+with deep learning for multi-infection diagnosis.
+
+Copyright © 2026 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.saa.2026.127598
+PMID: 41719961
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+2. J Int Med Res. 2026 Feb;54(2):3000605261418377. doi:
+10.1177/03000605261418377.  Epub 2026 Feb 20.
+
+Comprehensive perioperative management: Prevention and treatment strategies for 
+catheter-related bladder discomfort in urological surgery patients.
+
+Xu W(1), Sun J(1).
+
+Author information:
+(1)Department of Urology, Shaoxing People's Hospital, School of Medicine, 
+Shaoxing University, China.
+
+Indwelling urinary catheterization, which is widely used in urological 
+surgeries, predisposes patients to complications such as catheter-associated 
+urinary tract infection, urethral trauma, and catheter-related bladder 
+discomfort. Catheter-related bladder discomfort presents as suprapubic burning, 
+dysuria, restlessness, or delirium; however it remains underrecognized in 
+clinical practice, leading to suboptimal management during surgery. This 
+narrative review summarizes the current evidence relating to the pathogenesis of 
+catheter-related bladder discomfort, which is primarily associated with 
+urothelial injury, muscarinic receptor-mediated detrusor overactivity, and 
+neurogenic inflammation. In addition, the review identifies high-risk factors, 
+including male sex, catheter diameter ≥18 Fr, and transurethral procedures. We 
+highlight the need for uniform approaches to perioperative management, including 
+preoperative pharmacoprophylaxis, intraoperative interventions, and 
+postoperative therapies. Implementing these evidence-based approaches is 
+essential to mitigate the incidence of catheter-related bladder discomfort and 
+improve recovery and surgical outcomes in urological patients.
+
+DOI: 10.1177/03000605261418377
+PMID: 41719431 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of conflicting interestsThe authors 
+declare no potential conflicts of interest with respect to the research, 
+authorship, and/or publication of this article.
+
+
+3. Pediatr Rep. 2026 Feb 3;18(1):20. doi: 10.3390/pediatric18010020.
+
+Severe Lower Urinary Tract Dysfunction in Otherwise Healthy Children: A 
+Three-Case Series and Narrative Review.
+
+Stanciu OO(1)(2), Moga A(1)(2), Balanescu L(1)(2), Andriescu M(1)(2), Caragata 
+R(1)(2), Balanescu R(1)(2).
+
+Author information:
+(1)Department of Pediatric Surgery and Orthopedics, "Carol Davila" University of 
+Medicine and Pharmacy, 050474 Bucharest, Romania.
+(2)Pediatric Surgery Department, "Grigore Alexandrescu" Clinical Emergency 
+Hospital for Children, 011743 Bucharest, Romania.
+
+BACKGROUND: Severe lower urinary tract dysfunction (LUTD) in neurologically and 
+anatomically normal children is uncommon and frequently underdiagnosed. When 
+severe, functional voiding disorders may closely mimic obstructive or reflux 
+pathology, leading to diagnostic errors, unnecessary invasive procedures, and 
+potential risk to the upper urinary tract.
+CASE PRESENTATION: We present three pediatric cases (aged 3-10 years) referred 
+for recurrent febrile urinary tract infections, incontinence, or acute urinary 
+retention in the absence of neurological or structural abnormalities. Urodynamic 
+evaluation identified three distinct severe functional phenotypes: detrusor 
+overactivity with reduced bladder capacity, poor compliance with 
+detrusor-sphincter dyssynergia and secondary high-grade vesicoureteral reflux 
+(Hinman syndrome), and detrusor underactivity with significant post-void 
+residual volumes. All patients demonstrated marked bladder wall remodeling on 
+cystoscopy, including trabeculation and pseudopolypoid mucosal changes.
+CASE DISCUSSION: Despite similar clinical severity, the cases illustrated 
+substantial functional heterogeneity and differing risks of upper urinary tract 
+involvement. Urodynamic phenotyping proved central to diagnosis, differentiation 
+from structural disease, and treatment planning. Multimodal conservative 
+management-including urotherapy, pelvic floor biofeedback, targeted 
+pharmacologic therapy, and, when indicated, clean intermittent catheterization 
+or antibiotic prophylaxis-led to resolution of recurrent infections and 
+meaningful improvement in bladder function during medium-term follow-up, 
+although symptom recurrence occurred in one patient after treatment withdrawal.
+CONCLUSIONS: These cases highlight the heterogeneity and potential reversibility 
+of severe functional LUTD in otherwise healthy children. Early functional 
+recognition based on urodynamic assessment is essential to avoid misdiagnosis, 
+prevent unnecessary surgical intervention, and protect renal function. 
+Conservative, function-oriented management remains the cornerstone of effective 
+treatment. The findings are discussed in the context of the existing literature 
+on severe non-neurogenic LUTD and Hinman syndrome.
+
+DOI: 10.3390/pediatric18010020
+PMCID: PMC12921987
+PMID: 41718431
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+
+4. Drugs Context. 2026 Feb 12;15:2025-5-4. doi: 10.7573/dic.2025-5-4. eCollection
+ 2026.
+
+Antibiotic treatment for neonatal sepsis: changing trends and future directions.
+
+Fung PG(1), Hon EKL(1)(2), Leung KA(3).
+
+Author information:
+(1)Department of Paediatrics, Prince of Wales Hospital, The Chinese University 
+of Hong Kong, NT, Hong Kong.
+(2)Department of Paediatrics, The CUHK Medical Centre (CUHKMC), NT, Hong Kong.
+(3)Department of Pediatrics, The University of Calgary, The Alberta Children's 
+Hospital, Calgary, Alberta, Canada.
+
+BACKGROUND: Neonatal sepsis is a serious and life-threatening condition with 
+high morbidity and mortality, especially in preterm neonates in a Neonatal 
+Intensive Care Unit (NICU). This article provides an updated review on the 
+aetiology and diagnosis of neonatal sepsis, antibiotic management and antibiotic 
+stewardship.
+METHODS: A literature search was conducted in PubMed, Embase, Cochrane Library 
+and Scopus in January 2025, using the following MeSH terms: "sepsis", "neonate" 
+and "antibiotic". Meta-analyses, randomized controlled trials, clinical trials 
+and reviews published in the English language from 2005 to 2025 with patients in 
+the neonatal age group were included. A total of 715 articles were identified 
+and screened, and 85 studies were included in the final review.
+RESULTS: Neonatal sepsis remains a leading cause of mortality, with distinct 
+pathogens identified in early-onset and late-onset sepsis, ventilator-associated 
+pneumonia, urinary tract infection and fungal infections. Early recognition, 
+accurate diagnosis and timely commencement of empirical antibiotics are 
+paramount for improved outcomes. Fungal prophylaxis is considered for at-risk 
+neonates in some NICUs with a high incidence of fungal infection. Universal 
+group B Streptococcus screening decreased the incidence of early onset sepsis, 
+but the emergence of resistant strains of certain organisms present new 
+challenges. Evidence-based antibiotic prescription guidelines, antibiotic 
+stewardship programmes and quality improvement projects are essential for the 
+prevention of antimicrobial resistance in the NICU.
+CONCLUSION: Effective management of neonatal sepsis relies on early pathogen 
+identification, judicious use of antibiotics and good antimicrobial stewardship. 
+Future research directions include development of evidence-based protocols and 
+improvement of rapid diagnostic techniques, combined with close monitoring and 
+individualized care.
+
+Copyright © 2026 Fung GPG, Hon KLE, Leung AKC.
+
+DOI: 10.7573/dic.2025-5-4
+PMCID: PMC12916204
+PMID: 41716642
+
+Conflict of interest statement: Disclosure and potential conflicts of interest: 
+The authors declare that they have no conflicts of interest relevant to this 
+manuscript. AKCL and KLEH are associate editors of Drugs in Context. The 
+International Committee of Medical Journal Editors (ICMJE) Potential Conflicts 
+of Interests form for the authors is available for download at: 
+https://www.drugsincontext.com/wp-content/uploads/2025/12/dic.2025-5-4-COI.pdf
+
+
+5. Ital J Pediatr. 2026 Feb 19. doi: 10.1186/s13052-025-02164-8. Online ahead of 
+print.
+
+Optimizing pediatric vesicoureteral reflux management: a single-center 
+experience with contrast-enhanced ultrasound in reducing radiation exposure and 
+antibiotic use.
+
+Tamasi S(1), Masucci A(2), De Chiara FA(3), Chiera A(4), Tardi M(5), Martemucci 
+L(5), Zeccolini M(1), D'Arcangelo R(6).
+
+Author information:
+(1)Department of General Diagnostic Imaging, A.O.R.N. Santobono Pausilipon, 
+Naples, Italy.
+(2)Department of Radiology, University of Naples Federico II, Naples, Italy. 
+dottannamasucci@gmail.com.
+(3)Department of Radiology, University of Molise, Campobasso, Italy.
+(4)Faculty of Medicine and Surgery, University of Firenze, Firenze, Italy.
+(5)Department of General Pediatrics and Pediatric Immuno-Rheumatology, A.O.R.N. 
+Santobono Pausilipon, Naples, Italy.
+(6)Department of Kidney Transplantation, Pediatric Nephrology and Dialysis, 
+A.O.R.N. Santobono Pausilipon, Naples, Italy.
+
+BACKGROUND: Vesicoureteral reflux is the most common pediatric urological 
+anomaly and a leading cause of urinary tract infections in children. Traditional 
+follow-up typically relies on voiding cystourethrography, which exposes young 
+patients to ionizing radiation. The introduction of contrast-enhanced ultrasound 
+provides a radiation-free alternative with comparable diagnostic accuracy. This 
+study aims to demonstrate that the use of contrast-enhanced ultrasound can 
+shorten follow-up intervals, thereby reducing the duration of antibiotic 
+prophylaxis.
+METHODS: A prospective observational study was conducted between 2019 and 2024, 
+involving 1050 children with urinary tract infections, hydronephrosis, or a 
+known history of vesicoureteral reflux. The cohort included both male and female 
+children, aged between 1 and 15 years. Diagnosis was confirmed using 
+conventional ultrasound and contrast-enhanced ultrasound. Patients with grade 
+III to V vesicoureteral reflux underwent contrast-enhanced voiding urosonography 
+at 12 months, replacing the standard voiding cystourethrography typically 
+performed at 24 months. Clinical data were collected on reflux severity, gender 
+distribution, and changes in antibiotic use.
+RESULTS: Early reassessment using contrast-enhanced voiding urosonography 
+resulted in a significant reduction in the duration of antibiotic prophylaxis. A 
+substantial number of patients showed resolution or downgrading of 
+vesicoureteral reflux at 12 months, allowing for earlier discontinuation of 
+treatment. The diagnostic accuracy of the ultrasound-based approach was 
+consistent across age groups and genders.
+CONCLUSIONS: In our single-center experience, the incorporation of 
+contrast-enhanced voiding urosonography into follow-up protocols for pediatric 
+vesicoureteral reflux has been demonstrated to be a safe and effective 
+alternative to traditional imaging. By allowing earlier reassessment without 
+radiation exposure, contrast-enhanced voiding urosonography facilitates the safe 
+discontinuation of prophylactic antibiotics, thereby enhancing patient safety 
+and contributing to the reduction of antibiotic resistance.
+TRIAL REGISTRATION: Not applicable. This is an observational study and does not 
+meet the criteria for mandatory trial registration.
+
+© 2025. The Author(s).
+
+DOI: 10.1186/s13052-025-02164-8
+PMID: 41715207
+
+Conflict of interest statement: Declarations. Ethical approval and consent to 
+participate: The study was approved by the Ethics Committee of 
+Santobono-Pausilipon Children’s Hospital. Written informed consent was obtained 
+from the parents or legal guardians of all patients prior to the 
+contrast-enhanced ultrasound examinations and data collection. Consent for 
+publication: Written informed consent for publication of anonymized clinical 
+data and images was obtained from the parents or legal guardians of all 
+participants. Competing interests: The authors declare that they have no 
+competing interests.
+
+
+6. Expert Rev Clin Immunol. 2026 Jan;22(1):5-18. doi: 
+10.1080/1744666X.2026.2623948. Epub 2026 Feb 18.
+
+Nipocalimab for the treatment of moderate-to-severe Sjögren's disease: a plain 
+language summary of the DAHLIAS study.
+
+Noaiseh G(1), Sivils KL(2), Campbell K(2), Idokogi J(2), Lo KH(2), Liva SG(2), 
+Leu JH(2), Dhatt H(3), Ma K(2), Leonardo S(2), Li H(2), Hubbard JJ(2), 
+Gottenberg JE(4); DAHLIAS study investigators.
+
+Author information:
+(1)aDivision of Allergy, Clinical Immunology and Rheumatology, Department of 
+Medicine, The University of Kansas, Kansas City, KS, USA.
+(2)bJohnson & Johnson, Spring House, PA, USA.
+(3)cJohnson & Johnson, Raritan, NJ, USA.
+(4)dDepartment of Rheumatology, National Reference Centre for Rare Systemic 
+Autoimmune Diseases, IBMC UPR3572, CNRS, Strasbourg University Hospital, 
+Strasbourg, France.
+
+Plain Language Summary: What is this summary about?This is a plain language 
+summary of an article published in the Lancet in 2025. It describes results from 
+the phase 2 DAHLIAS study.The DAHLIAS study measured the efficacy and safety of 
+an investigational medicine called nipocalimab to treat moderate-to-severe 
+Sjögren’s disease. Nipocalimab is a type of biologic treatment called a 
+monoclonal antibody. Scientists designed nipocalimab to reduce harmful 
+immunoglobulin G (IgG) autoantibodies by blocking the neonatal fragment 
+crystallizable receptor (FcRn). IgG autoantibodies called anti-Ro and anti-La 
+are elevated in the majority of patients with Sjögren’s disease. DAHLIAS is the 
+first controlled clinical trial of an FcRn blocker in Sjögren’s disease.What 
+were the results?The DAHLIAS study included 163 participants who had 
+moderate-to-severe, active Sjögren’s disease and a positive blood test for 
+anti-Ro IgG autoantibodies. Of these, 53 participants received intravenous 
+nipocalimab 5 mg/kg, 54 participants received intravenous nipocalimab 15 mg/kg, 
+and 56 participants received intravenous placebo every 2 weeks for 22 weeks.At 
+Week 24, on average, participants who received nipocalimab 15 mg/kg every 2 
+weeks had greater improvements in their Sjögren’s disease signs and symptoms 
+than those who received placebo. Blood tests showed treatment with nipocalimab 
+also reduced levels of IgG autoantibodies. The safety of nipocalimab was 
+comparable to placebo. The most common side effects with both nipocalimab and 
+placebo were infections, including COVID-19, the common cold, urinary tract 
+infections, and conjunctivitis (pink eye).What do the results mean and why do 
+they matter?This is the first study to show that nipocalimab has beneficial 
+effects in patients with Sjögren’s disease. Based on these results, nipocalimab 
+will be studied in larger, phase 3 studies in patients with Sjögren’s disease. 
+If those studies are successful, nipocalimab could become the first treatment 
+for Sjögren’s disease that may slow down or stop disease progression by reducing 
+the harmful IgG autoantibodies.
+
+DOI: 10.1080/1744666X.2026.2623948
+PMID: 41704151
+
+
+7. Anal Chem. 2026 Feb 17. doi: 10.1021/acs.analchem.5c07570. Online ahead of 
+print.
+
+Wettable Porous Arrays with Structural Color Barcodes Integration for Multiplex 
+Urinary Tract Infection Bacteria Screening.
+
+Feng C(1)(2), Li W(2), Wang Y(2), Sun L(1), Wang X(2), Bian F(1).
+
+Author information:
+(1)Zhejiang-Finland Joint Laboratory of Gastrointestinal Tumor Metabolism and 
+Nutrition, The First Affiliated Hospital of Wenzhou Medical University, Wenzhou, 
+Zhejiang 325000, China.
+(2)Wenzhou Institute, University of Chinese Academy of Sciences, Wenzhou, 
+Zhejiang 325001, People's Republic of China.
+
+Urinary tract infection (UTI) is one of the most common bacterial infections in 
+clinical practice and is a potentially life-threatening infection with high 
+morbidity, recurrence, and mortality rates. High-sensitivity multiplexed 
+biomarker detection is crucial for the early diagnosis and treatment of UTI. 
+Digital nucleic acid amplification technologies (dNAATs) offer highly sensitive 
+molecular characterization by isolating individual template molecules and 
+amplifying them separately. However, multiplex analysis with dNAATs often 
+requires parallel amplification, which is time-consuming and labor-intensive. 
+Here, we present a novel multiplex detection method that integrates structural 
+color barcodes into superhydrophilic porous arrays. This method enables the 
+sensitive detection of multiple targets simultaneously in a highly efficient 
+manner. The excellent hydrophilicity of the microwells allows the reaction 
+solution to fill each well, ensuring random and complete isolation of the 
+nucleic acid molecules. The amplification reactions occur independently in each 
+unit, enabling the absolute quantification of nucleic acids. The structural 
+color barcodes fixed in the microwells have stable reflection peaks and large 
+surface areas, serving as encoding carriers based on their distinct reflection 
+wavelengths. This enables the screening of multiplexed UTI bacteria to be 
+performed quickly, accurately, and reproducibly. By using different probes on 
+the color barcodes, we were able to detect single and multiple UTI pathogens 
+with high sensitivity. The results demonstrate that the integrated porous array 
+platform with structural color barcodes realized the highly sensitive detection 
+and screening of UTI bacteria, which has great potential in multiplex 
+biomolecule detection and early diagnosis of infections.
+
+DOI: 10.1021/acs.analchem.5c07570
+PMID: 41701208
+
+
+8. Cureus. 2026 Jan 14;18(1):e101557. doi: 10.7759/cureus.101557. eCollection
+2026  Jan.
+
+Purple Urine Bag Syndrome as a Visual Trigger for Overtreatment: A Case Report 
+and Aggregated Literature Analysis.
+
+Pippin M(1)(2), Damodhar YR(1)(2), Shrestha S(1)(2).
+
+Author information:
+(1)Family Medicine, Louisiana State University Health Sciences Center, 
+Alexandria, USA.
+(2)Family Medicine, Rapides Regional Medical Center, Alexandria, USA.
+
+Purple urine bag syndrome (PUBS) is an uncommon yet visually striking clinical 
+phenomenon characterized by purple discoloration of urinary drainage systems in 
+patients with indwelling urinary devices. Although alarming, it most often 
+occurs in elderly or chronically ill patients with multiple risk factors for 
+urinary bacterial colonization and does not typically represent a pathologic 
+entity. PUBS is often accompanied by abnormal urine studies, which may prompt 
+antimicrobial treatment even in the absence of clear clinical infection. We 
+report a hospice patient with an indwelling urinary catheter who developed PUBS 
+without localized urinary symptoms or systemic signs of infection. The patient 
+remained clinically stable, and the treating hospice team did not initiate 
+laboratory evaluation or antibiotic therapy. However, the long-term care 
+facility subsequently administered intravenous ertapenem in response to urine 
+culture results obtained during the episode. The purple discoloration resolved 
+without clinical deterioration. This case illustrates how PUBS may trigger 
+treatment escalation based on laboratory findings rather than clinical 
+presentation, particularly in vulnerable patients, and was the impetus for a 
+focused examination of management principles described in published reports. 
+Careful interpretation of PUBS within the context of patient symptoms and goals 
+of care may help avoid unnecessary interventions and support more judicious 
+antimicrobial use and antibiotic stewardship.
+
+Copyright © 2026, Pippin et al.
+
+DOI: 10.7759/cureus.101557
+PMCID: PMC12906926
+PMID: 41700253
+
+Conflict of interest statement: Human subjects: Informed consent for treatment 
+and open access publication was obtained or waived by all participants in this 
+study. Conflicts of interest: In compliance with the ICMJE uniform disclosure 
+form, all authors declare the following: Payment/services info: All authors have 
+declared that no financial support was received from any organization for the 
+submitted work. Financial relationships: All authors have declared that they 
+have no financial relationships at present or within the previous three years 
+with any organizations that might have an interest in the submitted work. Other 
+relationships: All authors have declared that there are no other relationships 
+or activities that could appear to have influenced the submitted work.
+
+
+9. Chem Biodivers. 2026 Feb;23(2):e02194. doi: 10.1002/cbdv.202502194.
+
+GC-MS Profiling and In Silico Evaluation of Methanolic Syzygium aromaticum 
+Extract Against Urinary Tract Pathogens.
+
+Elumalai L(1), Anbazhagan GK(2), Subramaniyan S(3), Govindasamy M(4), Thangam 
+GS(5).
+
+Author information:
+(1)Department of Ophthalmology, Helix Research Studio, Saveetha Medical College 
+and Hospital, Saveetha Institute of Medical and Technical Sciences (SIMATS), 
+Saveetha University, Chennai, Tamil Nadu, India.
+(2)Department of Microbiology, Saveetha Medical College and Hospital, Saveetha 
+Institute of Medical and Technical Sciences (SIMATS), Saveetha University, 
+Chennai, Tamil Nadu, India.
+(3)Department of Anesthesia, Saveetha Medical College and Hospital, Saveetha 
+Institute of Medical and Technical Sciences (SIMATS), Saveetha University, 
+Chennai, Tamil Nadu, India.
+(4)Department of Psychiatry, Research Unit, Saveetha Medical College and 
+Hospital, Saveetha Institute of Medical and Technical Sciences, Saveetha 
+University, Chennai, Tamil Nadu, India.
+(5)Department of General Surgery, Nanobioinformatics Unit, Eetha Medical College 
+and Hospital, Saveetha Institute of Medical and Technical Sciences, Saveetha 
+University, Chennai, Tamil Nadu, India.
+
+Urinary tract pathogens continue to pose serious health challenges owing to 
+their increasing resistance and biofilm formation. In the present study, the 
+methanolic crude extract of Syzygium aromaticum (McSA) exhibited 
+concentration-dependent antibacterial and antibiofilm activities against 
+uropathogens. At 100 µg/mL, P. aeruginosa showed the highest antibacterial 
+susceptibility with a 31 mm inhibition zone, whereas E. coli exhibited greater 
+biofilm inhibition of 80.28% at a 200 µg/mL concentration. Compared with 
+standard gentamicin, the extract exhibited greater inhibitory activity. The 
+synergistic interaction between McSA and eugenol further enhanced antibiofilm 
+efficacy, with a strong combinatorial effect. Quorum sensing-regulated motility 
+and virulence were suppressed by McSA, as evidenced by the inhibition of 
+swimming, swarming, and the CRA method. McSA exhibited potent DPPH radical 
+scavenging activity, with an antioxidant potential of 79.13% compared with 
+84.31% for standard ascorbic acid. The anti-inflammatory efficacy of McSA was 
+74.83% at 500 µg/mL, whereas it was 81.49% for the standard aspirin in the 
+protein denaturation assay. GC-MS analysis revealed major bioactive compounds, 
+including eugenol, caryophyllene, and methoxyacetic acid heptadecyl ester, 
+whereas FT-IR analysis confirmed the presence of functional groups such as 
+hydroxyl, carbonyl, and aromatic rings. ADMET profiling revealed six drug-like 
+compounds with high gastrointestinal absorption and favorable permeability. 
+Molecular docking revealed that methoxyacetic acid heptadecyl ester had greater 
+binding affinity (-7.56 kcal/mol). This study highlights the synergistic and 
+multitargeted action of McSA, positioning it as a potential natural therapeutic 
+candidate against uropathogens.
+
+© 2026 Wiley‐VHCA AG.
+
+DOI: 10.1002/cbdv.202502194
+PMID: 41699771 [Indexed for MEDLINE]
+
+
+10. Urol Ann. 2026 Jan-Mar;18(1):68-74. doi: 10.4103/ua.ua_65_25. Epub 2026 Jan
+20.
+
+Awareness of benign prostatic hyperplasia among males in the Riyadh region, KSA.
+
+Alkhaldi MS(1), Binsaleh AS(1), Alghamdi AO(1), Alharthy BHA(1), Alkudam AN(1), 
+Alanazi FR(1), Aldawsari TK(1), Alqunais MAH(1), Alsharif MHK(2)(3), Ali 
+AHA(2)(4), Alzubier MAA(5)(6).
+
+Author information:
+(1)College of Medicine, Prince Sattam Bin Abdulaziz University in Al-Kharj, Al 
+Kharj, Saudi Arabia.
+(2)Department of Basic Medical Science, College of Medicine, Prince Sattam Bin 
+Abdulaziz University, Al Kharj, Saudi Arabia.
+(3)Department of Professional and Medical Education, Meharry Medical College, 
+Nashville, TN, Egypt.
+(4)Department of Anatomy, Faculty of Medicine, Al-Azhar University, Cairo, 
+Egypt.
+(5)Department of Surgery, College of Medicine, Prince Sattam Bin Abdulaziz 
+University, Al Kharj, Saudi Arabia.
+(6)Department of Surgery, Faculty of Medicine, Gadarif University, Gadarif, 
+Sudan.
+
+BACKGROUND: Benign prostatic hyperplasia (BPH) is a prevalent urological 
+condition characterized by nonneoplastic enlargement of the prostate gland, 
+leading to lower urinary tract symptoms such as nocturia, urine retention, and 
+secondary urinary infections.
+METHODOLOGY: This cross-sectional study evaluates BPH awareness, risk factors, 
+and management among males ≥19 years in Riyadh, using a validated questionnaire 
+(n = 398). Data were collected using a structured questionnaire distributed to 
+398 participants.
+RESULTS: The results reveal a significant lack of awareness, with 61.3% of 
+participants showing poor knowledge about BPH, its symptoms, and available 
+treatments. Notably, the internet and social media were the primary information 
+sources, overshadowing healthcare providers. Despite the low awareness, 76.6% of 
+participants expressed interest in learning more about BPH, highlighting an 
+opportunity for targeted educational programs.
+CONCLUSIONS: The study shows an urgent need for public health interventions to 
+improve awareness, promote early detection, and address modifiable lifestyle 
+risk factors to enhance the quality of life in affected populations. Targeted 
+interventions leveraging social media and healthcare providers are urgently 
+needed to address gaps in awareness and screening.
+
+Copyright: © 2026 Urology Annals.
+
+DOI: 10.4103/ua.ua_65_25
+PMCID: PMC12904515
+PMID: 41696606
+
+Conflict of interest statement: There are no conflicts of interest.

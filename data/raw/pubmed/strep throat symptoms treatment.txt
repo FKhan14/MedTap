@@ -1,0 +1,552 @@
+1. Front Psychiatry. 2026 Jan 27;16:1704296. doi: 10.3389/fpsyt.2025.1704296. 
+eCollection 2025.
+
+A unique case of food restriction and OCD diagnosed as PANDAS and a review of 
+the literature.
+
+Kentab AY(1)(2), Bassraway R(2).
+
+Author information:
+(1)Division of Pediatric Neurology, Department of Pediatrics, College of 
+Medicine, King Saud University, Riyadh, Saudi Arabia.
+(2)Department of Pediatrics, King Saud University Medical City, King Saud 
+University, Riyadh, Saudi Arabia.
+
+Pediatric autoimmune neuropsychiatric disorder associated with streptococcal 
+infections (PANDAS) is recognized as a significant causative element in the 
+emergence of childhood-onset obsessive-compulsive disorder (OCD) and movement 
+disorders, including tic disorders, and choreiform movement. It is associated 
+with various behavioral and psychiatric manifestations in children, such as 
+separation anxiety disorder, body dysmorphic disorder, attention deficit 
+hyperactivity disorder, and eating disorders. We describe a unique case of 
+progressive weight loss in a previously healthy 13-year-old child who had a 
+sudden and dramatic onset of refusal to eat, induction of vomiting, emotional 
+liability, anxiety disorder, and OCD over 6 months following fever and 
+pharyngitis. His workup showed an elevation of antistreptolysin O (ASO) titer 
+with a negative throat swab. PANDAS was considered. His irritability improved 
+after a course of antibiotics, and abatement of all symptoms and progressive 
+weight gain occurred after a course of intravenous immunoglobulin (IVIG) 
+followed by monthly benzathine penicillin injections. This report could help to 
+increase awareness among physicians, highlight the importance of early 
+diagnosis, and promote treatment of PANDAS among patients who present with a 
+combination of eating disorders and OCD.
+
+Copyright © 2026 Kentab and Bassraway.
+
+DOI: 10.3389/fpsyt.2025.1704296
+PMCID: PMC12888229
+PMID: 41675667
+
+Conflict of interest statement: The authors declared that this work was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+2. BMC Infect Dis. 2026 Jan 16;26(1):317. doi: 10.1186/s12879-025-12411-2.
+
+Periorbital infections caused by Group A streptococci: a case series.
+
+Tinggaard M(1), Johannesen TB(2), Hoffmann S(3), Andersen AB(4), Toft PB(5)(6).
+
+Author information:
+(1)Department of Infectious Diseases, Copenhagen University Hospital, 
+Rigshospitalet, Copenhagen, Denmark. michaela.tinggaard@regionh.dk.
+(2)Department of Bioinformatics, Statens Serum Institut, Copenhagen, Denmark.
+(3)Bacteria, Parasites & Fungi, Infectious Disease Preparedness, Statens Serum 
+Institut, Copenhagen, Denmark.
+(4)Department of Infectious Diseases, Copenhagen University Hospital, 
+Rigshospitalet, Copenhagen, Denmark.
+(5)Department of Ophthalmology, Copenhagen University Hospital, Rigshospitalet, 
+Copenhagen, Denmark. peter.bjerre.toft@regionh.dk.
+(6)Department of Clinical Medicine, Faculty of Health and Medical Sciences, 
+University of Copenhagen, Copenhagen, Denmark. peter.bjerre.toft@regionh.dk.
+
+BACKGROUND: A surge in Group A streptococcus (GAS) infections has been described 
+in the post-COVID-19 pandemic period. We reviewed cases with periorbital GAS 
+infections at our institution during a 14-month period, including cases with 
+necrotizing soft tissue infection (NSTI).
+METHODS: A single center retrospective case series was performed at the 
+University Hospital of Copenhagen, Rigshospitalet, during January 2023 to 
+February 2024 including all adult patients referred from secondary centers with 
+a suspicion of periorbital NSTI. All cases were treated for periorbital skin and 
+soft tissue infections with culture-confirmed group A streptococci in an eye 
+swab, a tissue sample or blood cultures.
+RESULTS: Eleven cases with a median age of 72 (range 55-84) years with 
+periorbital GAS infection were included. Four patients had diabetes, and one 
+patient had eyelid surgery prior to the infection. Pre-admission symptoms 
+included pain, swelling in the periorbital area, fever and/or a sore throat. 
+Patients presented with fever, nausea, and/or confusion and clinical exams were 
+noticeable for erythema and edema of the periorbital area with the eyelids fully 
+closed on the affected side. Two cases had septic shock. Based on CT scans, six 
+cases were diagnosed with pre-septal cellulitis and five cases were suspected of 
+post-septal NSTI, which was confirmed by surgical debridement. The GAS isolates 
+from tissue samples or blood cultures in these five cases were of type MLST 28 / 
+emm 1.0 (M1 clone). Treatment included meropenem and clindamycin (n = 11), 
+intravenous immunoglobulin (n = 4), surgical debridement (n = 5) and hyperbaric 
+oxygen therapy (n = 3). One patient died in the intensive care unit. Two 
+patients have permanently reduced visual acuity.
+CONCLUSION: We report an accumulation of cases with pre- or post-septal orbital 
+GAS infections in which the majority had no evidence of immunosuppression or a 
+triggering event such as trauma or surgery. All cases of invasive GAS infections 
+were caused by the M1 clone.
+
+© 2025. The Author(s).
+
+DOI: 10.1186/s12879-025-12411-2
+PMCID: PMC12892540
+PMID: 41545920 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Ethics approval and consent to 
+participate: Procedures followed were in accordance with the ethical standards 
+of the Helsinki Declaration of 1975, as revised in 2000. All participants or 
+next of kin (in case of deceased) provided informed consent to participate. 
+Ethics approval was waived by the Ethics Committee for the Capital Region of 
+Denmark (reference number F-24076288). Consent for publication: All participants 
+or next of kin (in case of deceased) provided informed consent for publication 
+of the case reports and any accompanying images. Competing interests: The 
+authors declare no competing interests.
+
+
+3. Cureus. 2026 Jan 4;18(1):e100749. doi: 10.7759/cureus.100749. eCollection 2026
+ Jan.
+
+Sydenham Chorea With Elevated Interleukin-12 Levels Responsive to Plasmapheresis 
+and Immunotherapy.
+
+Xu Z(1), Rosenberg J(1), Fekete R(1), Thomas AM(1).
+
+Author information:
+(1)Neurology, New York Medical College, Valhalla, USA.
+
+Sydenham chorea (SC) presents with random abnormal involuntary movements that 
+occur after an autoimmune reaction to a prior group A beta-hemolytic 
+streptococcal infection. While most cases resolve spontaneously, some cases have 
+a prolonged duration of symptoms and recurrences. We discuss a 22-year-old woman 
+who presented with a two-month history of involuntary, brief, random, and 
+irregular movements of the limbs. She had a history of multiple streptococcal 
+throat infections. At age two, she had scarlet fever. After ruling out other 
+causes of chorea, she was diagnosed with Sydenham chorea. She was treated with 
+intravenous immunoglobulin, oral prednisone, and amantadine, resulting in full 
+symptom resolution. Interleukin-12 (IL-12) was elevated approximately seven 
+months after hospital discharge. Chronic elevation of IL-12 differs from 
+previously published findings, which describe elevation only during the acute 
+phase of the disease. Intensive immunosuppressive treatment during the acute 
+phase, along with adherence to antibiotic therapy, may have contributed to the 
+full resolution of her chorea.
+
+Copyright © 2026, Xu et al.
+
+DOI: 10.7759/cureus.100749
+PMCID: PMC12765620
+PMID: 41497421
+
+Conflict of interest statement: Human subjects: Informed consent for treatment 
+and open access publication was obtained or waived by all participants in this 
+study. Conflicts of interest: In compliance with the ICMJE uniform disclosure 
+form, all authors declare the following: Payment/services info: All authors have 
+declared that no financial support was received from any organization for the 
+submitted work. Financial relationships: All authors have declared that they 
+have no financial relationships at present or within the previous three years 
+with any organizations that might have an interest in the submitted work. Other 
+relationships: All authors have declared that there are no other relationships 
+or activities that could appear to have influenced the submitted work.
+
+
+4. J Ethnopharmacol. 2026 Apr 6;360:121149. doi: 10.1016/j.jep.2025.121149. Epub 
+2026 Jan 3.
+
+Rapid bactericidal and anti-virulence effects of Quercus infectoria gall extract 
+against the pharyngitis causing pathogen Streptococcus pyogenes.
+
+Tanabat T(1), Lethongkam S(1), Voravuthikunchai SP(1), Yingkajorn M(2), Paosen 
+S(3).
+
+Author information:
+(1)Division of Biological Science, Faculty of Science, Prince of Songkla 
+University, Hat Yai, Songkhla, 90110, Thailand; Center of Antimicrobial 
+Biomaterial Innovation-Southeast Asia, Prince of Songkla University, Hat Yai, 
+Songkhla, 90110, Thailand.
+(2)Department of Pathology, Faculty of Medicine, Prince of Songkla University, 
+Hat Yai, Thailand.
+(3)Division of Biological Science, Faculty of Science, Prince of Songkla 
+University, Hat Yai, Songkhla, 90110, Thailand; Center of Antimicrobial 
+Biomaterial Innovation-Southeast Asia, Prince of Songkla University, Hat Yai, 
+Songkhla, 90110, Thailand. Electronic address: supakit.pa@psu.ac.th.
+
+ETHNOPHARMACOLOGICAL RELEVANCE: Streptococcus pyogenes is a common cause of 
+acute bacterial pharyngitis in children and adults. The global emergence of 
+antibiotic resistance and increasing treatment failures have become serious 
+clinical problems. Quercus infectoria galls have traditionally been used in 
+Asian medicinal traditions as an astringent remedy for oral and pharyngeal 
+conditions, including sore throat and related inflammations.
+AIM OF THE STUDY: This study investigated the antibacterial activity and 
+anti-virulence properties of Q. infectoria gall extract against S. pyogenes.
+MATERIALS AND METHODS: The phytochemical composition of the extract was 
+characterized using Liquid Chromatography-Mass Spectrometry (LC-MS). 
+Antibacterial activity was assessed using minimum inhibitory (MIC) and 
+bactericidal (MBC) concentration assays and time-kill studies. Anti-virulence 
+effects were evaluated by hemolysis assays, biofilm inhibition was investigated 
+by confocal laser scanning microscopy (CLSM), and structural changes in 
+bacterial cells by scanning and transmission electron microscopy (SEM and TEM). 
+Quorum sensing inhibition was examined using Chromobacterium violaceum, and 
+expressions of virulence-related genes were analyzed by reverse 
+transcription-quantitative polymerase chain reaction (RT-qPCR).
+RESULTS: LC-MS analysis indicated that the ethanolic gall extract of Quercus 
+infectoria is rich in hydrolyzable tannins, especially gallotannins, along with 
+phenolic acids and flavonoids. The extract exhibited potent antibacterial 
+activity against Streptococcus pyogenes. The minimum inhibitory concentration 
+(MIC) and minimum bactericidal concentration (MBC) for the reference strain S. 
+pyogenes ATCC 19615 were 256 μg/mL and 512 μg/mL, respectively, while the 
+clinical isolates (n = 9) exhibited MIC and MBC values ranging from 64 to 
+128 μg/mL. Time-kill assays demonstrated a 99.99 % reduction in bacterial 
+viability within 6 h at 2 MIC. Significant reductions in hemolytic activity and 
+biofilm integrity were observed (p < 0.05). CLSM revealed decreased viable 
+bacteria and increased dead cells within biofilms, while SEM and TEM revealed 
+structural damage to bacterial surfaces and cytoplasmic contents. Quorum sensing 
+was inhibited, reducing violacein production. RT-qPCR indicated downregulation 
+of virulence genes involved in protease secretion, capsule formation, and quorum 
+sensing.
+CONCLUSIONS: Q. infectoria gall extract effectively inhibited the growth and 
+virulence of S. pyogenes, supporting the potential of the extract as a natural 
+therapeutic agent against antibiotic-resistant streptococcal infections.
+
+Copyright © 2026 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jep.2025.121149
+PMID: 41490551 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare the following financial interests/personal relationships which may be 
+considered as potential competing interests: Dr. Supakit Paosen reports 
+financial support was provided by Prince of Songkla University. Reports a 
+relationship with that includes:. Has patent pending to. If there are other 
+authors, they declare that they have no known competing financial interests or 
+personal relationships that could have appeared to influence the work reported 
+in this paper.
+
+
+5. Microbiol Spectr. 2026 Feb 3;14(2):e0209925. doi: 10.1128/spectrum.02099-25. 
+Epub 2025 Dec 31.
+
+Evaluation of a fully automated "sample-to-result" PCR-based diagnostic test for 
+detecting A/C/G Streptococci from throat swab specimens.
+
+Suutari-Kontio S(1), Mäki-Koivisto V(1), Junttila IS(1)(2)(3)(4), Savolainen 
+LE(1)(2).
+
+Author information:
+(1)NordLab Joint County Authority for Wellbeing Services, Oulu, Finland.
+(2)Research Unit of Biomedicine, University of Oulu, Oulu, Finland.
+(3)Faculty of Medicine and Health Technology, Tampere University, Tampere, 
+Finland.
+(4)Fimlab Laboratories, Tampere, Finland.
+
+Group A Streptococcus (GAS) and group C/G Streptococcus (GCS/GGS) species cause 
+bacterial pharyngitis in both adults and children. Occasionally, GAS can cause 
+invasive and severe infections like septicemia, streptococcal toxic shock-like 
+syndrome, and necrotizing fasciitis. Throat culture has remained the gold 
+standard method for diagnosing GAS or GCS/GGS pharyngitis. Methodologically, 
+bacterial cultivation is laborious and time-consuming. For this, nucleic 
+acid-based tests have been developed since they are rapid and have high 
+sensitivity and specificity compared to culture methods. However, only a few 
+molecular methods for the detection of GAS and especially for GCS/GGS in 
+clinical throat swab specimens have been described. This study compares the 
+clinical and analytical performance of a fully automated "sample-to-result" PCR 
+with the gold standard reference method, culture. According to our results, the 
+sensitivity of pooled PCR for GAS, GCS, and GGS was 94.1%, and the specificity 
+was 94.2%. Pooled positive predictive value was 80.0%, and the negative 
+predictive value was 98.5%. These results highlight that PCR is a reliable 
+method, especially for ruling out negative cases due to its high negative 
+predictive value. However, its positive predictive value is lower, meaning there 
+is a higher chance of false positives. A PCR-based method for the diagnosis of 
+pharyngitis would speed up turnaround time (TAT) and automate laboratory 
+processes, especially in locations far away from a central laboratory. Faster 
+TAT with a sensitive and specific method could reduce unnecessary antibiotic 
+use, since currently, clinicians often prescribe antibiotics empirically before 
+final test results.
+IMPORTANCE: Pharyngitis is commonly caused by viruses or by Streptococci, the 
+latter of which can be treated with antibiotics. Rapid differential diagnostics 
+help to reduce unnecessary antibiotic use, as clinicians often initiate 
+empirical treatment before culture results are available. In addition, a shorter 
+turnaround time for laboratory diagnosis may prevent transmission or development 
+of the more severe disease. Diagnosis of streptococcal pharyngitis is commonly 
+done by culture, which requires at least 24 h incubation. The results of our 
+study showed that the fully automated PCR system is a useful and reliable tool 
+for speeding up the diagnosis and would be helpful, especially in locations far 
+away from central laboratories.
+
+DOI: 10.1128/spectrum.02099-25
+PMCID: PMC12889093
+PMID: 41474333 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+6. Antimicrob Agents Chemother. 2026 Feb 4;70(2):e0156225. doi: 
+10.1128/aac.01562-25. Epub 2025 Dec 23.
+
+Co-selection of genetic antibiotic resistance in Streptococcus pneumoniae after 
+repeated azithromycin mass drug administrations in Niger.
+
+Hinterwirth A(#)(1), Chen C(#)(1), Yan D(1), Zhong L(1), Zhou Z(1), Liu Y(1), 
+Keenan J(1)(2), O'Brien KS(1)(2)(3)(4), Lebas E(1), Porco TC(1)(2)(3)(4), 
+Lietman TM(1)(2)(3)(4), Doan T(1)(2).
+
+Author information:
+(1)Francis I Proctor Foundation, University of California, San Francisco, 
+California, USA.
+(2)Department of Ophthalmology, University of California, San Francisco, 
+California, USA.
+(3)Department of Epidemiology and Biostatistics, University of California, San 
+Francisco, California, USA.
+(4)Institute for Global Health Sciences, University of California, San 
+Francisco, California, USA.
+(#)Contributed equally
+
+The spread of antibiotic resistance is a major concern in the setting of 
+azithromycin mass drug distribution for childhood mortality. We performed 
+long-read whole-genome sequencing and phenotypic resistance analysis on 
+Streptococcus pneumoniae isolated from the nasopharynx of Nigerien children from 
+communities treated with either six twice-yearly azithromycin distributions or 
+placebo. Here, we showed that co-selection for macrolide, tetracycline, and 
+trimethoprim-sulfamethoxazole genetic resistance was detected with repeated 
+azithromycin mass drug distributions.CLINICAL TRIALSThis study is registered 
+with ClinicalTrials.gov as NCT02047981.
+
+DOI: 10.1128/aac.01562-25
+PMCID: PMC12888896
+PMID: 41432154 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+7. Am J Case Rep. 2025 Dec 16;26:e949999. doi: 10.12659/AJCR.949999.
+
+Subdural Empyema and Pneumocephalus From Chronic Polypoid Sinusitis in an 
+Elderly Woman With Rapid Neurological Recovery: A Report of a Rare Case.
+
+Martinez J(1), Nagidi E(1), Rigby M(1), Ataya L(1), Macksood A(2), Bayasi G(3), 
+Rotondo K(1).
+
+Author information:
+(1)Department of Internal Medicine, Henry Ford Genesys, Grand Blanc, MI, USA.
+(2)Department of Radiology, Henry Ford Genesys, Grand Blac, MI, USA.
+(3)Department of Pulmonary and Critical Care, Henry Ford Genesys, Grand Blac, 
+MI, USA.
+
+BACKGROUND Subdural empyema (SDE) is a rare, life-threatening intracranial 
+infection characterized by pus accumulation between the dura and arachnoid 
+mater. It is most commonly associated with sinusitis, typically affecting young 
+males. The presence of pneumocephalus without trauma or surgery is exceedingly 
+rare and should raise concern for intracranial infection. Early diagnosis 
+through neuroimaging and prompt multidisciplinary intervention are crucial for 
+preventing morbidity and mortality. CASE REPORT We present a case of SDE and 
+atraumatic pneumocephalus in a 76-year-old woman who was found unresponsive at 
+home. Laboratory tests revealed leukocytosis, elevated inflammatory markers, and 
+fever. Non-contrast computed tomography (CT) showed a 2-3 mm subdural collection 
+with intracranial air foci, along with evidence of otitis media, mastoiditis, 
+and pansinusitis. Lumbar puncture revealed xanthochromic cerebrospinal fluid 
+(CSF) with elevated protein and white blood cells (WBC). Streptococcus 
+pneumoniae was confirmed by CSF culture and urine antigen. She underwent 
+emergency craniotomy, draining 75 cc of purulent material, followed by the ear, 
+nose, and throat (ENT) intervention with maxillary antrostomy, ethmoidectomy, 
+and tympanostomy. She experienced a full neurological recovery. CONCLUSIONS This 
+case underscores the importance of high clinical suspicion and early imaging in 
+elderly patients with altered mental status and sinus pathology. Atraumatic 
+pneumocephalus in non-surgical patients may signal severe intracranial 
+infection. Timely, multidisciplinary management led to rapid recovery, and this 
+case adds to the limited literature on pneumococcal SDE with pneumocephalus in 
+elderly women with chronic sinusitis.
+
+DOI: 10.12659/AJCR.949999
+PMCID: PMC12767109
+PMID: 41399183 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of interest: None declared
+
+
+8. PLoS One. 2025 Dec 5;20(12):e0337950. doi: 10.1371/journal.pone.0337950. 
+eCollection 2025.
+
+Nasopharyngeal carriage of Streptococcus pneumoniae, its associated factors, and 
+antimicrobial susceptibility patterns among school children in Babile district, 
+eastern Ethiopia.
+
+Mohammed FA(1), Sarkar R(2), Ayele F(2), Urgesa K(2).
+
+Author information:
+(1)Bisidimo General Hospital, Bisidimo, Eastern, Ethiopia.
+(2)School of Medical Laboratory Sciences, Haramaya University College of Health 
+and Medical Sciences, Harar, Ethiopia.
+
+BACKGROUND: Streptococcus pneumoniae colonization is a growing concern globally, 
+including in Ethiopia. School-aged children are a key reservoir that can lead to 
+endogenous infections and a potential source for the transmission in the 
+community. However, little is known about its nasopharyngeal carriage rates in 
+eastern Ethiopia. This study aimed to determine the nasopharyngeal carriage of 
+Streptococcus pneumoniae, associated factors, and antimicrobial susceptibility 
+patterns among primary school children in Babile District, Eastern Ethiopia.
+METHODS: A cross-sectional study was conducted at primary schools in the Babile 
+district, Eastern Ethiopia, from November 15, 2022, to January 8, 2023. A 
+systematic random sampling technique was used to enroll 337 schoolchildren. Data 
+on sociodemographic and a potenail associated factors was collected using 
+structured questionnaires. Nasopharyngeal swab samples were collected, 
+transported in Amies medium, and cultured on blood and chocolate agar. 
+Streptococcus pneumoniae was identified based on colony morphology, Gram 
+staining, hemolysis, and biochemical tests. Antimicrobial susceptibility testing 
+was performed using the Kirby-Bauer disk diffusion method. Data was entered in 
+EpiData and analyzed in SPSS. Bivariate and multivariable logistic regression 
+was used to identify factors associated with pneumococcal carriage, with 
+statistical significance set at p < 0.05 and 95% CI.
+RESULTS: Overall nasopharyngeal carriage of Streptococcus pneumoniae was 16% 
+(54/337) (95% CI: 12.0-20.0). The ages of the children ranged from 7 to 17 
+years, with a mean age of 12.75 years (SD ± 2.56). Passive smoking (AOR = 2.86, 
+95% CI: 1.45-5.67), single room house (AOR = 2.69, 95% CI: 1.32-5.49), greater 
+than or equal to two siblings under 5 years old in the house(AOR = 4.8, 95% CI: 
+1.88-12.25), and previous respiratory tract infection (AOR = 3.24, 95% CI: 
+1.66-6.32) were significantly associated with nasopharyngeal carriage of 
+Streptococcus pneumoniae. The isolated Streptococcus pneumoniae showed higher 
+drug resistance to Tetracycline 23 (42.6%) and Trimethoprim-sulfamethoxazole 
+(TMP-SMX) 18 (33.3%) and was found to be highly susceptible to oxacillin 
+32(72.2%), Vancomycin 41(75.9%) and Erythromycin 44 (81.48%).
+CONCLUSION: A considerable proportion of asymptomatic nasopharyngeal carriage of 
+Streptococcus pneumoniae in school children was associated with having a history 
+of respiratory tract infection, being passive smokers, having greater than or 
+equal to two siblings under 5 years old in the house, and living in a 
+single-room house. A higher resistance of isolated Streptococcus pneumoniae was 
+observed to tetracycline and trimethoprim-sulfamethoxazole. Thus, it is 
+necessary to regularly assess the trend of antibiotic resistance andthe 
+prevalence of pneumonia among asymptomatic children, and it is impretive to 
+focus on modifiable associated factors in controlling the diseases.
+
+Copyright: © 2025 Mohammed et al. This is an open access article distributed 
+under the terms of the Creative Commons Attribution License, which permits 
+unrestricted use, distribution, and reproduction in any medium, provided the 
+original author and source are credited.
+
+DOI: 10.1371/journal.pone.0337950
+PMCID: PMC12680174
+PMID: 41348699 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.
+
+
+9. BMJ Glob Health. 2025 Nov 27;10(11):e019733. doi: 10.1136/bmjgh-2025-019733.
+
+Community co-design of contextually relevant rheumatic heart disease primary 
+prevention.
+
+Miller M(1), Vaughn LM(2), Nakitto M(3), Pulle J(4), Sarnacki R(5), de Loizaga 
+S(6), Beaton A(7)(8), Rwebembera J(9).
+
+Author information:
+(1)Cardiology, Cincinnati Children's Hospital Medical Center, Cincinnati, Ohio, 
+USA McCall.Miller@cchmc.org.
+(2)Division of Emergency Medicine, Cincinnati Children's Hospital Medical 
+Center, Department of Pediatrics, University of Cincinnati College of Medicine, 
+Cincinnati, Ohio, USA.
+(3)MRC/UVRI and LSHTM Uganda Research Unit, Entebbe, Uganda.
+(4)Research, Uganda Heart Institute Ltd, Kampala, Uganda.
+(5)Cardiology, Children's National Medical Center, Washington, District of 
+Columbia, USA.
+(6)Heart Institute, Cincinnati Children's Hospital Medical Center, Department of 
+Pediatrics, University of Cincinnati College of Medicine, Cincinnati, Ohio, USA.
+(7)Cardiology, Cincinnati Children's Hospital Medical Center, Cincinnati, Ohio, 
+USA.
+(8)Pediatrics, University of Cincinnati College of Medicine, Cincinnati, Ohio, 
+USA.
+(9)Uganda Heart Institute Ltd, Kampala, Uganda.
+
+INTRODUCTION: Primary prevention of rheumatic heart disease (RHD) is aimed at 
+timely diagnosis and treatment of superficial Group A Streptococcal infections, 
+most commonly Strep sore throat. However, uptake and delivery of primary 
+prevention for RHD-endemic regions has room for improvement. Community co-design 
+is an important aspect of intervention development to increase sustainability 
+and reach.
+METHODS: Group-level assessment (GLA) sessions were used to understand the 
+community's priorities and insights around sore throat. Personas, or user 
+archetypes, were then developed to capture the behaviours and characteristics of 
+diverse future users of primary prevention in the district. Finally, these 
+personas were used in community design workshops to identify barriers and 
+facilitators to potential interventions, generate creative solutions to overcome 
+identified barriers and prioritise implementation models based on impact and 
+feasibility. The final list of implementation strategies was presented by 
+workshop participants to the broader community for additional validation and 
+feedback.
+RESULTS: The GLA sessions identified five priority areas: (1) need for improved 
+access to care, closer to home; (2) importance of mothers as caregivers; (3) 
+strong influence of community leaders; (4) importance of community health 
+workers and (5) role of traditional providers and practices. Five personas were 
+created, including: hands-on caregiver, restricted caregiver, removed family 
+decision-maker, helpful neighbour and influential leader. Design workshops 
+identified the highest-rated interventions as: decentralisation of care delivery 
+into the community (strategy 1), use of community health workers as key 
+implementing partners (strategy 2) and streamlining sore throat services at 
+public healthcare facilities (strategy 3). Participants proposed potential 
+practical applications of these interventions.
+CONCLUSIONS: Community-based participatory research identified novel 
+implementation strategies for an RHD primary prevention programme in Uganda. The 
+value set and strategies developed in this study can now be used as guideposts 
+to develop and test a package of implementation strategies for improving RHD 
+primary prevention in Uganda.
+
+© Author(s) (or their employer(s)) 2025. Re-use permitted under CC BY-NC. No 
+commercial re-use. See rights and permissions. Published by BMJ Group.
+
+DOI: 10.1136/bmjgh-2025-019733
+PMCID: PMC12666018
+PMID: 41309145 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.
+
+
+10. Am J Trop Med Hyg. 2025 Nov 4;114(1):38-42. doi: 10.4269/ajtmh.25-0479. Print
+ 2026 Jan 7.
+
+Most Patients with Acute Rheumatic Fever in Remote Far North Queensland, 
+Australia, Do Not Present to Healthcare Facilities with a Group A Streptococcus 
+Infection Before Diagnosis.
+
+Zsori M(1)(2), Taunton C(1), Pritchett J(1), Payne D(1), Nona D(1), Lui-Gamia 
+N(1), Smith S(3), Hanson J(3)(4), Hempenstall A(1)(4).
+
+Author information:
+(1)Public Health Unit, Torres and Cape Hospital and Health Service, Cairns, 
+Australia.
+(2)James Cook University, Townsville, Australia.
+(3)Cairns Hospital, Cairns and Hinterland Hospital and Health Service, Cairns, 
+Australia.
+(4)Kirby Institute, University of New South Wales, Kensington, Australia.
+
+Although acute rheumatic fever (ARF) is a preventable condition, it continues to 
+be diagnosed in Far North Queensland, Australia. Enhanced primary prevention is 
+necessary to reduce the local burden of ARF and rheumatic heart disease. In this 
+retrospective clinical audit, all cases of definite ARF in the remote Torres 
+Strait and Cape York region of Far North Queensland between January 2020 and 
+December 2024 were examined. Clinical records were reviewed to identify and 
+characterize any healthcare presentations of individuals during the 6 weeks 
+preceding their ARF diagnosis. Of 67 individuals with definite ARF 65 (97%) 
+identified as First Nations Australians; 43/67 (64%) did not present for any 
+healthcare in the 6 weeks preceding their diagnosis; and a further 10/67 (15%) 
+presented for healthcare that was unrelated to group A Streptococcus (Strep A) 
+infection. Overall, a possible Strep A infection (skin infection or sore throat) 
+was identified in 14/67 (21%) patients; 9/67 (13%) patients presented with skin 
+infections, and 5/67 (7%) presented with sore throats. Of these, 5/14 (36%) 
+received appropriate antibiotic treatment. Most individuals with definite ARF in 
+this remote region of Australia do not present for healthcare before their 
+diagnosis; however, there remain opportunities for the primary prevention of ARF 
+among those who do. Culturally considered health promotion, opportunistic 
+screening, and improved recognition and treatment of Strep A infection are 
+critical for reducing ARF incidence in this region of Australia. It is also 
+important to define the contribution of asymptomatic Strep A infections to the 
+pathogenesis of ARF.
+
+DOI: 10.4269/ajtmh.25-0479
+PMCID: PMC12781448
+PMID: 41187341 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosures: The Far North Queensland Human 
+Research Ethics Committee granted an exemption for this study 
+(EX/2022/QCH/92523). Because the retrospective data had been de-identified and 
+aggregated, the committee waived the requirement for individual consent.

@@ -1,0 +1,547 @@
+1. NPJ Prim Care Respir Med. 2026 Feb 21. doi: 10.1038/s41533-026-00494-6. Online
+ ahead of print.
+
+Climate change and respiratory health: implications for respiratory clinicians 
+in primary and specialist care.
+
+Agusti A(1)(2)(3)(4), Kirk A(5), Panigone S(6), Crasto De Stefano I(6), Levy 
+ML(7).
+
+Author information:
+(1)Cátedra Salud Respiratoria, Universitat de Barcelona, Barcelona, Spain.
+(2)Servei Pneumologia, Institut Respiratori, Clínic Barcelona, Barcelona, Spain.
+(3)Fundació Clinic Recerca Biomedica - Institut d'Investigacions Biomediques 
+August Pi i Sunyer (FCRB-IDIBAPS), Barcelona, Spain.
+(4)Centro de Investigación Biomédica en Red Enfermedades Respiratorias 
+(CIBERES), Barcelona, Spain.
+(5)Irish Doctors for Environment, Dublin, Ireland.
+(6)Chiesi Farmaceutici SpA, Parma, Italy.
+(7)General Practitioner, London, UK. bigcatdoc@gmail.com.
+
+The impact of climate change on chronic respiratory diseases such as asthma and 
+chronic obstructive pulmonary disease is becoming ever more apparent, with 
+extremes of heat and cold, increased humidity, and severe weather events 
+worsening the risk of negative outcomes in these patients, including mortality. 
+In turn, climate change is altering the patterns and types of aeroallergens and 
+viruses that also impact the day-to-day lives of patients with respiratory 
+diseases. As a consequence, physicians caring for patients with chronic 
+respiratory diseases may be especially interested in how climate change impacts 
+these conditions and, conversely, how management of these diseases may affect 
+the environment. In this setting, it is of note that poorly controlled 
+respiratory diseases have a higher carbon footprint than well-controlled 
+diseases, especially if an individual is hospitalised. Effective therapy that 
+reduces the occurrence of symptoms and prevents exacerbations will therefore 
+minimise the impact of a respiratory disease on the environment, regardless of 
+the type of device used for delivery of maintenance therapy. In addition, any 
+inhaler choice should be personalised, considering a patient's preference for, 
+and ability to use the inhaler device correctly, but it is also important to 
+consider the overall lifecycle carbon footprint of an inhaler, not only of the 
+gases emitted. This narrative review summarises evidence on how climate change 
+is impacting individuals with chronic respiratory diseases, and discusses how 
+respiratory clinical practice can impact climate change. Importantly, we propose 
+that the main contribution to minimising the impact of chronic respiratory 
+diseases on the climate is to optimise disease control and self-management.
+
+© 2026. The Author(s).
+
+DOI: 10.1038/s41533-026-00494-6
+PMID: 41723176
+
+Conflict of interest statement: Competing interests: Alvar Agusti declares 
+research grants to his institution from GlaxoSmithKline, AstraZeneca, Chiesi, 
+and Menarini, consulting fees from GlaxoSmithKline, AstraZeneca, Chiesi, Roche, 
+and Menarini, payment or honoraria for lectures, presentations, speakers 
+bureaus, manuscript writing or educational events from GlaxoSmithKline, 
+AstraZeneca, Chiesi, Roche, Menarini, Zambon, and Glenmark, support for 
+attending meetings and/or travel from Roche, and is the unpaid chairman of the 
+board of directors of GOLD. All are outside the scope of the current manuscript. 
+Aoife Kirk declares unpaid role on the governance board as the co-founder of the 
+Irish Doctors for Environment, the receipt of publishing fees from Elsevier, and 
+that she is the former recipient of consulting fees from Chiesi. All are outside 
+the scope of the current manuscript. Sara Panigone is an employee of Chiesi 
+Farmaceutici SpA. Isabell Crasto De Stefano is an employee of Chiesi 
+Farmaceutici SpA. Mark L Levy has received payments from publishers Taylor and 
+Francis and from Class Publishing for books, consulting fees from Smart 
+Respiratory, Respiri, Imperial College, AstraZeneca, Novartis, and TEVA; 
+speaker/writing fees from Chiesi, AstraZeneca, and TEVA, honoraria for 
+manuscript writing and educational events from Consorzio Futuro in Ricerca, fees 
+for expert testimony from His Majesty’s Coroners (UK), support to attend 
+meetings from TEVA, and has unpaid leadership roles with the Global Initiative 
+on Asthma and NHS England, and is an unpaid advisor for the UK All Party 
+Parliamentary Advisory Group (Asthma, COPD and Allergy). All are outside the 
+scope of the current manuscript. He is also Editor Emeritus of npj Primary Care 
+Respiratory Medicine but had no role in deciding whether the paper should be 
+accepted by the journal for publication.
+
+
+2. Allergy. 2026 Feb 21. doi: 10.1111/all.70262. Online ahead of print.
+
+Three-Year Follow-Up of the PACI Randomized Controlled Trial (PACI-ON): Effects 
+of Early Intervention for Atopic Dermatitis on Atopic March.
+
+Yamamoto-Hanada K(1), Saito-Abe M(1), Sato M(1), Ishikawa F(1), Toyokuni K(1), 
+Inuzuka Y(1), Yaguchi T(1), Ogasawara H(1), Shimada M(1), Kabashima S(1), Iikura 
+K(1), Tsuchiya K(2), Morimoto M(2), Tamagawa-Mineoka R(2), Masuda K(2), Hosoi 
+H(2), Katoh N(2), Kameda M(3), Takaoka Y(3), Shigekawa A(3), Takemura Y(4), Xu 
+A(5), Sato S(5), Ebisawa M(5), Itonaga T(5), Hasegawa S(6), Wakiguchi H(6)(7), 
+Fujisawa T(8), Kanai R(8), Yamaide F(9), Nakano T(9), Natsume O(10), Yasuoka 
+R(10), Kondo Y(11), Mori Y(11), Kawaguchi T(12), Futamura M(13), Sugiura K(14), 
+Kitazawa H(15), Hamahata Y(16), Akiyama M(17), Kono M(18), Pak K(1), Fukuie 
+T(1), Kobayashi T(1), Saito H(1), Williams HC(19), Ohya Y(1)(14)(20).
+
+Author information:
+(1)National Center for Child Health and Development, Tokyo, Japan.
+(2)Kyoto Prefectural University of Medicine, Graduate School of Medical Science, 
+Kyoto, Japan.
+(3)Osaka Habikino Medical Center, Osaka, Japan.
+(4)Kindai University, Faculty of Medicine, Osaka, Japan.
+(5)NHO Sagamihara National Hospital, Kanagawa, Japan.
+(6)Yamaguchi University Graduate School of Medicine, Yamaguchi, Japan.
+(7)Oita University Faculty of Medicine, Oita, Japan.
+(8)NHO Mie National Hospital, Mie, Japan.
+(9)Chiba University Graduate School of Medicine, Chiba, Japan.
+(10)Hamamatsu University School of Medicine, Shizuoka, Japan.
+(11)Fujita Health University Bantane Hospital, Aichi, Japan.
+(12)Showa General Hospital, Tokyo, Japan.
+(13)NHO Nagoya Medical Center, Aichi, Japan.
+(14)Fujita Health University School of Medicine, Aichi, Japan.
+(15)Tohoku Medical and Pharmaceutical University, Miyagi, Japan.
+(16)Saitama City Hospital, Saitama, Japan.
+(17)Nagoya University Graduate School of Medicine, Nagoya, Japan.
+(18)Akita University Graduate School of Medicine, Akita, Japan.
+(19)Centre of Evidence-Based Dermatology, Lifespan and Population Health, 
+University of Nottingham, Nottingham, UK.
+(20)Graduate School of Medical Sciences, Nagoya City University, Aichi, Japan.
+
+BACKGROUND: The Prevention of Allergy via Cutaneous Intervention (PACI) 
+randomized controlled trial (RCT) demonstrated that early enhanced topical 
+corticosteroid (TCS) therapy modestly reduced food allergy (FA) at 28 weeks of 
+age. The present prospective follow-up study (PACI-ON) evaluated whether these 
+effects persisted to age 3 years.
+METHODS: Participants were randomized in infancy to early enhanced (proactive) 
+or early conventional (reactive) TCS treatment (1:1) for atopic dermatitis (AD) 
+until 28 weeks. A total of 590 (91%) children who completed the PACI RCT were 
+followed to age 3 years. During follow-up, no protocolized interventions were 
+given; all participants received usual care. Main outcomes included 
+physician-diagnosed FA, AD severity (EASI, POEM), sensitization profiles, 
+allergic comorbidities, and growth parameters as safety outcomes.
+RESULTS: At age 3 years, the prevalence of any FA remained lower in the early 
+enhanced group than in the conventional group (47.4% vs. 58.8%, p = 0.006), 
+mainly driven by a reduced prevalence of raw egg allergy (30.4% vs. 40.5%, 
+p = 0.013). No between-group differences were observed for wheeze, asthma, or 
+rhinitis. Japanese cedar sensitization at age 2 was lower in the enhanced group 
+(6.1% vs. 12.2%, p = 0.02 6) but not at age 3. AD control and quality of life 
+were well maintained and similar across groups, with > 90% achieving mild or 
+less disease. Early growth suppression at 1 year resolved by age 3.
+CONCLUSION: Early enhanced AD intervention was associated with a sustained 
+modest reduction in its planned primary follow-up outcome of FA and safety 
+(growth) up to age 3. Although most differences were small and may reflect early 
+diagnosis and good overall management in both groups, the findings support early 
+AD treatment as a potential strategy to modify allergic disease trajectories.
+
+© 2026 European Academy of Allergy and Clinical Immunology and John Wiley & Sons 
+Ltd.
+
+DOI: 10.1111/all.70262
+PMID: 41721996
+
+
+3. Lung India. 2026 Mar 1;43(2):191-196. doi: 10.4103/lungindia.lungindia_210_25.
+ Epub 2026 Feb 21.
+
+Treatment of bronchial asthma - A simplified overview.
+
+Harvanová G(1), Duranková S.
+
+Author information:
+(1)Department of Biology, Faculty of Humanities and Natural Sciences, University 
+of Prešov, Prešov, Slovakia.
+
+The treatment of bronchial asthma is complex and includes both pharmacological 
+and non-pharmacological approaches. The main goals of therapy are to achieve and 
+maintain disease control, minimize symptoms, prevent exacerbations, and improve 
+the patient's quality of life. Inhaled corticosteroids (ICSs), bronchodilators, 
+and biological therapy play a key role in severe forms of asthma. Patient 
+education, identification and elimination of triggers of asthma attacks, and 
+regular monitoring of the condition are also an integral part of disease 
+management. Research in asthma management points to new therapeutic options that 
+are tailored precisely to the endotype of the disease and the phenotype of the 
+patient. Early diagnosis and individually tailored treatment are key factors to 
+achieve remission and improve the prognosis of patients with bronchial asthma.
+
+Copyright © 2026 Indian Chest Society.
+
+DOI: 10.4103/lungindia.lungindia_210_25
+PMID: 41721671
+
+
+4. Expert Rev Anti Infect Ther. 2026 Feb 21:1-14. doi: 
+10.1080/14787210.2026.2636175. Online ahead of print.
+
+Impact of nirmatrelvir/ritonavir on the risk of long COVID in outpatients: a 
+systematic review and meta-analysis.
+
+Cucunawangsih C(1), Ansori ANM(2)(3), Vatvani AD(4), Hariyanto TI(5)(6).
+
+Author information:
+(1)Department of Microbiology, Faculty of Medicine, Pelita Harapan University, 
+Tangerang, Indonesia.
+(2)Immunology Study Program, Postgraduate School, Universitas Airlangga, 
+Surabaya, Indonesia.
+(3)Drug and Vaccine Innovation Research Group, Virtual Research Center for 
+Bioinformatics and Biotechnology, Surabaya, Indonesia.
+(4)Department of Internal Medicine, NYC Health + Hospitals/Lincoln, Bronx, NY, 
+USA.
+(5)Department of Microbiology, Faculty of Medicine, Universitas Airlangga, Jawa 
+Timur, Indonesia.
+(6)Department of Microbiology, Dr. Soetomo General Academic Hospital, Jawa 
+Timur, Indonesia.
+
+BACKGROUND: This study systematically synthesized existing evidence to evaluate 
+whether outpatient treatment with nirmatrelvir/ritonavir during the acute phase 
+reduces the incidence of long COVID.
+METHODS: We conducted a systematic search of Europe PMC, Medline, Scopus, and 
+the Cochrane Library from inception to 15 September 2025. Eligible studies 
+compared COVID-19 outpatients prescribed nirmatrelvir/ritonavir during the acute 
+phase with those who did not receive the drug. Pooled odds ratios (ORs) with 95% 
+confidence intervals (CIs) were calculated using a random-effects model.
+RESULTS: Nineteen studies met inclusion criteria. Overall, 
+nirmatrelvir/ritonavir use during acute infection was associated with a 
+significant reduction in the likelihood of developing post-COVID-19 condition 
+(OR 0.85; 95% CI: 0.80-0.91; p < 0.00001; I2 = 99%). Protective effects were 
+consistently observed across multiple clinical domains, including cardiovascular 
+(arrhythmia, ischemic disease, heart failure), pulmonary (dyspnea, COPD), 
+thromboembolic (DVT, PE), neurological (stroke, cognitive impairment, headache), 
+psychiatric (depression), gastrointestinal, metabolic (new-onset diabetes), 
+renal (AKI), and general symptoms (malaise and fatigue). Conversely, no 
+significant differences were noted for cough, asthma, dysautonomia, anxiety, 
+PTSD, sleep disturbances, musculoskeletal pain, or olfactory/gustatory 
+dysfunction.
+CONCLUSIONS: Early outpatient treatment with nirmatrelvir/ritonavir may mitigate 
+the risk of developing several domains of long COVID, though its benefits are 
+not uniform across all symptom categories.
+
+DOI: 10.1080/14787210.2026.2636175
+PMID: 41717886
+
+
+5. Cureus. 2026 Jan 19;18(1):e101839. doi: 10.7759/cureus.101839. eCollection
+2026  Jan.
+
+Behind the Swelling: Primary Mediastinal Large B-cell Lymphoma Masquerading as 
+an Infection.
+
+Lak MA(1), Abdelhamid D(1), Sehgal VS(2), Falletta A(3), Skrodzka N(2), Saliaj 
+M(1).
+
+Author information:
+(1)Medicine, Icahn School of Medicine at Mount Sinai, Queens Hospital Center, 
+New York City, USA.
+(2)Internal Medicine, City University of New York School of Medicine, New York, 
+USA.
+(3)Internal Medicine, New York Institute of Technology College of Osteopathic 
+Medicine (NYITCOM), Westbury, USA.
+
+We present the case of a 26-year-old female patient with a history of asthma who 
+initially presented with symptoms suggestive of a common infection. Her 
+constellation of facial swelling, productive cough, and fatigue, coupled with 
+imaging findings, first led to a diagnosis of right upper lobe pneumonia and 
+suspected cellulitis. Despite appropriate antibiotic therapy, her symptoms 
+persisted, and her clinical picture became more complex with the identification 
+of Actinomyces in her sputum, shifting the differential diagnosis toward a more 
+indolent cervicofacial infection. However, a progressively worsening and 
+profound leukocytosis, along with a lack of clinical improvement, prompted 
+further investigation. This ultimately revealed a large mediastinal mass, and 
+subsequent tissue analysis confirmed a diagnosis of primary mediastinal large 
+B-cell lymphoma. This case highlights a critical diagnostic challenge, 
+illustrating how a rare and aggressive malignancy can masquerade as a common 
+infectious process in a young, otherwise healthy individual, leading to a 
+significant delay in diagnosis and treatment.
+
+Copyright © 2026, Lak et al.
+
+DOI: 10.7759/cureus.101839
+PMCID: PMC12914605
+PMID: 41717196
+
+Conflict of interest statement: Human subjects: Informed consent for treatment 
+and open access publication was obtained or waived by all participants in this 
+study. Conflicts of interest: In compliance with the ICMJE uniform disclosure 
+form, all authors declare the following: Payment/services info: All authors have 
+declared that no financial support was received from any organization for the 
+submitted work. Financial relationships: All authors have declared that they 
+have no financial relationships at present or within the previous three years 
+with any organizations that might have an interest in the submitted work. Other 
+relationships: All authors have declared that there are no other relationships 
+or activities that could appear to have influenced the submitted work.
+
+
+6. Ter Arkh. 2026 Feb 15;98(1):35-42. doi: 10.26442/00403660.2026.01.203558.
+
+[Prevalence and predictors of suboptimal peak inspiratory flow values with 
+metered-dose dry powder inhalers in patients with asthma and chronic obstructive 
+pulmonary disease].
+
+[Article in Russian; Abstract available in Russian from the publisher]
+
+Lavginova BB(1), Trushenko NV(1)(2), Nekludova GV(1)(2), Belkina OS(1), Avdeev 
+SN(1)(2).
+
+Author information:
+(1)Sechenov First Moscow State Medical University (Sechenov University).
+(2)Research Institute of Pulmonology.
+
+BACKGROUND: A key requirement for effective dry powder inhaler (DPI) use is 
+adequate patient inspiratory effort, measurable through peak inspiratory flow 
+(PIF).
+AIM: To assess the prevalence of suboptimal PIF values, and identify factors 
+significantly affecting PIF in pulmonary disease (COPD) and asthma outpatients.
+MATERIALS AND METHODS: The study enrolled asthma and COPD patients using DPIs 
+for maintenance therapy. PIF was measured using In-Check DIAL G16® at resistance 
+levels matching each patient's DPI, both before and after proper inhalation 
+technique training. Clinical and functional parameters were evaluated to 
+identify predictors of suboptimal PIF.
+RESULTS: The study included 61 asthma and 30 COPD patients. Baseline suboptimal 
+PIF rates were 34% (asthma) and 63% (COPD). After training, these decreased 
+significantly to 10% (asthma) and 23% (COPD); p < 0.0001. Key limiting factors 
+for achieving optimal PIF were age ≥ 60 years, FVC ≤ 70% predicted, and FEV1 ≤ 
+45% predicted.
+CONCLUSION: Many patients had insufficient inspiratory flow for effective DPI 
+use due to technique errors or age/functional limitations. Pre-prescription PIF 
+measurement objectively evaluates DPI suitability and enhances treatment 
+efficacy.
+
+Publisher: Обоснование. Одним из ключевых условий эффективного использования 
+дозированных порошковых ингаляторов (ДПИ) является достаточное инспираторное 
+усилие пациента, которое можно оценить по уровню пикового инспираторного потока 
+(ПИП). Цель. Изучить распространенность и предикторы развития субоптимальных для 
+ДПИ значений ПИП у пациентов с хронической обструктивной болезнью легких (ХОБЛ) 
+и бронхиальной астмой (БА) в амбулаторной практике. Материалы и методы. В 
+исследование включались больные БА и ХОБЛ, использующие в качестве базисной 
+терапии ДПИ. Значение ПИП оценивалось с помощью портативного инспираторного 
+флоуметра In-Check DIAL G16® на уровне сопротивления соответствующего ДПИ, 
+используемого пациентом, исходно и после объяснения правильной техники ингаляций 
+при БА и ХОБЛ. С целью определения предикторов субоптимального ПИП оценивали 
+основные клинические показатели и параметры комплексного исследования функции 
+дыхания. Результаты. В исследование вошли 61 пациент с БА и 30 пациентов с ХОБЛ. 
+Доля пациентов с субоптимальными показателями ПИП исходно составляла 34% в 
+группе БА и 63% – в группе ХОБЛ. После обучения правильной технике ингаляции 
+доля пациентов с субоптимальным ПИП значительно снизилась в обеих группах: до 
+10% в группе БА и до 23% – в группе ХОБЛ (p < 0,0001). Наиболее значимыми 
+факторами, существенно ограничивающими вероятность достижения у пациента 
+оптимального ПИП, необходимого для эффективного использования ДПИ, стали возраст 
+≥ 60 лет, форсированная жизненная емкость легких ≤ 70%долж. и объем 
+форсированного выдоха за 1-ю секунду ≤ 45%долж. Заключение. Многие пациенты 
+имели недостаточную силу вдоха для эффективного применения ДПИ из-за ошибок в 
+технике ингаляций или возрастных/функциональных ограничений. Измерение ПИП перед 
+назначением ДПИ позволяет объективно оценить возможность его использования и 
+повысить эффективность терапии.
+
+DOI: 10.26442/00403660.2026.01.203558
+PMID: 41715969 [Indexed for MEDLINE]
+
+
+7. NPJ Prim Care Respir Med. 2026 Feb 19. doi: 10.1038/s41533-026-00493-7. Online
+ ahead of print.
+
+Childhood asthma in Uganda: experiences of healthcare providers and caregivers 
+in diagnosis and management. A FRESH AIR qualitative study.
+
+Nantanda R(1), Najjingo I(2), Kjaergaard J(3), Reventlow S(4), Ndekezi D(5), 
+Ssemata AS(5)(6), Østergaard MS(4).
+
+Author information:
+(1)Makerere University Lung Institute, College of Health Sciences, Makerere 
+University Kampala, Kampala, Uganda. rnantanda@gmail.com.
+(2)Makerere University Lung Institute, College of Health Sciences, Makerere 
+University Kampala, Kampala, Uganda.
+(3)Global Health Unit, Department of Paediatrics and Adolescent Medicine, 
+Copenhagen University Hospital, "Rigshospitalet", Copenhagen, Denmark.
+(4)The Research Unit for General Practice and Section of General Practice, 
+Department of Public Health, University of Copenhagen, Copenhagen, Denmark.
+(5)Medical Research Council, Uganda Virus Research Institute and London School 
+of Hygiene and Tropical Medicine (MRC/UVRI & LSHTM) Uganda Research Unit, 
+Entebbe, Uganda.
+(6)Department of Global Health and Development, London School of Hygiene and 
+Tropical Medicine, London, United Kingdom.
+
+Asthma is the most common chronic childhood illness, however, many young 
+children with asthma symptoms remain undiagnosed and/or misdiagnosed as 
+pneumonia. We explored caregivers' and health care providers' understanding and 
+practices around diagnosis and management of asthma in children less than 5 
+years. We conducted a cross-sectional study in primary care facilities in Uganda 
+between June and August 2016. In-depth interviews with 25 participants, 
+including caregivers (CGs) of young children with recurrent respiratory 
+symptoms, healthcare workers (HCWs) and herbalists were triangulated. The 
+findings indicated that all CGs described recurrent cough, wheeze and breathing 
+difficulties in their children, which is suggestive of asthma, but were 
+primarily diagnosed with pneumonia, bronchiolitis or bronchitis, and treated 
+with antibiotics. This was in conformity with the HCWs' responses regarding 
+their (HCWs) practices in management of children with respiratory illnesses. 
+HCWs indicated that they did not diagnose asthma in young children but used 
+terms like hyper-reactive airways disease or allergic cough. Caregivers were 
+frustrated with the healthcare system due to lack of clear diagnoses and 
+ineffective treatments. HCWs expressed frustration with unavailability of 
+inhaled asthma medicines. The study highlighted major gaps in HCWs' practices in 
+the management of asthma in young children leading to under-diagnosis of asthma 
+and over-diagnosis of pneumonia., and overuse of antibiotics. Despite caregivers 
+seeking care, their children did not get the right care, partly due to health 
+system challenges including HCW competencies. Strategies for health system 
+strengthening including improving HCWs' competences and availability of inhaled 
+asthma medicines are urgently needed.
+
+© 2026. The Author(s).
+
+DOI: 10.1038/s41533-026-00493-7
+PMID: 41714660
+
+Conflict of interest statement: Competing interests: The authors declare no 
+competing interests.
+
+
+8. Eur Respir J. 2026 Feb 19:2502687. doi: 10.1183/13993003.02687-2025. Online 
+ahead of print.
+
+Obesity and asthma: obesity causes and aggravates asthma across the entire 
+type-2 inflammation spectrum.
+
+Riemann S(1)(2)(3), Matthys I(4), Maes T(5)(3), Lapauw B(3)(4), Brusselle 
+G(5)(2)(3)(6).
+
+Author information:
+(1)Department of Respiratory Medicine, Ghent University Hospital, Ghent, Belgium 
+Sebastian.Riemann@UGent.be.
+(2)Department of Epidemiology, Erasmus MC, Rotterdam, the Netherlands.
+(3)Department of Internal Medicine & Pediatrics, Faculty of Medicine and Health 
+Sciences, Ghent University, Ghent, Belgium.
+(4)Department of Endocrinology, Ghent University Hospital, Ghent, Belgium.
+(5)Department of Respiratory Medicine, Ghent University Hospital, Ghent, 
+Belgium.
+(6)Department of Respiratory Medicine, Erasmus MC, Rotterdam, the Netherlands.
+
+Obesity affects more than 650 million adults worldwide, with prevalence 
+continuing to rise across all age groups and continents. This trend has 
+important implications for asthma: individuals with obesity have a 30-50% higher 
+risk of developing asthma, and obesity is highly prevalent among people with 
+established disease. Mean Body Mass Index (BMI) in clinical trials and 
+registries of adults with asthma consistently ranges from 28-30 kg·m-2, with up 
+to 70% of patients being overweight or obese. These numbers highlight obesity as 
+one of the most common comorbidities in asthma, consistently associated with 
+poorer asthma control and a higher risk of exacerbations. Although 
+obesity-associated asthma is often described as Type-2 (T2)-low phenotype, it is 
+increasingly recognized as a heterogeneous condition not restricted to a single 
+phenotype. Excess adiposity influences asthma through multiple mechanisms, 
+including dysregulated adipokine signaling, impaired ILC2-eosinophil-macrophage 
+crosstalk in adipose tissue, systemic low-grade inflammation, metabolic 
+dysfunction, and mechanical effects on lung volumes. This diversity complicates 
+diagnosis, endotyping, and treatment stratification. Obesity should therefore be 
+considered a treatable trait in asthma. Weight reduction - through lifestyle 
+interventions, pharmacotherapy, or bariatric surgery - improves symptoms, lung 
+function, and exacerbation risk across both T2-high and T2-low asthma. 
+Importantly, patients with obesity experience similar reductions in 
+exacerbations with anti-T2 biologics as their lean counterparts, though 
+improvements in symptoms and lung function are variable. Future research should 
+prioritize randomized, placebo-controlled trials evaluating GLP-1 and dual 
+GLP-1/GIP-agonist therapies specifically in patients with asthma and obesity, 
+and elucidate how obesity modifies inflammatory endotypes and treatment 
+responses.
+
+Copyright ©The authors 2026. For reproduction rights and permissions contact 
+permissions@ersnet.org.
+
+DOI: 10.1183/13993003.02687-2025
+PMID: 41713950
+
+
+9. Eur Respir J. 2026 Feb 19:2502358. doi: 10.1183/13993003.02358-2025. Online 
+ahead of print.
+
+The pathobiology and treatment of mucus plugs in asthma and COPD: state of the 
+art.
+
+Fahy JV(1).
+
+Author information:
+(1)Division of Pulmonary and Critical Care Medicine, and the Cardiovascular 
+Research Institute, University of California, San Francisco, San Francisco, 
+California, USA john.fahy@ucsf.edu.
+
+Recent studies using computed tomography (CT) have uncovered a high prevalence 
+of airway mucus plugs in patients with asthma and COPD. These mucus plugs 
+persist in the same airways for years and often occur in patients without 
+symptoms of cough and sputum production. Mucus plugs associate strongly with 
+measures of airflow obstruction and disease morbidity in both asthma and COPD, 
+and they occur and persist despite treatment with high doses of inhaled and oral 
+corticosteroids. Thus, airway mucus plugs have emerged as an underappreciated 
+airway pathology in asthma and COPD and a cause of persistent airflow 
+obstruction and disease morbidity that can be specifically targeted for 
+treatment. This narrative review covers the pathobiology of mucus plugs in 
+asthma and COPD with three areas of emphasis: (i) Prevalence and clinical 
+features; (ii) Mechanisms of formation and persistence; (iii) Current and 
+emerging treatments.
+
+Copyright ©The authors 2026. For reproduction rights and permissions contact 
+permissions@ersnet.org.
+
+DOI: 10.1183/13993003.02358-2025
+PMID: 41713949
+
+
+10. Eur Respir J. 2026 Feb 19:2500948. doi: 10.1183/13993003.00948-2025. Online 
+ahead of print.
+
+EcN-Sj16-Exo ameliorates experimental asthma by inhibiting eosinophil 
+extracellular traps formation via N-WASP upregulation.
+
+Sun X(1)(2), Liao Y(3)(2), Wu J(1)(2), Liu Y(3)(2), Li D(1), Zhu Z(1), Huang 
+Y(1), Wu J(3), Peng P(4), Su J(3), He Y(3), Yanglan M(3), Deng H(3), Cao F(3), 
+Xu J(3), Wu Z(1), Wang L(5).
+
+Author information:
+(1)Department of Parasitology of Zhongshan School of Medicine, Sun Yat-sen 
+University, Guangzhou , China.
+(2)These authors contributed equally to this work.
+(3)KingMed School of Laboratory Medicine, The Affiliated Traditional Chinese 
+Medicine Hospital, Guangzhou Medical University, Guangzhou , China.
+(4)Medical Department, Xizang Minzu University, Xianyang , China.
+(5)KingMed School of Laboratory Medicine, The Affiliated Traditional Chinese 
+Medicine Hospital, Guangzhou Medical University, Guangzhou , China 
+wanglf@gzhmu.edu.cn.
+
+BACKGROUND: Eosinophilic inflammation is a feature of allergic asthma, with 
+eosinophil depletion shown to alleviate symptoms. Elevated levels of eosinophil 
+extracellular traps (EETs) in bronchoalveolar lavage fluid (BALF) correlate with 
+asthma severity. Sj16 is a protein from Schistosoma japonicum with known 
+immunoregulatory properties. Exosomes, with their protective phospholipid 
+bilayer, serve as efficient drug carriers.
+METHODS: We extracted exosomes secreted by Escherichia coli Nissle 1917 
+engineered to express Sj16 (EcN-Sj16-Exo), and sought to investigate the role of 
+EcN-Sj16-Exo on asthma. In ovalbumin (OVA)-induced experimental asthma model in 
+mice, EET levels were elevated. The experimental asthma model was treated with 
+EcN-Sj16-Exo. EET formation was assessed using immunofluorescence and scanning 
+electron microscopy. Lung function, airway remodeling, and inflammatory were 
+evaluated. Wiskott-Aldrich syndrome-like (WASL) knockout mice and recombinant 
+adeno-associated virus (rAAV)-expressing Neural Wiskott-Aldrich syndrome protein 
+(N-WASP) were used to investigate the potential mechanisms of EcN-Sj16-Exo.
+RESULTS: EET formation was increased in sputum and BALF from asthma patients. We 
+demonstrate that Sj16 inhibits EET formation in vitro and localizes primarily in 
+exosomes when secreted by EcN-Sj16. In the experimental asthma model, 
+EcN-Sj16-Exo significantly reduced EET formation. Moreover, EcN-Sj16-Exo 
+significantly attenuated airway hyperreactivity (AHR) and airway remodeling, as 
+evidenced by reduced lung resistance (RL), improved dynamic compliance (Cdyn), 
+and diminished inflammatory cell infiltration, fibrosis, and mucus 
+hypersecretion. Furthermore, EcN-Sj16-Exo decreased eosinophil and neutrophil 
+counts, IgE, and type 2 cytokines levels in BALF while increasing Treg cells in 
+the spleen. Mechanistically, EcN-Sj16-Exo inhibited EET formation by 
+upregulating N-WASP. WASL knockout mice and AAV6-WASL-mediated N-WASP expression 
+confirmed that EcN-Sj16-Exo alleviates experimental asthma by upregulating 
+N-WASP to inhibit EET formation.
+CONCLUSION: Our findings suggest that EcN-Sj16-Exo represents a promising 
+therapeutic approach in asthma, highlighting the potential of targeting EETs and 
+N-WASP in asthma therapy.
+
+Copyright ©The authors 2026. For reproduction rights and permissions contact 
+permissions@ersnet.org.
+
+DOI: 10.1183/13993003.00948-2025
+PMID: 41713945
