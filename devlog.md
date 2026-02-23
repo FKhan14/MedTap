@@ -20,11 +20,19 @@ well as created the initial file structure and downloaded dependencies.
 ## 2/22/2026 - Day 2
 
 **What I did today:**
-Completed part of Phase 1:
-- makde openFDA fetcher -20 drugs saved
-- pubmed search working
-- pubmed abstract fetching working
+Phase 1 - Data Collection:
+- openFDA fetcher: pulls drug label data from the FDA API
+- Field extraction: filters raw data to only the 7 fields MedTap needs
+- Bulk drug collection: automatically collected 20 common drugs
+- PubMed fetcher: two-step search then fetch for medical abstracts
+- Bulk condition collection: collected 10 common conditions
+
+Phase 2 - Preprocessing:
+- PubMed chunker: splits multi-article text into individual article chunks
+- openFDA chunker: splits drug JSON into field-based chunks with field 
+  names included for better retrieval context
 
 **What's next:**
-- save pubmed data locally
-- bulk pubmed collection by condition
+- Phase 3: Embeddings and Database
+- Convert chunks into vector embeddings using PubMedBERT
+- Store embeddings in Supabase pgvector

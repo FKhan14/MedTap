@@ -5,7 +5,7 @@ MODEL_NAME = "pritamdeka/PubMedBERT-mnli-snli-scinli-scitail-mednli-stsb"
 model = SentenceTransformer(MODEL_NAME)
 
 def embed_chunks(chunks):
-    embeddings = model.encode(chunks,show_progress_bar=True)
+    embeddings = model.encode(chunks, show_progress_bar=True)
     return embeddings
 
 if __name__ == "__main__":
