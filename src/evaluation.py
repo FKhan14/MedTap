@@ -48,7 +48,22 @@ EVAL_SET = [
         "query": "What does fluoxetine treat?",
         "expected_source": "fluoxetine",
         "expected_field": "indications_and_usage"
-    }
+    },
+    {
+    "query": "What happens when you combine ibuprofen and warfarin?",
+    "expected_source": "drug_interactions",
+    "expected_field": "drug_interaction"
+},
+{
+    "query": "Is there an interaction between metformin and alcohol?",
+    "expected_source": "drug_interactions",
+    "expected_field": "drug_interaction"
+},
+{
+    "query": "What are the risks of combining warfarin and aspirin?",
+    "expected_source": "drug_interactions",
+    "expected_field": "drug_interaction"
+}
     
 ]
 
@@ -60,7 +75,8 @@ from retrieval import retrieve
 def evaluate(top_k=5):
     hits = 0
     for item in EVAL_SET:
-        results = retrieve(item["query"], top_k=top_k)
+        source = item.get("source_filter", None)
+        results = retrieve(item["query"], top_k=top_k, source=source)
         for r in results:
             if r[1] == item["expected_source"] and r[2] == item["expected_field"]:
                 hits += 1

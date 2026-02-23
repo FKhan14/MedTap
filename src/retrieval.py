@@ -5,18 +5,28 @@ sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 from database import get_connection
 from preprocessing.embedder import embed_chunks
 
-def retrieve(query, top_k=5):
+def retrieve(query, top_k=5, source=None):
     conn = get_connection()
     query_embedding = embed_chunks([query])[0].tolist()
     
     with conn.cursor() as cur:
-        cur.execute("""
-            SELECT source, source_name, field_type, content,
-                   1 - (embedding <=> %s::vector) AS similarity
-            FROM medical_chunks
-            ORDER BY similarity DESC
-            LIMIT %s
-        """, (str(query_embedding), top_k))
+        if source:
+            cur.execute("""
+                SELECT source, source_name, field_type, content,
+                       1 - (embedding <=> %s::vector) AS similarity
+                FROM medical_chunks
+                WHERE source = %s
+                ORDER BY similarity DESC
+                LIMIT %s
+            """, (str(query_embedding), source, top_k))
+        else:
+            cur.execute("""
+                SELECT source, source_name, field_type, content,
+                       1 - (embedding <=> %s::vector) AS similarity
+                FROM medical_chunks
+                ORDER BY similarity DESC
+                LIMIT %s
+            """, (str(query_embedding), top_k))
         
         results = cur.fetchall()
     

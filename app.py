@@ -65,7 +65,7 @@ with tab1:
     if st.button("🔍 Look Up Drug", use_container_width=True) and drug_query:
         query = f"{type_map[info_type]} for {drug_query}"
         with st.spinner(f"Looking up {drug_query}..."):
-            chunks = retrieve(query, top_k=10)
+            chunks = retrieve(query, top_k=10,source="openfda")
             response = generate_response(query, chunks)
         
         st.session_state.chat_history.append({
@@ -91,7 +91,7 @@ with tab2:
     if st.button("🔍 Check Symptoms", use_container_width=True) and symptoms:
         query = f"patient symptoms {symptoms} possible conditions treatment"
         with st.spinner("Analyzing symptoms..."):
-            chunks = retrieve(query, top_k=10)
+            chunks = retrieve(query, top_k=10,source="pubmed")
             response = generate_response(query, chunks)
         
         st.session_state.chat_history.append({
@@ -121,7 +121,7 @@ with tab3:
     if st.button("⚠️ Check Interaction", use_container_width=True) and drug1 and drug2:
         query = f"drug interaction between {drug1} and {drug2} warnings risks"
         with st.spinner(f"Checking interaction between {drug1} and {drug2}..."):
-            chunks = retrieve(query, top_k=10)
+            chunks = retrieve(query, top_k=10,source="drugbank")
             response = generate_response(query, chunks)
         
         st.session_state.chat_history.append({
