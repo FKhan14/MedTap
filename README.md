@@ -1,32 +1,122 @@
 # MedTap
 
-A medical reference RAG system built for low-income clinics.
+### A Free, Open-Source Medical Reference System for Low-Income Clinics
 
-## Why I Built This
-I built this from my own experiences in low-income clinics, noticing how they lack tools to help them in their work. I was inspired to do this project by Mehtep Abul in honor of her helping my family.
+**MedTap** is a lightweight, zero-cost clinical reference tool built for healthcare workers serving under-resourced communities.
 
-## What It Does
-- Symptom and condition lookup using PubMed medical literature
-- Drug information including dosage, warnings, and contraindications
-- Semantic search that understands meaning, not just keywords
+Named after **Mehtep** — a woman who helped a family through cancer — this project is dedicated to clinics that care for patients who can’t afford anything else.
 
-## Tech Stack
-- PubMedBERT for domain-specific medical embeddings
-- pgvector + Supabase for vector similarity search
-- Llama 3.2 via Ollama for free local LLM inference
-- openFDA and PubMed APIs for medical data
+---
 
-## Performance
-- Precision@5: 0.70 on held-out QA evaluation set
-- 20 drugs and 10 conditions indexed
+## Mission
 
-## How to Run
-1. Clone the repo
-2. Install dependencies: `pip install -r requirements.txt`
-3. Install Ollama and pull Llama 3.2: `ollama pull llama3.2`
-4. Add your Supabase credentials to `.env`
-5. Run: `streamlit run app.py`
+Provide fast, reliable, evidence-grounded medical reference information — completely free — for frontline healthcare providers in low-income settings.
 
-## Data Sources
-- openFDA API - drug labels and contraindications
-- PubMed API - medical literature abstracts
+---
+
+##  Features
+
+###  Drug Lookup
+
+* Dosage information
+* Warnings
+* Contraindications
+* Clinical notes
+* 51 commonly prescribed medications indexed
+
+###  Symptom Checker
+
+* Suggests possible conditions
+* Grounded in real medical literature
+* Retrieval-Augmented Generation (RAG) pipeline
+
+###  Drug Interaction Checker
+
+* Check interaction risks between two medications
+
+###  Session History
+
+* Tracks all queries during a shift
+* Allows quick reference to previous lookups
+
+---
+
+## System Architecture
+
+```
+openFDA + PubMed APIs
+        ↓
+PubMedBERT Embeddings
+        ↓
+pgvector + Supabase
+        ↓
+Llama 3.2 (local, free via Ollama)
+        ↓
+Streamlit Interface
+```
+
+### Stack Overview
+
+* **Data Sources:** openFDA, PubMed
+* **Embeddings:** PubMedBERT
+* **Vector Database:** pgvector (Supabase)
+* **LLM:** Llama 3.2 (local via Ollama)
+* **Frontend:** Streamlit
+
+---
+
+##  Performance
+
+* **Precision@15:** 0.70 on held-out QA evaluation set
+* **51 drugs**, **10 conditions** indexed
+* **Zero inference cost** (runs fully local)
+
+---
+
+##  Installation & Setup
+
+### 1. Clone the repository
+
+```
+git clone https://github.com/yourusername/medtap.git
+cd medtap
+```
+
+### 2. Install dependencies
+
+```
+pip install -r requirements.txt
+```
+
+### 3. Pull the LLM
+
+```
+ollama pull llama3.2
+```
+
+### 4. Run the app
+
+```
+streamlit run app.py
+```
+
+---
+
+##  Roadmap (V2)
+
+* DrugBank integration
+* Pediatric dosing support
+* Spanish language support
+* Pilot deployment in a free clinic in Boston
+
+---
+
+##  Disclaimer
+
+MedTap is intended as a **clinical reference support tool** and does not replace professional medical judgment, diagnosis, or treatment decisions.
+
+---
+
+##  Why This Exists
+
+Healthcare workers in low-income clinics often lack access to expensive reference systems like UpToDate. MedTap exists to close that gap — with open tools, open data, and zero cost.
