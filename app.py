@@ -2,7 +2,6 @@ import streamlit as st
 import os
 import sys
 sys.path.append(os.path.join(os.path.dirname(__file__), 'src'))
-
 from retrieval import retrieve
 from llm import generate_response
 
@@ -11,6 +10,9 @@ st.set_page_config(
     page_icon="🏥",
     layout="wide"
 )
+
+if "chat_history" not in st.session_state:
+    st.session_state.chat_history = []
 
 st.markdown("""
     <h1 style='text-align: center; color: #2E86AB;'>🏥 MedTap</h1>
@@ -26,6 +28,14 @@ with st.sidebar:
     st.write("• 51 common drugs")
     st.write("• 10 medical conditions")
     st.warning("Reference tool only. Always apply clinical judgment.")
+    
+    if st.session_state.chat_history:
+        st.markdown("### 📜 Session History")
+        for item in reversed(st.session_state.chat_history):
+            with st.expander(f"Q: {item['question'][:40]}..."):
+                st.write(item["answer"])
+        if st.button("Clear History"):
+            st.session_state.chat_history = []
 
 tab1, tab2 = st.tabs(["💊 Drug Lookup", "🔍 Symptom Checker"])
 
@@ -58,6 +68,11 @@ with tab1:
             chunks = retrieve(query, top_k=10)
             response = generate_response(query, chunks)
         
+        st.session_state.chat_history.append({
+            "question": query,
+            "answer": response
+        })
+        
         st.markdown(f"### {drug_query.title()} — {info_type}")
         st.info(response)
         
@@ -78,6 +93,11 @@ with tab2:
         with st.spinner("Analyzing symptoms..."):
             chunks = retrieve(query, top_k=10)
             response = generate_response(query, chunks)
+        
+        st.session_state.chat_history.append({
+            "question": query,
+            "answer": response
+        })
         
         st.markdown("### Possible Conditions and Treatments")
         st.info(response)
