@@ -3,7 +3,7 @@
 A medical reference RAG system built for low-income clinics.
 
 ## Why I Built This
-I built this from my own experiences in low-income clinics, noticing how they lack tools to help them in their work.
+I built this from my own experiences in low-income clinics, noticing how they lack tools to help them in their work. I was inspired to do this project by Mehtep Abul in honor of her helping my family.
 
 ## What It Does
 - Symptom and condition lookup using PubMed medical literature
