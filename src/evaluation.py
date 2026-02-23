@@ -70,4 +70,6 @@ def evaluate(top_k=5):
     return precision
 
 if __name__ == "__main__":
-    evaluate()
+    evaluate(top_k=5)
+    evaluate(top_k=10)
+    evaluate(top_k=15)

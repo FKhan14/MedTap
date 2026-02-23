@@ -11,22 +11,42 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("MedTap")
-st.subheader("Medical Reference Assistant for Low-Income Clinics")
-st.markdown("---")
+# Header
+st.markdown("""
+    <h1 style='text-align: center; color: #2E86AB;'> MedTap</h1>
+    <p style='text-align: center; color: #666; font-size: 18px;'>
+    Medical Reference Assistant for Low-Income Clinics</p>
+    <hr>
+""", unsafe_allow_html=True)
 
-query = st.text_input("Ask a medical question:", 
-                       placeholder="e.g. What are the warnings for ibuprofen?")
+# Sidebar
+with st.sidebar:
+    st.markdown("### About MedTap")
+    st.write("MedTap is a free medical reference tool built for clinic workers at low-income clinics.")
+    st.markdown("### Data Sources")
+    st.write("• FDA Drug Labels")
+    st.write("• PubMed Medical Literature")
+    st.markdown("### Coverage")
+    st.write("• 51 common drugs")
+    st.write("• 10 medical conditions")
+    st.warning("MedTap is a reference tool only. Always apply clinical judgment.")
 
-if st.button("Search") and query:
+# Main
+query = st.text_input("", placeholder="Ask a medical question...")
+
+col1, col2, col3 = st.columns([1,1,1])
+with col2:
+    search = st.button("Search", use_container_width=True)
+
+if search and query:
     with st.spinner("Searching medical database..."):
         chunks = retrieve(query, top_k=10)
         response = generate_response(query, chunks)
-    
+
     st.markdown("### MedTap Response")
-    st.write(response)
-    
-    st.markdown("### Sources Retrieved")
+    st.info(response)
+
+    st.markdown("### Sources")
     for r in chunks[:3]:
-        with st.expander(f"{r[1]} | {r[2]} | Similarity: {r[4]:.3f}"):
+        with st.expander(f" {r[1].title()} | {r[2].replace('_', ' ').title()} | Similarity: {r[4]:.3f}"):
             st.write(r[3])

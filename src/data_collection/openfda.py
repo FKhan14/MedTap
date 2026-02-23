@@ -4,7 +4,11 @@ import os
 
 BASE_URL = "https://api.fda.gov/drug/label.json"
 FIELDS_TO_KEEP = ["indications_and_usage","warnings","dosage_and_administration","active_ingredient","purpose","do_not_use","ask_doctor"]
-DRUG_LIST = ["ibuprofen","acetaminophen","naproxen","amoxicillin","azithromycin","ciprofloxacin","lisinopril","amlodipine","metoprolol","metformin","glipizide","sertraline","fluoxetine","cetirizine","albuterol","omeprazole","pantoprazole","simvastatin","atorvastatin","rosuvastatin"]
+DRUG_LIST = ["ibuprofen","acetaminophen","naproxen","amoxicillin","azithromycin","ciprofloxacin","lisinopril","amlodipine","metoprolol","metformin","glipizide","sertraline","fluoxetine","cetirizine","albuterol","omeprazole","pantoprazole","simvastatin","atorvastatin","rosuvastatin","hydrochlorothiazide", "losartan", "gabapentin", "levothyroxine",
+"prednisone", "tramadol", "cyclobenzaprine", "meloxicam",
+"doxycycline", "cephalexin", "trimethoprim", "clindamycin",
+"ranitidine", "loratadine", "montelukast", "insulin",
+"warfarin", "clopidogrel", "atenolol", "furosemide", "spironolactone", "sildenafil", "tadalafil", "lansoprazole", "rabeprazole", "esomeprazole", "dexlansoprazole","fluconazole", "ketoconazole", "miconazole", "nystatin"]
 def fetch_drug_label(drug_name, limit =10):
     params = {"search": f"openfda.brand_name:{drug_name}", "limit": limit}
     try:
