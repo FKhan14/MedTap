@@ -15,6 +15,13 @@ def chunk_openfda_data(data):
             chunks.append(f"{field}: {text}")
     return chunks
 
+def chunk_drugbank_interactions(interactions):
+    chunks = []
+    for item in interactions:
+        text = f"drug_interaction: {item['drug1']} and {item['drug2']} - {item['interaction']}"
+        chunks.append(text)
+    return chunks
+
 if __name__ == "__main__":
     with open("data/raw/openfda/ibuprofen.json", "r") as f:
         drug_data = json.load(f)

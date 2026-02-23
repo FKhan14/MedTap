@@ -2,7 +2,7 @@ import os
 import json
 import sys
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-
+from preprocessing.chunker import chunk_drugbank_interactions
 from database import get_connection
 from preprocessing.chunker import chunk_openfda_data, chunk_pubmed_text
 from preprocessing.embedder import embed_chunks
@@ -51,6 +51,18 @@ def process_all_data():
             for chunk, embedding in zip(chunks, embeddings):
                 store_chunk(conn, "pubmed", condition_name, 
                            "abstract", chunk, embedding)
+    # Process DrugBank interactions
+    print("Processing DrugBank interactions...")
+    with open("data/raw/drugbank/interactions_filtered.json", "r") as f:
+        interactions = json.load(f)
+
+    chunks = chunk_drugbank_interactions(interactions)
+    embeddings = embed_chunks(chunks)
+
+    for chunk, embedding in zip(chunks, embeddings):
+        store_chunk(conn, "drugbank", "drug_interactions", 
+               "drug_interaction", chunk, embedding)
+    print("DrugBank interactions stored successfully")
 
 if __name__ == "__main__":
     process_all_data()
