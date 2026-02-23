@@ -1,0 +1,487 @@
+1. ACS Appl Mater Interfaces. 2026 Feb 13. doi: 10.1021/acsami.5c24022. Online 
+ahead of print.
+
+In Situ Preparation of Hydrophilic Chiral Covalent Organic Framework Membranes 
+for Enantioseparation of Drugs.
+
+Chen Y(1)(2), Mu Q(1)(2), Chen K(1)(2), Ji Y(1)(2).
+
+Author information:
+(1)Department of Analytical Chemistry, China Pharmaceutical University, Nanjing 
+210009, China.
+(2)Key Laboratory of Drug Quality Control and Pharmacovigilance, Ministry of 
+Education, Nanjing 210009, China.
+
+The trend of integrating chirality into stable membrane systems for large-scale 
+preparation provides new opportunities in this field. However, the contradiction 
+between the chiral recognition ability and the permeability of the membrane 
+limits its development. The traditional membrane production method produces 
+chiral membranes with several disadvantages, including weak mechanical 
+properties, low load, uneven distribution of chiral selectors, a discontinuous 
+membrane structure, and low selectivity. To improve the membrane's overall 
+performance, the in situ growing process may regulate the membrane's thickness 
+and guarantee its continuity. Therefore, in this study, a novel chiral membrane 
+was prepared by in situ growth of chiral covalent organic frameworks (CCOFs) by 
+using a commercial nylon membrane as the supporting base at room temperature. 
+Among them, the [NALC]X-TAPB-DVA COFs synthesized by us, as a novel form of 
+CCOF, equip the membrane with good hydrophilicity and chiral recognition 
+capacity, providing an effective solution to the problem of mutual limitations 
+between selectivity and permeability. Under optimal preparation conditions, the 
+obtained CCOF membrane exhibited excellent stability and achieved effective 
+separation of mandelic acid, naproxen, ibuprofen, and warfarin. In addition, 
+theoretical calculations revealed the reasons for the differences in separation 
+performance of various chiral drugs. The difference in the type and quantity of 
+interaction forces between substrates and chiral selectors is the basis for 
+achieving separation. In summary, this study proposes a strategy for the 
+preparation of chiral separation membranes, providing valuable insights for 
+advancing research on chiral recognition and separation processes.
+
+DOI: 10.1021/acsami.5c24022
+PMID: 41685722
+
+
+2. Clin Transl Sci. 2026 Jan;19(1):e70471. doi: 10.1111/cts.70471.
+
+Self-Reported Pharmacogenetic Medication Use in the Our Future Health Cohort.
+
+Dixon P(1), Newman WG(2)(3), Sharma V(2)(3), McDermott JH(2)(3), Wright 
+Drakesmith C(1).
+
+Author information:
+(1)Nuffield Department of Primary Care Health Sciences, University of Oxford, 
+Oxford, UK.
+(2)Manchester Centre for Genomic Medicine, St Mary's Hospital, Manchester 
+University, NHS Foundation Trust, Manchester, UK.
+(3)Division of Evolution and Genomic Sciences, School of Biological Sciences, 
+University of Manchester, Manchester, UK.
+
+The aim of this study was to describe self-reported use of medications with 
+established pharmacogenetic guidance in the Our Future Health (OFH) cohort. We 
+examined four key pharmacogenes-CYP2C19, CYP2C9, CYP2D6, and SLCO1B1-and 
+medications supported by strong evidence for clinical actionability according to 
+the Clinical Pharmacogenetics Implementation Consortium (CPIC). Self-reported 
+medication use was summarized, concurrent use assessed, and findings stratified 
+by age, sex, and ethnicity. We studied these data in 1.78 million OFH 
+participants included in the June 2025 release. The cohort was 57.3% female, 
+aged 18-95 years (mean 53.1 years), with 90.2% self-identifying as "White." 
+Eighteen medication groups were explicitly listed in the baseline questionnaire, 
+enabling identification of exposure at group level rather than for individual 
+drugs. Medication groups with pharmacogenetic relevance included antidepressants 
+(selective serotonin reuptake inhibitors and tricyclics), statins, proton pump 
+inhibitors, ibuprofen, opioids, clopidogrel, and warfarin. Overall, 25.2% of 
+participants (N = 449,641) reported use of at least one such group. These users 
+tended to be older, more frequently female, and reported more comorbidities than 
+non-users. Concurrent exposure to two or more pharmacogenetically actionable 
+medications metabolized by different genes was common, occurring in 37% of 
+users. A substantial proportion of the OFH cohort therefore reported exposure to 
+medications with pharmacogenetic guidance. Use was observed across all ages, 
+with prevalence increasing with age. With continued expansion of the cohort and 
+future linkage to prescribing records, OFH will provide a critical resource for 
+population-scale pharmacogenetic research.
+
+© 2026 The Author(s). Clinical and Translational Science published by Wiley 
+Periodicals LLC on behalf of the American Society for Clinical Pharmacology and 
+Therapeutics.
+
+DOI: 10.1111/cts.70471
+PMCID: PMC12790112
+PMID: 41518218 [Indexed for MEDLINE]
+
+Conflict of interest statement: OFH project approval: This study was approved 
+under Project ID OFHS240243. V.S., W.G.N., and J.H.M. are co‐founders of an 
+early‐stage health technology start‐up, Fava Health Ltd. All other authors 
+declare no conflicts of interest.
+
+
+3. Eur Rev Med Pharmacol Sci. 2025 Dec;29(12):609-619. doi: 
+10.26355/eurrev_202512_37570.
+
+The role of a fixed combination of ibuprofen/paracetamol in the management of 
+acute pain: an Italian expert narrative review.
+
+Coluzzi F(1), Tranquilli Leali P, Perugia D, Pellegrino R, Romualdi P.
+
+Author information:
+(1)Department of Surgical and Medical Sciences and Translational Medicine, 
+Sapienza University of Rome, Rome, Italy. flaminia.coluzzi@uniroma1.it.
+
+An Italian multidisciplinary team of pain management experts reviewed ibuprofen 
+and paracetamol in combination for acute pain. Effective treatment of acute pain 
+should target both inflammation and pain signaling to reduce suffering and 
+prevent the development of persistent pain. The combination of a non-steroidal 
+anti-inflammatory drug (NSAID) and paracetamol appears to be a logical choice: 
+paracetamol primarily acts centrally, while NSAIDs inhibit the inflammation that 
+perpetuates the pain response. Both drugs are rapidly absorbed, reaching maximal 
+concentrations within 1-2 hours. Coadministration may enhance paracetamol 
+absorption, leading to earlier onset of pain relief. The rate of drug 
+interactions between ibuprofen and paracetamol is low, and the two do not 
+directly interact with each other. Multiple studies and meta-analyses have shown 
+that the combination is more effective than placebo or either drug used alone in 
+relieving postoperative pain and reducing the need for rescue analgesia after 
+surgery or acute musculoskeletal injury. The most commonly evaluated daily 
+dosage was ibuprofen/paracetamol 400/1,000 mg. A single-pill combination of 
+ibuprofen and paracetamol also reduces the incidence of persistent pain compared 
+with other systemic analgesics, with an adverse-effect profile similar to, or 
+better than, placebo or monotherapy. When prescribing ibuprofen/paracetamol, 
+physicians should consider age, blood pressure, and concomitant medications, 
+particularly aspirin and warfarin.
+
+DOI: 10.26355/eurrev_202512_37570
+PMID: 41489241 [Indexed for MEDLINE]
+
+
+4. Pharmaceuticals (Basel). 2025 Apr 16;18(4):581. doi: 10.3390/ph18040581.
+
+Binding Affinity of Synthetic Cannabinoids to Human Serum Albumin: Site 
+Characterization and Interaction Insights.
+
+Santos RMG(1), Lima R(1)(2), Cravo S(1)(2), Fernandes PA(3), Remião F(4), 
+Fernandes C(1)(2).
+
+Author information:
+(1)Laboratório de Química Orgânica e Farmacêutica, Departamento de Ciências 
+Químicas, Faculdade de Farmácia, Universidade do Porto, Rua Jorge Viterbo 
+Ferreira, 228, 4050-313 Porto, Portugal.
+(2)Interdisciplinary Center for Marine and Environmental Research (CIIMAR), 
+University of Porto, Terminal de Cruzeiros do Porto de Leixões, Avenida General 
+Norton de Matos, 4450-208 Matosinhos, Portugal.
+(3)LAQV, REQUIMTE, Departamento de Química e Bioquímica, Faculdade de Ciências, 
+Universidade do Porto, Rua do Campo Alegre, S/N, 4169-007 Porto, Portugal.
+(4)UCIBIO-Applied Molecular Biosciences Unit, Laboratory of Toxicology, 
+Department of Biological Sciences, Faculty of Pharmacy, University of Porto, Rua 
+Jorge Viterbo Ferreira, 228, 4050-313 Porto, Portugal.
+
+Background/Objectives: High-performance affinity chromatography (HPAC) was used 
+to investigate the binding affinity of a series of synthetic cannabinoids, a 
+widely abused class of new psychoactive substances, to human serum albumin (HSA) 
+and obtain insights into the binding sites. To better understand the recognition 
+mechanisms, molecular docking studies were conducted. Methods: Binding affinity 
+was assessed through zonal elution approach Additionally, displacement 
+chromatography with site-specific probes provided insights into the HSA binding 
+sites of five synthetic cannabinoids. Results: That these drugs exhibit 
+extensive binding to HSA, with values ranging from 98.7% to 99.9%. Competition 
+for site I was observed between warfarin and four synthetic cannabinoids 
+(5F-AMB, AB-PINACA, AMB-FUBINACA, and AB-CHMINACA). Furthermore, AB-CHMINACA 
+also competed with L-tryptophan for site II. The binding affinity of all 
+synthetic cannabinoids increased in the presence of (S)-ibuprofen. Molecular 
+docking studies supported the experimental findings, reinforcing the insights 
+gained. Conclusions: The key novelty of this study lies in analyzing, for the 
+first time, the binding affinity of synthetic cannabinoids to HSA through HPAC 
+and molecular docking. These results may improve our understanding of their 
+toxicokinetic behavior and help in predicting possible competitive interactions 
+that could influence HSA binding and, consequently, their activity and toxicity. 
+This study is the first to describe the binding affinity of synthetic 
+cannabinoids to HSA, elucidate their recognition mechanisms, identify binding 
+sites, and characterize their interactions with the protein.
+
+DOI: 10.3390/ph18040581
+PMCID: PMC12030568
+PMID: 40284016
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+
+5. Biochim Biophys Acta Biomembr. 2025 Apr;1867(4):184421. doi: 
+10.1016/j.bbamem.2025.184421. Epub 2025 Apr 12.
+
+Elucidating the interactions of endocannabinoid-like neurotransmitters, 
+N-acyltaurines and bovine serum albumin: Spectroscopic and computational 
+approaches.
+
+John ML(1), Akella S(2), Kamlekar RK(3).
+
+Author information:
+(1)Department of Chemistry, School of Advanced Sciences, VIT, Vellore 632014, 
+Tamil Nadu, India.
+(2)Department of Chemistry, School of Advanced Sciences, VIT, Vellore 632014, 
+Tamil Nadu, India. Electronic address: asrkrishna@vit.ac.in.
+(3)Department of Chemistry, School of Advanced Sciences, VIT, Vellore 632014, 
+Tamil Nadu, India; Regional Centre Bijapur, Indira Gandhi National Open 
+University, Vijayapura 586101, Karnataka, India. Electronic address: 
+ravikanthkamlekar@ignou.ac.in.
+
+N-Acyltaurines (NATs) are endogenous neurotransmitters, structurally similar to 
+endocannabinoids, and have anti-inflammatory and anti-proliferative effects. In 
+response to NATs, TRP channels, TRPV1, TRPV4 and the peptide hormone, GLP-1 are 
+activated. Serum albumin proteins act as transporters for a variety of 
+substances in blood plasma (i.e., hormones, fatty acids, bilirubin, ions, and 
+medications). Due to the structural closeness of Bovine Serum Albumin (BSA) and 
+Human Serum Albumin (HSA), a study into NAT-BSA interactions is crucial. To 
+study interactions of NATs (n = 10-18) with BSA, spectroscopic and computational 
+techniques were used. From the steady-state fluorescence measurements, observed 
+binding constants are in the range of 1.57 × 105 M-1 to 2.85 × 105 M-1. Due to 
+the binding of NATs, the fluorescence of BSA is quenched (∼24.77 %). The 
+negative enthalpy and entropy change and Gibbs free energy values, obtained from 
+van't Hoff plot indicate that the interactions between NATs and BSA are 
+spontaneous and primarily driven by hydrogen bonding. Competitive site-binding 
+assays with warfarin and ibuprofen show that NATs bind to both the drug-binding 
+sites in BSA concurrently. The CD spectroscopic and FT-IR analysis indicates 
+relatively marginal changes in the secondary structure of BSA. Molecular docking 
+analyses are done to identify binding locations and molecular-level 
+interactions. The negative free energy values indicate that NATs have a positive 
+binding relationship with BSA. These findings are congruent with the findings of 
+site-binding studies, which reveal that NATs have a higher proclivity for 
+interacting with sites I and II at the same time.
+
+Copyright © 2025 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.bbamem.2025.184421
+PMID: 40222440 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+6. Int J Biol Macromol. 2024 Dec;282(Pt 6):137520. doi: 
+10.1016/j.ijbiomac.2024.137520. Epub 2024 Nov 10.
+
+Lapachol, a natural food component, interacts with human serum albumin: Insights 
+of its impact on the pharmacokinetics of clinically used drugs.
+
+Almeida ZL(1), Cruz PF(1), Costa T(1), Netto-Ferreira JC(2), de Lima MEF(2), da 
+Silva MB(3), Serpa C(4), Chaves OA(5).
+
+Author information:
+(1)Department of Chemistry, Coimbra Chemistry Centre-Institute of Molecular 
+Sciences (CQC-IMS), University of Coimbra, Rua Larga, 3004-535 Coimbra, 
+Portugal.
+(2)Department of Organic Chemistry, Institute of Chemistry, Federal Rural 
+University of Rio de Janeiro, 23890-000 Seropédica, Brazil.
+(3)Department of Biochemistry and Biophysics, Institute of Health Sciences, 
+Federal University of Bahia (UFBA), Salvador 40110-902, Brazil.
+(4)Department of Chemistry, Coimbra Chemistry Centre-Institute of Molecular 
+Sciences (CQC-IMS), University of Coimbra, Rua Larga, 3004-535 Coimbra, 
+Portugal. Electronic address: serpasoa@ci.uc.pt.
+(5)Department of Chemistry, Coimbra Chemistry Centre-Institute of Molecular 
+Sciences (CQC-IMS), University of Coimbra, Rua Larga, 3004-535 Coimbra, 
+Portugal. Electronic address: otavioaugustochaves@gmail.com.
+
+Lapachol (LAP), a natural 1,4-naphthoquinone used in popular medicine in South 
+America, is an antioxidant and antimicrobial compound in teas and infusions and 
+used as a food additive; however, its interactive profile with the main protein 
+carrier of compounds in the human bloodstream (human serum albumin, HSA) was not 
+still characterized. Additionally, the impact of LAP in binding clinically drugs 
+to albumin is still unknown. Thus, the present work describes the interaction 
+HSA:LAP using different biophysical techniques, i.e., 1H saturation-transfer 
+difference nuclear magnetic resonance (1H STD-NMR), isothermal titration 
+calorimetry (ITC), steady-state and time-resolved fluorescence measurements 
+combined with molecular docking calculations. LAP interacts with subdomain 
+region IIA (site I), mainly driven by enthalpy effects, while subdomain region 
+IB (site III) was identified as the second binding site, mainly driven by 
+entropy effects. The binding is spontaneous, strong (binding constant average, 
+Kaverage ≈ 4.45 × 105 M-1), and there is a positive cooperativity in the 
+presence of ibuprofen, with the LAP structure fully buried into the protein 
+cavities. Overall, LAP might impact the residence time (pharmacokinetic profile) 
+of drugs that bind to subdomains regions IIA and IB of albumin, e.g., warfarin, 
+phenylbutazone, diflunisal, naproxen, camptothecin, doxorubicin, daunorubicin, 
+suramin, and tyrosine kinase inhibitors.
+
+Copyright © 2024 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.ijbiomac.2024.137520
+PMID: 39532172 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+7. Int J Biol Macromol. 2024 Dec;282(Pt 2):136789. doi: 
+10.1016/j.ijbiomac.2024.136789. Epub 2024 Oct 28.
+
+Spectroscopic investigation on the interaction of CHAPS, the zwitterionic 
+steroidal surfactant, with bovine and human serum albumins: A comparative study.
+
+Mohanty S(1), Kuldeep(1), Subuddhi U(2).
+
+Author information:
+(1)Department of Chemistry, National Institute of Technology, Rourkela 769008, 
+Odisha, India.
+(2)Department of Chemistry, National Institute of Technology, Rourkela 769008, 
+Odisha, India. Electronic address: subuddhiu@nitrkl.ac.in.
+
+CHAPS, the zwitterionic derivative of cholic acid, has garnered significant 
+research attention owing to its biocompatibility, electro-neutrality over a wide 
+pH range, and non-denaturing nature towards proteins. The escalating demand of 
+CHAPS in biomedical and pharmaceutical industries mandates information on its 
+interaction with various biological macromolecules, especially proteins. The 
+present study involves a comprehensive investigation on the interaction of CHAPS 
+in a wide concentration range (0.001 mM-32 mM), with two extensively used 
+transport proteins, BSA (Bovine Serum Albumin) and HSA (Human Serum Albumin). 
+The study suggests a concentration dependent sequential interaction of CHAPS in 
+discreet stages with the two proteins. A detailed study using warfarin and 
+ibuprofen as site markers provides information about the sites of interaction at 
+different stages. The study indicates significant difference in the effect of 
+CHAPS on these two homologous proteins in terms of their esterase-like activity 
+and effect of chemical denaturant. Moreover, a comparison between CHAPS and its 
+structural bile salt analogues, Sodium cholate and Sodium taurocholate, towards 
+their interaction and effect on the two serum albumins, reveals the mildness of 
+CHAPS towards the proteins, thus endorsing it as a more suitable drug carrier in 
+comparison to its bile salt analogues.
+
+Copyright © 2024 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.ijbiomac.2024.136789
+PMID: 39490863 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+8. Heliyon. 2024 Sep 25;10(19):e38432. doi: 10.1016/j.heliyon.2024.e38432. 
+eCollection 2024 Oct 15.
+
+A comprehensive investigation of the nano-[Cu(2)-(DIP)(2)-EA] effects on HSA 
+through spectroscopic procedures and computer simulations.
+
+Shahabadi N(1), Ghaffari L(1).
+
+Author information:
+(1)Department of Inorganic Chemistry, Faculty of Chemistry, Razi University, 
+Kermanshah, Iran.
+
+Erratum in
+    Heliyon. 2025 May 08;11(10):e43308. doi: 10.1016/j.heliyon.2025.e43308.
+
+In this research, the toxicity of nano-[Cu2-(DIP)2-EA], a metal nano-complex 
+consisting of ellagic acid and bathophenanthroline ligands, on human serum 
+albumin (HSA) at a protein level was investigated. Molecular docking simulations 
+and spectral analyses were conducted in a simulated physiological environment at 
+pH 7.4 to explore the interaction of nano-[Cu2-(DIP)2-EA] with HSA. The results 
+represented an increase in albumin absorption upon exposure to 
+nano-[Cu2-(DIP)2-EA], demonstrating significant interaction between the two 
+compounds. Steady-state and time-resolved fluorescence measurements pointed out 
+that nano-[Cu2-(DIP)2-EA] induced static quenching of the albumin's intrinsic 
+fluorescence with a high binding affinity of approximately 106 mol/L in a 1:1 
+interaction ratio. The thermodynamic variables clarified that binding of 
+nano-[Cu2-(DIP)2-EA] to albumin occurs spontaneously and primarily driven by van 
+der Waals interactions and H-bonds. The results of the computer simulations and 
+the binding displacement experiments utilizing the site markers warfarin and 
+ibuprofen revealed that nano-[Cu2-(DIP)2-EA] binds to site I within the 
+subdomain IIA of albumin. Circular dichroism analysis elaborated that 
+nano-[Cu2-(DIP)2-EA] slightly perturbed the microenvironment around of 
+tryptophan residues and diminished the α-helix structure stability to a 
+negligible amount.
+
+© 2024 The Authors. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.heliyon.2024.e38432
+PMCID: PMC11466673
+PMID: 39398021
+
+Conflict of interest statement: The authors declare that they have no known 
+competing financial interests or personal relationships that could have appeared 
+to influence the work reported in this paper.
+
+
+9. Naunyn Schmiedebergs Arch Pharmacol. 2025 Mar;398(3):3119-3131. doi: 
+10.1007/s00210-024-03471-3. Epub 2024 Sep 30.
+
+Ligand-human serum albumin analysis: the near-UV CD and UV-Vis spectroscopic 
+studies.
+
+Rogóż W(1), Owczarzy A(1), Kulig K(1), Maciążek-Jurczyk M(2).
+
+Author information:
+(1)Department of Physical Pharmacy, Faculty of Pharmaceutical Sciences in 
+Sosnowiec, Medical University of Silesia in Katowice, 40-055, Katowice, Poland.
+(2)Department of Physical Pharmacy, Faculty of Pharmaceutical Sciences in 
+Sosnowiec, Medical University of Silesia in Katowice, 40-055, Katowice, Poland. 
+mmaciazek@sum.edu.pl.
+
+Spectroscopic methods offer many new opportunities to study protein-ligand 
+interactions. The aim of this study was to evaluate the possibility of using 
+near-UV CD as well as UV-Vis spectroscopic techniques to study the interaction 
+between human serum albumin (HSA) and markers of Sudlow's site I (warfarin, 
+phenylbutazone) and II (ketoprofen, ibuprofen), as well as prednisolone and 
+indapamide. In order to perform the planned measurements, near-UV CD 
+spectropolarimetry and UV-Vis spectrophotometry have been used. It has been 
+demonstrated that both techniques allow for rapid evaluation of non-covalent 
+interactions between HSA and ligand, as well as identification of the HSA 
+aromatic amino acid residues involved in this process. The near-UV CD 
+spectroscopic data were more valuable than the analysis based on the second 
+derivative of differential UV-Vis absorption spectra, especially for ligands 
+with a non-specified binding site and low affinity towards HSA, such as 
+prednisolone. The combination of both techniques makes it possible for 
+comprehensive analysis of the interaction between HSA and ligands.
+
+© 2024. The Author(s).
+
+DOI: 10.1007/s00210-024-03471-3
+PMCID: PMC11920319
+PMID: 39347800 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Ethics approval and consent to 
+participate: Not applicable Consent for publication: Not applicable Competing 
+interests: The authors declare no competing interests.
+
+
+10. Anal Bioanal Chem. 2024 Aug;416(20):4605-4618. doi:
+10.1007/s00216-024-05409-3.  Epub 2024 Jul 4.
+
+Binding studies of promethazine and its metabolites with human serum albumin by 
+high-performance affinity chromatography and molecular docking in the presence 
+of codeine.
+
+Coelho MM(1)(2)(3), Lima R(1)(2), Almeida AS(1)(2)(3), Fernandes PA(4), Remião 
+F(3), Fernandes C(5)(6), Tiritan ME(7)(8)(9).
+
+Author information:
+(1)Laboratory of Organic and Pharmaceutical Chemistry, Department of Chemical 
+Sciences, Faculty of Pharmacy of the University of Porto, 4050-313, Porto, 
+Portugal.
+(2)CIIMAR-Interdisciplinary Center for Marine and Environmental Research 
+University of Porto, Porto de Leixões Cruise Terminal, 4450-208, Matosinhos, 
+Portugal.
+(3)UCIBIO-Applied Molecular Biosciences Unit, Laboratory of Toxicology, 
+Department of Biological Sciences, Faculty of Pharmacy, University of Porto, 
+4050-313, Porto, Portugal.
+(4)LAQV, REQUIMTE, Departamento de Química E Bioquímica, Faculdade de Ciências, 
+Universidade Do Porto, Rua Do Campo Alegre, S/N, 4169-007, Porto, Portugal.
+(5)Laboratory of Organic and Pharmaceutical Chemistry, Department of Chemical 
+Sciences, Faculty of Pharmacy of the University of Porto, 4050-313, Porto, 
+Portugal. cfernandes@ff.up.pt.
+(6)CIIMAR-Interdisciplinary Center for Marine and Environmental Research 
+University of Porto, Porto de Leixões Cruise Terminal, 4450-208, Matosinhos, 
+Portugal. cfernandes@ff.up.pt.
+(7)Laboratory of Organic and Pharmaceutical Chemistry, Department of Chemical 
+Sciences, Faculty of Pharmacy of the University of Porto, 4050-313, Porto, 
+Portugal. beth@ff.up.pt.
+(8)CIIMAR-Interdisciplinary Center for Marine and Environmental Research 
+University of Porto, Porto de Leixões Cruise Terminal, 4450-208, Matosinhos, 
+Portugal. beth@ff.up.pt.
+(9)1H-TOXRUN - One Health Toxicology Research Unit, University Institute of 
+Health Sciences (IUCS), CESPU, CRL, 4585-116, Gandra, Portugal. beth@ff.up.pt.
+
+"Purple Drank", a soft drink containing promethazine (PMZ) and codeine (COD), 
+has gained global popularity for its hallucinogenic effects. Consuming large 
+amounts of this combination can lead to potentially fatal events. The binding of 
+these drugs to plasma proteins can exacerbate the issue by increasing the risk 
+of drug interactions, side effects, and/or toxicity. Herein, the binding 
+affinity to human serum albumin (HSA) of PMZ and its primary metabolites 
+[N-desmethyl promethazine (DMPMZ) and promethazine sulphoxide (PMZSO)], along 
+with COD, was investigated by high-performance affinity chromatography (HPAC) 
+though zonal approach. PMZ and its metabolites exhibited a notable binding 
+affinity for HSA (%b values higher than 80%), while COD exhibited a %b value of 
+65%. To discern the specific sites of HSA to which these compounds were bound, 
+displacement experiments were performed using warfarin and (S)-ibuprofen as 
+probes for sites I and II, respectively, which revealed that all analytes were 
+bound to both sites. Molecular docking studies corroborated the experimental 
+results, reinforcing the insights gained from the empirical data. The in silico 
+data also suggested that competition between PMZ and its metabolites with COD 
+can occur in both sites of HSA, but mainly in site II. As the target compounds 
+are chiral, the enantioselectivity for HSA binding was also explored, showing 
+that the binding for these compounds was not enantioselective.
+
+© 2024. The Author(s).
+
+DOI: 10.1007/s00216-024-05409-3
+PMCID: PMC11294390
+PMID: 38965103 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

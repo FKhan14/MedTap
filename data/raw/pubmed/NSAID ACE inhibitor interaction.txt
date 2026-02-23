@@ -1,0 +1,625 @@
+1. Inn Med (Heidelb). 2026 Jan 14. doi: 10.1007/s00108-025-02048-3. Online ahead
+of  print.
+
+[Polypharmacy and nephrotoxicity].
+
+[Article in German; Abstract available in German from the publisher]
+
+Czock D(1), Ebinger K(2), Sommerer C(3).
+
+Author information:
+(1)Innere Medizin IX - Abteilung für Klinische Pharmakologie und 
+Pharmakoepidemiologie, Universitätsklinikum Heidelberg, Im Neuenheimer Feld 410, 
+69120, Heidelberg, Deutschland. david.czock@med.uni-heidelberg.de.
+(2)Innere Medizin IX - Abteilung für Klinische Pharmakologie und 
+Pharmakoepidemiologie, Universitätsklinikum Heidelberg, Im Neuenheimer Feld 410, 
+69120, Heidelberg, Deutschland.
+(3)Innere Medizin X, Klinik für Nephrologie, Universitätsklinikum Heidelberg, Im 
+Neuenheimer Feld 162, 69120, Heidelberg, Deutschland.
+
+BACKGROUND: Polypharmacy is common among older adults. Renal effects can range 
+from mild functional increases in creatinine to structural tubular injury.
+OBJECTIVE: The aim of the study was to systematically describe nephrotoxicity in 
+the context of polypharmacy, identify typical pharmacokinetic and 
+pharmacodynamic constellations, and introduce the concept of "nephrotoxic 
+burden" as a potential tool for quantitative risk assessment.
+MATERIALS AND METHODS: A selective review of the literature on drug-induced 
+nephrotoxicity and drug-drug interactions was performed.
+RESULTS: Pharmacokinetic interactions leading to renal adverse drug reactions 
+typically occur when dose-dependent nephrotoxic agents such as calcineurin 
+inhibitors reach toxic concentrations through cytochrome P450 3A4 (CYP3A4) 
+inhibition (e.g., by macrolides, azoles, or ritonavir). Pharmacodynamic 
+interactions associated with renal effects are observed, for example, with the 
+combination of nonsteroidal anti-inflammatory drugs (NSAIDs), 
+angiotensin-converting enzyme (ACE) inhibitors, and diuretics, or with 
+combinations of vancomycin and aminoglycosides or piperacillin. The concept of 
+nephrotoxic burden addresses the risk of acute kidney injury (AKI) from 
+concurrent use of multiple nephrotoxic drugs but currently lacks adequate 
+differentiation between underlying mechanisms.
+CONCLUSIONS: In patients receiving calcineurin inhibitors, any additional 
+prescriptions should be carefully reviewed for potential interactions and 
+accompanied by dose adjustment and close therapeutic drug monitoring where 
+appropriate. The concurrent use of several agents with structural tubular 
+toxicity generally increases risk, whereas functional mechanisms, such as those 
+seen with combined ACE inhibitor and sodium-glucose cotransporter 2 inhibitor 
+(SGLT2) inhibitor therapy, are usually well tolerated. The concept of 
+nephrotoxic burden shows promise but requires further refinement and prospective 
+validation before it can serve as a practical tool for risk stratification in 
+polypharmacy.
+
+Publisher: ZUSAMMENFASSUNG: HINTERGRUND: Polymedikation ist bei älteren Menschen 
+häufig. Renale Effekte reichen von einem harmlosen funktionellen 
+Kreatininanstieg bis zu strukturellen Tubulusschäden.
+ZIEL DER ARBEIT: Ziel ist es, Nephrotoxizität im Kontext von Polymedikation 
+systematisch darzustellen, typische pharmakokinetische und pharmakodynamische 
+Konstellationen zu identifizieren und das Konzept der „nephrotoxic burden“ als 
+möglichen Ansatz zur quantitativen Risikobewertung vorzustellen.
+MATERIAL UND METHODEN: Selektive Auswertung der Fachliteratur zu 
+arzneimittelinduzierter Nephrotoxizität und Wechselwirkungen.
+ERGEBNISSE: Pharmakokinetische Wechselwirkungen, die zu unerwünschten 
+Arzneimittelwirkungen (UAW) auf die Nieren führen, treten vor allem auf, wenn 
+dosisabhängig nephrotoxische Substanzen wie Calcineurininhibitoren bedingt durch 
+eine Inhibition von Cytochrom‑P450-Isoenzym 3A4 (CYP3A4; beispielsweise durch 
+Makrolide, Azole, Ritonavir) auf toxische Konzentrationen ansteigen. 
+Pharmakodynamische Wechselwirkungen, die zu UAW auf die Nieren führen, treten 
+etwa bei Kombination von nichtsteroidalen Antirheumatika (NSAR), 
+Angiotensin-converting-enzyme(ACE)-Hemmer und Diuretikum sowie bei Kombinationen 
+von Vancomycin mit Aminoglykosiden oder Piperacillin auf. Das Konzept der 
+„nephrotoxic burden“ adressiert die Gefahr einer akuten Nierenschädigung bei 
+gleichzeitiger Anwendung mehrerer nephrotoxischer Arzneimittel, unterscheidet 
+bislang aber noch unzureichend zwischen verschiedenen Mechanismen.
+SCHLUSSFOLGERUNG: Bei Patientinnen und Patienten unter Calcineurininhibitoren 
+sollte jede zusätzliche Verordnung sorgfältig auf mögliche Wechselwirkungen 
+geprüft und gegebenenfalls durch Dosisanpassung und engmaschiges therapeutisches 
+Drug-Monitoring begleitet werden. Bei gleichzeitiger Anwendung mehrerer 
+Substanzen mit struktureller Tubulustoxizität ist grundsätzlich mit einem 
+erhöhten Risiko zu rechnen, während funktionelle Mechanismen, wie bei 
+Kombination von ACE-Hemmer und 
+Natrium-Glukose-Kotransporter-Typ-2(SGLT2)-Hemmer, meist tolerabel sind. Das 
+Konzept der „nephrotoxic burden“ erscheint vielversprechend, erfordert jedoch 
+eine weitere Differenzierung und prospektive Validierung, um in Zukunft als 
+praktisches Werkzeug zur Risikostratifizierung bei Polymedikation etabliert 
+werden zu können.
+
+© 2026. The Author(s), under exclusive licence to Springer Medizin Verlag GmbH, 
+ein Teil von Springer Nature.
+
+DOI: 10.1007/s00108-025-02048-3
+PMID: 41535444
+
+Conflict of interest statement: Einhaltung ethischer Richtlinien. 
+Interessenkonflikt: D. Czock, K. Ebinger und C. Sommerer geben an, dass kein 
+Interessenkonflikt besteht. Für diesen Beitrag wurden von den Autor/-innen keine 
+Studien an Menschen oder Tieren durchgeführt. Für die aufgeführten Studien 
+gelten die jeweils dort angegebenen ethischen Richtlinien.
+
+
+2. Cureus. 2025 Nov 24;17(11):e97640. doi: 10.7759/cureus.97640. eCollection 2025
+ Nov.
+
+Adverse Drug Reactions and Drug Interactions in Multimorbid Patients: A Review 
+of Current Evidence.
+
+S H(1), Tripathi S(2), Venuturumilli R(3), K SP(4), Reddy GHV(5), Mukherjee 
+B(6), Lakhani HA(7).
+
+Author information:
+(1)Forensic Medicine and Toxicology, Teerthanker Mahaveer Medical College and 
+Research Centre, Moradabad, IND.
+(2)Hospital Administration, Rajendra Institute of Medical Sciences, Ranchi, IND.
+(3)Critical Care and Anesthesia, NASA Hospitals, Hyderabad, IND.
+(4)Respiratory Medicine, Faculty of Medicine, Sri Lalithambigai Medical College 
+and Hospital, Dr. M.G.R. Educational And Research Institute, Chennai, IND.
+(5)HPB Surgery and Liver Transplantation, Institute of Liver and Biliary 
+Sciences, New Delhi, IND.
+(6)Biochemistry, KPC Medical College, Kolkata, IND.
+(7)Internal Medicine, SBKS Medical College and Research Center, Vadodara, IND.
+
+The rising prevalence of multimorbidity, defined as the coexistence of two or 
+more chronic health conditions, is particularly pronounced among older adults 
+and often necessitates polypharmacy. This increases the risk of adverse drug 
+reactions (ADRs) and drug-drug interactions (DDIs), yet multimorbid individuals 
+remain underrepresented in clinical trials. This narrative review synthesizes 
+evidence from 55 recent sources, including randomized controlled trials, 
+observational studies, systematic reviews, and real-world data, to evaluate the 
+burden, risk factors, and management strategies for ADRs and DDIs in this 
+vulnerable population. The findings highlight that ADRs and DDIs contribute 
+substantially to hospitalizations, therapeutic failures, and morbidity. Common 
+ADRs include gastrointestinal bleeding, hypoglycemia, nephrotoxicity, and 
+central nervous system depression, while high-risk interactions frequently 
+involve drugs such as warfarin, non-steroidal anti-inflammatory drugs (NSAIDs), 
+angiotensin-converting enzyme (ACE) inhibitors, and selective serotonin reuptake 
+inhibitors (SSRIs). Key areas of focus include geriatric multimorbidity, organ 
+dysfunction, and the clustering of comorbidities. The review underscores the 
+utility of deprescribing protocols, electronic decision support systems, and 
+interdisciplinary care approaches. Persistent challenges, such as inappropriate 
+prescribing and the complexity of polypharmacy, call for targeted interventions, 
+including personalized dosing, the incorporation of artificial intelligence for 
+risk prediction, and long-term pharmacovigilance frameworks. Advancing safer 
+pharmacotherapy in patients with multiple conditions (multimorbid patients) 
+requires holistic, evidence-informed, and patient-centered strategies.
+
+Copyright © 2025, S et al.
+
+DOI: 10.7759/cureus.97640
+PMCID: PMC12729518
+PMID: 41450405
+
+Conflict of interest statement: Conflicts of interest: In compliance with the 
+ICMJE uniform disclosure form, all authors declare the following: 
+Payment/services info: All authors have declared that no financial support was 
+received from any organization for the submitted work. Financial relationships: 
+All authors have declared that they have no financial relationships at present 
+or within the previous three years with any organizations that might have an 
+interest in the submitted work. Other relationships: All authors have declared 
+that there are no other relationships or activities that could appear to have 
+influenced the submitted work.
+
+
+3. Anal Chim Acta. 2025 Nov 22;1376:344623. doi: 10.1016/j.aca.2025.344623. Epub 
+2025 Sep 7.
+
+An in vivo NanoBiT-based pseudoviral biosensor for real-time monitoring of 
+SARS-CoV-2 spike/hACE2 interactions and therapeutic screening.
+
+Lin CH(1), Lin MW(1), Yang XR(1), Chiang HH(1), Wu TH(1), Tsai CH(2), Lin CS(3).
+
+Author information:
+(1)Department of Biological Science and Technology, National Yang Ming Chiao 
+Tung University, Hsinchu, 300, Taiwan.
+(2)Division of Pulmonary Medicine, Department of Internal Medicine, Tungs' 
+Taichung Metro Harbor Hospital, Taichung, 400, Taiwan.
+(3)Department of Biological Science and Technology, National Yang Ming Chiao 
+Tung University, Hsinchu, 300, Taiwan; Center for Intelligent Drug Systems and 
+Smart Bio-devices (IDS(2)B), National Yang Ming Chiao Tung University, Hsinchu, 
+300, Taiwan. Electronic address: lincs@nycu.edu.tw.
+
+Severe acute respiratory syndrome coronavirus 2 infects host cells through its 
+trimeric surface spike protein, which binds to the human angiotensin-converting 
+enzyme 2 (hACE2) receptor. The spike/hACE2 interaction is a critical target for 
+therapeutic intervention against COVID-19. Although existing hACE2 transgenic 
+mouse (TG) models facilitate studies of viral pathogenesis, they lack the 
+capacity for real-time, non-invasive monitoring of viral entry events in vivo. 
+To address this limitation, we developed a novel in vivo NanoLuc Binary 
+Technology-based pseudoviral biosensor optimized for dynamic visualization of 
+spike-hACE2 binding in live animals. Genetically engineered LgBiT-fused hACE2 
+(LgBiT-hACE2) mice and a pseudovirus tagged with SmBiT-fused spike protein were 
+developed. Upon spike-hACE2 binding, Nanoluciferase reconstitution generated 
+quantifiable bioluminescent signals detectable within 6 h post-infection. 
+Quantitative bioluminescence imaging using an in vivo imaging system enabled the 
+visualization of virus infection in the LgBiT-hACE2 mouse model. Furthermore, 
+baicalein and baicalin, two active flavonoid compounds derived from Scutellaria 
+baicalensis, were identified as potent inhibitors for the viral spike and the 
+hACE2 protein, respectively. Combined treatment yielded up to 90 % inhibition of 
+spike/hACE2 interaction in vivo. This study presents an innovative in vivo 
+biosensing model to non-invasively quantify virus-host interactions and evaluate 
+the efficacy of spike-targeted antiviral agents under physiologically relevant 
+conditions.
+
+Copyright © 2025 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.aca.2025.344623
+PMID: 41073017 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+4. Stud Health Technol Inform. 2025 Apr 8;323:149-153. doi: 10.3233/SHTI250067.
+
+Minimizing STOPP and Beers Criteria Risks in PIM Treatments Using PM-TOM and 
+ChatGPT: A Case Study.
+
+Kulenovic A(1), Lagumdzija-Kulenovic A(1).
+
+Author information:
+(1)Absolute Information Age, Inc. Toronto, Canada.
+
+PM-TOM (Personalized Medicine-Therapy Optimization Method) is a clinical 
+decision-support tool designed to optimize polypharmacy treatments by minimizing 
+their adverse drug reactions (ADRs) caused by individual drugs or drug 
+interactions (DDIs, DCIs, DFIs, DGIs), along with the risks identified by the 
+STOPP and Beers criteria. On the other hand, AI tools like ChatGPT 4.0, trained 
+on medical literature texts, can provide broader clinical reasoning and insights 
+tailored to individual patient contexts. By referring to a documented 
+deprescribing case, this study demonstrates the synergistic power of PM-TOM and 
+ChatGPT in optimizing potentially inappropriate medication (PIM) treatments. A 
+malnourished older woman was admitted to a deprescribing facility with recurrent 
+falls, hypertension, ischemic heart disease, depression, osteoarthritis, 
+osteoporosis, and GERD. She was initially prescribed acetaminophen, alendronate, 
+omeprazole, lisinopril, metoprolol, aspirin, citalopram, and vitamin D, which 
+were assessed as inadequate. While the discharge regimen improved some 
+conditions by replacing alendronate with zoledronic acid and reducing some drug 
+dosages, PM-TOM revealed that key risks, stemming primarily from omeprazole, 
+aspirin, and citalopram, remained unaddressed. The discharge treatment was 
+optimized with PM-TOM after considering alternative drug classes suggested by 
+ChatGPT and elaborated in the available medical literature. In the optimized 
+treatment, omeprazole (PPI) was replaced with famotidine (H2-blocker), 
+citalopram (SSRI) with agomelatine (atypical antidepressant), zoledronic acid 
+(bisphosphonate) with denosumab (RANK ligand inhibitor), aspirin (NSAID) with 
+ticagrelor (antiplatelet), and lisinopril with benazepril (ACE inhibitor). These 
+changes significantly reduced possible ADRs and the geriatric care criteria 
+risks. Finally, ChatGPT validated the proposed adjustments, confirming their 
+alignment with the guidelines and highlighting the potential for longer-term 
+benefits. This case study illustrates how a combined use of PM-TOM and AI tools 
+can effectively support the clinical decision-making process by optimizing 
+polypharmacy treatments and minimizing their PIMs, major contributors to 
+morbidity in older adults and high healthcare costs.
+
+DOI: 10.3233/SHTI250067
+PMID: 40200464 [Indexed for MEDLINE]
+
+
+5. Chembiochem. 2024 Dec 16;25(24):e202400612. doi: 10.1002/cbic.202400612. Epub 
+2024 Oct 29.
+
+Targeting SARS-CoV-2 Proteins: In Silico Investigation with Polypyridyl-Based 
+Zn(II)-Curcumin Complexes.
+
+Gawande V(1), Kushwaha R(1), Mandal AA(1), Banerjee S(1).
+
+Author information:
+(1)Department of Chemistry, Indian Institute of Technology (BHU), Varanasi, 
+Uttar Pradesh, 221005, India.
+
+Herein, we have selected eight Zn(II)-based complexes viz., [Zn(bpy)(acac)Cl] 
+(1), [Zn(phen)(acac)Cl] (2), [Zn(dppz)(acac)Cl] (3), [Zn(dppn)(acac)Cl] (4), 
+[Zn(bpy)(cur)Cl] (5), [Zn(phen)(cur)Cl] (6), [Zn(dppz)(cur)Cl] (7), 
+[Zn(dppn)(cur)Cl] (8), where bpy=2,2'-bipyridine, phen=1,10-phenanthroline, 
+dppz=benzo[i]dipyrido[3,2-a:2',3'-c]phenazine, 
+dppn=naphtho[2,3-i]dipyrido[3,2-a:2',3'-c]phenazine, acac=acetylacetonate, 
+cur=curcumin and performed in silico molecular docking studies with the viral 
+proteins, i. e., spike protein (S), Angiotensin-converting enzyme II Receptor 
+protein (ACE2), nucleocapsid protein (N), main protease protein (Mpro), and 
+RNA-dependent RNA polymerase protein (RdRp) of SARS-CoV-2. The binding energy 
+calculations, visualization of the docking orientation, and analysis of the 
+interactions revealed that these complexes could be potential inhibitors of the 
+viral proteins. Among complexes 1-8, complex 6 showed the strongest binding 
+affinity with S and ACE2 proteins. 4 exerted better binding affinity in the case 
+of the N protein, whereas 8 presented the highest binding affinities with Mpro 
+and RdRp among all the complexes. Overall, the study indicated that Zn(II) 
+complexes have the potential as alternative and viable therapeutic solutions for 
+COVID-19.
+
+© 2024 Wiley-VCH GmbH.
+
+DOI: 10.1002/cbic.202400612
+PMID: 39264259 [Indexed for MEDLINE]
+
+
+6. Eur J Cancer. 2024 Nov;211:114197. doi: 10.1016/j.ejca.2024.114197. Epub 2024 
+Jun 27.
+
+Effect of concomitant medications on treatment response and survival in 
+non-metastatic castrate resistant prostate cancer: Exploratory analysis of the 
+SPARTAN trial.
+
+Roy S(1), Saad F(2), Sun Y(3), Malone S(4), Spratt DE(5), Kishan AU(6), Wallis 
+CJD(7), Jia AY(5), Mohamad O(8), Swami U(9), Ong M(10), Agarwal N(9), Chowdhury 
+S(11), Morgan SC(12).
+
+Author information:
+(1)Department of Radiation Oncology, Rush University Medical Center, Chicago, 
+IL, USA. Electronic address: soumyajitroy8@gmail.com.
+(2)Department of Surgery, Centre hospitalier de l'Université de Montréal, 
+Montréal, QC, Canada.
+(3)Case Western Reserve University, Cleveland, OH, USA.
+(4)Department of Radiology, Radiation Oncology and Medical Physics, The Ottawa 
+Hospital Cancer Centre, University of Ottawa, Ottawa, ON, Canada.
+(5)Department of Radiation Oncology, University Hospitals, Seidman Cancer 
+Center, Cleveland, OH, USA.
+(6)Department of Radiation Oncology, University of California Los Angeles, Los 
+Angeles, CA, USA.
+(7)Department of Urology, Mount Sinai Hospital, University Health Network, 
+University of Toronto, Toronto, ON, Canada.
+(8)Division of Radiation Oncology, MD Anderson Cancer Center, Houston, TX, USA.
+(9)Department of Medical Oncology, Huntsman Cancer Institute, University of 
+Utah, Salt Lake City, UT, USA.
+(10)Division of Medical Oncology, Department of Medicine, The Ottawa Hospital 
+Cancer Centre, University of Ottawa, Ottawa, ON, Canada.
+(11)Guy's and St Thomas' NHS Foundation Trust and Sarah Cannon Research 
+Institute, London, UK.
+(12)Department of Radiology, Radiation Oncology and Medical Physics, The Ottawa 
+Hospital Cancer Centre, University of Ottawa, Ottawa, ON, Canada. Electronic 
+address: smorgan@toh.ca.
+
+BACKGROUND: We performed an exploratory analysis of the SPARTAN trial to 
+determine whether concomitant exposure to several classes of commonly prescribed 
+medications influenced the effect of apalutamide on overall survival (OS) and 
+metastasis-free survival (MFS) in patients with non-metastatic 
+castration-resistant prostate cancer (nmCRPC).
+PATIENTS AND METHODS: SPARTAN was a phase III randomized controlled trial in 
+which nmCRPC patients were randomly assigned in a 2:1 ratio to receive androgen 
+deprivation therapy with or without apalutamide. We focused on 5 commonly 
+prescribed classes of medications: metformin, statins, angiotensin converting 
+enzyme inhibitors (ACEI), acetylsalicylic acid (ASA), and proton pump inhibitors 
+(PPI) based on a plausible biological and clinical rationale. To determine the 
+potential effect modification, we applied multivariable Cox regression models 
+for OS and MFS separately with additional interaction terms. To determine the 
+independent association of concomitant medications with OS and MFS, we used 
+IPTW-based log-rank test. A 2-sided p < 0.01 was considered statistically 
+significant.
+RESULTS: We did not find statistically significant differences in effect from 
+apalutamide on OS across subgroups stratified by concomitant exposure to any of 
+the medication classes. While there was some difference in the treatment effect 
+from apalutamide on MFS between patients with concomitant statins (adjusted 
+hazard ratio [aHR]: 0.20; 95 % CI: 0.15-0.28) versus without concomitant statins 
+(aHR: 0.31 [0.24-0.39]), this did not reach the pre-specified threshold of 
+statistical significance (p = 0.011). On IPTW-based analysis, patients treated 
+concomitantly with metformin (median: not reached versus 31 months; p = 0.002), 
+or ACEI (median: 37 versus 29 months, p = 0.006) had significantly improved MFS.
+CONCLUSIONS: In this post-hoc exploratory analysis of SPARTAN, effects of 
+apalutamide on MFS and OS were consistent across subgroups stratified by 
+exposure to concomitant medications. Exposure to concomitant metformin and ACEI 
+was independently associated with a significant improvement in MFS.
+
+Copyright © 2024. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.ejca.2024.114197
+PMID: 39243730 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest Dr. Roy 
+reports Young Investigator Award from the Prostate Cancer Foundation which 
+funded this research. In addition, Dr. Roy reports research grant from Swim 
+Across America and honorarium from Varian. Dr. Spratt reports personal fees from 
+Blue Earth, personal fees from Janssen, personal fees from AstraZeneca, 
+Gammatile, Varian, and Boston Scientific, outside the submitted work. Dr. Kishan 
+reported receiving personal fees from ViewRay, Inc, Varian Medical Systems, and 
+Boston Scientific; receiving speaking honoraria, consulting fees, and research 
+support from Varian Medical Systems, ViewRay, Inc, and Intelligent Automation; 
+receiving grants from Janssen and Point Biopharma; and receiving research 
+funding from ViewRay, Inc, outside the submitted work. Dr. Agarwal reports 
+consulting or advisory roles for Pfizer, Medivation/Astellas, Bristol Myers 
+Squibb, AstraZeneca, Nektar, Lilly, Bayer, Pharmacyclics, Foundation Medicine, 
+Astellas Pharma, Lilly, Exelixis, Merck, Novartis, Eisai, Seagen, EMD Serono, 
+Janssen Oncology, AVEO, Calithera Biosciences, MEI Pharma, Genentech, Astellas 
+Pharma, Foundation Medicine, Gilead Sciences and research funding from Bayer, 
+Bristol Myers Squibb, Takeda, Pfizer, Exelixis, Amgen, AstraZeneca, Calithera 
+Biosciences, Celldex, Eisai, Immunomedics, Janssen, Merck, Lilly, Nektar, ORIC 
+Pharmaceuticals, crispr therapeutics, and Arvinas. Dr. Chowdhury, receiving 
+honoraria, fees for serving on a speaker’s bureau, consulting fees, and travel 
+support from Johnson and Johnson, Astellas Pharma, and Sanofi and grant support, 
+honoraria, fees for serving on a speaker’s bureau, consulting fees, and travel 
+support from Clovis Oncology. Dr. Jia reports personal fees from Blue Earth, and 
+Myovant. Dr. Ong reports personal fees from Janssen, Bayer, AstraZeneca, and 
+Pfizer. Dr. Morgan reports personal fees from Astellas, Bayer, Janssen, and 
+TerSera and a research grant (institutional) from Knight Therapeutics, outside 
+the submitted work. Dr. Swami reports consultancy to Astellas, Exelixis, Seattle 
+Genetics, Imvax, Sanofi, Pfizer, AstraZeneca and Gilead and research funding to 
+institute from Janssen, Exelixis and Astellas/Seattle Genetics. Dr. Saad reports 
+grants, personal fees, and non-financial support from Janssen, during the 
+conduct of the study; grants, personal fees, and non-financial support from 
+Astellas, grants, personal fees, and non-financial support from Bayer, outside 
+the submitted work. Dr. Wallis has received honoraria from AbbVie, Astellas, 
+Astra Zeneca, Bayer, EMD Serono, Knight Therapeutics, Merck, Haymarket Media, 
+Science & Medicine Canada, TerSera Canada, and Tolmar Pharmaceuticals Canada; 
+reports consulting fees from Janssen Oncology, SESEN Bio, and Precision Point 
+Specialty LLC; and has received research funding from Knight Therapeutics and 
+Tolmar Pharmaceuticals, outside the submitted work. Dr. Malone has received 
+honoraria from Astellas, Bayer, Janssen, and Sanofi; and travel and 
+accommodations support from TerSera and Sanofi. There are no other conflicts of 
+interest among the other authors.
+
+
+7. Biosens Bioelectron. 2024 Nov 1;263:116630. doi: 10.1016/j.bios.2024.116630. 
+Epub 2024 Aug 3.
+
+Engineering a NanoBiT biosensor for detecting angiotensin-converting enzyme-2 
+(hACE2) interaction with SARS-CoV-2 spike protein and screening the inhibitors 
+to block hACE2 and spike interaction.
+
+Lin CH(1), Yang XR(1), Lin MW(1), Chang HJ(1), Lee CH(2), Lin CS(3).
+
+Author information:
+(1)Department of Biological Science and Technology, National Yang Ming Chiao 
+Tung University, Hsinchu, 300, Taiwan.
+(2)Department of Biological Science and Technology, National Yang Ming Chiao 
+Tung University, Hsinchu, 300, Taiwan; Department of Plastic and Reconstructive 
+Surgery, Chang Gung Memorial Hospital, Linkou, Taoyuan, 333, Taiwan.
+(3)Department of Biological Science and Technology, National Yang Ming Chiao 
+Tung University, Hsinchu, 300, Taiwan; Center for Intelligent Drug Systems and 
+Smart Bio-devices (IDS(2)B), National Yang Ming Chiao Tung University, Hsinchu, 
+300, Taiwan. Electronic address: lincs@nycu.edu.tw.
+
+Infection with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is 
+facilitated by its trimeric surface spike protein, which binds to the human 
+angiotensin-converting enzyme 2 (hACE2) receptor. This critical interaction 
+facilitates viral entry and is a primary target for therapeutic intervention 
+against COVID-19. However, it is difficult to fully optimize viral infection 
+using existing protein-protein interaction methods. Herein, we introduce a 
+nano-luciferase binary technology (NanoBiT)-based pseudoviral sensor designed to 
+stimulate the dynamics of viral infection in both living cells and animals. 
+Infection progression can be dynamically visualized via a rapid increase in 
+luminescence within 3 h using an in vivo imaging system (IVIS). Inhibition of 
+viral infection by baicalein and baicalin was evaluated using a NanoBiT-based 
+pseudoviral sensor. These results indicate that the inhibitory efficacy of 
+baicalein was strengthened by targeting the spike protein, whereas baicalin 
+targeted the hACE2 protein. Additionally, under optimized conditions, baicalein 
+and baicalin provided a synergistic combination to inhibit pseudoviral 
+infection. Live bioluminescence imaging was used to evaluate the in vivo effects 
+of baicalein and baicalin treatment on LgBiT-hACE2 mice infected with the 
+BA.2-SmBiT spike pseudovirus. This innovative bioluminescent system functions as 
+a sensitive and early-stage quantitative viral transduction in vitro and in 
+vivo. This platform provides novel opportunities for studying the molecular 
+biology of animal models.
+
+Copyright © 2024 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.bios.2024.116630
+PMID: 39102773 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+8. Arch Gerontol Geriatr. 2024 Aug;123:105394. doi:
+10.1016/j.archger.2024.105394.  Epub 2024 Mar 26.
+
+Non-steroidal anti-inflammatory drugs, renin-angiotensin system blockade or 
+diuretics and risk of acute kidney injury: A case-crossover study.
+
+Weng SE(1), Hsu WT(2), Hsiao FY(3), Lee CM(4).
+
+Author information:
+(1)Graduate Institute of Clinical Pharmacy, College of Medicine, National Taiwan 
+University, Taipei, Taiwan; Department of Pharmacy, Taipei City Hospital, 
+Zhongxing Branch, Taipei, Taiwan.
+(2)Graduate Institute of Clinical Pharmacy, College of Medicine, National Taiwan 
+University, Taipei, Taiwan; School of Pharmacy, College of Medicine, National 
+Taiwan University, Taipei, Taiwan; Department of Pharmacy, National Taiwan 
+University Hospital, Taipei, Taiwan.
+(3)Graduate Institute of Clinical Pharmacy, College of Medicine, National Taiwan 
+University, Taipei, Taiwan; School of Pharmacy, College of Medicine, National 
+Taiwan University, Taipei, Taiwan; Department of Pharmacy, National Taiwan 
+University Hospital, Taipei, Taiwan. Electronic address: fyshsiao@ntu.edu.tw.
+(4)Department of Cardiology, Fu Jen Catholic University Hospital, Fu Jen 
+Catholic University, New Taipei City, Taiwan. Electronic address: 
+chiiminglee@gmail.com.
+
+BACKGROUND: Aging-related physiological changes, such as decline in renal 
+function, not only exacerbates pre-existing comorbidities but also escalate the 
+susceptibility to adverse events. Previous studies have shown that non-steroidal 
+anti-inflammatory drugs (NSAIDs) are associated with an increased risk of acute 
+kidney injury (AKI), and the concomitant use of renin-angiotensin system 
+blockade or diuretics may further potentiate the risk. However, studies 
+evaluating the risk of AKI associated with NSAIDs (including routes, concomitant 
+use of different NSAIDs, categories (traditional NSAIDs or COX-2 inhibitors), 
+and cumulative doses of NSAIDs) are limited, particularly the risk of AKI 
+associated with the dual or triple combination of NSAIDs with renin-angiotensin 
+system blockade (RAS blockades) and/or diuretics.
+METHODS: A case-crossover study utilized two sets of longitudinal data from 
+Taiwan's National Health Insurance Research Database (NHIRD). Newly admitted 
+patients with a primary AKI diagnosis were included, with the index date defined 
+as the first admission date. The 1-7 days and 181-187 days prior to the index 
+date served as the case and control periods. Exposure to NSAIDs and co-exposures 
+of RAS blockade and/or diuretics were assessed in both periods. Multivariable 
+conditional logistic regression models, adjusting for potential confounders, 
+estimated adjusted odds ratios (aORs) and 95 % confidence intervals (CIs) for 
+AKI associated with NSAIDs, dual, or triple combinations. Sensitivity analyses 
+explored result robustness by varying case and control period lengths.
+RESULTS: The study included 1,284 newly diagnosed AKI patients. NSAIDs showed a 
+3.55-fold increased risk of AKI (aOR: 3.55; 95 % CI 2.70-4.65), with similar 
+risks for traditional NSAIDs and COX-2 inhibitors. Use of multiple NSAIDs, 
+parenteral dosage forms, and higher cumulative doses increased AKI risk. Dual 
+combination with either RAS blockade or diuretics resulted in a 2.90-fold (aOR: 
+2.90; 95 %CI 1.47-5.70) and 12.68-fold (aOR: 12.68; 95 %CI 6.15-26.12) risk, 
+respectively. The highest risk occurred with triple combination (aOR: 29.22; 95 
+%CI 12.82-66.64).
+CONCLUSIONS: NSAIDs, including both non-selective NSAIDs and COX2 inhibitors, 
+elevate the risk of AKI. Increased AKI risk is linked to using multiple NSAIDs, 
+the parenteral dosage form, and higher cumulative doses. Dual combination of RAS 
+blockade with NSAIDs or diuretics with NSAIDs, as well as triple therapy, 
+heightens the risk, with the latter associated with the highest risk of AKI.
+
+Copyright © 2024. Published by Elsevier B.V.
+
+DOI: 10.1016/j.archger.2024.105394
+PMID: 38537386 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare no conflicts of interest.
+
+
+9. Histol Histopathol. 2024 Nov;39(11):1395-1425. doi: 10.14670/HH-18-730. Epub 
+2024 Mar 6.
+
+Therapeutic strategies to modulate gut microbial health: Approaches for 
+sarcopenia management.
+
+Das S(1), Preethi B(1), Kushwaha S(2), Shrivastava R(3).
+
+Author information:
+(1)Department of Pharmacy, Birla Institute of Technology and Science (BITS), 
+Pilani Campus, Pilani, Rajasthan, India.
+(2)Department of Pharmacology and Toxicology, National Institute of 
+Pharmaceutical Education and Research, Raebareli, Lucknow, India. 
+sapana.k@niperraebareli.edu.in.
+(3)Department of Pharmacy, Birla Institute of Technology and Science (BITS), 
+Pilani Campus, Pilani, Rajasthan, India. 
+richa.shrivastava@pilani.bits-pilani.ac.in.
+
+Sarcopenia is a progressive and generalized loss of skeletal muscle and 
+functions associated with ageing with currently no definitive treatment. 
+Alterations in gut microbial composition have emerged as a significant 
+contributor to the pathophysiology of multiple diseases. Recently, its 
+association with muscle health has pointed to its potential role in mediating 
+sarcopenia. The current review focuses on the association of gut microbiota and 
+mediators of muscle health, connecting the dots between the influence of gut 
+microbiota and their metabolites on biomarkers of sarcopenia. It further 
+delineates the mechanism by which the gut microbiota affects muscle health with 
+progressing age, aiding the formulation of a multi-modal treatment plan 
+involving nutritional supplements and pharmacological interventions along with 
+lifestyle changes compiled in the review. Nutritional supplements containing 
+proteins, vitamin D, omega-3 fatty acids, creatine, curcumin, kefir, and ursolic 
+acid positively impact the gut microbiome. Dietary fibres foster a conducive 
+environment for the growth of beneficial microbes such as Bifidobacterium, 
+Faecalibacterium, Ruminococcus, and Lactobacillus. Probiotics and prebiotics act 
+by protecting against reactive oxygen species (ROS) and inflammatory cytokines. 
+They also increase the production of gut microbiota metabolites like short-chain 
+fatty acids (SCFAs), which aid in improving muscle health. Foods rich in 
+polyphenols are anti-inflammatory and have an antioxidant effect, contributing 
+to a healthier gut. Pharmacological interventions like faecal microbiota 
+transplantation (FMT), non-steroidal anti-inflammatory drugs (NSAIDs), ghrelin 
+mimetics, angiotensin-converting enzyme inhibitors (ACEIs), and butyrate 
+precursors lead to the production of anti-inflammatory fatty acids and regulate 
+appetite, gut motility, and microbial impact on gut health. Further research is 
+warranted to deepen our understanding of the interaction between gut microbiota 
+and muscle health for developing therapeutic strategies for ameliorating 
+sarcopenic muscle loss.
+
+©The Author(s) 2024. Open Access. This article is licensed under a Creative 
+Commons CC-BY International License.
+
+DOI: 10.14670/HH-18-730
+PMID: 38497338 [Indexed for MEDLINE]
+
+
+10. J Biomol Struct Dyn. 2025 Apr;43(7):3652-3670. doi: 
+10.1080/07391102.2023.2300060. Epub 2024 Jan 4.
+
+Structure-based drug discovery to identify SARS-CoV2 spike protein-ACE2 
+interaction inhibitors.
+
+Kant R(1), Kaushik R(2)(3), Chopra M(4), Saluja D(1).
+
+Author information:
+(1)Medical Biotechnology Laboratory, Dr. B. R. Ambedkar Center for Biomedical 
+Research &Delhi School of Public Health, IoE, University of Delhi, Delhi, India.
+(2)Biotechology Research Center, Technology Innovation Institute, Masdar City, 
+UAE.
+(3)Laboratory for Structural Bioinformatics, Center for Biosystems Dynamics 
+Research, RIKEN, Yokohama, Japan.
+(4)Laboratory of Molecular Modeling and Drug Development, Dr. B. R. Ambedkar 
+Center for Biomedical Research, University of Delhi, Delhi, India.
+
+After the emergence of the COVID-19 pandemic in late 2019, the severe acute 
+respiratory syndrome coronavirus-2 (SARS-CoV-2) has undergone a dynamic 
+evolution driven by the acquisition of genetic modifications, resulting in 
+several variants that are further classified as variants of interest (VOIs), 
+variants under monitoring (VUM) and variants of concern (VOC) by World Health 
+Organization (WHO). Currently, there are five SARS-CoV-2 VOCs (Alpha, Beta, 
+Delta, Gamma and Omicron), two VOIs (Lambda and Mu) and several other VOIs that 
+have been reported globally. In this study, we report a natural compound, 
+Curcumin, as the potential inhibitor to the interactions between receptor 
+binding domain (RBD(S1)) and human angiotensin-converting enzyme 2 (hACE2) 
+domains and showcased its inhibitory potential for the Delta and Omicron 
+variants through a computational approach by implementing state of the art 
+methods. The study for the first time revealed a higher efficiency of Curcumin, 
+especially for hindering the interaction between RBD(S1) and hACE-2 domains of 
+Delta and Omicron variants as compared to other lead compounds. We investigated 
+that the mutations in the RBD(S1) of VOC especially Delta and Omicron variants 
+affect its structure compared to that of the wild type and other variants and 
+therefore altered its binding to the hACE2 receptor. Molecular docking and 
+molecular dynamics (MD) simulation analyses substantially supported the findings 
+in terms of the stability of the docked complexes. This study offers compelling 
+evidence, warranting a more in-depth exploration into the impact of these 
+alterations on the binding of identified drug molecules with the Spike protein. 
+Further investigation into their potential therapeutic effects in vivo is highly 
+recommended.
+
+DOI: 10.1080/07391102.2023.2300060
+PMID: 38174578 [Indexed for MEDLINE]

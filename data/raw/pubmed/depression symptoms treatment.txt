@@ -1,4 +1,89 @@
-1. J Neurol. 2026 Feb 22;273(2):159. doi: 10.1007/s00415-026-13693-5.
+1. Appl Neuropsychol Adult. 2026 Feb 22:1-8. doi: 10.1080/23279095.2026.2631801. 
+Online ahead of print.
+
+Neurocognitive and psychosocial burden in patients with end-stage renal disease: 
+A pilot study.
+
+Ben Haj Hassen H(1), Machfer A(1), Bouzid MA(1).
+
+Author information:
+(1)Research Laboratory: Education, Sport et Santé, EM2S, LR19JS01, High 
+Institute of Sport and Physical Education, University of Sfax, Sfax, Tunisia.
+
+This study aimed to evaluate cognitive function, psychological profile, and 
+quality of life in patients with end-stage renal disease (ESRD) undergoing 
+hemodialysis therapy. Twenty-six participants were enrolled: 13 ESRD patients 
+undergoing hemodialysis therapy and 13 age-matched healthy controls (CTR group) 
+(mean age: 35 ± 4.3 years). Cognitive performance was assessed using the 
+reaction time test, vigilance test, Stroop test, verbal fluency test, and Rey 
+Auditory Verbal Learning Test (RAVLT). Psychological status was measured using 
+the Depression, Anxiety, and Stress Scales (DASS-21), while quality of life was 
+evaluated with the SF-36 questionnaire. ESRD patients showed significantly 
+poorer performance than CTR on the vigilance test (p < 0.01), verbal fluency 
+(p < 0.018), and Stroop test (p < 0.012). RAVLT scores (total recall, delayed 
+recall, and recognition) were also significantly lower in the ESRD group (all 
+p < 0.05). DASS-21 results indicated high prevalence of severe psychological 
+symptoms: 51.8% reported severe stress, 56.7% severe depression, and 90.8% 
+severe to extremely severe anxiety. Regarding quality of life, ESRD group scored 
+significantly lower on physical functioning, general health, pain, social 
+functioning, and role limitations due to physical or emotional problems (all 
+p < 0.01). Energy-fatigue scores were also reduced (p < 0.001). No significant 
+difference was found in emotional well-being between groups.In conclusion, 
+patients with ESRD experience marked impairments in cognitive performance, 
+psychological well-being, and quality of life, highlighting the need for 
+integrated medical and psychological care.
+
+DOI: 10.1080/23279095.2026.2631801
+PMID: 41723853
+
+
+2. Aging Ment Health. 2026 Feb 22:1-13. doi: 10.1080/13607863.2026.2632107.
+Online  ahead of print.
+
+From clinics to communities: community health workers' perspectives on taking on 
+the behavioral health care manager role for community-based geriatric depression 
+treatment.
+
+Wang MZ(1), Steinman L(2), Ko L(3), Bertero MG(4), Raue PJ(1), Chwastiak L(1), 
+Fillipo IG(1), Hannon P(2).
+
+Author information:
+(1)Department of Psychiatry and Behavioral Sciences, University of Washington, 
+Seattle, Washington, USA.
+(2)Health Promotion Research Center, University of Washington School of Public 
+Health, Seattle, Washington, USA.
+(3)Department of Family Medicine, School of Family Medicine, University of 
+Southern California, Los Angeles, California, USA.
+(4)Department of Communication, College of Arts and Sciences, University of 
+Washington, Seattle, Washington, USA.
+
+OBJECTIVES: The Collaborative Care Model (CoCM) is an evidence-based model 
+designed for primary care and has shown improved late-life depression outcomes. 
+This study explored the perspectives of a non-specialist workforce, community 
+health workers (CHWs), on adapting CoCM to community organizations by expanding 
+CHW roles to include that of behavioral health care manager (BHCM).
+METHOD: Guided by the Theoretical Framework of Acceptability, we conducted 
+semi-structured interviews with CHWs from community-based and clinical settings 
+across five states.Participants discussed their attitudes, perceived 
+self-efficacy, and recommendations regarding four BHCM tasks: administering 
+behavioral health measures, using a patient registry, collaborating with mental 
+health specialists and primary care providers, and delivering psychosocial 
+interventions. Thematic analysis was used to analyze the data.
+RESULTS: CHWs expressed interest, support, and perceived self-efficiacy, with 
+traiing and supervision, for the proposed role expansion, and cited alignment 
+with their mission and community needs. Their strengths included community 
+trust, linkage, and knowledge of resources as a workforce. Collaborating with 
+mental health specialists was viewed as a model strength, but collaboration with 
+primary care providers was a potential barrier.
+CONCLUSION: Findings support the acceptability of developing a BHCM workforce 
+among CHWs, but understanding the perspectives of other stakeholders would be 
+warranted for CHW role redesign.
+
+DOI: 10.1080/13607863.2026.2632107
+PMID: 41723845
+
+
+3. J Neurol. 2026 Feb 22;273(2):159. doi: 10.1007/s00415-026-13693-5.
 
 Evaluation of a multidisciplinary neurological rehabilitation program for the 
 post-COVID-19 condition.
@@ -63,7 +148,7 @@ participate: Informed consent was obtained from all individual participants
 included in the study.
 
 
-2. Int J Clin Pharmacol Ther. 2026 Feb 22. doi: 10.5414/CP204879. Online ahead of
+4. Int J Clin Pharmacol Ther. 2026 Feb 22. doi: 10.5414/CP204879. Online ahead of
  print.
 
 Low-dose lamotrigine co-administration decreases quetiapine plasma 
@@ -103,7 +188,7 @@ DOI: 10.5414/CP204879
 PMID: 41723744
 
 
-3. Commun Biol. 2026 Feb 21;9(1):297. doi: 10.1038/s42003-026-09705-9.
+5. Commun Biol. 2026 Feb 21;9(1):297. doi: 10.1038/s42003-026-09705-9.
 
 Addictive drug abuse and depression-a focus on epigenetics.
 
@@ -155,7 +240,7 @@ Conflict of interest statement: Competing interests: The authors declare no
 competing interests.
 
 
-4. Inquiry. 2026 Jan-Dec;63:469580261422596. doi: 10.1177/00469580261422596. Epub
+6. Inquiry. 2026 Jan-Dec;63:469580261422596. doi: 10.1177/00469580261422596. Epub
  2026 Feb 21.
 
 Cancer-Related Fatigue, Psychological Symptoms, and Sleep Quality and 
@@ -197,7 +282,7 @@ declared no potential conflicts of interest with respect to the research,
 authorship, and/or publication of this article.
 
 
-5. Prog Neuropsychopharmacol Biol Psychiatry. 2026 Feb 19:111643. doi: 
+7. Prog Neuropsychopharmacol Biol Psychiatry. 2026 Feb 19:111643. doi: 
 10.1016/j.pnpbp.2026.111643. Online ahead of print.
 
 Combined olfactory bulbectomy and zinc deficiency induce complex neurobiological 
@@ -256,7 +341,7 @@ Conflict of interest statement: Declaration of competing interest The Authors
 declare no competing interests.
 
 
-6. Bioelectrochemistry. 2026 Feb 16;170:109250. doi: 
+8. Bioelectrochemistry. 2026 Feb 16;170:109250. doi: 
 10.1016/j.bioelechem.2026.109250. Online ahead of print.
 
 Bioelectronic interface for real-time brain biomarker analysis.
@@ -307,7 +392,7 @@ relationships that could have appeared to influence the work reported in this
 paper.
 
 
-7. J Psychiatr Res. 2026 Feb 18;196:306-313. doi:
+9. J Psychiatr Res. 2026 Feb 18;196:306-313. doi:
 10.1016/j.jpsychires.2026.02.033.  Online ahead of print.
 
 Multi-time scale dynamic effective brain networks reveal accelerated brain aging 
@@ -362,7 +447,7 @@ relationships that could have appeared to influence the work reported in this
 paper.
 
 
-8. Psychiatry Res. 2026 Feb 14;359:117011. doi: 10.1016/j.psychres.2026.117011. 
+10. Psychiatry Res. 2026 Feb 14;359:117011. doi: 10.1016/j.psychres.2026.117011. 
 Online ahead of print.
 
 The potential for synergistic effect of non-invasive brain stimulation and 
@@ -420,131 +505,3 @@ PMID: 41722328
 
 Conflict of interest statement: Declaration of competing interest All authors 
 declare no conflict of interest related to this work
-
-
-9. Psychiatry Res. 2026 Feb 12;359:117007. doi: 10.1016/j.psychres.2026.117007. 
-Online ahead of print.
-
-Impact of childhood adversity on deep brain stimulation outcomes for treatment 
-resistant depression.
-
-Ng E(1), Elias GJB(2), Germann J(3), Boutet A(4), Rizvi S(5), Lozano AM(2), 
-Kennedy SH(5), Giacobbe P(6).
-
-Author information:
-(1)University of Toronto, Toronto, Ontario, Canada; Sunnybrook Health Sciences 
-Centre, Toronto, Ontario, Canada.
-(2)University of Toronto, Toronto, Ontario, Canada; University Health Network, 
-Toronto, Ontario, Canada.
-(3)University of Toronto, Toronto, Ontario, Canada; University Health Network, 
-Toronto, Ontario, Canada; Joint Department of Medical Imaging, University of 
-Toronto, Toronto, Ontario, Canada.
-(4)University Health Network, Toronto, Ontario, Canada; Joint Department of 
-Medical Imaging, University of Toronto, Toronto, Ontario, Canada.
-(5)University of Toronto, Toronto, Ontario, Canada; Unity Health Toronto, 
-Toronto, Ontario, Canada.
-(6)University of Toronto, Toronto, Ontario, Canada; Sunnybrook Health Sciences 
-Centre, Toronto, Ontario, Canada. Electronic address: 
-peter.giacobbe@sunnybrook.ca.
-
-BACKGROUND: The presence of childhood adversity predicts poorer outcome to 
-antidepressant medications and/or psychotherapy. However its impact on 
-neuromodulation outcomes is unclear. We investigated whether adversity affects 
-outcomes in patients receiving Deep Brain Stimulation (DBS) of the subcallosal 
-cingulate area (SCC) for Treatment-Resistant Depression (TRD).
-METHODS: Longitudinal follow-up data on 56 TRD patients receiving SCC-DBS. The 
-ACE (Adverse Childhood Experiences) questionnaire was used to quantify adversity 
-and estimate its prevalence in these patients. The primary outcome was remission 
-(Hamilton Depression Rating Scale, HAMD-17 ≤ 7). Pre-operative structural MRI 
-metrics were probed for relationships with ACE score.
-RESULTS: 93% of patients reported experiencing childhood adversity (ACE ≥ 1) and 
-45% reported ≥4 ACEs (score consistently associated with poor health outcomes). 
-ACE score did not significantly impact rates of remission at 12 or 36 months. 
-There was no differential effect of adversity type (e.g. abuse, neglect, or 
-household dysfunction) on remission. In both high and low ACE score groups, 
-average HAMD-17 scores dropped significantly from baseline to 12 months and 
-remained stable to 36 months. In females, ACE score was negatively correlated 
-with left anterior cingulate cortex surface area, bilateral angular gyrus 
-surface area and left fornix volume, while it was positively correlated with 
-right subiculum volume.
-CONCLUSIONS: TRD patients receiving SCC-DBS report a high degree of ACEs. There 
-was no deleterious effect of ACEs on antidepressant outcomes with SCC-DBS in the 
-short- or long-term. A history of childhood adversity should not preclude 
-consideration of SCC-DBS for TRD.
-
-Copyright © 2026. Published by Elsevier B.V.
-
-DOI: 10.1016/j.psychres.2026.117007
-PMID: 41722327
-
-Conflict of interest statement: Declaration of competing interest EN, JG, AB, SR 
-and PG have no disclosures to report. GBJE holds intellectual property in the 
-field of DBS. AML is the co-founder of Functional Neuromodulation (a DBS-related 
-company) and is a consultant for Medtronic and Abbott (companies that produce 
-DBS hardware). SHK has received honoraria or research funds from Abbott, 
-Alkermes, Allergan, Boehringer Ingelheim, Brain Canada, Canadian Institutes of 
-Health Research, Janssen, Lundbeck, Ontario Brain Institute, Ontario Research 
-Fund, Otsuka, Pfizer, Servier, Sunovion, and Sun Pharmaceuticals.
-
-
-10. Explore (NY). 2026 Feb 13;22(3):103344. doi: 10.1016/j.explore.2026.103344. 
-Online ahead of print.
-
-From misdiagnosis to recovery: An integrative, deprescribing-led approach to 
-fibromyalgia presenting as chronic widespread pain in an older adult.
-
-Zhou YC(1), Guo ZW(2), Zhu H(3), Zhang ZZ(4), Jia YL(5), Yang SJ(6).
-
-Author information:
-(1)Department of Geriatrics, Tongde Hospital of Zhejiang Province, Hangzhou 
-310012, Zhejiang Province, China. Electronic address: mlxqzyc@sohu.com.
-(2)Department of Geriatrics, Tongde Hospital of Zhejiang Province, Hangzhou 
-310012, Zhejiang Province, China. Electronic address: guozw1977@aliyun.com.
-(3)Department of Geriatrics, Tongde Hospital of Zhejiang Province, Hangzhou 
-310012, Zhejiang Province, China. Electronic address: 1002235584@qq.com.
-(4)Department of Neurology, Tongde Hospital of Zhejiang Province, Hangzhou 
-310012, Zhejiang Province, China. Electronic address: 18758158548@163.com.
-(5)Department of Psychosomatic Medicine, Tongde Hospital of Zhejiang Province, 
-Hangzhou 310012, Zhejiang Province, China. Electronic address: 
-21818490@zju.edu.cn.
-(6)Department of Comprehensive Internal Medicine, Tongde Hospital of Zhejiang 
-Province, Hangzhou 310012, Zhejiang Province, China. Electronic address: 
-forestysj@163.com.
-
-BACKGROUND: Fibromyalgia in older adults is frequently underrecognized or 
-misdiagnosed because of overlapping symptoms with affective disorders, 
-neurodegenerative disease, and adverse drug reactions related to polypharmacy. 
-These factors may obscure diagnosis and contribute to persistent symptoms and 
-functional decline.
-CASE PRESENTATION: We describe an older woman who presented with chronic 
-widespread pain, fatigue, sleep disturbance, and low mood in the context of 
-multimorbidity and extensive pharmacotherapy. She was initially treated for 
-depression, during which her symptoms worsened alongside declining renal 
-function. Following systematic clinical reassessment and medication review, a 
-diagnosis of fibromyalgia was established according to the 2016 American College 
-of Rheumatology criteria. A stepwise management strategy was implemented, 
-beginning with deliberate deprescribing and symptom reassessment, followed by a 
-staged integrative approach incorporating individualized traditional Chinese 
-medicine-based herbal therapy to support symptom modulation and functional 
-recovery.
-OUTCOMES: Over a six-month follow-up period, the patient demonstrated gradual 
-improvement in pain severity, sleep quality, physical function, and overall 
-well-being, without recurrence of medication-related adverse effects. Symptom 
-improvement occurred in parallel with medication rationalization and 
-stabilization of renal function.
-CONCLUSION: This case highlights fibromyalgia as an important diagnostic 
-consideration in older adults presenting with chronic widespread pain and 
-polypharmacy. Deprescribing may function as both a diagnostic and therapeutic 
-intervention in such contexts. Integrative, patient-centered care may provide 
-supportive benefit following medication rationalization. Although causal 
-inferences cannot be drawn from a single case, this report underscores the value 
-of reflective clinical reasoning and individualized integrative strategies in 
-the management of fibromyalgia in complex geriatric settings.
-
-Copyright © 2026 The Author(s). Published by Elsevier Inc. All rights reserved.
-
-DOI: 10.1016/j.explore.2026.103344
-PMID: 41722280
-
-Conflict of interest statement: Declaration of competing interest The authors 
-declare no competing interests.

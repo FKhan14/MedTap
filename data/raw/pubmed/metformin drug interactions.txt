@@ -1,0 +1,570 @@
+1. Int J Biomater. 2026 Feb 17;2026:5521416. doi: 10.1155/ijbm/5521416.
+eCollection  2026.
+
+Bio-Assisted Synthesis of Reduced Graphene Oxide Nanosheets From Graphene Oxide: 
+Promising and Efficient Cytotoxic and Antidiabetic Potency in In Vitro, Kinetic, 
+and In Silico Models.
+
+Yadav M(1)(2), Vashishth D(2), Bhardwaj M(3), Yadav JP(4), Kataria SK(2).
+
+Author information:
+(1)Department of Zoology, Ramjas College, University of Delhi, Delhi, 110007, 
+India, du.ac.in.
+(2)Department of Zoology, Maharshi Dayanand University, Rohtak, Haryana, 124001, 
+India, mdurohtak.ac.in.
+(3)Government Girls Senior Secondary School, Rurki, Rohtak, Haryana, 124001, 
+India.
+(4)Department of Genetics, Maharshi Dayanand University, Rohtak, Haryana, 
+124001, India, mdurohtak.ac.in.
+
+Green chemistry has recently made strides in the sustainable synthesis of 
+next-generation nanomaterials using reducing agents sourced from plants. 
+Biocompatible conversion of reduced graphene oxide from graphene oxide 
+nanomaterials is of particular interest in medical applications. The leaf 
+extract of C. igneus functions as a reducing agent to produce reduced graphene 
+oxide nanosheets from its precursor graphene oxide. A variety of 
+characterization techniques were employed to confirm the formation and stability 
+of reduced graphene oxide nanosheets. The cytotoxicity and glucose uptake 
+potential of nanosheets have been evaluated through in vitro cell-based assays. 
+The MTT assay revealed a concentration-dependent cytotoxic effect on Chang liver 
+and U87MG cells, with maximum 84.5% and 76.3% cell viability, respectively. 
+Reduced graphene oxide exhibited a significant rise in glucose uptake, 
+comparable to the metformin drug, with increasing concentration. Enhanced 
+glucose transport mediated by the nanosheets resulted in increased glucose 
+uptake. Effective IC50 values of 84.46 μg·mL-1 and 93.83 μg·mL-1 were obtained 
+in vitro enzyme inhibition studies against α-amylase and α-glucosidase, 
+respectively. The enzyme kinetic investigation found noncompetitive inhibition 
+for both enzymes. Molecular docking studies of C. igneus leaf derivatives were 
+performed against α-amylase and α-glucosidase. Corosolic acid was selected based 
+on favorable docking scores, binding interactions, and low root-mean-square 
+deviation and was subjected to molecular dynamics simulations, which confirmed 
+the stability of the resulting complex. This study concludes that reduced 
+graphene oxide nanosheets derived from C. igneus leaves represent a novel 
+antidiabetic agent that can reduce blood glucose levels and mitigate the 
+complications associated with Type II diabetes.
+
+Copyright © 2026 Mansi Yadav et al. International Journal of Biomaterials 
+published by John Wiley & Sons Ltd.
+
+DOI: 10.1155/ijbm/5521416
+PMCID: PMC12911526
+PMID: 41710776
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+
+2. Mech Ageing Dev. 2026 Feb 16;231:112162. doi: 10.1016/j.mad.2026.112162.
+Online  ahead of print.
+
+Metformin-induced longevity is associated with retrotransposon dynamics in yeast 
+chronological aging.
+
+Meneses-Plascencia J(1), Moreno-Méndez E(2), Ascencio D(3), Pérez-Aguilar C(4), 
+Munguía-Figueroa M(1), Abreu-Goodger C(5), Funes S(6), DeLuna A(7).
+
+Author information:
+(1)Unidad de Genómica Avanzada, Cinvestav, Irapuato 36824, Mexico.
+(2)Departamento de Genética Molecular, Instituto de Fisiología Celular, 
+Universidad Nacional Autónoma de México, Mexico City 04510, Mexico; Centro de 
+Investigación sobre el Envejecimiento, Cinvestav, Mexico City 14330, Mexico.
+(3)Centro de Investigación sobre el Envejecimiento, Cinvestav, Mexico City 
+14330, Mexico.
+(4)Unidad de Genómica Avanzada, Cinvestav, Irapuato 36824, Mexico; Centro de 
+Investigación sobre el Envejecimiento, Cinvestav, Mexico City 14330, Mexico.
+(5)Institute of Ecology and Evolution, The University of Edinburgh, Edinburgh 
+EH9 3FL, UK.
+(6)Departamento de Genética Molecular, Instituto de Fisiología Celular, 
+Universidad Nacional Autónoma de México, Mexico City 04510, Mexico.
+(7)Unidad de Genómica Avanzada, Cinvestav, Irapuato 36824, Mexico; Centro de 
+Investigación sobre el Envejecimiento, Cinvestav, Mexico City 14330, Mexico. 
+Electronic address: alexander.deluna@cinvestav.mx.
+
+The widely used antidiabetic drug metformin promotes longevity across diverse 
+model organisms, from yeast to primates, yet the cellular mechanisms by which it 
+acts are not fully resolved. Here, we use high-resolution genetic profiling to 
+define metformin's impact on the chronological lifespan of Saccharomyces 
+cerevisiae. Unexpectedly, our analyses uncover pronounced gene-drug interactions 
+between metformin and chromatin modification. In particular, impairment of the 
+histone deacetylase Set3C phenocopies the effects of metformin, suggesting 
+convergence on a shared pathway. Consistent with this genetic interaction, 
+transcriptome sequencing shows that metformin reprograms stationary-phase gene 
+expression, with Ty1-copia retrotransposons emerging as a dominant signature. 
+Notably, targeted analysis of Ty1 expression reveals that Set3C perturbation 
+reproduces the metformin-induced Ty1 response, directly linking chromatin 
+regulation to the observed lifespan phenotypes. Despite this transcriptional 
+activation, metformin reduces TYA Gag-like protein levels without increasing 
+insertion frequency, revealing an uncoupling between retrotransposon expression 
+and mobility. In parallel, proteome analysis identifies increased mitochondrial 
+and stress-response proteins as early outcomes of metformin exposure, both known 
+modulators of Ty1 dynamics and potential mediators of this response. Together, 
+our findings position chromatin regulation and retrotransposon expression as 
+integral components of metformin's effects on longevity, expanding its influence 
+beyond signaling, metabolism, and stress response.
+
+Copyright © 2026 The Authors. Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.mad.2026.112162
+PMID: 41707917
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare that they have no conflicts of interest with the contents of this 
+article.
+
+
+3. J Diabetes Metab Disord. 2026 Feb 13;25(1):56. doi:
+10.1007/s40200-025-01843-x.  eCollection 2026 Jun.
+
+Pharmacogenomics-Guided therapeutics in type 2 diabetes: Mechanisms, drug 
+Targets, and precision medicine perspectives.
+
+Singh P(1), Tripathy DB(2), Kumar G(3).
+
+Author information:
+(1)Department of Biomedical Sciences, School of Biosciences & Technology, 
+Galgotias University, Greater Noida, Uttar Pradesh India.
+(2)Division of Chemistry, School of Basic Sciences, Galgotias University, 
+Greater Noida, Uttar Pradesh India.
+(3)Department of Biotechnology & Bioengineering, School of Biosciences & 
+Technology, Galgotias University, Greater Noida, Uttar Pradesh India.
+
+Type 2 Diabetes Mellitus (T2DM) is a global health challenge characterised by 
+pathophysiological diversity, resulting in significant inter-individual 
+variability in drug response. Pharmacogenomics (PGx) offers a powerful approach 
+to personalise T2DM management by linking genetic makeup to therapeutic efficacy 
+and safety. Traditional treatments such as metformin, sulfonylureas, and insulin 
+remain central to management but often present limitations, including adverse 
+effects and declining effectiveness. A comprehensive literature search was 
+conducted across the PubMed, Scopus, and Web of Science databases, covering 
+publications from 2010 to 2025. Search words included "type 2 diabetes," 
+"pharmacogenomics," "drug response," "genetic polymorphism," and "precision 
+medicine". Peer-reviewed studies investigated gene-drug interactions and their 
+underlying mechanisms. Pathways and clinical correlations were critically 
+examined. Emphasis was placed on validated pharmacogenomic markers affecting 
+major antidiabetic drug classes-biguanides,sulfonylureas, thiazolidinediones, 
+incretin-based agents, and SGLT2 inhibitors-while also highlighting emerging 
+genomic associations of exploratory relevance. We outline how genetic diversity 
+influences drug response, moving from pharmacogenetics to broader 
+pharmacogenomic studies that scan the entire genome to identify novel drug 
+targets and deepen the understanding of T2DM pathophysiology. Genomic and 
+electronic health data from large populations have become increasingly 
+available, presenting a transformative opportunity for research and precision 
+medicine within the healthcare system. To effectively utilise genomic 
+information in clinical practice, it is essential to establish a framework for 
+assessing the validity and clinical utility of genomic data and patient 
+electronic health records. This review summarises current evidence, identifies 
+implementation challenges, and discusses future directions to help bridge the 
+gap between pharmacogenomic discoveries and personalised diabetes care.
+
+© The Author(s), under exclusive licence to Tehran University of Medical 
+Sciences 2026. Springer Nature or its licensor (e.g. a society or other partner) 
+holds exclusive rights to this article under a publishing agreement with the 
+author(s) or other rightsholder(s); author self-archiving of the accepted 
+manuscript version of this article is solely governed by the terms of such 
+publishing agreement and applicable law.
+
+DOI: 10.1007/s40200-025-01843-x
+PMCID: PMC12905032
+PMID: 41695560
+
+Conflict of interest statement: Competing interestsThe authors declare no 
+competing interests.
+
+
+4. Expert Opin Drug Metab Toxicol. 2026 Feb 16:1-15. doi: 
+10.1080/17425255.2026.2632668. Online ahead of print.
+
+Pharmacological interactions between asthma and T2DM therapies: clinical and 
+metabolic implications.
+
+Matera MG(1), Page C(2), Calzetta L(3), Rogliani P(4), Cazzola M(4).
+
+Author information:
+(1)Unit of Pharmacology, Department of Experimental Medicine, University of 
+Campania 'Luigi Vanvitelli', Naples, Italy.
+(2)Institute of Pharmaceutical Science, King's College London, London, UK.
+(3)Department of Medicine and Surgery, Respiratory Disease and Lung Function 
+Unit, University of Parma, Parma, Italy.
+(4)Unit of Respiratory Medicine, Department of Experimental Medicine, University 
+of Rome 'Tor Vergata', Rome, Italy.
+
+INTRODUCTION: Asthma and type 2 diabetes mellitus (T2DM) frequently coexist and 
+share overlapping immunometabolic pathways. Pharmacotherapies used to treat 
+either condition may influence the course of the other, leading to clinically 
+relevant cross-effects.
+AREAS COVERED: This narrative review synthesizes evidence on the bidirectional 
+pharmacologic interactions between asthma and T2DM therapies, focusing on the 
+metabolic consequences of asthma medications and the pulmonary effects of 
+glucose-lowering agents. We highlight mechanistic links, comparative clinical 
+impacts, and phenotype-specific considerations.
+EXPERT OPINION: Systemic corticosteroids and, to a lesser extent, high-dose 
+inhaled corticosteroids, increase the risk of insulin resistance and 
+hyperglycemia. β2-agonists may acutely raise glucose levels, whereas leukotriene 
+antagonists and LAMAs have minimal metabolic impact. Biologics indirectly 
+benefit metabolic control by allowing steroid reduction, with dupilumab showing 
+the most favorable profile. Among antidiabetic agents, metformin and GLP-1 
+receptor agonists robustly improve asthma outcomes, and SGLT2 inhibitors show 
+promising signals. Insulin may worsen airway hyperresponsiveness through 
+proliferative and immunologic pathways. Clinicians must navigate these 
+interactions thoughtfully, especially in type 2-low and obesity-associated 
+asthma, where metabolic dysfunction dominates disease expression. Evidence-based 
+guidance remains lacking, underscoring the need for integrated, phenotype-driven 
+approaches.
+
+DOI: 10.1080/17425255.2026.2632668
+PMID: 41685674
+
+
+5. Zhong Nan Da Xue Xue Bao Yi Xue Ban. 2025 Oct 28;50(10):1735-1754. doi: 
+10.11817/j.issn.1672-7347.2025.250091.
+
+Mechanisms of gypenosides in type 2 diabetes mellitus via regulation of m6A 
+methylase METTL3/14 and demethylase FTO.
+
+Li J(1), Zhang S(2), Tian R(3), Tai H(3), Zhang Y(3), Hu M(3), Gong G(3), Sun 
+J(4), Wu N(5).
+
+Author information:
+(1)Laboratory of Chemistry and Biochemistry, Guizhou Medical University, Guiyang 
+550004, China. 1842443937@qq.com.
+(2)Laboratory of Chemistry and Biochemistry, Guizhou Medical University, Guiyang 
+550004, China. 2246454794@qq.com.
+(3)Laboratory of Chemistry and Biochemistry, Guizhou Medical University, Guiyang 
+550004, China.
+(4)Laboratory of Chemistry and Biochemistry, Guizhou Medical University, Guiyang 
+550004, China. tyczyc@163.com.
+(5)Laboratory of Chemistry and Biochemistry, Guizhou Medical University, Guiyang 
+550004, China. wuning@gmc.edu.cn.
+
+OBJECTIVES: Type 2 diabetes mellitus (T2DM) is characterized by insufficient 
+insulin secretion and insulin resistance. Gypenosides (GPs) are the major 
+bioactive saponins extracted from Gynostemma pentaphyllum. Previous studies 
+suggest that GPs have beneficial effects on T2DM, but the underlying mechanisms 
+remain unclear. This study aims to investigate whether GPs exert therapeutic 
+effects by influencing RNA N6-methyladenosine (m6A) methylation modification, 
+thereby regulating the downstream phosphatidylinositol 3-kinase (PI3K)/protein 
+kinase B (AKT) signaling pathway.
+METHODS: Expression levels and methylation changes of METTL3, METTL14, and FTO 
+in T2DM were analyzed using public databases, and related pathways were explored 
+via gene ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) 
+enrichment analyses. The main active components of GPs were screened from 
+pharmacological databases, followed by compound-target network construction, 
+enrichment analyses, and prediction of potential targets and pathways. A T2DM 
+model was induced in Sprague-Dawley rats using a high-fat/high-sugar diet 
+combined with low-dose streptozotocin. Rats were randomly divided into 4 groups: 
+GPs-treated group (GPG, 400 mg/kg), positive control group (PCG, metformin 100 
+mg/kg), normal saline control group (CONTROL), and T2DM model group (MODEL). 
+Fasting blood glucose (FBG), oral glucose tolerance test (OGTT)-area under the 
+glucose curve from 0 to 120 min (AUC0-120), fasting insulin (FINS), homeostasis 
+model assessment of insulin resistance (HOMA-IR), serum inflammatory factors, 
+and tissue pathology of pancreas and liver hematoxylin and eosin (HE) staining 
+were assessed. Real-time fluorescence quantitative PCR and Western blotting were 
+used to detect RNA and protein expression levels of METTL3, METTL14, FTO, PI3K, 
+and AKT in pancreatic tissues. Molecular docking was applied to evaluate 
+interactions between GPs' main components and METTL3, METTL14, and FTO to infer 
+potential binding modes.
+RESULTS: Bioinformatic analyses showed downregulation of METTL3/14 and 
+upregulation of FTO in T2DM samples (all P<0.05), with enrichment in pathways 
+related to insulin signaling, PI3K/AKT activation, oxidative stress response, 
+and hormone secretion. Network pharmacology indicated that GPs components may 
+act on targets involved in RNA modification and insulin-related pathways. In 
+diabetic rats, GPs significantly reduced FBG, improved glucose tolerance, 
+decreased HOMA-IR, and decreased the serum tumor necrosis factor-α (TNF-α) and 
+interleukin (IL)-6 levels compared with MODEL (all P<0.05). Pancreatic pathology 
+showed alleviated islet injury and improved cell morphology. GPs treatment 
+up-regulated METTL3/14 mRNA and protein levels, and down-regulated FTO 
+mRNA/protein levels in pancreatic tissue (all P<0.05). PI3K and AKT expression 
+levels increased (both P<0.05), consistent with activation of downstream signals 
+related to glucose uptake and improved insulin sensitivity. Metformin also 
+improved metabolic indices but exhibited a different regulatory pattern on 
+m6A-related enzymes compared with GPs. Molecular docking revealed stable 
+interactions between core GPs saponin structures and methyltransferase-like 3 
+(METTL3), methyltransferase-like 14 (METTL14), or obesity-associated protein 
+(FTO), suggesting that GPs may directly or indirectly modulate m6A regulatory 
+proteins.
+CONCLUSIONS: GPs can effectively improve glucose-metabolism disorders, reduce 
+inflammation, and protect pancreatic tissue in T2DM rats. The mechanisms may be 
+associated with METTL3/14 up-regulation and FTO down-regulation, leading to 
+enhanced m6A methylation and subsequent activation of the PI3K/AKT signaling 
+pathway. These findings provide strong evidence for GPs regulation of epigenetic 
+m6A RNA modification and insulin-related downstream pathways, and suggest that 
+natural compounds targeting m6A regulation may be explored in the future for 
+metabolic disease interventions.
+
+Publisher: 目的: 2型糖尿病(type 2 diabetes 
+mellitus，T2DM)以胰岛素分泌不足及胰岛素抵抗为特征。绞股蓝皂苷(gypenosides，GPs)是从绞股蓝中提取的主要活性皂苷，前期研究提示其对T2DM具有改善作用，但其治疗机制尚未阐明。本研究旨在探讨GPs是否通过影响RNA的m6A甲基化修饰，进而调控下游磷脂酰肌醇3激酶(phosphoinositide 
+3-kinase，PI3K)/蛋白激酶B(protein kinase B，AKT)信号通路，从而发挥治疗作用。方法: 
+通过分析公共数据库中T2DM患者中METTL3、METTL14及FTO的表达水平及甲基化变化，并利用基因本体论(gene 
+ontology，GO)和京都基因和基因组数据库(Kyoto Encyclopedia of Genes and 
+Genomes，KEGG)富集分析探索相关通路。从已建立的药理学数据库中筛选GPs的主要活性成分，构建化合物-靶点网络并进行富集分析，预测其潜在作用靶点与通路。采用高脂高糖饮食联合低剂量链脲佐菌素诱导Sprague-Dawley大鼠T2DM模型。将大鼠随机分为4组:GPs治疗组(GPs-treated 
+group，GPG，GPs 400 mg/kg)、阳性对照组(positive control group，PCG，二甲双胍100 
+mg/kg)、生理盐水对照组(normal saline control group，CONTROL)和T2DM模型组(T2DM model 
+group，MODEL)。评估空腹血糖(fasting blood glucose，FBG)、口服葡萄糖耐量试验(oral glucose tolerance 
+test ，OGTT)及0~120 min血糖曲线下面积(area under the glucose curve from 0 to 120 
+min，AUC0–120)、空腹胰岛素(fasting insulin，FINS)、胰岛素抵抗稳态模型评估(homeostasis model 
+assessment of insulin resistance，HOMA-IR)及血清炎症因子水平。采用苏木精-伊红(hematoxylin and 
+eosin，HE)染色对胰腺和肝组织进行组织病理学检查。利用实时荧光定量PCR和蛋白质印迹法检测胰腺组织中METTL3、METTL14、FTO、PI3K和AKT的RNA及蛋白质表达水平。此外，通过分子对接评估GPs主要成分与甲基转移酶样蛋白3(methyltransferase-like 
+3，METTL3)、甲基转移酶样蛋白14(methyltransferase-like 
+14，METTL14)和肥胖相关蛋白(obesity-associated protein，FTO)之间的相互作用，以确定潜在结合模式。结果: 
+生物信息学分析显示，T2DM样本中METTL3与METTL14表达下调，而FTO表达上调(均P<0.05)，并伴有胰岛素信号、PI3K/AKT激活、氧化应激反应和激素分泌相关通路的富集。网络药理学提示GPs成分可能作用于RNA修饰和胰岛素相关通路靶点。在T2DM大鼠中，与MODEL相比，GPs治疗显著降低了FBG，改善了葡萄糖耐量，降低了HOMA-IR值，也降低了血清肿瘤坏死因子-α(tumor 
+necrosis 
+factor-α，TNF-α)和白细胞介素(interleukin，IL)-6水平(均P<0.05)，同时胰腺组织病理学检查显示胰岛损伤减轻、细胞形态改善。GPs治疗使胰腺组织中METTL3和METTL14的mRNA和蛋白质表达水平上调，而FTO的mRNA和蛋白质表达水平下调(均P<0.05)。同时，PI3K和AKT表达水平均升高(均P<0.05)，与葡萄糖摄取和胰岛素敏感性相关的下游信号通路激活一致。二甲双胍亦可改善代谢指标，但其对m6A相关酶的调控模式与GPs不同。分子对接结果显示GPs的主要皂苷结构与METTL3、METTL14或FTO之间具有稳定相互作用，提示GPs对m6A相关调控蛋白具有直接或间接调节作用。结论: 
+GPs能够有效改善T2DM大鼠的糖代谢紊乱、减轻炎症反应并保护胰腺组织，其作用机制可能与METTL3/METTL14上调，FTO下调而增强m6A甲基化有关，增强m6A修饰进而激活PI3K/AKT信号通路。这为GPs调控表观遗传RNA修饰及下游胰岛素相关通路提供了有力证据，也提示未来可探索以m6A为靶点的天然化合物用于代谢性疾病的干预。.
+
+DOI: 10.11817/j.issn.1672-7347.2025.250091
+PMID: 41656807 [Indexed for MEDLINE]
+
+
+6. Adv Sci (Weinh). 2026 Feb 8:e16114. doi: 10.1002/advs.202516114. Online ahead
+of  print.
+
+3D Bioprinted Fat-Myocardium Model Unravels the Role of Adipocyte Hypertrophy in 
+Atrial Dysfunction.
+
+Celebi LE(1)(2), Zorlutuna P(1)(2)(3)(4).
+
+Author information:
+(1)Department of Aerospace and Mechanical Engineering, University of Notre Dame, 
+Notre Dame, Indiana, USA.
+(2)Bioengineering Graduate Program, University of Notre Dame, Notre Dame, 
+Indiana, USA.
+(3)Department of Chemical and Biomolecular Engineering, University of Notre 
+Dame, Notre Dame, Indiana, USA.
+(4)Harper Cancer Research Institute, University of Notre Dame, Notre Dame, 
+Indiana, USA.
+
+Update of
+    bioRxiv. 2025 Aug 24:2025.08.20.671391. doi: 10.1101/2025.08.20.671391.
+
+Cardiovascular diseases (CVD) are the leading cause of mortality in individuals 
+with obesity. Epicardial adipose tissue (EAT) dysfunction serves as a link 
+between obesity and CVD, promoting inflammatory and metabolic alterations that 
+increase CVD risk. While EAT normally supports cardiac health, obesity-induced 
+adipocyte hypertrophy triggers excessive fatty acid and cytokine release, 
+driving myocardial lipotoxicity and inflammation that impair electrophysiology 
+and metabolism, leading to beating irregularities, insulin resistance, and heart 
+failure. The lack of sufficient EAT in small animal models and the 
+impracticality of using large mammals hinder insights into the effects of EAT 
+hypertrophy on the myocardium. To address this gap, a human-derived 3D 
+bioprinted coculture of obese adipocytes and cardiomyocytes (CMs) is developed 
+using patient-derived adipocytes and human induced pluripotent stem cell 
+(hiPSC)-derived atrial CMs (a-iCMs). This platform enables the investigation of 
+both cell-cell and paracrine interactions between hypertrophic adipocytes and 
+a-iCMs, allowing assessment of electrophysiological, structural, and proteomic 
+changes to uncover mechanisms linking EAT hypertrophy to obesity-related atrial 
+dysfunction. Screening of metformin, a cardioprotective drug, reveals 
+improvement in electrophysiological function in hypertrophic adipocyte-a-iCM 
+cocultures. 3D bioprinted fat-myocardium model provides a high-throughput 
+platform to study obesity-induced atrial dysfunction and facilitate the 
+discovery of therapies for the obese heart.
+
+© 2026 The Author(s). Advanced Science published by Wiley‐VCH GmbH.
+
+DOI: 10.1002/advs.202516114
+PMID: 41655215
+
+
+7. Br J Clin Pharmacol. 2026 Feb 3. doi: 10.1002/bcp.70430. Online ahead of
+print.
+
+Cannabinoids and drug-drug pharmacokinetic interactions: Deciphering the risks.
+
+Papakyriakopoulou P(1), Valsami G(1), Ismailos G(2).
+
+Author information:
+(1)Laboratory of Biopharmaceutics and Pharmacokinetics, Section of 
+Pharmaceutical Technology, Department of Pharmacy, School of Health Sciences, 
+National and Kapodistrian University of Athens, Athens, Greece.
+(2)Experimental, Training and Research Center ELPEN, ELPEN Pharmaceuticals, 
+Attica, Greece.
+
+The relationship between cannabinoids and mental health has become a major focus 
+of scientific inquiry and public discourse. Cannabinoids are diverse chemical 
+compounds from the Cannabis species that have been explored for their 
+therapeutic applications in treating chronic pain, psychiatric and neurological 
+conditions, such as depression, schizophrenia, epilepsy and anxiety. 
+Additionally, cannabinoids are frequently used for recreational purposes. The 
+evolving legislation surrounding cannabis has added a layer of complexity to the 
+understanding of its pharmacological effects. Societal attitudes shifting 
+towards a more permissive acceptance of cannabis use make it essential to 
+balance individual freedom with public health concerns. While the use of 
+cannabinoids remains a subject of ongoing research, clinical data have shown 
+promise in the treatment of mental health disorders. However, debates and 
+concerns have been raised regarding the potential pharmacokinetic (PK) drug-drug 
+interactions that may occur, involving changes in the absorption, distribution, 
+metabolism and excretion (ADME) of the prescribed drugs. The future prospect of 
+patients having unrestricted access to cannabis requires special attention in 
+case of concurrent use with the common medical treatments they may be receiving 
+for a cardiovascular or metabolic disease or with medications related to the 
+treatment of psychiatric disorders. This comprehensive review aims to critically 
+discuss the main PK interactions of major cannabinoids (tetrahydrocannabinol, 
+cannabidiol, cannabinol, cannabichromene and cannabigerol) in relation to the 
+drugs prescribed in neuropathic pain, depression, anxiety, schizophrenia, 
+epilepsy and cancer, as well as with the most common cardiometabolic disease 
+treatments such as statins, beta-blockers, warfarin, insulin analogues and 
+metformin.
+
+© 2026 The Author(s). British Journal of Clinical Pharmacology published by John 
+Wiley & Sons Ltd on behalf of British Pharmacological Society.
+
+DOI: 10.1002/bcp.70430
+PMID: 41633759
+
+
+8. J Mater Chem B. 2026 Feb 18;14(7):2304-2323. doi: 10.1039/d5tb02216a.
+
+Ratiometric near-infrared fluorescence probes for quantitative monitoring of 
+mitochondrial pH dynamics in Drosophila melanogaster and HeLa cells during 
+metformin treatment.
+
+Schwandt RJ(1), Campbell H(1), Baker LS(1), Pandey S(1), Kathuria I(1), Luck 
+RL(1).
+
+Author information:
+(1)Department of Chemistry, Michigan Technological University, Houghton, MI 
+49931, USA. rluck@mtu.edu.
+
+This study introduces two new ratiometric probes, AH+ and BH+, designed to 
+monitor mitochondrial pH dynamics. Derived from IR-780 iodide, these probes 
+incorporate imidazole, hydroxy-xanthene, and hemicyanine groups. Owing to their 
+positively charged hemicyanine groups, both probes selectively accumulate in 
+mitochondria through electrostatic interactions. Their sensing mechanism is 
+governed by deprotonation-induced π-conjugation rearrangements, enabling 
+dual-emission fluorescence for real-time visualization of mitochondrial pH 
+fluctuations. Monitoring of various cellular processes, including mitophagy, 
+hypoxia, oxidative stress, and mitochondrial dysfunction induced by metformin, 
+is reported. In their protonated states (AH+ and BH+), the probes exhibit large 
+Stokes shifts (>90 nm) due to excited state intramolecular proton transfer 
+(ESIPT). In contrast, the unprotonated forms (A and B) show anti-Stokes shifts. 
+While theoretical calculations using the APFD/6-311+g(d,p) functional/basis set 
+were conducted to simulate these effects, the results were inconsistent with 
+experimental findings. The probes' suitability for measuring mitochondrial pH in 
+HeLa cells was confirmed through a series of tests for photostability, 
+selectivity, reversibility, and cytotoxicity. Colocalization experiments yielded 
+high Pearson Correlation Coefficients (PCC) of 0.96 for AH+ and 0.93 for BH+, 
+affirming their specific mitochondrial targeting. The probes successfully 
+measured pH changes in HeLa cells under various conditions, including changes in 
+buffer pH, starvation, oxygen deprivation, and chemical treatments with NAC, 
+FCCP, and H2O2. Their ability to sense pH was also validated in vivo using 
+Drosophila melanogaster larvae. Significantly, treatment with metformin was 
+shown to alter mitochondrial pH levels, demonstrating the probes' utility in 
+studying drug effects. Collectively, these findings establish AH+ and BH+ as 
+powerful tools for probing mitochondrial function and cellular stress responses, 
+offering new opportunities to explore fundamental mechanisms underlying health 
+and disease.
+
+DOI: 10.1039/d5tb02216a
+PMID: 41623084 [Indexed for MEDLINE]
+
+
+9. Curr Comput Aided Drug Des. 2026 Jan 26. doi: 
+10.2174/0115734099383172251020054640. Online ahead of print.
+
+Study on the Mechanism of Ku Diding in the Treatment of Diabetes based on 
+Network Pharmacology, Molecular Docking Technology, and Molecular Dynamics.
+
+Chi Q(1), Zheng T(1), Yang B(1).
+
+Author information:
+(1)School of Information Science and Engineering, Zaozhuang University, 
+Zaozhuang, 277160, China.
+
+INTRODUCTION: To explore how Ku Diding (KDD) works in managing Diabetes Mellitus 
+(DM), researchers utilized network pharmacology, molecular docking, and 
+molecular dynamics methodologies.
+METHODS: Key active components of KDD were identified using the Traditional 
+Chinese Medicine Systematic Pharmacology Database and Analysis Platform (TCMSP). 
+Data for diabetesrelated targets were retrieved from the Human Genetic 
+Comprehensive Databases (Genecards) and the Online Mendelian Inheritance in Man 
+(OMIM) database. The intersection of these targets was analyzed to determine 
+potential therapeutic targets for diabetes treatment. Proteinprotein interaction 
+networks (PPI) were constructed using the STRING database and Cytoscape 
+software, followed by Gene Ontology (GO) enrichment and Kyoto Encyclopedia of 
+Genes and Genomes (KEGG) enrichment analysis. Molecular docking between the 
+components and key targets was performed using the AutoDock Vina platform.
+RESULTS: This study identified that Dihydrosanguinarine, (S)-Scoulerine, among 
+others, are the main active ingredients of KDD for treating DM, showing high 
+affinity for critical targets like PTGS2 and PRKACA, through multiple pathways 
+including vascular regulation, neuromodulation, metabolic regulation, and 
+endocrine regulation. The molecular docking results showed that there are 
+interactions between the active ingredients and the key targets, with the 
+majority of the effective components exhibiting a stronger binding affinity than 
+Metformin. Among them, (S)-Scoulerine and Dihydrosanguinarine demonstrated high 
+docking affinity with the key target proteins PTGS2 and PRKACA.
+DISCUSSION: DM is closely linked to oxidative stress, chronic inflammation, and 
+insulin signaling dysregulation. This study reveals that KDD exerts 
+anti-diabetic effects via a multi-target network involving proteins such as 
+PRKACA, PTGS2, ESR1, FOS, and DRD2. These targets are associated with glucose 
+metabolism, inflammation, oxidative stress, and neural regulation. Modulation of 
+these pathways likely enhances insulin sensitivity, lowers blood glucose, 
+suppresses inflammation, and protects against oxidative damage. GO and KEGG 
+analyses further indicate involvement in MAPK signaling, synaptic transmission, 
+and vascular regulation, forming a multidimensional 
+"metabolism-inflammation-neural" regulatory network. Compared to Metformin, most 
+KDD-derived compounds showed stronger binding, highlighting their therapeutic 
+potential. Molecular dynamics simulations support the stability of the observed 
+binding conformations, suggesting their potential as therapeutic targets. These 
+findings underscore KDD's ability to simultaneously target multiple pathological 
+mechanisms, offering a holistic treatment strategy for DM.
+CONCLUSION: This study provides preliminary evidence that KDD is characterized 
+by a multicomponent, multi-target, and multi-pathway approach in the treatment 
+of diabetes mellitus (DM), thereby establishing a scientific foundation for 
+further in-depth exploration of KDD's molecular mechanisms.
+
+Copyright© Bentham Science Publishers; For any queries, please email at 
+epub@benthamscience.net.
+
+DOI: 10.2174/0115734099383172251020054640
+PMID: 41603182
+
+
+10. Pharmaceutics. 2026 Jan 8;18(1):81. doi: 10.3390/pharmaceutics18010081.
+
+Ketamine in Diabetes Care: Metabolic Insights and Clinical Applications.
+
+Sukhram SD(1), Sanchez M(2), Anidugbe A(2), Kupa B(1), Edwards VP(3), Zia M(1), 
+Yilmaz G(1).
+
+Author information:
+(1)Department of Biology, College of Staten Island, New York, NY 10314, USA.
+(2)College of Pharmacy, Long Island University, New York, NY 11201, USA.
+(3)College of Arts and Sciences, Seton Hall University, South Orange, NJ 07079, 
+USA.
+
+Background: Depression and diabetic neuropathy (DN) commonly complicate diabetes 
+and impair glycemic control and quality of life. Ketamine and its S-enantiomer, 
+esketamine, provide rapid antidepressant and analgesic effects, yet 
+diabetes-related pathophysiology and co-therapies may modify exposure, response, 
+and safety. Methods: We conducted a scoping review following PRISMA-ScR. 
+MEDLINE/PubMed, CINAHL, and APA PsycInfo were searched (January 2020-31 May 
+2025). Eligible human and animal studies evaluated ketamine, esketamine, or 
+norketamine in the context of diabetes (type 1 [T1DM], type 2 [T2DM], 
+gestational [GDM]), or DN, and reported psychiatric, analgesic, metabolic, or 
+mechanistic outcomes. Two reviewers independently screened and charted data; no 
+formal risk-of-bias assessment was performed. Results: Eleven studies met 
+inclusion criteria: four human case reports/series (three T1DM, one T2DM), one 
+randomized trial in GDM, two narrative reviews of topical ketamine for DN, and 
+four preclinical rodent studies using streptozotocin- or diet-induced diabetes 
+models. Short-term improvements were reported for treatment-resistant depression 
+and neuropathic pain, including opioid-sparing postoperative analgesia in GDM. 
+Glycemic effects varied across settings, with both hyperglycemia and 
+hypoglycemia reported. Mechanistic and clinical drug-drug and drug-disease 
+interactions (particularly involving metformin, GLP-1 receptor agonists, SGLT2 
+inhibitors, and CYP3A4/CYP2B6 modulators) remain insufficiently studied. We 
+outline a forward-looking population pharmacokinetic (popPK) and 
+pharmacokinetic-pharmacodynamic (PK-PD) research agenda, including priority 
+covariates (eGFR, hepatic function, inflammatory status, HbA1c, genotype, 
+co-medications) and sparse-sampling windows for future model-informed precision 
+dosing. Conclusions: Current evidence supports cautious, selective use of 
+ketamine for refractory depression and DN within multidisciplinary diabetes 
+care. Purpose-built popPK/PK-PD studies in both human and preclinical diabetic 
+models cohorts are needed to quantify variability, define drug-disease-drug 
+interactions and glycemic risk, and inform individualized dosing strategies.
+
+DOI: 10.3390/pharmaceutics18010081
+PMCID: PMC12845205
+PMID: 41599188
+
+Conflict of interest statement: The authors declare no conflicts of interest. 
+The funders had no role in the design of the study; in the collection, analyses, 
+or interpretation of data; in the writing of the manuscript; or in the decision 
+to publish the results.

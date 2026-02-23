@@ -37,7 +37,7 @@ with st.sidebar:
         if st.button("Clear History"):
             st.session_state.chat_history = []
 
-tab1, tab2 = st.tabs(["💊 Drug Lookup", "🔍 Symptom Checker"])
+tab1, tab2, tab3 = st.tabs(["💊 Drug Lookup", "🔍 Symptom Checker", "⚠️ Drug Interactions"])
 
 with tab1:
     st.markdown("### Drug Lookup")
@@ -101,6 +101,36 @@ with tab2:
         
         st.markdown("### Possible Conditions and Treatments")
         st.info(response)
+        
+        st.markdown("### Sources")
+        for r in chunks[:3]:
+            with st.expander(f"📄 {r[1].title()} | {r[2].replace('_',' ').title()} | Similarity: {r[4]:.3f}"):
+                st.write(r[3])
+            
+            
+with tab3:
+    st.markdown("### Drug Interaction Checker")
+    st.write("Enter two drugs to check for potential interactions.")
+    
+    col1, col2 = st.columns(2)
+    with col1:
+        drug1 = st.text_input("First drug:", placeholder="e.g. ibuprofen")
+    with col2:
+        drug2 = st.text_input("Second drug:", placeholder="e.g. lisinopril")
+    
+    if st.button("⚠️ Check Interaction", use_container_width=True) and drug1 and drug2:
+        query = f"drug interaction between {drug1} and {drug2} warnings risks"
+        with st.spinner(f"Checking interaction between {drug1} and {drug2}..."):
+            chunks = retrieve(query, top_k=10)
+            response = generate_response(query, chunks)
+        
+        st.session_state.chat_history.append({
+            "question": query,
+            "answer": response
+        })
+        
+        st.markdown(f"### {drug1.title()} + {drug2.title()} Interaction")
+        st.warning(response)
         
         st.markdown("### Sources")
         for r in chunks[:3]:

@@ -15,7 +15,12 @@ CONDITION_LIST = [
     "anxiety symptoms treatment",
     "gastroesophageal reflux symptoms treatment",
     "strep throat symptoms treatment",
-    "pneumonia symptoms treatment"
+    "pneumonia symptoms treatment",
+    "ibuprofen lisinopril drug interaction",
+    "NSAID ACE inhibitor interaction",
+    "ibuprofen warfarin interaction",
+    "metformin drug interactions",
+    "antibiotic drug interactions"
 ]
 
 def search_pubmed(query,max_results = 10):

@@ -1,0 +1,550 @@
+1. BMC Microbiol. 2026 Feb 21. doi: 10.1186/s12866-026-04710-8. Online ahead of 
+print.
+
+A target-guided drug repurposing strategy for antibacterial discovery.
+
+Zhang D(#)(1)(2), Li H(#)(1), Ye A(2), Lian X(2), Cui H(2), Cheng Z(3), Guo 
+FB(4)(5).
+
+Author information:
+(1)Department of Respiratory and Critical Care Medicine, Zhongnan Hospital of 
+Wuhan University, School of Pharmaceutical Sciences, Wuhan University, 185 
+Donghu Road, Wuchang District, Wuhan, 430071, China.
+(2)Key Laboratory of Combinatorial Biosynthesis and Drug Discovery, Ministry of 
+Education, Wuhan University, 185 Donghu Road, Wuchang District, Wuhan, 430071, 
+China.
+(3)Department of Respiratory and Critical Care Medicine, Zhongnan Hospital of 
+Wuhan University, Wuhan University, 169 Donghu Road, Wuchang District, Wuhan, 
+430071, China. zhenshun_cheng@126.com.
+(4)Department of Respiratory and Critical Care Medicine, Zhongnan Hospital of 
+Wuhan University, School of Pharmaceutical Sciences, Wuhan University, 185 
+Donghu Road, Wuchang District, Wuhan, 430071, China. fbguoy@whu.edu.cn.
+(5)Key Laboratory of Combinatorial Biosynthesis and Drug Discovery, Ministry of 
+Education, Wuhan University, 185 Donghu Road, Wuchang District, Wuhan, 430071, 
+China. fbguoy@whu.edu.cn.
+(#)Contributed equally
+
+BACKGROUND: The scarcity of effective antibiotics against drug-resistant 
+pathogens has intensified the need for alternative antibacterial development 
+strategies. Drug repurposing (DR) offers a practical solution; herein, we 
+present detailed experimental workflows and in vitro results to validate the 
+feasibility of a DR-based strategy for new antibacterial development.
+METHODS: Using Vina-GPU, we performed molecular docking between 125 highly 
+conserved bacterial essential proteins and 2,027 approved non-antibacterials 
+drugs to predict drug-target interactions. As preliminary screening, 14 
+candidate drugs were tested for inhibitory activity against six bacterial 
+strains (Escherichia coli MC4100, Pseudomonas aeruginosa PAO1, Acinetobacter 
+baumannii ATCC 19606, Salmonella enterica Typhi CMCC 50071, Salmonella enterica 
+Typhimurium ATCC 14028, and Klebsiella oxytoca ATCC 13182) at 100 μg/ml. 
+Subsequently, lower-concentration assays (combined with Polymyxin B nonapeptide, 
+PMBN) were conducted for preliminarily active drugs. The FLUOStar Omega was used 
+to measure bacterial suspension optical density (OD₆₀₀) and calculate drug 
+inhibition rates. Surface plasmon resonance (SPR), MD simulation, and folate 
+rescue experiments were used to further validate the mechanism of the drug.
+RESULTS: Among the 2,027 non-antibacterials drugs, several exhibited 
+antibacterial activities. Additionally, 173 existing antibacterials were 
+clustered into two groups based on their binding affinity similarity to the 125 
+essential proteins, with the two groups showing distinct antibacterial 
+activities. Notably, multiple repurposed drugs inhibited the growth of multiple 
+bacterial species.
+CONCLUSION: Our study revealed that the combination of 8 μg/ml lifitegrast and 
+PMBN can effectively inhibit six gram-negative bacteria. Folate rescue 
+experiments showed that the preliminary antibacterial mechanism of lifitegrast 
+is to inhibit the function of FolA. In addition, future research should explore 
+the structure-activity relationship of lifitegrast and its impact on 
+antibacterial activity.
+
+© 2026. The Author(s).
+
+DOI: 10.1186/s12866-026-04710-8
+PMID: 41723341
+
+Conflict of interest statement: Declarations. Ethics approval and consent to 
+participate: Not applicable. Consent for publication: Not applicable. Competing 
+interests: The authors declare no competing interests.
+
+
+2. Curr Microbiol. 2026 Feb 20;83(4):199. doi: 10.1007/s00284-026-04776-7.
+
+Biosynthesis of Zinc Oxide Nanoparticles from Musa paradisiaca Peel: 
+Characterization and Antibiotic Synergy against Multidrug-Resistant Bacteria.
+
+Afzal F(1), Raza M(1), Qaisar M(2), Rehman A(2), Shen B(3), Ding S(4).
+
+Author information:
+(1)Key Laboratory of Clinical Laboratory Diagnostics (Ministry of Education), 
+College of Laboratory Medicine, Chongqing Medical University, Chongqing, 400016, 
+PR China.
+(2)Department Microbiology, Kohat University of Science and Technology, Kohat, 
+26000, Khyber Pakhtunkhwa, Pakistan.
+(3)Department of Clinical Laboratory, Chongqing Hospital of Traditional Chinese 
+Medicine, Chongqing, 400021, PR China.
+(4)Key Laboratory of Clinical Laboratory Diagnostics (Ministry of Education), 
+College of Laboratory Medicine, Chongqing Medical University, Chongqing, 400016, 
+PR China. dingshijia@163.com.
+
+This study reports a green synthesis of zinc oxide nanoparticles (ZnONPs) using 
+Musa paradisiaca peel extract and evaluates their ability to enhance the 
+activity of commercially available antibiotics against multidrug-resistant (MDR) 
+Escherichia coli and Klebsiella pneumoniae. ZnONPs were prepared by mixing 30 mL 
+of peel extract with 30 mL of 1 mM ZnSO4·7H2O, with the pH adjusted to 10, 
+followed by centrifugation at 3000 rpm for 5 min, washing, and drying in the 
+dark at 25 °C to obtain ZnONP powder. The synthesized ZnONPs were characterized 
+using UV-Vis spectroscopy, scanning electron microscopy-energy dispersive 
+analysis of X-rays (SEM-EDAX), Fourier transform infrared spectroscopy (FTIR), 
+and X-ray diffraction (XRD). A characteristic UV-Vis absorption peak at 450 nm 
+confirmed ZnONP formation, while XRD indicated a crystalline structure with an 
+average crystallite size of 32 nm. SEM revealed irregular, monodisperse 
+particles, and EDAX confirmed Zn as the dominant element along with signals 
+attributable to organic and mineral components from the peel extract. FTIR 
+suggested that phenolic, hydroxyl, and carboxyl functional groups in the extract 
+likely contributed to nanoparticle reduction and capping. In antibacterial 
+assays, ZnONPs alone produced inhibition zones of 17 ± 1.54 mm against E. coli 
+and 26 ± 1.73 mm against K. pneumoniae. ZnONPs significantly enhanced antibiotic 
+activity compared with non-coated discs (p = 0.01), increasing inhibition by 
+42.5-55.7% against E. coli and 42.9-52.7% against K. pneumoniae. These findings 
+support the potential of banana peel-derived ZnONPs as low-cost synergistic 
+enhancers of existing antibiotics against MDR pathogens.
+
+© 2026. The Author(s), under exclusive licence to Springer Science+Business 
+Media, LLC, part of Springer Nature.
+
+DOI: 10.1007/s00284-026-04776-7
+PMID: 41721065 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Conflict of interest: The authors 
+declare that they have no conflict of interest regarding this publication.
+
+
+3. PLoS One. 2026 Feb 19;21(2):e0342905. doi: 10.1371/journal.pone.0342905. 
+eCollection 2026.
+
+Synergistic effects of antibiotics and fucoidan on dual-species Staphylococcus 
+aureus and Acinetobacter baumannii biofilm in diabetic rat wound models.
+
+Nazari M(1), Taheri M(1), Nouri F(2), Bahmanzadeh M(3)(4), Alikhani MY(5).
+
+Author information:
+(1)Department of Microbiology, School of Medicine, Hamadan University of Medical 
+Sciences, Hamadan, Iran.
+(2)Department of Pharmaceutical Biotechnology, School of Pharmacy, Hamadan 
+University of Medical Sciences, Hamadan, Iran.
+(3)Department of Anatomical Sciences, School of Medicine, Hamadan University of 
+Medical Sciences, Hamadan, Iran.
+(4)Fertility and Infertility Research Center, Avicenna Institute of Clinical 
+Sciences, Hamadan University of Medical Sciences, Hamadan, Iran.
+(5)Infectious Disease Research Center, Avicenna Institute of Clinical Sciences, 
+Hamadan University of Medical Sciences, Hamadan, Iran.
+
+BACKGROUND: Chronic diabetic wounds are often complicated by biofilm-forming, 
+antibiotic-resistant pathogens such as Staphylococcus aureus and Acinetobacter 
+baumannii, which delay healing. This study evaluated the synergistic effects of 
+gentamicin and imipenem in combination with fucoidan, a sulfated polysaccharide 
+from brown seaweed, against dual-species biofilms in a diabetic rat wound model.
+METHODS: Methicillin-resistant S. aureus (MRSA) strain 6 and A. baumannii strain 
+1, isolated from diabetic foot ulcers, were used to establish dual-species 
+biofilms in vitro and in vivo. Excisional wounds were created in male Wistar 
+rats with streptozocin-induced type II diabetes and infected with the biofilms. 
+Rats received daily treatments of gentamicin, imipenem, their combination, or 
+the triple combination with fucoidan. Outcomes assessed included bacterial load 
+(CFU/g), biofilm formation, expression of biofilm-related genes (icaA and bap by 
+real-time PCR), wound size, and histological healing parameters.
+RESULTS: The triple therapy demonstrated the strongest antibacterial effect, 
+reducing bacterial load by more than 4 log₁₀ CFU/g compared to controls 
+(p < 0.005). Real-time PCR revealed significant downregulation of icaA in S. 
+aureus (threefold decrease) and bap in A. baumannii (fourfold decrease) relative 
+to antibiotic-only groups (p < 0.005). Histology showed accelerated wound 
+contraction and complete re-epithelialization by day 14 with the triple 
+combination, whereas monotherapy or dual antibiotics led to delayed healing and 
+persistent inflammation.
+CONCLUSIONS: Fucoidan enhances the efficacy of gentamicin and imipenem against 
+biofilm-associated infections and promotes diabetic wound healing. This 
+combinatorial approach offers a promising strategy for managing chronic, 
+biofilm-infected wounds and combating antibiotic resistance.
+
+Copyright: © 2026 Nazari et al. This is an open access article distributed under 
+the terms of the Creative Commons Attribution License, which permits 
+unrestricted use, distribution, and reproduction in any medium, provided the 
+original author and source are credited.
+
+DOI: 10.1371/journal.pone.0342905
+PMCID: PMC12919824
+PMID: 41712590 [Indexed for MEDLINE]
+
+Conflict of interest statement: NO authors have competing interests.
+
+
+4. ACS Pharmacol Transl Sci. 2025 Dec 13;9(2):236-251. doi: 
+10.1021/acsptsci.5c00518. eCollection 2026 Feb 13.
+
+Navigating the Landscape of Antibiotic Safety: Traditional Approaches and 
+Emerging Strategies to Overcome Host Ribonucleic Acid (RNA) Off-Target Toxicity.
+
+Jamal T(1)(2), Singh R(1), Bajpai M(1), Arif A(1), Parthasarathi R(1)(2).
+
+Author information:
+(1)Computational Toxicology Group, Regulatory, GLP Compliant Studies, and 
+Computational Toxicology (REACT), CSIR-Indian Institute of Toxicology Research, 
+Vishvigyan Bhavan, 31, Mahatma Gandhi Marg, Lucknow 226001 Uttar Pradesh, India.
+(2)Academy of Scientific and Innovative Research (AcSIR), Ghaziabad 201002 Uttar 
+Pradesh, India.
+
+Antibiotics inhibit bacterial reproduction by blocking cell wall synthesis, 
+protein synthesis, and nucleic acid synthesis as well as altering the cell 
+membrane. Bacteria live in hosts like normal flora. However, they can become 
+pathogenic depending on the pathogen's resistance and the host's susceptibility. 
+A significant gap exists in understanding the off-target toxicity of 
+antibiotics, particularly their unintended interactions with the host nucleic 
+acid machinery. Addressing this is essential for an effective treatment. This 
+review highlights evidence of antibiotics that off-target host RNA, a 
+less-explored but clinically significant phenomenon. The limitations of 
+conventional design within the 3Rs principle are also explored. Evidence from 
+the literature suggests exploiting natural compounds for antibiotics due to 
+their low off-target toxicity. The clinical utility and role of computational 
+tools in speeding up the identification of natural analogues to existing 
+antibiotics are highlighted. The article proposes leveraging natural compounds 
+to mitigate off-target toxicity and to intervene in drug-induced toxicity. 
+Additionally, this emphasizes the importance of interdisciplinary computational 
+methods for identifying analogues. Structural and functional features are 
+prioritized in high-throughput screening to reduce off-target effects, offering 
+a promising approach to drug development.
+
+© 2025 American Chemical Society.
+
+DOI: 10.1021/acsptsci.5c00518
+PMCID: PMC12910496
+PMID: 41710749
+
+
+5. PLoS One. 2026 Feb 18;21(2):e0342559. doi: 10.1371/journal.pone.0342559. 
+eCollection 2026.
+
+Repurposing antiviral agents against mucormycosis.
+
+Khan AA(1)(2), AlKashef NM(1)(2), Seleem MN(1)(2).
+
+Author information:
+(1)Department of Biomedical Sciences and Pathobiology, Virginia-Maryland College 
+of Veterinary Medicine, Virginia Polytechnic Institute and State University, 
+Blacksburg, Virginia, United States of America.
+(2)Center for One Health Research, Virginia Polytechnic Institute and State 
+University, Blacksburg, Virginia, United States of America.
+
+Mucormycosis is a life-threatening fungal infection with limited treatment 
+options and high mortality rates among immunocompromised individuals. To 
+identify new therapeutic strategies, we screened a library of 618 antiviral 
+compounds against Rhizopus delemar both alone and in combination with 
+amphotericin B (AmB) to search for agents with intrinsic antifungal activity or 
+the ability to enhance AmB's efficacy. Four candidates, IMB-301, U18666A, BLT-1, 
+and obefazimod, showed potent in vitro effects, with three sustaining growth 
+suppression comparable to AmB for up to 48 h in time-kill assays. The hepatitis 
+C antivirals daclatasvir (DAC) and velpatasvir (VEL) demonstrated strong synergy 
+with AmB across Mucorales isolates, lowering AmB MICs by 4- to 32-fold 
+(ΣFICI < 0.5) and achieving fungistatic suppression of R. delemar at 
+subinhibitory AmB concentrations (0.25 µg/mL). Importantly, neither the 
+standalone antivirals nor their combinations with AmB reduced Vero cell 
+viability at concentrations exceeding 4-16 × their MICs, while selectivity 
+indices ranging from 8 to >32 indicated favorable safety margins. These findings 
+highlight antiviral repurposing as a promising strategy to expand treatment 
+options for mucormycosis and support further translational development.
+
+Copyright: © 2026 Khan et al. This is an open access article distributed under 
+the terms of the Creative Commons Attribution License, which permits 
+unrestricted use, distribution, and reproduction in any medium, provided the 
+original author and source are credited.
+
+DOI: 10.1371/journal.pone.0342559
+PMCID: PMC12915971
+PMID: 41706727 [Indexed for MEDLINE]
+
+Conflict of interest statement: None.
+
+
+6. Front Cell Infect Microbiol. 2026 Feb 2;15:1733096. doi: 
+10.3389/fcimb.2025.1733096. eCollection 2025.
+
+Computational identification of natural inhibitors targeting GroEL in Leptospira 
+interrogans: an integrative virtual screening and molecular dynamics approach.
+
+Sethi G(1), Sahoo S(2), Han SC(1), Shin D(2), Hwang JH(3).
+
+Author information:
+(1)Center for Large Animals Convergence Research, Korea Institute of Toxicology, 
+Jeongeup-si, Jeollabuk-do, Republic of Korea.
+(2)Department of Agricultural Convergence Technology, Jeonbuk National 
+University, Jeonju, Republic of Korea.
+(3)Division of Advanced Predictive Research, Center for Bio-Signal Research, 
+Korea Institute of Toxicology, Daejeon, Republic of Korea.
+
+INTRODUCTION: Leptospirosis is a zoonotic disease caused by Leptospira 
+interrogans and represents a major public health and veterinary concern. The 
+persistence of the pathogen is closely associated with biofilm formation, yet 
+targeted therapeutics are currently unavailable. The GroEL chaperonin, a 
+conserved protein involved in biofilm formation and immunogenicity, was 
+investigated as a potential therapeutic target.
+METHODS: A structure-based virtual screening approach was performed using a 
+library of 543,503 natural compounds from the Life Chemicals database. 
+Top-ranked ligands were evaluated using molecular docking and physicochemical 
+and pharmacokinetic property analyses. Density functional theory calculations 
+were performed to assess electronic stability, followed by molecular dynamics 
+simulations to evaluate ligand-protein complex stability. Principal component 
+analysis and MM-PBSA binding free energy calculations were subsequently applied 
+to characterize conformational dynamics and binding affinity.
+RESULTS: Five compounds (F3385-2019, F1243-0200, F3139-0927, F2801-0179, and 
+F1864-0208) exhibited strong binding affinities toward GroEL, with docking 
+energies ranging from -10.34 to -8.26 kcal/mol. All shortlisted compounds 
+complied with Lipinski's Rule of Five and demonstrated favorable pharmacokinetic 
+properties. Molecular dynamics simulations and MM-PBSA analyses indicated stable 
+ligand-protein interactions. Among the candidates, F1864-0208 and F1243-0200 
+emerged as the most stable and promising leads, whereas the remaining compounds 
+showed moderate inhibition.
+DISCUSSION: This study provides computational evidence supporting GroEL as a 
+viable drug target in L. interrogans. The identified natural compounds may 
+represent promising scaffolds for the development of novel anti-leptospiral 
+agents. Further in vitro and in vivo studies are required to validate their 
+therapeutic efficacy and safety.
+
+Copyright © 2026 Sethi, Sahoo, Han, Shin and Hwang.
+
+DOI: 10.3389/fcimb.2025.1733096
+PMCID: PMC12907346
+PMID: 41704643 [Indexed for MEDLINE]
+
+Conflict of interest statement: The author(s) declared that this work was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+7. APMIS. 2026 Feb;134(2):e70164. doi: 10.1111/apm.70164.
+
+Allicin Targets Carbapenemase and Efflux Pump Activity in Klebsiella pneumoniae 
+to Mitigate Meropenem Resistance.
+
+Liu L(1), Lin F(2), Wu J(1), Long S(1), Lv J(1).
+
+Author information:
+(1)Department of Hepatology and Infectious Diseases, Lishui Hospital of Wenzhou 
+Medical University, the First Affiliated Hospital of Lishui University, Lishui 
+People's Hospital, Lishui, China.
+(2)Department of Laboratory Medicine, Lishui Hospital of Wenzhou Medical 
+University, the First Affiliated Hospital of Lishui University, Lishui People's 
+Hospital, Lishui, China.
+
+Antimicrobial resistance in Klebsiella pneumoniae (KP) has become a major global 
+public health threat. Allicin, a natural antimicrobial agent, has demonstrated 
+antibacterial activity against KP, but its effect on drug resistance remains 
+unclear. To investigate whether allicin can weaken KP's resistance to meropenem 
+(MEM) and reveal its synergistic mechanism, this study treated KP strains with 
+gradient concentrations of MEM. Resistant strains were identified using the 
+broth microdilution method and viable bacterial counting. Checkerboard assay, 
+time-kill kinetics and isobologram analyses were used to analyse the 
+antibacterial effect of different concentrations of allicin and MEM combined 
+treatment. Molecular docking and cellular thermal shift assay (CETSA) were 
+employed to evaluate the binding of allicin to carbapenemase and efflux 
+pump-related proteins. A mouse model of KP pneumonia was established to 
+investigate the therapeutic effect of allicin combined with MEM. Compared with 
+MEM monotherapy, allicin + MEM acted synergistically, lowering the effective MEM 
+dose by targeting carbapenemase and efflux pumps and mitigating KP-induced 
+pneumonia. This study suggests that the combination of allicin and MEM may be a 
+potential method for reducing bacterial resistance and exerting antibacterial 
+efficacy.
+
+© 2026 APMIS ‐ Journal of Pathology, Microbiology and Immunology.
+
+DOI: 10.1111/apm.70164
+PMID: 41703979 [Indexed for MEDLINE]
+
+
+8. Tissue Cell. 2026 Feb 9;100:103382. doi: 10.1016/j.tice.2026.103382. Online 
+ahead of print.
+
+Taurine protects against gentamicin-induced neurotoxicity through dual 
+modulation of Nrf2 and NF-κB pathways.
+
+Farage AE(1), Taha M(2), Khattab BA(3), Al-Hazmi NE(4), Mohamed AEA(5), Mona 
+MM(6), Abd-Elsalam MM(7), Elsukary AE(8), Sarhan MAFE(9), Abdelmonsef AS(10), 
+Baokbah TAS(11), El-Shenbaby I(12), Eldesoky RT(13), Hussin E(14).
+
+Author information:
+(1)Department of Anatomy and Embryology, Faculty of Medicine, Kafrelsheikh 
+University, Kafr Elsheikh 33511, Egypt. Electronic address: 
+amira.farag2015@med.kfs.edu.eg.
+(2)Department of Anatomy, Al, Qunfudah Medical College, Umm Al-Qura University, 
+Al-Qunfudhah, Saudi Arabia; Department of Anatomy and Embryology, Faculty of 
+Medicine, Mansoura University, Egypt. Electronic address: mftaha@uqu.edu.sa.
+(3)Department of Anatomy and Embryology, Faculty of Medicine, Mansoura 
+University, Egypt. Electronic address: Dr_basmakhattab99@mans.edu.eg.
+(4)Department of Chemistry, Division of Biology (Microbiology), University 
+College of Qunfudah, Umm Al-Qura University, Saudi Arabia. Electronic address: 
+nehazmi@uqu.edu.sa.
+(5)Department of Pharmacology, Faculty of Medicine, Al-Azhar University, 
+Damietta, Egypt. Electronic address: Alaa.eisa.pharma@domazhermedicine.edu.eg.
+(6)Associate professor of medical Biochemistry and Molecular Biology faculty of 
+medicine Kafrelsheikh university, Egypt. Electronic address: 
+marwa_mana@med.kfs.edu.eg.
+(7)Histology & Cell Biology Department, Faculty of Medicine, Kafr Elsheikh 
+University, Egypt. Electronic address: marwa_abdelbaky2014@med.kfs.edu.eg.
+(8)Lecturer of forensic medicine and clinical toxicology, Faculty of medicine, 
+Mansoura university, Egypt. Electronic address: ahmed.elsukary@mans.edu.eg.
+(9)Biochemistry department, faculty of medicine, Mansoura university, Egypt; 
+Institute of Pathology, Julius-Maximilians-University of Würzburg, Würzburg, 
+Germany. Electronic address: mohamed.sarhan@uni-wuerzburg.de.
+(10)Department of Anatomy and Physiology, College of Medicine, Imam Mohammad Ibn 
+Saud Islamic University (IMSIU), Riyadh, Saudi Arabia. Electronic address: 
+Aabdalmaksoud@imamu.edu.sa.
+(11)Department of Medical Emergency Services, College of Health 
+Sciences-AlQunfudah, Umm Al-Qura University, Saudi Arabia. Electronic address: 
+tabaokbah@uqu.edu.sa.
+(12)Clinical Pharmacology Department, Faculty of Medicine, Mansoura University, 
+Egypt. Electronic address: shenbaby@mans.edu.eg.
+(13)Anatomic Pathology Department, Faculty of Medicine, Mansoura University, 
+Mansoura, Egypt. Electronic address: dr_rehabtalaat@mans.edu.eg.
+(14)Department of Anatomy and Embryology, Faculty of Medicine, Mansoura 
+University, Egypt. Electronic address: emaadeldeenhamed@mans.edu.eg.
+
+Gentamicin (GM), an aminoglycoside antibiotic, is associated with neurotoxic 
+effects that result in cognitive and behavioral impairments. Taurine, a 
+sulfur-containing amino acid, has demonstrated neuroprotective properties. This 
+study investigates the potential of taurine to mitigate GM-induced neurotoxicity 
+in Sprague Dawley rats. Thirty-two male rats were randomly assigned to four 
+groups: control, taurine (100 mg/kg/day orally for 15 days), GM (120 mg/kg/day 
+intraperitoneally for 15 days), and taurine + GM (co-administered at the 
+aforementioned doses and routes). Behavioral assessments (open field and Y-maze 
+tests) were conducted to evaluate locomotor activity, anxiety, and memory. 
+Hippocampal tissue was analyzed using histopathology, immunohistochemistry, and 
+biochemical assays. Quantitative analyses via ELISA, RT-qPCR, and 
+immunohistochemical scoring confirmed that GM administration induced 
+anxiety-like behaviors, hippocampal degeneration, oxidative stress (elevated 
+MDA, reduced SOD/CAT), neuroinflammation (elevated NF-ĸB, TNF-α, IL-1β, IL-6), 
+and increased neuronal apoptosis (raised caspase-3, Bax; reduced Bcl-2). Taurine 
+co-treatment effectively reversed these effects, improving behavioral outcomes, 
+preserving neuronal structure, significantly restoring antioxidant enzyme 
+activity and the Nrf2/HO-1 pathway, suppressing NF-ĸB-mediated inflammation, and 
+modulating apoptotic pathways. These findings indicate that taurine provides 
+substantial neuroprotection against GM-induced toxicity by enhancing antioxidant 
+capacity, reducing neuroinflammation, and inhibiting neuronal apoptosis. Future 
+research should explore taurine's dose-response effects, long-term 
+neurobehavioral outcomes, and its molecular interactions with key targets like 
+NF-κB and Nrf2.
+
+Copyright © 2026 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.tice.2026.103382
+PMID: 41702182
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare no conflict of interest.
+
+
+9. Virulence. 2026 Dec;17(1):2629100. doi: 10.1080/21505594.2026.2629100. Epub
+2026  Feb 17.
+
+The cyclin dependent kinase (CDK)7 inhibitor BS-181 inhibits pathogenic 
+Cryptococcus species, causing G(2)/M arrest and a splicing defect.
+
+Sethiya P(1)(2), Desmarini D(1)(2), Bowring B(1)(2), Dinh H(3), Cain AK(3), 
+Parsania C(4)(5)(6), Halliday CL(2)(7), Chen SC(2)(7)(8), Hewitt K(9), 
+Djordjevic JT(1)(2)(8).
+
+Author information:
+(1)Centre for Infectious Diseases and Microbiology, Westmead Institute for 
+Medical Research, Westmead, NSW , Australia.
+(2)Sydney Institute for Infectious Diseases, Faculty of Medicine and Health, 
+University of Sydney, Camperdown, NSW , Australia.
+(3)ARC Centre of Excellence in Synthetic Biology, School of Natural Sciences, 
+Macquarie University, North Ryde, NSW, Australia.
+(4)Cancer & Gene Regulation Laboratory Centenary Institute, The University of 
+Sydney, Camperdown, NSW, Australia.
+(5)Centre for Rare Diseases & Gene Therapy Centenary Institute, The University 
+of Sydney, Camperdown, NSW, Australia.
+(6)School of Medical Sciences, Faculty of Medicine & Health, The University of 
+Sydney, Camperdown, NSW, Australia.
+(7)Centre for Infectious Diseases and Microbiology Laboratory Services, 
+Institute for Clinical Pathology and Medical Research, New South Wales Health 
+Pathology, Westmead Hospital, Westmead, NSW.
+(8)Department of Infectious Diseases, Westmead Hospital, Westmead, NSW, 
+Australia.
+(9)Westmead Bioresources Facility and Scientific Platforms, Westmead Institute 
+for Medical Research, Westmead, NSW, Australia.
+
+The fungal priority pathogen and basidiomycete, Cryptococcus neoformans (Cn), 
+causes lung and brain infection in predominantly immuno-compromised individuals 
+and there is an urgent need for new treatment options. The 
+pyrazolopyrimidine-based cyclin dependent kinase (CDK)7 inhibitor, BS-181, has 
+anticancer properties, but its antifungal activity has not been investigated. We 
+show that cryptococcal CDK7 more closely resembles the human enzyme than that of 
+ascomycetes, and that BS-181 inhibits its activity. BS-181 inhibited growth of 
+both Cn and Cryptococcus gattii (Cg), but not ascomycete fungi and delayed 
+progression through the G2/M phase of the cell cycle. Transcriptomic analysis 
+revealed that BS-181 induces splicing defects leading to elevated intron 
+retention within the transcriptome and also suppresses translational processes. 
+BS-181 displayed additive or synergistic activity with licensed antifungals 
+against laboratory and clinical Cn and Cg strains, most notably with 
+amphotericin B where synergy (2-4-fold reduction in the amphotericin B MIC) was 
+achieved using low-sub micromolar concentrations of BS-181. Compared with either 
+drug alone, BS-181-AmB combination therapy provided greater protection against 
+Cn infection in a wax moth model (p ≤ 0.032) and extended survival of 
+Cn-infected mice. These findings demonstrate that CDK7 inhibitors, already of 
+interest as anticancer agents, could be repurposed to prevent or treat 
+opportunistic fungal infections in cancer patients when combined with licensed 
+antifungals limited by either toxicity or resistance.
+
+DOI: 10.1080/21505594.2026.2629100
+PMCID: PMC12915825
+PMID: 41701636 [Indexed for MEDLINE]
+
+Conflict of interest statement: No potential conflict of interest was reported 
+by the author(s).
+
+
+10. J Cardiovasc Pharmacol. 2026 Feb 17. doi: 10.1097/FJC.0000000000001805.
+Online  ahead of print.
+
+Role of the Gut Microbiome in Modulating Interactions Between β-Lactam 
+Antibiotics and Statins in Coronary Heart Disease.
+
+Wang G(1), Luo Y(1), Song S(1), Li X(1), Pan Y(2), Zhao Z(2), Wang B(1), Yang 
+Q(1), Yang F(2), Fang T(3).
+
+Author information:
+(1)Department of Pharmacy, The First People's Hospital of Kunming City & 
+Calmette Affiliated Hospital of Kunming Medical University, Kunming 650500, 
+Yunnan Province, China.
+(2)Department of Cardiology, The First People's Hospital of Kunming City & 
+Calmette Affiliated Hospital of Kunming Medical University, Kunming 650500, 
+Yunnan Province, China.
+(3)Department of Pharmacy, Fuwai Yunnan Hospital, Chinese Academy of Medical 
+Sciences/Affiliated Cardiovascular Hospital of Kunming Medical University, 
+Kunming, 650102, Yunnan Province, China.
+
+Clinical evidence suggests that the lipid-lowering efficacy of statins may be 
+diminished by concurrent β-lactam administration in patients with coronary heart 
+disease (CHD), yet the mechanisms driving this potential drug-drug interaction, 
+particularly the role of gut microbiota as a mediator, remain undefined. To 
+address this gap, we conducted a retrospective analysis of data from a tertiary 
+hospital spanning 5 years, enrolling 436 CHD patients on statin therapy who had 
+two hospital admissions within a 3-month window. Patients were stratified into 
+β-lactam-treated and antibiotic-free cohorts to assess the correlation between 
+β-lactam exposure and statin efficacy. Additionally, 16S ribosomal RNA gene 
+sequencing was employed to characterize and compare gut microbiota profiles 
+between CHD patients receiving combined rosuvastatin and β-lactam therapy versus 
+those on rosuvastatin monotherapy. Our findings demonstrated that β-lactam 
+exposure was associated with elevated low-density lipoprotein cholesterol and 
+total cholesterol levels. Both rosuvastatin and β-lactams induced significant 
+alterations in gut microbiota composition, with distinct shifts in bacterial 
+taxa abundances: rosuvastatin increased the relative abundance of 
+Faecalibacterium and Dysosmobacter, whereas β-lactams disrupted the abundance of 
+Faecalibacterium, Roseburia, and Dysosmobacter. Collectively, these results 
+indicate that concomitant β-lactam use impairs rosuvastatin efficacy in CHD 
+patients, likely via perturbation of gut microbiota composition. Rosuvastatin 
+may exert a portion of its cardioprotective effects through modulation of gut 
+microbiota, and β-lactams may abrogate this benefit by depleting key bacterial 
+taxa linked to statin-mediated lipid regulation. Notably, Dysosmobacter emerges 
+as a potential mediating species in this interaction, supporting a 
+microbiome-dependent mechanism underlying the reduced lipid-lowering efficacy of 
+rosuvastatin during β-lactam co-administration.
+
+Copyright © 2026 Wolters Kluwer Health, Inc. All rights reserved.
+
+DOI: 10.1097/FJC.0000000000001805
+PMID: 41701630

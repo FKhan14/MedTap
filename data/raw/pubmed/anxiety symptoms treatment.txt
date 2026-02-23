@@ -1,4 +1,43 @@
-1. J Neurol. 2026 Feb 22;273(2):159. doi: 10.1007/s00415-026-13693-5.
+1. Appl Neuropsychol Adult. 2026 Feb 22:1-8. doi: 10.1080/23279095.2026.2631801. 
+Online ahead of print.
+
+Neurocognitive and psychosocial burden in patients with end-stage renal disease: 
+A pilot study.
+
+Ben Haj Hassen H(1), Machfer A(1), Bouzid MA(1).
+
+Author information:
+(1)Research Laboratory: Education, Sport et Santé, EM2S, LR19JS01, High 
+Institute of Sport and Physical Education, University of Sfax, Sfax, Tunisia.
+
+This study aimed to evaluate cognitive function, psychological profile, and 
+quality of life in patients with end-stage renal disease (ESRD) undergoing 
+hemodialysis therapy. Twenty-six participants were enrolled: 13 ESRD patients 
+undergoing hemodialysis therapy and 13 age-matched healthy controls (CTR group) 
+(mean age: 35 ± 4.3 years). Cognitive performance was assessed using the 
+reaction time test, vigilance test, Stroop test, verbal fluency test, and Rey 
+Auditory Verbal Learning Test (RAVLT). Psychological status was measured using 
+the Depression, Anxiety, and Stress Scales (DASS-21), while quality of life was 
+evaluated with the SF-36 questionnaire. ESRD patients showed significantly 
+poorer performance than CTR on the vigilance test (p < 0.01), verbal fluency 
+(p < 0.018), and Stroop test (p < 0.012). RAVLT scores (total recall, delayed 
+recall, and recognition) were also significantly lower in the ESRD group (all 
+p < 0.05). DASS-21 results indicated high prevalence of severe psychological 
+symptoms: 51.8% reported severe stress, 56.7% severe depression, and 90.8% 
+severe to extremely severe anxiety. Regarding quality of life, ESRD group scored 
+significantly lower on physical functioning, general health, pain, social 
+functioning, and role limitations due to physical or emotional problems (all 
+p < 0.01). Energy-fatigue scores were also reduced (p < 0.001). No significant 
+difference was found in emotional well-being between groups.In conclusion, 
+patients with ESRD experience marked impairments in cognitive performance, 
+psychological well-being, and quality of life, highlighting the need for 
+integrated medical and psychological care.
+
+DOI: 10.1080/23279095.2026.2631801
+PMID: 41723853
+
+
+2. J Neurol. 2026 Feb 22;273(2):159. doi: 10.1007/s00415-026-13693-5.
 
 Evaluation of a multidisciplinary neurological rehabilitation program for the 
 post-COVID-19 condition.
@@ -63,7 +102,7 @@ participate: Informed consent was obtained from all individual participants
 included in the study.
 
 
-2. Inquiry. 2026 Jan-Dec;63:469580261422596. doi: 10.1177/00469580261422596. Epub
+3. Inquiry. 2026 Jan-Dec;63:469580261422596. doi: 10.1177/00469580261422596. Epub
  2026 Feb 21.
 
 Cancer-Related Fatigue, Psychological Symptoms, and Sleep Quality and 
@@ -105,7 +144,7 @@ declared no potential conflicts of interest with respect to the research,
 authorship, and/or publication of this article.
 
 
-3. Complement Ther Med. 2026 Feb 19:103328. doi: 10.1016/j.ctim.2026.103328.
+4. Complement Ther Med. 2026 Feb 19:103328. doi: 10.1016/j.ctim.2026.103328.
 Online  ahead of print.
 
 The anxiolytic effects of exercise: a systematic review and meta-analysis of 
@@ -173,7 +212,7 @@ declare no conflicts of interest. Conflicts of interest The authors declare no
 conflicts of interest.
 
 
-4. J Psychiatr Res. 2026 Feb 17;196:314-327. doi:
+5. J Psychiatr Res. 2026 Feb 17;196:314-327. doi:
 10.1016/j.jpsychires.2026.02.015.  Online ahead of print.
 
 The role of IDO1-mediated Tryptophan/Kynurenine metabolism and its association 
@@ -226,7 +265,7 @@ Conflict of interest statement: Declaration of competing interest All the
 authors declare that they have no conflict of interest.
 
 
-5. Eur J Surg Oncol. 2026 Feb 18;52(4):111481. doi: 10.1016/j.ejso.2026.111481. 
+6. Eur J Surg Oncol. 2026 Feb 18;52(4):111481. doi: 10.1016/j.ejso.2026.111481. 
 Online ahead of print.
 
 Patient reported outcomes after treatment for colon cancer - A nationwide study.
@@ -291,7 +330,7 @@ have no relevant financial or non-financial interests that could have appeared
 to influence the work reported in this paper.
 
 
-6. Ann Am Thorac Soc. 2026 Feb 21:aaoag015. doi: 10.1093/annalsats/aaoag015.
+7. Ann Am Thorac Soc. 2026 Feb 21:aaoag015. doi: 10.1093/annalsats/aaoag015.
 Online  ahead of print.
 
 Tele-delivered psychotherapeutic intervention for family members of patients in 
@@ -365,7 +404,7 @@ DOI: 10.1093/annalsats/aaoag015
 PMID: 41721750
 
 
-7. Diabet Med. 2026 Feb 20:e70271. doi: 10.1111/dme.70271. Online ahead of print.
+8. Diabet Med. 2026 Feb 20:e70271. doi: 10.1111/dme.70271. Online ahead of print.
 
 How effective are CBT and CBT-based interventions in Type 1 and Type 2 diabetes? 
 An umbrella review.
@@ -408,7 +447,7 @@ DOI: 10.1111/dme.70271
 PMID: 41721493
 
 
-8. Neuropsychopharmacology. 2026 Feb 20. doi: 10.1038/s41386-026-02365-7. Online 
+9. Neuropsychopharmacology. 2026 Feb 20. doi: 10.1038/s41386-026-02365-7. Online 
 ahead of print.
 
 Task-guided accelerated cTBS simultaneously treats depression and social 
@@ -491,7 +530,7 @@ consideration for publication elsewhere. All the listed authors have reviewed
 and approved the content.
 
 
-9. J Natl Med Assoc. 2026 Feb 19:S0027-9684(26)00023-4. doi: 
+10. J Natl Med Assoc. 2026 Feb 19:S0027-9684(26)00023-4. doi: 
 10.1016/j.jnma.2026.01.013. Online ahead of print.
 
 Prevalence of psychiatric disorders in foster care adolescent populations.
@@ -545,70 +584,3 @@ rights reserved.
 
 DOI: 10.1016/j.jnma.2026.01.013
 PMID: 41720711
-
-
-10. J Psychosom Res. 2026 Feb 16;204:112588. doi:
-10.1016/j.jpsychores.2026.112588.  Online ahead of print.
-
-Cancer as loss of control: The extent of perceived control and its relevance for 
-mental distress in cancer patients - A cross-sectional comparative study.
-
-Hirschmiller J(1), Schwinn T(2), Wiltink J(3), Zwerenz PDR(2), Franke GH(4), 
-Beutel ME(2), Brähler E(5), Ernst M(6).
-
-Author information:
-(1)Department of Psychosomatic Medicine and Psychotherapy, University Medical 
-Center of the Johannes Gutenberg-University Mainz, Mainz, Germany. Electronic 
-address: Judith.hirschmiller@unimedizin-mainz.de.
-(2)Department of Psychosomatic Medicine and Psychotherapy, University Medical 
-Center of the Johannes Gutenberg-University Mainz, Mainz, Germany.
-(3)Department of Psychosomatic Medicine and Psychotherapy, University Medical 
-Center of the Johannes Gutenberg-University Mainz, Mainz, Germany; University 
-Cancer Center Mainz (UCT), University Medical Center of the Johannes 
-Gutenberg-University Mainz, Mainz, Germany.
-(4)Psychology of Rehabilitation, University of Applied Sciences Magdeburg and 
-Stendal, Magdeburg, Germany.
-(5)Department of Psychosomatic Medicine and Psychotherapy, University Medical 
-Center of the Johannes Gutenberg-University Mainz, Mainz, Germany; Clinic and 
-Polyclinic for Psychosomatic Medicine and Psychotherapy, Rostock University 
-Medical Center, Rostock, Germany.
-(6)Department of Psychosomatic Medicine and Psychotherapy, University Medical 
-Center of the Johannes Gutenberg-University Mainz, Mainz, Germany; Department of 
-Clinical Psychology, Psychotherapy and Psychoanalysis, Institute of Psychology, 
-University of Klagenfurt, Klagenfurt am Wörthersee, Austria.
-
-OBJECTIVE: Cancer is often described as a loss of control. The somatic symptoms 
-and the strict treatment may limit an individual's ability to adapt 
-environmental factors (e.g., career goals, social life) to their own needs 
-(i.e., limited primary control). Facilitating one's individual values and needs 
-to the cancer-related circumstances (i.e., secondary control) thus may be 
-central in maintaining mental health. The current work aims to investigate the 
-roles of primary and secondary controls for mental health in individuals with 
-cancer and compare it to the general population.
-METHODS: The study included 618 cancer patients and 2513 individuals 
-representing the German population. Sociodemographic and disease-related 
-variables, primary and secondary control (PCSS-6), anxiety (GAD-2) and 
-depressive symptoms (PHQ-2), and suicidal ideation (single items of PHQ9/SCL-90) 
-were assessed. (Logistic) regression analyses were conducted to examine the 
-independent and interactive role of primary and secondary control on mental 
-health outcomes for the combined and the separate samples.
-RESULTS: Cancer patients reported elevated psychological burden and increased 
-secondary control. Primary and secondary control were independently associated 
-with all mental health outcomes in cancer patients and the general population. 
-Within cancer patients, primary controls' protective role was weaker for 
-suicidal ideation compared to the general population. Additionally, secondary 
-control reinforced the link between primary control and depressive symptoms, but 
-only in cancer patients.
-CONCLUSION: While both primary and secondary control serve as independent 
-protective factors for mental health, both control strategies may function 
-differently in the context of cancer regarding depressive symptoms and suicidal 
-ideation.
-
-Copyright © 2026 The Authors. Published by Elsevier Inc. All rights reserved.
-
-DOI: 10.1016/j.jpsychores.2026.112588
-PMID: 41719713
-
-Conflict of interest statement: Declaration of competing interest The authors 
-have no competing interest to report. The work is part of the first author's 
-dissertation.

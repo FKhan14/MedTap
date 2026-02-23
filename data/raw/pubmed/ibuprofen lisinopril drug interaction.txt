@@ -1,0 +1,262 @@
+1. Med Lett Drugs Ther. 2023 Jun 12;65(1678):89-96. doi: 10.58347/tml.2023.1678a.
+
+Drugs for migraine.
+
+[No authors listed]
+
+DOI: 10.58347/tml.2023.1678a
+PMID: 37266987 [Indexed for MEDLINE]
+
+
+2. Med Lett Drugs Ther. 2020 Oct 5;62(1608):153-160.
+
+Drugs for Migraine.
+
+[No authors listed]
+
+PMID: 33434187 [Indexed for MEDLINE]
+
+
+3. Neurologia (Engl Ed). 2020 Nov-Dec;35(9):628-632. doi: 
+10.1016/j.nrl.2020.07.007. Epub 2020 Jul 28.
+
+Standard headache and neuralgia treatments and SARS-CoV-2: opinion of the 
+Spanish Society of Neurology's Headache Study Group.
+
+Morollón N(1), Belvís R(2), De Dios A(3), Pagès N(3), González-Oria C(4), 
+Latorre G(5), Santos-Lasaosa S(6).
+
+Author information:
+(1)Unidad de Cefaleas y Neuralgias, Servicio de Neurología, Hospital de la Santa 
+Creu i Sant Pau, Barcelona, España. Electronic address: noemimorollon@gmail.com.
+(2)Unidad de Cefaleas y Neuralgias, Servicio de Neurología, Hospital de la Santa 
+Creu i Sant Pau, Barcelona, España.
+(3)Servicio de Farmacia Hospitalaria, Hospital de la Santa Creu i Sant Pau, 
+Barcelona, España.
+(4)Unidad de Cefaleas, Servicio de Neurología, Hospital Universitario de 
+Fuenlabrada, Madrid, España.
+(5)Unidad de Cefaleas, Servicio de Neurología, Hospital Universitario Virgen del 
+rocío, Sevilla, España.
+(6)Unidad de Cefaleas, Servicio de Neurología, Hospital Clínico Universitario 
+Lozano Blesa. Instituto de Investigación Sanitaria Aragón (IIS-Aragón), 
+Zaragoza, España.
+
+INTRODUCTION: In recent months, doubts have arisen among patients, general 
+practitioners, and neurologists as to whether some drugs commonly used in 
+patients with headaches and neuralgia may favour or complicate the disease 
+caused by SARS-CoV-2.
+MATERIAL AND METHODS: We collected information on the opinions of scientific 
+societies and medicines agencies (American, European, and Spanish) to clarify 
+doubts regarding the use of drugs such as lisinopril, candesartan, ibuprofen, 
+corticosteroids, carbamazepine, and monoclonal antibodies targeting the 
+calcitonin gene-related peptide in the context of the COVID-19 pandemic.
+RESULTS: We make recommendations about the use of standard headache treatments 
+in the context of the COVID-19 pandemic, based on the current scientific 
+evidence.
+CONCLUSIONS: At present, there is no robust scientific argument to formally 
+contraindicate any of the standard treatments employed for headaches and 
+neuralgias.
+
+INTRODUCCIÓN: En los últimos meses han surgido dudas por parte de pacientes, 
+médicos de familia y neurólogos sobre la posibilidad de que algunos de los 
+fármacos que habitualmente se utilizan en cefaleas y neuralgias puedan facilitar 
+o complicar la infección por el SARS-COV-2.
+MATERIAL Y MÉTODOS: Hemos recabado información sobre el posicionamiento de 
+sociedades científicas, así como de las distintas Agencias de Medicamentos 
+(americana, europea y española) para poder esclarecer dudas respecto al uso de 
+fármacos como lisinopril, candesartán, ibuprofeno, corticoides, carbamazepina, 
+anticuerpos monoclonales contra el CGRP durante la pandemia por COVID-19.
+RESULTADOS: Planteamos recomendaciones acerca del uso de fármacos habituales en 
+el tratamiento de las cefaleas en el contexto de la pandemia por COVID-19, 
+basándonos en las evidencias de las que disponemos en el momento actual.
+CONCLUSIONES: Actualmente, no existe ningún argumento científico robusto para 
+contraindicar formalmente ninguno de los tratamientos que se emplean en cefaleas 
+y neuralgias.
+
+Copyright © 2020 Sociedad Española de Neurología. Publicado por Elsevier España, 
+S.L.U. All rights reserved.
+
+DOI: 10.1016/j.nrl.2020.07.007
+PMCID: PMC7546192
+PMID: 32896463 [Indexed for MEDLINE]
+
+
+4. Pak J Pharm Sci. 2017 Mar;30(2(Suppl.)):635-639.
+
+Simultaneous determination of ACE inhibitors and dexibuprofen in active 
+pharmaceutical ingredient, formulations and human serum by RP-HPLC.
+
+Sana A(1), Naveed S(2), Qamar F(2), Shakeel S(3).
+
+Author information:
+(1)Department of Pharmaceutical Chemistry, Faculty of Pharmacy, Hamdard 
+University Karachi, Pakistan.
+(2)Faculty of Pharmacy, Jinnah University for Women, Karachi -Pakistan.
+(3)Dow College of Pharmacy, Dow University of Health Sciences, Karachi, 
+Pakistan.
+
+The contemporary work describes a rapid and cost effective reversed phase High 
+Performance Liquid Chromatography (RP-HPLC) method for the quantification of 
+Captopril, Lisinopril and Dexibuprofen (DXP) simultaneously in dosage 
+formulations, active pharmaceutical ingredients and human serum. The 
+chromatographic system included LC-20A pump, Sil-20A auto sampler and SPD-20A 
+UV/visible detector. The estimation was carried out by using a C18 (5μm, 250 
+×4.6 mm) column with mobile phase methanol: water (80:20 v/v, pH 3.0) at 230 nm 
+with a flow rate of 1.0 ml•min-1. The retention time of Dexibuprofen was 5.4 min 
+while that of Captopril and Lisinopril were found to be 3.2 and 1.8 minutes 
+respectively. There was no considerable variation exists in between the tested 
+drug spiked in serum and the extent recovered, without interference of serum in 
+concurrent approximation. The method developed was found to be precise, 
+selective and validated for precision, linearity, specificity, accuracy, limit 
+of detection and limit of quantitation. There is no such method reported earlier 
+for the determination of ACE Inhibitors and DXP simultaneously. The present 
+study helps in assessing the co-administration of both drugs in treatment and 
+can be employed for quality control analysis and drug-drug interaction studies.
+
+PMID: 28650333 [Indexed for MEDLINE]
+
+
+5. Coll Antropol. 2011 Sep;35(3):817-22.
+
+Prohypertensive effects of non-steroidal anti-inflammatory drugs are mostly due 
+to vasoconstriction.
+
+Pavlicević I(1), Glavaski M, Rumboldt M, Rumboldt Z.
+
+Author information:
+(1)University of Split, School of Medicine, Department of Family Medicine, 
+Split, Croatia. ipavlice@mefst.hr
+
+Non-steroidal anti-inflammatory drugs (NSAIDs) have prohypertensive effects and 
+blunt the effects of many antihypertensives. The mechanism of this interaction 
+is still not understood enough. The objective of this investigation was to 
+determine the level of prohypertensive effects of two NSAIDs (ibuprofen, 
+piroxicam) and paracetamol, co-prescribed with two antihypertensive drugs 
+(lisinopril + hydrochlorothiazide, amlodipine), and to improve the understanding 
+of this interaction. A prospective clinical trial, conducted in a Croatian 
+family practice, included 110 already treated hypertensive patients, aged 56-85 
+years; 50 control patients and 60 patients who were also taking NSAIDs for 
+osteoarthritis treatment. The antihypertensive regimens remained the same during 
+this study, while NSAIDs and paracetamol were crossed-over in three monthly 
+periods. Blood pressure, body weight, serum creatinine, potassium, sodium, 
+diuresis and 24 h urinary sodium excretion were followed-up. In the 
+lisinopril/hydrochlorothiazide subgroup, both ibuprofen and piroxicam elevated 
+mean arterial pressure by 8.9-9.5% (p < 0.001). Body weight increased 
+significantly in the lisinopril/ hydrochlorothiazide + piroxicam subgroup only, 
+while creatinine, urinary output and electrolyte values did not change 
+appreciably in any of the subgroups. NSAID's prohypertensive effects seem to be 
+mostly due to vasoconstriction and, to a minor degree, to volume expansion, 
+since no marked changes in body weight, urinary output, serum creatinine or 
+serum/urinary electrolyte profile were observed.
+
+PMID: 22053561 [Indexed for MEDLINE]
+
+
+6. Can J Clin Pharmacol. 2008 Fall;15(3):e372-82. Epub 2008 Oct 24.
+
+Interaction between antihypertensives and NSAIDs in primary care: a controlled 
+trial.
+
+Pavlicević I(1), Kuzmanić M, Rumboldt M, Rumboldt Z.
+
+Author information:
+(1)Split University School of Medicine, Split, Croatia.
+
+Comment in
+    Can J Clin Pharmacol. 2008 Fall;15(3):e383-4.
+
+BACKGROUND: Non-steroidal anti-inflammatory drugs (NSAIDs) may increase blood 
+pressure (BP) and blunt the effects of many antihypertensives. It seems that 
+NSAIDs and the antihypertensive drugs differ in their propensity to such an 
+interaction.
+OBJECTIVES: To determine the extent of the interaction between two 
+antihypertensives and three NSAIDs.
+METHODS: A prospective clinical trial in a family practice included 88 treated 
+hypertensives aged over 55 years; 39 controls and 49, also taking NSAIDs for 
+osteoarthritis. During this 3-month study, two antihypertensives, 
+lisinopril/hydrochlorothiazide and amlodipine, were compared with three NSAIDs: 
+ibuprofen, acetaminophen, and piroxicam. BP was measured with standard mercury 
+sphygmomanometer and with an automatic device, in standing, sitting, and supine 
+position.
+RESULTS: The average starting blood pressure in the study group was 
+149.3A+/-9.8/88.6A+/-6.8 mm Hg. In the lisinopril/hydrochlorothiazide subgroup, 
+both ibuprofen and piroxicam elevated systolic BP by 7.7-9.9% (p<0.001), which, 
+during the acetaminophen period, decreased by 6.9-9.4% to 0.3-0.9% above 
+baseline (p<0.001), increasing again by 7.0-7.7% (p<0.001) during the second 
+exposition to these drugs. In the amlodipine subgroup, ibuprofen or piroxicam 
+increased BP by 1.1-1.6% (p>0.290) only, and there were no significant shifts in 
+the follow-up periods. Analogous deviations were observed with both measurement 
+devices, in all the examinee's positions. In the control group, BP did not 
+change appreciably.
+CONCLUSIONS: Piroxicam and ibuprofen markedly blunt the effects of 
+antihypertensive drugs while acetaminophen is almost inert. 
+Lisinopril/hydrochlorothiazide combination is much more affected by this 
+interaction than amlodipine (ClinicalTrials.gov #NCT00631514).
+
+PMID: 18953082 [Indexed for MEDLINE]
+
+
+7. East Afr Med J. 2001 Oct;78(10):507-9.
+
+Effects of non-steroidal anti-inflammatory drugs on hypertension control using 
+angiotensin converting enzyme inhibitors and thiazide diuretics.
+
+Bhagat K(1).
+
+Author information:
+(1)Department of Clinical Pharmacology, University of Zimbabwe, Health Science 
+Building, P.O. Box A178, Avondale, Harare, Zimbabwe.
+
+OBJECTIVES: To determine the impact of three non-steroidal anti-inflammatory 
+drugs on the efficacy of two anti-hypertensive drugs.
+DESIGN: Fifteen women with arthritis and hypertension who were receiving 
+lisinopril and HCT, and administered sequentially in random order ibuprofen, 
+sulindac, and diclofenac for one month each, with an intervening two-week 
+washout period between each treatment period. During the washout period, 
+subjects received paracetamol.
+SETTING: Hypertension Clinic, Medical Centre, Harare, Zimbabwe.
+SUBJECTS: Fifteen female hypertensive women with documented arthritis.
+MAIN OUTCOME MEASURES: Blood pressure at the end of two weeks of paracetamol was 
+compared with blood pressure after one month of treatment with each of the 
+NSAID.
+RESULTS: Mean blood pressure was unchanged before and after all NSAIDs: 108 +/- 
+7 versus 107 +/- 9 for diclofenac, 108 +/- 9 versus 108 +/- 9 for sulindac, and 
+108 +/- 8 versus 107 +/- 9 for ibuprofen. The 24 hour urinary sodium excretion 
+was not significantly different.
+CONCLUSION: The three NSAIDs investigated did not neutralise the 
+antihypertensive effect of the combination of lisinopril and HCT, and hence the 
+blood pressure lowering action of the combination may not be prostaglandin 
+dependent.
+
+PMID: 11921591 [Indexed for MEDLINE]
+
+
+8. Ter Arkh. 2001;73(9):27-31.
+
+[Antihypertensive effect of enalapril and lisinopril administered in combination 
+with nonsteroid anti-inflammatory agents].
+
+[Article in Russian]
+
+Savenkov MP, Ivanov SN, Brodskaia SA.
+
+AIM: To study the effects of nonsteroid antiinflammatory drugs (NSAID) on 
+antihypertensive activity of ACE inhibitors with different metabolic activity.
+MATERIAL AND METHODS: 30 patients aged 45-70 years with arterial hypertension of 
+degree I-II who had moderate and high risk of cardiovascular complications and 
+concomitant spinal osteochondrosis with radicular syndrome. 20 patients received 
+sequential treatment. Four variants of the course treatment were used: 1) 
+monotherapy with enalapril maleate (2 mg twice a day); 2) enalapril maleate (5 
+mg twice a day) in combination with NSAID; 3) monotherapy with lisinopril (10 mg 
+once a day); 4) lisinopril (10 mg once a day in combination with NSAID. 10 
+patients received enalapril (10 mg once a day) and acetylsalicylic acid (500 and 
+100 mg).
+RESULTS: To the end of the treatment week 2 good and satisfactory 
+antihypertensive effect was achieved in 70 and 85% on enalapril and lisinopril, 
+respectively. NSAID addition to enalapril worsened its antihypertensive 
+activity, to lisinopril--the negative effect was much less.
+CONCLUSION: The data suggest metabolic conception of competitive interaction of 
+ACE inhibitors with NSAID. Therefore, ACE inhibitors should be used 
+differentially in active therapy with NSAID.
+
+PMID: 11642076 [Indexed for MEDLINE]
