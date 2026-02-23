@@ -21,7 +21,11 @@ I built this from my own experiences in low-income clinics, noticing how they la
 - 20 drugs and 10 conditions indexed
 
 ## How to Run
-[You fill this in - what commands does someone need?]
+1. Clone the repo
+2. Install dependencies: `pip install -r requirements.txt`
+3. Install Ollama and pull Llama 3.2: `ollama pull llama3.2`
+4. Add your Supabase credentials to `.env`
+5. Run: `streamlit run app.py`
 
 ## Data Sources
 - openFDA API - drug labels and contraindications
